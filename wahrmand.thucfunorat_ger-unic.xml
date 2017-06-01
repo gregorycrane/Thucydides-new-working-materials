@@ -1,0 +1,269 @@
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" type="xml"?>
+ 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Geschichte des Peloponnesischen Kriegs</title>
+        <author>Thucydides</author>
+        <editor n="transl" role="editor">Adolf Wahrmund</editor>
+        <sponsor>Perseus Project, Tufts University</sponsor>
+        <principal>Gregory Crane</principal>
+        <respStmt>
+          <resp>Prepared under the supervision of</resp>
+          <name>Lisa Cerrato</name>
+          <name>William Merrill</name>
+          <name>Elli Mylonas</name>
+          <name>David Smith</name>
+        </respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt>
+        <publisher>Trustees of Tufts University</publisher>
+        <pubPlace>Medford, MA</pubPlace>
+        <authority>Perseus Project</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <title>Geschichte des Peloponnesischen Kriegs</title>
+            <author>Thucydides</author>
+            <respStmt>
+              <name>Adolf Wahrmund</name>
+              <resp>translator</resp>
+            </respStmt>
+            <imprint>
+              <pubPlace>Stuttgart</pubPlace>
+              <publisher>Prais und Hoffmann</publisher>
+              <date>1859</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+<encodingDesc>
+            <refsDecl n="CTS">
+                <cRefPattern n="Chapter"
+                         matchPattern="(\\w+).(\\w+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n=\'$1\']/tei:div[@n=\'$2\'])">
+                    <p>This pointer pattern extracts Book and Chapter</p>
+                </cRefPattern>
+                <cRefPattern n="Book"
+                         matchPattern="(\\w+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n=\'$1\'])">
+                    <p>This pointer pattern extracts Book</p>
+                </cRefPattern>
+            </refsDecl>
+            <p>This text is quickly corrected OCR output. The following text is encoded in accordance with EpiDoc standards and with the
+                CTS/CITE Architecture.</p>
+</encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="eng">English</language>
+        <language ident="grc">Greek</language>
+        <language ident="lat">Latin</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ger">
+    <body>
+      <pb n="123"/>
+      <div type="textpart" subtype="book" n="2">
+        <div type="textpart" subtype="chapter" n="34">
+          <div type="textpart" subtype="section" n="1">
+            <p>In<note place="unspecified">http://books.google.de/books?id=5Xs-AAAAcAAJ&amp;pg=PA130&amp;focus=viewport&amp;output=text#c_top</note> diesem Winter feierten nach väterlicher Weise die Athener öffentlich das Leichenbegängniß der zuerst in diesem Kriege Gefallenen. Hiebei wurde es so gehalten:</p>
+          </div>
+          <div type="textpart" subtype="section" n="2">
+            <p>Drei Tage vorher wird ein Zelt aufgeschlagen und die Gebeine der Gebliebenen zur Schau ausgestellt, und ein Jeder bringt seinem Todten eine Gabe, wenn er will.</p>
+          </div>
+          <div type="textpart" subtype="section" n="3">
+            <p>Wenn nun die Gebeine hinausgeführt werden, so kommen Wagen mit Särgen von Cypressenholz, einem für jede Gemeinde, und die Gebeine eines Jeden kommen in den Sarg seiner Gemeinde. Ein gepolstertes Todtenbett wird leer nachgetragen für die Vermißten, welche man nicht finden und aufheben konnte.</p>
+          </div>
+          <div type="textpart" subtype="section" n="4">
+            <p>Mit dem Zuge kann aber Jeder gehen, wer will, sei er Bürger oder Fremder, und auch die verwandten Frauen sind bei dem Begräbniß, zur Wehklage.</p>
+          </div>
+          <div type="textpart" subtype="section" n="5">
+            <p>Darauf nun setzt man sie in dem öffentlichen Grabmale bei, welches in der schönsten Vorstadt Athens ist — und man begräbt hier immer die im Kampfe gefallenen; ausgenommen sind nur die von Marathon; denn da die Athener deren Tapferkeit für hell vorstrahlend erklärten, so gaben sie ihnen auch ihr eigenes Grab.</p>
+          </div>
+          <div type="textpart" subtype="section" n="6">
+            <p>Wenn nun die Erde sie bedeckt hat, so hält ein von der Stadt gewählter Mann, der für einsichtig gilt und an Ansehen vorragt, ihnen die geziemende Lobrede. Darauf gehen sie auseinander.</p>
+          </div>
+          <div type="textpart" subtype="section" n="7">
+            <p>Dieß ist die Art und Weise ihres Begräbnisses, und den ganzen Krieg hindurch, so oft es vorkam, hielt man sich an diese Sitte.</p>
+          </div>
+          <div type="textpart" subtype="section" n="8">
+            <p>Für diese Ersten nun wurde Perikles, des Xanthippos Sohn, zum Reden gewählt, und als der Augenblick dazu gekommen war, trat er von dem Grabmal auf eine hohe Bühne, die man dazu errichtet hatte, damit er weithin durch die ganze Versammlung gehört werde, und redete so:
+</p>
+          </div>
+        </div>
+        <div type="textpart" subtype="chapter" n="35">
+          <div type="textpart" subtype="section" n="1">
+            <p>„Die an diesem Orte vor mir gesprochen, haben meist dem eine Lobrede gehalten, der zu dem gesetzlichen Brauche noch diese Art von Rede hinzugefügt hat, weil es für sie selbst ihnen ehrenvoll schien, zum Preise der im Kampfe Gefallenen zu sprechen. Mir aber schien es zu genügen, wenn tapferer Männer Thaten auch nur durch eine That geehrt werden, — durch eine Handlung, meine ich, wie ihr sie hier zu diesem Begräbniß aus öffentlichem Wesen in's Werk gesetzt <pb n="124"/> seht, — und nicht sollte von einem Manne die Tapferkeit vieler Männer Gefahr fürchten müssen; denn, wem ihr Lob anvertraut wird, kann vielleicht gut reden, aber vielleicht auch schlecht.</p>
+          </div>
+          <div type="textpart" subtype="section" n="2">
+            <p>Im Reden das rechte Maß halten ist schwer, und kaum wird auch durch dasselbe eine richtige Anschauung von der Wahrheit hervorgebracht. Denn wer von den Zuhörern die Thaten selbst mit angesehen hat, und sofern er ein wohlwollender Mann ist, wird leicht die Schilderung unter seiner eigenen Erwartung und seiner Kenntniß finden. Wer aber des Vorgefallenen unkundig ist, wird Manches für übertrieben erachten, weil sich in ihm der Neid regt, wenn er von Dingen hört, die über seine Kräfte gehen. (Denn bis zu dem Punkte ertragen die Menschen wohl Lobsprüche auf Andere, so lange Jeder glaubt, selbst solcher Thaten fähig zu sein, wie er sie da mit anhört. Was aber darüber hinausgeht, dem schenkt man keinen Glauben, weil sich dann der Neid regt.)</p>
+          </div>
+          <div type="textpart" subtype="section" n="3">
+            <p>Weil es aber denen vor uns als löblicher Gebrauch erschienen ist, so muß auch ich mich in das Gesetz schicken, und muß streben Euer Aller Wunsch und Meinung zu genügen, so gut ich's kann."
+</p>
+          </div>
+        </div>
+        <div type="textpart" subtype="chapter" n="36">
+          <div type="textpart" subtype="section" n="1">
+            <p>„Beginnen aber will ich mit unseren Vorfahren, denn wir sind damit nur gerecht gegen sie, und zugleich ist es bei solcher Gelegenheit geziemend, daß ihnen diese Ehre der Erinnerung gegeben werde. Denn nie wollten sie dieß Land mit einem andern vertauschen, und so, von Geschlecht zu Geschlecht es sorterbend, haben sie es uns durch ihre Tapferkeit als freien Boden überliefert.</p>
+          </div>
+          <div type="textpart" subtype="section" n="2">
+            <p>Und verdienen sie darum Lob, so sind unsere Väter dessen noch würdiger; denn über das hinaus, was sie empfingen, haben sie die Macht, die wir jetzt besitzen, nicht ohne Mühe auf uns gebracht.</p>
+          </div>
+          <div type="textpart" subtype="section" n="3">
+            <p>Das größte Wachsthum des Staates aber haben wir selbst, wir Genossen der Gegenwart, und besonders wir, die wir jetzt im besten Mannesalter stehen, zu Wege gebracht. Wir haben die Stadt in allen Stücken in den Stand gesetzt, im Kriege wie im Frieden sich selbst ganz und gar zu genügen.</p>
+          </div>
+          <div type="textpart" subtype="section" n="4">
+            <p>Wie dieß Alles durch Kriegsthaten erworben worden ist, und wie wir selbst oder unsere Väter in tapferer Abwehr gegen Barbaren wie Hellenen es geschirmt haben, darüber mag ich unter Männern, die es selbst wissen, nicht lange reden. Wie aber, und durch welches Streben wir so weit gekommen sind, und durch welche Staatseinrichtungen und Grundsätze wir diese Größe erreicht haben, darüber will ich zuerst reden und dann <pb n="125"/> zum Lobe dieser Todten übergehen; denn ich glaube, daß über jenes reden bei dieser Gelegenheit nicht ungeziemend ist und daß diese ganze Versammlung, Städter wie Fremde, es mit Nutzen anhören werden." 
+</p>
+          </div>
+        </div>
+        <div type="textpart" subtype="chapter" n="37">
+          <div type="textpart" subtype="section" n="1">
+            <p>„Wir haben eine Verfassung, welche die Gesetzgebung anderer Staaten nicht nachahmt, im Gegentheile sind wir selbst viel mehr Andern zum Muster, als daß wir Auswärtige nachahmen. Und mit Recht wird sie, weil nicht bei Wenigen, sondern bei der großen Menge die Gewalt ist, Volksherrschaft genannt. Es hat nämlich in eigenen Sachen Jeder gleiches Recht mit dem Andern, und was Staatswürden anlangt, so wird nicht bevorzugt, wer einer besonderen Kaste angehört, sondern Jeder, je nachdem er grade in irgend einem Fache Werthschätzung genießt oder Tüchtigkeit zeigt. Und auch nicht der Armuth wegen, wenn er nur dem Staate irgendwie nützen kann, legt Einem die Unscheinbarkeit seines Standes ein Hinderniß in den Weg.</p>
+          </div>
+          <div type="textpart" subtype="section" n="2">
+            <p>Mit Freiheit behandeln wir unsere Staatsangelegenheiten und eben so frei das bei den Gelegenheiten des täglichen Verkehrs leicht entstehende Mißtrauen gegen einander; wir sind auf den Nachbar nicht erbost, wenn er seiner Lust einmal die Zügel schießen läßt, und verhängen keine Ahndungen, wie Andere (die Lakedämonier) pflegen, die zwar dem Geldbeutel nicht wehe thun, aber dem Auge mit anzusehen empörend sind.</p>
+          </div>
+          <div type="textpart" subtype="section" n="3">
+            <p>Im täglichen Umgang bewegen wir uns frei von Härte und Sauersehen und doch überschreiten wir dem Staate gegenüber die Vorschriften nie, aus Scheu und Ehrfurcht vorzüglich, indem wir auf die jedesmaligen Obrigkeiten und die Gesetze hören und vorzüglich auf die, welche zum Schutze der Beeinträchtigten bestehen und die, zwar ungeschrieben, doch in der allgemeinen Denkart dem Uebertreter Schande drohen."
+</p>
+          </div>
+        </div>
+        <div type="textpart" subtype="chapter" n="38">
+          <div type="textpart" subtype="section" n="1">
+            <p>„Und auch von Müh' und Arbeit haben wir dem Geiste zahlreiche Erholungen bereitet, durch gesetzliche Kampfspiele und die im Jahre wiederkehrenden Opferfeste; dann auch durch gefällige Einrichtung des häuslichen Lebens, die täglich zu genießen die Schwermuth verbannt.</p>
+          </div>
+          <div type="textpart" subtype="section" n="2">
+            <p>Es kommen aber wegen der Größe unserer Stadt aus allen Ländern uns alle Erzeugnisse zu, und was bei uns das Land Gutes hervorbringt, können wir nicht mehr als unser Eigenstes genießen, als was von andern Völkern zu uns kommt."
+</p>
+          </div>
+        </div>
+        <div type="textpart" subtype="chapter" n="39">
+          <div type="textpart" subtype="section" n="1">
+            <p>„Wir unterscheiden uns aber auch in Handhabung <pb n="126"/> des Kriegswesens von unseren Gegnern darin, daß wir den Zutritt zu unserer Stadt freigeben, und es kommt nicht vor, daß wir durch Fremdenaustreibung irgend Jemanden am Lernen oder Veschauen hindern, damit nicht etwa Einer unserer Feinde nicht verborgen Gehaltenes sehe und daraus Nutzen ziehe; denn wir vertrauen weniger auf Rüstwerk und Kniffe als auf unsere eigene Thatenlust und Tapferkeit. In der Jugenderziehung suchen jene schon von klein auf durch mühevolle Uebungen Mannhaftigkeit zu erwerben, wir aber gehen, wenn auch viel gemächlicher lebend, doch nicht weniger entschlossen in den Kampf Ungewisser Entscheidung gegen den gleichstarken Feind.</p>
+          </div>
+          <div type="textpart" subtype="section" n="2">
+            <p>Beweis dafür ist, daß die Lakedämonier nicht nur mit ihrer eigenen Macht, sondern mit allen möglichen Bundesgenossen gegen unser Land zu Felde ziehen. Wenn aber wir selbst in auswärtiges Gebiet einfallen, so gewinnen wir auf fremdem Boden und im Kampfe gegen solche, welche ihr Eigenthum vertheidigen, meist den Sieg.</p>
+          </div>
+          <div type="textpart" subtype="section" n="3">
+            <p>Unsere Gesammtmacht aber hat noch kein Feind sich gegenüber gesehen, weil wir auch zugleich immer die Flotte bedenken und unsere Landmacht selbst auf viele Punkte vertheilen. Wenn sie aber mit einem Bruchtheil unserer Macht zusammengestoßen sind und den Sieg davon getragen haben, so prahlen sie, sie hätten unsere Gesammtmacht geworfen; sind aber sie besiegt worden, so heißt es, sie wären unserer gesammten Macht gegenüber im Nachtheil gewesen.</p>
+          </div>
+          <div type="textpart" subtype="section" n="4">
+            <p>Und wenn wir auch wirklich mehr aus leichtem Blute als in Folge mühseliger Gewöhnung, und weniger in Folge einer tapferen Gesetzgebung als aus angeborner Tapferkeit die Gefahr des Kampfes lieben, nun so sind wir im Vortheil, denn wir sind nicht im Voraus durch Mühsal ermattet und zeigen uns doch bei der That nicht weniger kühn als die, welche ihr Leben lang sich abmartern."
+</p>
+          </div>
+        </div>
+        <div type="textpart" subtype="chapter" n="40">
+          <div type="textpart" subtype="section" n="1">
+            <p>„Hierin ist unsere Stadt der Bewunderung würdig: aber . nicht minder in anderen Stücken. Denn wir sind Freunde des Schönen, ohne im Aufwande das Maß zu überschreiten und flegen der Wissenschaft, ohne uns verweichlichen zu fassen. Aus unserem Reichthum machen wir eine Gelegenheit zur That, nicht zur Prahlerei mit Worten, und zu gestehen, daß Einer arm sei, gereicht ihm nicht zur Schande; viel schimpflicher ist's, die Armuth durch Fleiß nicht fern zu halten.</p>
+          </div>
+          <div type="textpart" subtype="section" n="2">
+            <p>Ein und dieselben Männer widmen sich den eigenen <pb n="126"/> Angelegenheiten und den Aemtern des Staates, und die Andern, die dem Landbau und den Gewerben obliegen müssen, haben deßhalb keinen schlechten Verstand in Staatsdingen; denn allein bei uns wird Einer, der von Staatssachen sich ganz fern hält, nicht für einen Ruheliebenden sondern für einen unnützen Menschen angesehen. Auch sind wir es, welche die Verhältnisse auf die richtige Weise beurtheilen, oder doch wenigstens in Erwägung ziehen, denn wir sind nicht der Ansicht, daß durch das Reden die Thaten Schaden leiden, sondern im Gegentheil dadurch, wenn man an die That geht, ohne vorher durch die Rede belehrt worden zu sein.</p>
+          </div>
+          <div type="textpart" subtype="section" n="3">
+            <p>Denn auch das ist ein großer Vorzug, den wir vor andern voraus haben, daß muthiges Wagen und bedächtige Ueberlegung dessen, was wir unternehmen wollen, bei uns vereinigt sind, während bei Andern nur Unkenntniß der Gefahr Kühnheit erzeugt, Ueberlegung aber Zagheit. für die tapfersten Seelen werden aber mit Recht wohl die gehalten, welche das Schreckliche wie das Angenehme genau kennen und dabei doch vor Gefahr nicht zurückscheuen."
+</p>
+          </div>
+          <div type="textpart" subtype="section" n="4">
+            <p>„Und auch von der Tugend des Wohlthuns denken wir anders als die meisten; denn nicht durch Empfangen sondern durch Wohlthaten erweisen erwerben wir uns Freunde. Beständiger ist ja die Gesinnung des Wohlthäters, der das schuldige Dankgefühl durch fortgesetztes Wohlwollen bei dem Empfänger zu erhalten bemüht ist. Der zum Dank Verpflichtete ist schon weniger eifrig, da er nicht um freie Gunst zu erweisen sondern um eine Schuld abzutragen das empfangene Gute erwiedern muß.</p>
+          </div>
+          <div type="textpart" subtype="section" n="5">
+            <p>Wir allein sind es, die weniger aus Berechnung des Nutzens, als aus edlem Vertrauen einer freien Denkart Andern Wohlthaten erweisen, ohne Undank zu fürchten."
+</p>
+          </div>
+        </div>
+        <div type="textpart" subtype="chapter" n="41">
+          <div type="textpart" subtype="section" n="1">
+            <p>„Und um es mit einem Worte zu sagen, so behaupte ich, daß unsere Stadt eine Bildungsschule für ganz Griechenland sei, und daß Mann für Mann bei uns sich Jeder den meisten Anforderungen mit größter Anmuth und Gewandtheit gewachsen zeige.</p>
+          </div>
+          <div type="textpart" subtype="section" n="2">
+            <p>Und daß dieß Alles nicht für diese Gelegenheit erfundener Redeprunk, sondern die Wahrheit der Dinge selbst ist, davon ist Beweis die Macht des Staates, die wir eben durch jene Eigenschaften erworben haben.</p>
+          </div>
+          <div type="textpart" subtype="section" n="3">
+            <p>Denn hervorragend über Alles, was bis jetzt erhört worden ist, geht er der Erprobung seiner Kraft entgegen, und er allein erregt weder dem <pb n="128"/> angreifenden Feinde Entrüstung, daß er von Solchen Ungemach erleide, noch Tadel bei dem Unterworfenen, als ob er von Unwürdigen beherrscht werde.</p>
+          </div>
+          <div type="textpart" subtype="section" n="4">
+            <p>Unter großen redenden Beweisen und gewißlich nicht unbezeugt haben wir unsere Macht entfaltet und werden darum von den Lebenden und den Zukünftigen bewundert werden, und wir bedürfen weder eines Homer als Lobredners noch sonst eines Andern, der mit seinen Gesängen zwar für den Augenblick ergötzt, aber bald wird die Wirklichkeit seine Anschauung der Dinge Lügen strafen, sondern zu allem Land und Meer hat unsere Kühnheit sich den Weg gebrochen, überall sich unvergängliche Denkmale im Guten und Bösen gründend.</p>
+          </div>
+          <div type="textpart" subtype="section" n="5">
+            <p>Für eine solche Stadt nun sind die hier im tapferen Kampfe gefallen, entschlossen sich ihrer nicht berauben zu lassen, und von den Ueberledenden ist Jeder mit Recht bereit, ihretwegen Mühen und Gefahren zu erdulden." 
+42, „Deßhalb habe ich mich auch länger bei der Schilderung unseres Staates verweilt, um zu zeigen, daß wir und Andere, die Nichts dem Geschilderten Aehnliches besitzen, nicht um gleichen Preis kämpfen, und zugleich um die Ruhmwürdigkeit dieser hier, um deren willen ich jetzt rede, in deutlichen Beweisen vor Augen zu stellen.</p>
+          </div>
+          <div type="textpart" subtype="section" n="2">
+            <p>Denn was ich eben an unserer Stadt Lobwürdiges erwähnt, damit haben dieser Männer und ihres Gleichen Tugenden sie geschmückt, und fürwahr nicht bei vielen Hellenen möchte ein solcher Ausspruch wie bei diesen die Thaten nicht zu überbieten scheinen. Ein solches Ende aber, wie diese es erlangten, scheint mir als erstes Probestück Mannestapferkeit zu bekunden und als letztes sie zu besiegeln.</p>
+          </div>
+          <div type="textpart" subtype="section" n="3">
+            <p>Denn auch bei Solchen, die in andern Dingen sich schlechter gezeigt, wäre es billig, daß die für das Vaterland im Kampfe gegen den Feind bewiesene Tapferkeit über jenes hinaus hoch angerechnet werde; denn indem sie durch ihre Tapferkeit die Erinnerung an das Schlechte austilgten, haben sie dem Gemeinwesen mehr genützt als im Einzelnen geschadet.</p>
+          </div>
+          <div type="textpart" subtype="section" n="4">
+            <p>Von diesen hier aber hat weder Einer den Genuß vorziehend im Reichthume sich verweichlicht, noch auch in der Hoffnung der Armuth zu entgehen und Reichthümer zu erwerben es hinausgeschoben, sich der Gefahr zu stellen; vielmehr schien ihnen Rache an den Feinden süßer, und indem sie die Gefahr des Todes für die schönste erachteten, wollten sie mit ihr an diesen sich rächen und jene Güter erringen. Den ungewissen <pb n="129"/> Erfolg überließen sie der Hoffnung, im Handeln aber um das; was sichtbar vor Augen lag, glaubten sie sich selbst vertrauen zu müssen, und indem sie lieber kämpfen und leiden wollten als weichen und gerettet werden, entgingen sie schimpflicher Nachrede; die That aber bestanden sie mit ihrem Leibe, und im kurzen Schicksalsaugenblicke, vom höchsten Ruhmesodem, nicht von Furcht umflossen, sind sie geschieden."
+</p>
+          </div>
+        </div>
+        <div type="textpart" subtype="chapter" n="43">
+          <div type="textpart" subtype="section" n="1">
+            <p>„Als so tapfere Männer also haben sich diese erwiesen, wie es ihre Pflicht gegen die Stadt war. Die Ueberlebenden nun mögen zwar die Götter um ein ungefährdetes Leben bitten, aber es auch für Pflicht halten, nicht minder kühne Gesinnung gegen den Feind zu hegen. Den Nutzen derselben sollt ihr aber nicht blos durch Worte euch anschaulich machen, die Einer gar weitschweisig machen könnte, indem er euch vorhält, was Alles für gute Dinge von Abwehr der Feinde abhängen, ohne daß ihr es darum nicht auch schon vorher gewußt hättet; vielmehr sollt ihr die Kräfte des Staates täglich euch vor Augen stellen und ihn liebgewinnen, und wenn euch seine Macht groß zu sein dünkt, so bedenkt, daß kühne Männer, die wußten, was Noth thut, und die im Kampfe auf die Stimme der Schaam und der Ehre hörten, jene erworben haben,— die, wenn ihnen auch einmal ein Unternehmen fehlschlug, darum nicht gleich dem Staate ihre Tapferkeit entziehen wollten, sondern für ihn sich selbst als schönstes Opfer hingaben.</p>
+          </div>
+          <div type="textpart" subtype="section" n="2">
+            <p>Gemeinsam mit den Andern haben sie ihr Leben blosgestellt, und für sich haben sie unsterbliches Lob errungen und das schönste Grab, nicht nur das, in welchem sie ruhen, sondern das vielmehr, in welchem in der Brust eines jeden Mannes bei jedem Anlaß der Rede oder der That unvergessen ihr Ruhm wohnt.</p>
+          </div>
+          <div type="textpart" subtype="section" n="3">
+            <p>Berühmter Männer Graberde ist jedes Land, und nicht nur die Inschrift einer Säule in der eigenen Heimath bezeichnet sie, sondern auch im fremden Lande lebt in Jedem ungeschrieben das Gedächtniß mehr ihres Muthes als ihrer That.</p>
+          </div>
+          <div type="textpart" subtype="section" n="4">
+            <p>Diese also ahmet nach und suchet das Glück in der Freiheit, die Freiheit aber im eigenen Muthe, und übersehet nicht die vom Feinde drohende Gefahr.</p>
+          </div>
+          <div type="textpart" subtype="section" n="5">
+            <p>Denn nicht die, welche ein elendes Daseyn führen und die keine Hoffnung auf Besseres haben, werden mehr Ursache haben, ihr Leben in die Schanze zu schlagen, sondern die, welche Gefahr laufen, einen Umschwung des Glückes zum Unglück zu erleben, <pb n="129"/> und bei denen nachher der Unterschied sehr groß ist, wenn ein Unfall sie betroffen hat.</p>
+          </div>
+          <div type="textpart" subtype="section" n="6">
+            <p>Denn viel empfindlicher trifft einen Mann, der hochherzig denkt, die durch Feigheit herbeigeführte Schmach als nicht empfundener Tod bei unerschrockener Tapferkeit und begeisterter Aussicht auf die Größe des Vaterlandes."
+</p>
+          </div>
+        </div>
+        <div type="textpart" subtype="chapter" n="44">
+          <div type="textpart" subtype="section" n="1">
+            <p>„Deßhalb will ich euch Aeltern der Gefallenen, soviel eurer anwesend sind, nicht beklagen sondern vielmehr trösten. Denn ihr selbst wißt, in wie vielfachem Wechsel des Glückes ihr gelebt habt, und daß glücklich sein nur dem zu Theil wurde, der einen so ruhmvollen Tod erlangt wie diese, und eine so ruhmvolle Trauer wie ihr, und dem es zugemessen wurde, in dem auch seinen Tod zu finden, was das Glück seines Lebens ausmachte.</p>
+          </div>
+          <div type="textpart" subtype="section" n="2">
+            <p>Ich weiß wohl, daß es schwer ist das Gemüth zu übereden, da ihr oft Anlaß zur Erinnerung an jene haben werdet, wenn ihr Andere in einem Glücke seht, dessen ihr 'euch selbst einst erfreutet. Auch betrübt man sich ja nicht um Güter, durch deren Verlust unsere Zukunft keines gewohnten Genusses beraubt wird, sondern um solche, an deren Genuß man gewöhnt war.</p>
+          </div>
+          <div type="textpart" subtype="section" n="3">
+            <p>Aber auch in der Hoffnung auf andere Kinder sollen die ihr Gemüth aufrichten, die noch in dem Alter sind, Nachkommen zu erzielen; denn im eigenen Hause werden die Neugeborenen den Schmerz heilen um die, die nicht mehr sind, und dem Staate wird es doppelter Vortheil sein, nicht arm zu werden an Bürgern und an Sicherheit zuzunehmen. Denn es ist nicht möglich, daß Einer in recht gleicher Denkart mit den Andern an den Verathungen um das Gemeinwohl theilnehme, wenn er nicht wie die Andern Kinder daran zu wagen hat.</p>
+          </div>
+          <div type="textpart" subtype="section" n="4">
+            <p>Ihr aber, die ihr über jenes Alter hinaus seid, sollt es als Gewinn betrachten, daß ihr den längeren Theil eures Lebens glücklich verbracht habt, und daß das Uebrige nur noch kurz sein wird; und an dem Ruhme dieser Todten möget ihr euer Gemüth heben, denn die Ehre allein ist nicht alternd, und in den Jahren unnützlicher Schwäche ist es nicht Geldgewinn, was am meisten erfreut, wie Viele sagen, sondern Ehre zu genießen."
+</p>
+          </div>
+        </div>
+        <div type="textpart" subtype="chapter" n="45">
+          <div type="textpart" subtype="section" n="1">
+            <p>„Euch Söhnen aber und Brüdern der Gefallenen, soviel Eurer anwesend sind, seh ich großen Wettkampf bevorstehen. Denn wer nicht mehr unter den Lebenden ist, den lobt Jeder; ihr aber werdet es auch durch ein Uebermaß von Tapferkeit nicht erreichen, diesen gleichgeachtet zu sein, sondern immer noch um etwas tiefer angesetzt werden. <pb n="130"/> Denn die Lebenden verläßt nicht der Neid gegen den Nebenbuhler, wer aber nicht mehr im Wege ist und durch keinen Wetteifer hemmt, der wird wohlwollend geehrt. —</p>
+          </div>
+          <div type="textpart" subtype="section" n="2">
+            <p>Soll ich aber nun auch noch der weiblichen Tugend derer Erwähnung thun, die nun als Wittwen leben werden, so will ich in kurzem Ermunterungswort Alles sagen. Euch wird groß der Ruhm sein, wenn ihr eurer weiblichen Art treu bleibt, und wenn unter Männern in Lob oder Tadel von Einer am wenigsten die Rede ist."
+</p>
+          </div>
+        </div>
+        <div type="textpart" subtype="chapter" n="46">
+          <div type="textpart" subtype="section" n="1">
+            <p>„So habe denn auch ich, dem Gesetze gehorchend, was ich zu sagen wußte, in der Rede vorgebracht; durch die That sind die Begrabenen schon geehrt. Ihre Kinder aber wird die Stadt von jetzt an bis zur Mannesreife auf öffentliche Kosten erziehen, und damit setzt sie diesen Todten wie den Ueberlebenden einen nützlichen Siegerkranz als Kampfpreis aus. Denn die Bürgerschaft wird die tapfersten Männer zählen, in welcher die Tapferkeit der höchste Preis erwartet.</p>
+          </div>
+          <div type="textpart" subtype="section" n="2">
+            <p>Nun aber weihet Jeder den Seinigen die Todtenklage, und dann geht nach Hause."
+
+
+</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
