@@ -1,0 +1,70 @@
+Pindar	Epinician Odes	498	446	22006	lyric
+Bacchylides	Epinicians	481	452	4043	lyric
+Aeschylus	Persians	472	472	5434	tragedy
+Aeschylus	Suppliants	469	460	5216	tragedy
+Aeschylus	Seven	467	467	5344	tragedy
+Aeschylus	Agamemnon	458	458	8492	tragedy
+Aeschylus	Libation Bearers	458	458	5516	tragedy
+Aeschylus	Eumenides	458	458	5516	tragedy
+Ps-Aeschylus	Prometheus	470	430	6156	tragedy
+Sophocles	Ajax	449	440	8332	tragedy
+Ps-Euripides	Rhesus	449	440	5800	tragedy
+Sophocles	Antigone	442	438	7824	tragedy
+Herodotus	Book 1	440	408	29082	history
+Herodotus	Book 2	440	408	24661	history
+Herodotus	Book 3	440	408	21171	history
+Herodotus	Book 4	440	408	22411	history
+Herodotus	Book 5	440	408	14797	history
+Herodotus	Book 6	440	408	15594	history
+Herodotus	Book 7	440	408	26714	history
+Herodotus	Book 8	440	408	15822	history
+Herodotus	Book 9	440	408	14800	history
+Euripides	Alcestis	438	438	7000	tragedy
+Euripides	Medea	431	431	8395	tragedy
+Euripides	Heraclidae	430	427	6644	tragedy
+Sophocles	Trachiniae	430	427	7679	tragedy
+Sophocles	Oedipus Turannos	430	425	9903	tragedy
+Euripides	Hippolytus	428	428	8648	tragedy
+Euripides	Andromache	426	424	7764	tragedy
+Aristophanes	Acharnians	425	425	7819	comedy
+Euripides	Hecuba	425	423	7677	tragedy
+Aristophanes	Knights	424	424	9765	comedy
+Euripides	Suppliant Women	424	422	7549	tragedy
+Aristophanes	Wasps	422	422	10560	comedy
+Euripides	Heracles	422	416	8469	tragedy
+Aristophanes	Peace	421	421	8796	comedy
+Aristophanes	Clouds 2	419	416	10463	comedy
+Euripides	Ion	418	412	10101	tragedy
+Euripides	Electra	417	413	8264	tragedy
+Aristophanes	Birds	414	414	11613	comedy
+Sophocles	Electra	414	412	9318	tragedy
+Euripides	Trojan Women	415	415	7634	tragedy
+Euripides	Iphigenia Taurica	414	412	9029	tragedy
+Antiphon	In novercam	430	411	1807	oratory
+Antiphon	Tetralogia 1	430	411	2580	oratory
+Antiphon	Tetralogia 2	430	411	2228	oratory
+Antiphon	Tetralogia 3	430	411	2010	oratory
+Antiphon	De caede Herodis	430	411	6508	oratory
+Antiphon	De choreuta	430	411	3495	oratory
+Ps-Andocides	Against Alcibiades	416	410	2855	oratory
+Euripides	Helen	412	412	10582	tragedy
+Aristophanes	Lysistrata	411	411	8853	comedy
+Aristophanes	Thesmophoriazusae	411	411	7977	comedy
+Andocides	On his Return	411	408	2010	oratory
+Sophocles	Philoctetes	409	409	9379	tragedy
+Euripides	Orestes	408	408	10754	tragedy
+Euripides	Bacchae	407	406	8208	tragedy
+Euripides	Iphigenia Aulica	407	406	10048	tragedy
+Sophocles	Oedipus at Colonus	406	405	11184	tragedy
+Aristophanes	Frogs	405	405	10108	comedy
+Thucydides	Book 1	430	400	22306	history
+Thucydides	Book 2	430	400	18549	history
+Thucydides	Book 3	430	400	18147	history
+Thucydides	Book 4	430	400	21533	history
+Thucydides	Book 5	430	400	15998	history
+Thucydides	Book 6	430	400	18280	history
+Thucydides	Book 7	430	400	16615	history
+Andocides	On the Mysteries	399	399	10327	oratory
+Thucydides	Book 8	392	392	18730	history
+Andocides	On the Peace	391	389	2772	oratory
+Aristophanes	Plutus	388	388	8864	comedy
