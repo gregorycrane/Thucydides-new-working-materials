@@ -2153,7 +2153,7 @@ meta\ de\ tau=ta ou) pollw=| u(/steron
 .
 <milestone unit="section" n="2"/>
 kai\ meta\ tou=to oi( <name type="ethnic" key="0006355:*peloponnh/sios:ethnic:masc:nom/voc	0000001:*peloponnh/sioi:noclass:masc:nom/voc">*peloponnh/sioi</name> th=s <name type="ethnic" key="0174833:*)attiko/s:ethnic:fem:gen	0174833:*)attikh/:place:fem:gen">*)attikh=s</name> e)s 
-<persName key="0000959:*)eleusi/s:person:fem:acc	0000239:*)eleusi/s:place:fem:acc">*)eleusi=na</persName>
+<persName key="0000959:*)eleusi/s:place:fem:acc	0000239:*)eleusi/s:place:fem:acc">*)eleusi=na</persName>
  kai\ <name type="noclass" key="0000001:*qri=a:noclass:nn:gen">*qriw=ze</name> e)sbalo/ntes e)dh/|wsan 
 <persName key="0005062:*pleistoa/nac:person:masc:gen	0000001:*pleisto/anac:noclass:masc:gen">*pleistoa/naktos</persName>
  tou= 
@@ -3211,7 +3211,7 @@ e)peidh\ me/ntoi prosbalo/ntes th=|
 , <name type="ethnic" key="0047916:*lakedaimo/nios:ethnic:masc/neut:gen	0047916:*lakedaimo/nios:ethnic:fem:gen	0001024:*lakedaimo/nios:group:masc/neut:gen	0001024:*lakedaimo/nios:group:fem:gen">*lakedaimoni/wn</name> basileu/s.
 <milestone unit="section" n="2"/>
 kai\ kaqezo/menoi e)/temnon prw=ton me\n 
-<persName key="0000959:*)eleusi/s:person:fem:acc	0000239:*)eleusi/s:place:fem:acc">*)eleusi=na</persName>
+<persName key="0000959:*)eleusi/s:place:fem:acc	0000239:*)eleusi/s:place:fem:acc">*)eleusi=na</persName>
  kai\ to\ 
 <persName key="0001000:*qria/sios:person:neut:nom/voc/acc	0001000:*qria/sios:person:masc:acc">*qria/sion</persName>
  pedi/on kai\ troph/n tina tw=n <name type="ethnic" key="0360214:*)aqhnai=os:ethnic:masc/neut:gen	0360214:*)aqhnai=os:ethnic:fem:gen	0017075:*)aqh/naios:group:masc:gen	0000001:*)aqh/naion:noclass:neut:gen	0000001:*)aqh/naia:noclass:neut:gen">*)aqhnai/wn</name> i(ppe/wn peri\ tou\s <name type="noclass" key="0000001:Rheitus:noclass:masc:acc	0000001:*(rei=toi:noclass:masc:acc">*(rei/tous</name> kaloume/nous e)poih/santo: e)/peita prouxw/roun e)n decia=| e)/xontes to\ <name type="noclass" key="0000001:*ai)ga/leus:noclass:masc:gen">*ai)ga/lewn</name> o)/ros dia\ <name type="noclass" key="0000001:*krwpih/:noclass:fem:gen">*krwpia=s</name>, e(/ws a)fi/konto e)s 
@@ -3228,7 +3228,7 @@ gnw/mh| de\ toia=|de le/getai to\n
 tou\s ga\r <name type="ethnic" key="0360214:*)aqhnai=os:ethnic:masc:acc	0017075:*)aqh/naios:group:masc:acc">*)aqhnai/ous</name> h)/lpizen, a)kma/zonta/s te neo/thti pollh=| kai\ pareskeuasme/nous e)s po/lemon w(s ou)/pw pro/teron, i)/sws a)\n e)pecelqei=n kai\ th\n gh=n ou)k a)\n periidei=n tmhqh=nai.
 <milestone unit="section" n="3"/>
 e)peidh\ ou)=n au)tw=| e)s 
-<persName key="0000959:*)eleusi/s:person:fem:acc	0000239:*)eleusi/s:place:fem:acc">*)eleusi=na</persName>
+<persName key="0000959:*)eleusi/s:place:fem:acc	0000239:*)eleusi/s:place:fem:acc">*)eleusi=na</persName>
  kai\ to\ 
 <persName key="0001000:*qria/sios:person:neut:nom/voc/acc	0001000:*qria/sios:person:masc:acc">*qria/sion</persName>
  pedi/on ou)k a)ph/nthsan, pei=ran e)poiei=to peri\ ta\s 
@@ -3246,7 +3246,7 @@ toiau/th| me\n dianoi/a| o(
 <milestone unit="section" n="1"/>
 <milestone ed="P" unit="para"/>
 <name type="ethnic" key="0360214:*)aqhnai=os:ethnic:masc:nom/voc">*)aqhnai=oi</name> de\ me/xri me\n ou(= peri\ 
-<persName key="0000959:*)eleusi/s:person:fem:acc	0000239:*)eleusi/s:place:fem:acc">*)eleusi=na</persName>
+<persName key="0000959:*)eleusi/s:place:fem:acc	0000239:*)eleusi/s:place:fem:acc">*)eleusi=na</persName>
  kai\ to\ 
 <persName key="0001000:*qria/sios:person:neut:nom/voc/acc	0001000:*qria/sios:person:masc:acc">*qria/sion</persName>
  pedi/on o( strato\s h)=n, kai/ tina e)lpi/da ei)=xon e)s to\ e)ggute/rw au)tou\s mh\ proi+e/nai, memnhme/noi kai\ 
@@ -3254,7 +3254,7 @@ toiau/th| me\n dianoi/a| o(
  to\n 
 <persName key="0008952:*pausani/as:person:masc:gen">*pausani/ou</persName>
  <name type="ethnic" key="0047916:*lakedaimo/nios:ethnic:masc/neut:gen	0047916:*lakedaimo/nios:ethnic:fem:gen	0001024:*lakedaimo/nios:group:masc/neut:gen	0001024:*lakedaimo/nios:group:fem:gen">*lakedaimoni/wn</name> basile/a, o(/te e)sbalw\n th=s <name type="ethnic" key="0174833:*)attiko/s:ethnic:fem:gen	0174833:*)attikh/:place:fem:gen">*)attikh=s</name> e)s 
-<persName key="0000959:*)eleusi/s:person:fem:acc	0000239:*)eleusi/s:place:fem:acc">*)eleusi=na</persName>
+<persName key="0000959:*)eleusi/s:place:fem:acc	0000239:*)eleusi/s:place:fem:acc">*)eleusi=na</persName>
  kai\ <name type="noclass" key="0000001:*qri=a:noclass:nn:gen">*qriw=ze</name> stratw=| <name type="ethnic" key="0006355:*peloponnh/sios:ethnic:masc/neut:gen	0006355:*peloponnh/sios:ethnic:fem:gen	0000001:*peloponnh/sioi:noclass:masc:gen">*peloponnhsi/wn</name> pro\ tou=de tou= pole/mou te/ssarsi kai\ de/ka e)/tesin a)nexw/rhse pa/lin e)s to\ ple/on ou)ke/ti proelqw/n &lpar; di' o(\ dh\ kai\ h( fugh\ au)tw=| e)ge/neto e)k 
 <placeName key="0047600:*spa/rth:place:fem:gen">*spa/rths</placeName>
  do/canti xrh/masi peisqh=nai <del>th\n a)naxw/rhsin</del> &rpar; :
@@ -4110,7 +4110,7 @@ kata\ de\ tou\s au)tou\s xro/nous, tou= qe/rous teleutw=ntos, kai\ <name type="e
  to\ 
 <placeName key="0001000:*)amfiloxiko/s:place:neut:nom/voc/acc	0001000:*)amfiloxiko/s:place:masc:acc">*)amfiloxiko\n</placeName>
  kai\ th\n a)/llhn 
-<persName key="0000474:*)amfilo/xios:person:fem:acc	0000001:*)amfiloxi/h:noclass:fem:acc">*)amfiloxi/an</persName>
+<persName key="0000474:*)amfilo/xios:place:fem:acc	0000001:*)amfiloxi/h:noclass:fem:acc">*)amfiloxi/an</persName>
 .
 <milestone unit="section" n="2"/>
 e)/xqra de\ pro\s tou\s <name type="ethnic" key="0059158:*)argei=os:ethnic:masc:acc	0010461:*)argei=os:place:masc:acc	0000796:*)argei=os:group:masc:acc">*)argei/ous</name> a)po\ tou=de au)toi=s h)/rcato prw=ton gene/sqai.
@@ -4120,7 +4120,7 @@ e)/xqra de\ pro\s tou\s <name type="ethnic" key="0059158:*)argei=os:ethnic:masc:
  to\ 
 <placeName key="0001000:*)amfiloxiko/s:place:neut:nom/voc/acc	0001000:*)amfiloxiko/s:place:masc:acc">*)amfiloxiko\n</placeName>
  kai\ 
-<persName key="0000474:*)amfilo/xios:person:fem:acc	0000001:*)amfiloxi/h:noclass:fem:acc">*)amfiloxi/an</persName>
+<persName key="0000474:*)amfilo/xios:place:fem:acc	0000001:*)amfiloxi/h:noclass:fem:acc">*)amfiloxi/an</persName>
  th\n a)/llhn e)/ktise me\n meta\ ta\ <name type="ethnic" key="0004144:*trwiko/s:ethnic:neut:nom/voc/acc	0004144:*trwiko/s:ethnic:fem:nom/voc/acc	0004144:*trwiko/s:ethnic:fem:nom/voc">*trwika\</name> oi)/kade a)naxwrh/sas kai\ ou)k a)resko/menos th=| e)n 
 <placeName key="0058158:*)/argos:place:neut:nom/voc/acc	0058158:*)/argos:place:neut:dat	0001954:*)/argos:person:neut:nom/voc/acc	0001954:*)/argos:person:neut:dat">*)/argei</placeName>
  katasta/sei 
@@ -4134,7 +4134,7 @@ e)/xqra de\ pro\s tou\s <name type="ethnic" key="0059158:*)argei=os:ethnic:masc:
  o)noma/sas
 <milestone unit="section" n="4"/>
 &lpar; kai\ h)=n h( po/lis au(/th megi/sth th=s 
-<persName key="0000474:*)amfilo/xios:person:fem:gen	0000474:*)amfilo/xios:group:fem:acc	0000001:*)amfiloxi/h:noclass:fem:gen	0000001:*)amfiloxi/h:noclass:fem:acc">*)amfiloxi/as</persName>
+<persName key="0000474:*)amfilo/xios:place:fem:gen	0000474:*)amfilo/xios:group:fem:acc	0000001:*)amfiloxi/h:noclass:fem:gen	0000001:*)amfiloxi/h:noclass:fem:acc">*)amfiloxi/as</persName>
  kai\ tou\s dunatwta/tous ei)=xen oi)kh/toras &rpar; ,
 <milestone unit="section" n="5"/>
 u(po\ cumforw=n de\ pollai=s geneai=s u(/steron piezo/menoi <name type="ethnic" key="0012183:*)amprakiw/ths:ethnic:masc:nom	0012183:*)amprakiw/ths:ethnic:masc:acc">*)amprakiw/tas</name> o(mo/rous o)/ntas th=| 
@@ -4234,7 +4234,7 @@ tou= d' e)pigignome/nou qe/rous oi( <name type="ethnic" key="0006355:*peloponnh/
 ta/de me\n h(mi=n pate/res oi( u(me/teroi e)/dosan a)reth=s e(/neka kai\ proqumi/as th=s e)n e)kei/nois toi=s kindu/nois genome/nhs, u(mei=s de\ ta)nanti/a dra=te: meta\ ga\r <name type="ethnic" key="0070803:*qhbai=os:ethnic:masc/neut:gen	0070803:*qhbai=os:ethnic:fem:gen">*qhbai/wn</name> tw=n h(mi=n e)xqi/stwn e)pi\ doulei/a| th=| h(mete/ra| h(/kete.
 <milestone unit="section" n="4"/>
 ma/rturas de\ qeou\s tou/s te o(rki/ous to/te genome/nous poiou/menoi kai\ tou\s u(mete/rous patrw/|ous kai\ h(mete/rous e)gxwri/ous, le/gomen u(mi=n gh=n th\n 
-<persName key="0001000:*plataiiko/s:person:fem:acc">*plataii/da</persName>
+<persName key="0001000:*plataiiko/s:place:fem:acc">*plataii/da</persName>
  mh\ a)dikei=n mhde\ parabai/nein tou\s o(/rkous, e)a=n de\ oi)kei=n au)tono/mous kaqa/per 
 <persName key="0008952:*pausani/as:person:masc:nom	0008952:*pausani/as:group:masc:acc">*pausani/as</persName>
  e)dikai/wsen.</q>
@@ -4270,7 +4270,7 @@ toiau=ta tw=n pre/sbewn a)paggeila/ntwn oi( <name type="ethnic" key="0018887:*pl
 w(s de\ a)pekri/nanto, e)nteu=qen dh\ prw=ton me\n e)s e)pimarturi/an kai\ qew=n kai\ h(rw/wn tw=n e)gxwri/wn 
 <persName key="0001151:*)arxi/damos:person:masc:nom">*)arxi/damos</persName>
  o( basileu\s kate/sth, le/gwn w(=de: <q>qeoi\ o(/soi gh=n th\n 
-<persName key="0001000:*plataiiko/s:person:fem:acc">*plataii/da</persName>
+<persName key="0001000:*plataiiko/s:place:fem:acc">*plataii/da</persName>
  e)/xete kai\ h(/rwes, cuni/store/s e)ste o(/ti ou)/te th\n a)rxh\n a)di/kws, e)klipo/ntwn de\ tw=nde prote/rwn to\ cunw/moton, e)pi\ gh=n th/nde h)/lqomen, e)n h(=| oi( pate/res h(mw=n eu)ca/menoi u(mi=n <name type="ethnic" key="0013321:*mh=dos:ethnic:masc:gen	0001049:*mh=dos:place:masc:gen	0000415:*mh=dos:group:masc:gen	0000346:*mh/dwn:person:masc:nom/voc">*mh/dwn</name> e)kra/thsan kai\ pare/sxete au)th\n eu)menh= e)nagwni/sasqai toi=s <name type="ethnic" key="0002000:*(/ellhn:ethnic:masc/fem:dat	0001276:*(/ellhn:group:masc/fem:dat">*(/ellhsin</name>, ou)/te nu=n, h)/n ti poiw=men, a)dikh/somen: prokalesa/menoi ga\r polla\ kai\ ei)ko/ta ou) tugxa/nomen. cuggnw/mones de\ e)/ste th=s me\n a)diki/as kola/zesqai toi=s u(pa/rxousi prote/rois, th=s de\ timwri/as tugxa/nein toi=s e)pife/rousi nomi/mws.</q>
 <milestone unit="chapter" n="75"/>
 <milestone unit="section" n="1"/>
@@ -4415,7 +4415,7 @@ h)=san de\ <name type="ethnic" key="0091363:*kori/nqios:ethnic:masc:nom/voc	0004
  e)frou/roun, eu)qu\s pareskeua/zonto th\n kata\ gh=n stratei/an.
 <milestone unit="section" n="5"/>
 kai\ au)tw=| parh=san <name type="ethnic" key="0002000:*(/ellhn:ethnic:masc/fem:gen	0001276:*(/ellhn:group:masc/fem:gen">*(ellh/nwn</name> me\n <name type="ethnic" key="0012183:*)amprakiw/ths:ethnic:masc:nom/voc">*)amprakiw=tai</name> kai\ <name type="ethnic" key="0014945:*leuka/dios:ethnic:masc:nom/voc">*leuka/dioi</name> kai\ <name type="ethnic" key="0002253:*)anakto/rios:ethnic:masc:nom/voc">*)anakto/rioi</name> kai\ ou(\s au)to\s e)/xwn h)=lqe xi/lioi <name type="ethnic" key="0006355:*peloponnh/sios:ethnic:masc/neut:gen	0006355:*peloponnh/sios:ethnic:fem:gen	0000001:*peloponnh/sioi:noclass:masc:gen">*peloponnhsi/wn</name>, ba/rbaroi de\ <name type="group" key="0001000:*xa/wn-pl:group:masc:nom/voc	0001000:*xa/wn-pl:group:masc/fem:nom/voc	0001000:*xa/wn-pl:ethnic:masc:nom/voc	0001000:*xa/wn-pl:ethnic:masc/fem:nom/voc">*xa/ones</name> xi/lioi a)basi/leutoi, w(=n h(gou=nto e)pethsi/w| prostatei/a| e)k tou= a)rxikou= ge/nous 
-<persName key="0001426:*fw/tios:person:masc:nom">*fw/tios</persName>
+<persName key="0001426:*fw/tios:ethnic:masc:nom">*fw/tios</persName>
  kai\ 
 <persName key="0002155:*nika/nwr:person:masc:nom">*nika/nwr</persName>
 . cunestrateu/onto de\ meta\ <name type="group" key="0001000:*xa/wn-pl:group:masc:gen	0001000:*xa/wn-pl:group:masc/fem:gen	0001000:*xa/wn-pl:ethnic:masc:gen	0001000:*xa/wn-pl:ethnic:masc/fem:gen">*xao/nwn</name> kai\ <name type="ethnic" key="0001000:*qesprwtoi/:ethnic:masc:nom/voc">*qesprwtoi\</name> a)basi/leutoi.
@@ -4879,7 +4879,7 @@ a)mfote/rwn ou)=n e(/neka th\n e)/fodon e)poiei=to kai\ to/n te
 a)ni/sthsin ou)=n e)k tw=n 
 <placeName key="0013543:*)odru/sai:place:fem:gen	0000001:*)odru/shs:noclass:masc:gen">*)odrusw=n</placeName>
  o(rmw/menos prw=ton me\n tou\s e)nto\s tou= 
-<placeName key="0003887:*ai=(mos:place:masc:gen	0000538:*ai(=mos:person:masc:gen">*ai(/mou</placeName>
+<placeName key="0003887:*ai(=mos:place:masc:gen	0000538:*ai(=mos:person:masc:gen">*ai(/mou</placeName>
  te o)/rous kai\ th=s 
 <placeName key="0001342:*(rodo/ph:place:fem:gen	0000411:*(rodo/ph:person:fem:gen">*(rodo/phs</placeName>
  <name type="ethnic" key="0113797:*qra=|c:ethnic:masc:acc">*qra=|kas</name>, o(/swn h)=rxe me/xri qala/sshs <del>e)s to\n 
@@ -4887,7 +4887,7 @@ a)ni/sthsin ou)=n e)k tw=n
  te po/nton kai\ to\n 
 <placeName key="0005213:*(ellh/spontos:place:masc:acc">*(ellh/sponton</placeName>
 </del>, e)/peita tou\s u(perba/nti 
-<placeName key="0003887:*ai=(mos:place:masc:acc	0001000:*ai(/mwn:person:masc:voc	0000538:*ai(=mos:person:masc:acc">*ai(=mon</placeName>
+<placeName key="0003887:*ai(=mos:place:masc:acc	0001000:*ai(/mwn:person:masc:voc	0000538:*ai(=mos:person:masc:acc">*ai(=mon</placeName>
  <name type="ethnic" key="0000196:*ge/tai:ethnic:masc:acc">*ge/tas</name> kai\ o(/sa a)/lla me/rh e)nto\s tou= 
 <placeName key="0000756:*)/istros:place:masc:gen	0000756:*)/istros:place:fem:gen">*)/istrou</placeName>
  potamou= pro\s qa/lassan ma=llon th\n tou= 
@@ -4996,7 +4996,7 @@ cunhqroi/zonto ou)=n e)n th=|
  h)=rxen.
 <milestone unit="section" n="2"/>
 tw=n ga\r <name type="ethnic" key="0034170:*makedw/n:ethnic:masc/fem:gen	0000417:*makedw/n:group:masc/fem:gen">*makedo/nwn</name> ei)si\ kai\ 
-<placeName key="0004268:*lugkhstai/:place:masc:nom/voc">*lugkhstai\</placeName>
+<placeName key="0004268:*lugkhstai/:ethnic:masc:nom/voc">*lugkhstai\</placeName>
  kai\ <name type="noclass" key="0000001:*)elimiw/ths:noclass:masc:nom/voc">*)elimiw=tai</name> kai\ a)/lla e)/qnh e)pa/nwqen, a(\ cu/mmaxa me/n e)sti tou/tois kai\ u(ph/koa, basilei/as d' e)/xei kaq' au(ta/.
 <milestone unit="section" n="3"/>
 th\n de\ para\ qa/lassan nu=n 
@@ -6203,7 +6203,7 @@ a)poble/yate ga\r e)s pate/rwn tw=n u(mete/rwn qh/kas, ou(\s a)poqano/ntas u(po\
 ske/yasqe/ te: 
 <persName key="0008952:*pausani/as:person:masc:nom	0008952:*pausani/as:group:masc:acc">*pausani/as</persName>
  me\n ga\r e)/qapten au)tou\s nomi/zwn e)n gh=| te fili/a| tiqe/nai kai\ par' a)ndra/si toiou/tois: u(mei=s de\ ei) ktenei=te h(ma=s kai\ xw/ran th\n 
-<persName key="0001000:*plataiiko/s:person:fem:acc">*plataii/da</persName>
+<persName key="0001000:*plataiiko/s:place:fem:acc">*plataii/da</persName>
  
 <placeName key="0001000:*qhbai/s:place:fem:acc">*qhbai/+da</placeName>
  poih/sete, ti/ a)/llo h)\ e)n polemi/a| te kai\ para\ toi=s au)qe/ntais pate/ras tou\s u(mete/rous kai\ cuggenei=s a)ti/mous gerw=n w(=n nu=n i)/sxousi katalei/yete; pro\s de\ kai\ gh=n e)n h(=| h)leuqerw/qhsan oi( <name type="ethnic" key="0002000:*(/ellhn:ethnic:masc/fem:nom/voc	0001276:*(/ellhn:group:masc/fem:nom/voc">*(/ellhnes</name> doulw/sete, i(era/ te qew=n oi(=s eu)ca/menoi <name type="ethnic" key="0013321:*mh=dos:ethnic:masc:gen	0001049:*mh=dos:place:masc:gen	0000415:*mh=dos:group:masc:gen	0000346:*mh/dwn:person:masc:nom/voc">*mh/dwn</name> e)kra/thsan e)rhmou=te kai\ qusi/as ta\s patri/ous tw=n e(ssame/nwn kai\ ktisa/ntwn a)fairh/sesqe.
@@ -7051,7 +7051,7 @@ oi( ga\r <name type="ethnic" key="0012183:*)amprakiw/ths:ethnic:masc:nom/voc">*)
  te tw=| 
 <placeName key="0001000:*)amfiloxiko/s:place:masc/neut:dat">*)amfiloxikw=|</placeName>
  kai\ 
-<persName key="0000474:*)amfilo/xios:person:fem:dat	0000001:*)amfiloxi/h:noclass:fem:dat">*)amfiloxi/a|</persName>
+<persName key="0000474:*)amfilo/xios:place:fem:dat	0000001:*)amfiloxi/h:noclass:fem:dat">*)amfiloxi/a|</persName>
  th=| a)/llh| e)pixeirh=sai kai\ 
 <placeName key="0013313:*)akarnani/a:place:fem:dat">*)akarnani/a|</placeName>
  a(/ma, le/gontes o(/ti, h)\n tou/twn krath/swsi, pa=n to\ h)peirwtiko\n <name type="ethnic" key="0047916:*lakedaimo/nios:ethnic:masc/neut:dat	0001024:*lakedaimo/nios:group:masc/neut:dat">*lakedaimoni/ois</name> cu/mmaxon kaqesth/cei.
@@ -7156,7 +7156,7 @@ oi( de\
  oi( me\n e)s 
 <placeName key="0058158:*)/argos:place:neut:nom/voc/acc	0058158:*)/argos:place:masc:nom	0001954:*)/argos:person:neut:nom/voc/acc	0001954:*)/argos:person:masc:nom">*)/argos</placeName>
  cuneboh/qoun, oi( de\ th=s 
-<persName key="0000474:*)amfilo/xios:person:fem:gen	0000474:*)amfilo/xios:group:fem:acc	0000001:*)amfiloxi/h:noclass:fem:gen	0000001:*)amfiloxi/h:noclass:fem:acc">*)amfiloxi/as</persName>
+<persName key="0000474:*)amfilo/xios:place:fem:gen	0000474:*)amfilo/xios:group:fem:acc	0000001:*)amfiloxi/h:noclass:fem:gen	0000001:*)amfiloxi/h:noclass:fem:acc">*)amfiloxi/as</persName>
  e)n tou/tw| tw=| xwri/w| o(\ <name type="noclass" key="0000001:*krh=nos:noclass:fem:nom/voc">*krh=nai</name> kalei=tai, fula/ssontes tou\s meta\ 
 <persName key="0004347:*eu)ru/loxos:person:masc:gen">*eu)rulo/xou</persName>
  <name type="ethnic" key="0006355:*peloponnh/sios:ethnic:masc:acc	0000001:*peloponnh/sioi:noclass:masc:acc">*peloponnhsi/ous</name> mh\ la/qwsi pro\s tou\s <name type="ethnic" key="0012183:*)amprakiw/ths:ethnic:masc:nom	0012183:*)amprakiw/ths:ethnic:masc:acc">*)amprakiw/tas</name> dielqo/ntes, e)stratopedeu/santo.
@@ -8702,7 +8702,7 @@ cune/pese ga\r kai\ to\n tw=n <name type="ethnic" key="0360214:*)aqhnai=os:ethni
 a(/ma de\ e(/w| e(alwko/twn h)/dh tw=n teixw=n kai\ tw=n e)n th=| po/lei <name type="ethnic" key="0047396:*megareu/s:ethnic:masc:gen	0001571:*megareu/s:group:masc:gen">*megare/wn</name> qoruboume/nwn oi( pro\s tou\s <name type="ethnic" key="0360214:*)aqhnai=os:ethnic:masc:acc	0017075:*)aqh/naios:group:masc:acc">*)aqhnai/ous</name> pra/cantes kai\ a)/llo met' au)tw=n plh=qos, o(\ cunh/|dei, e)/fasan xrh=nai a)noi/gein ta\s pu/las kai\ e)pecie/nai e)s ma/xhn.
 <milestone unit="section" n="5"/>
 cune/keito de\ au)toi=s tw=n pulw=n a)noixqeisw=n e)spi/ptein tou\s <name type="ethnic" key="0360214:*)aqhnai=os:ethnic:masc:acc	0017075:*)aqh/naios:group:masc:acc">*)aqhnai/ous</name>, au)toi\ de\ dia/dhloi e)/mellon e)/sesqai &lpar; li/pa ga\r a)lei/yesqai &rpar; , o(/pws mh\ a)dikw=ntai. a)sfa/leia de\ au)toi=s ma=llon e)gi/gneto th=s a)noi/cews: kai\ ga\r oi( a)po\ th=s 
-<persName key="0000959:*)eleusi/s:person:fem:gen	0000239:*)eleusi/s:place:fem:gen">*)eleusi=nos</persName>
+<persName key="0000959:*)eleusi/s:place:fem:gen	0000239:*)eleusi/s:place:fem:gen">*)eleusi=nos</persName>
  kata\ to\ cugkei/menon tetrakisxi/lioi o(pli=tai tw=n <name type="ethnic" key="0360214:*)aqhnai=os:ethnic:masc/neut:gen	0360214:*)aqhnai=os:ethnic:fem:gen	0017075:*)aqh/naios:group:masc:gen	0000001:*)aqh/naion:noclass:neut:gen	0000001:*)aqh/naia:noclass:neut:gen">*)aqhnai/wn</name> kai\ i(pph=s e(cako/sioi <del>oi(</del> th\n nu/kta poreuo/menoi parh=san.
 <milestone unit="section" n="6"/>
 a)lhlimme/nwn de\ au)tw=n kai\ o)/ntwn h)/dh peri\ ta\s pu/las katagoreu/ei tis cuneidw\s toi=s e(te/rois to\ e)pibou/leuma. kai\ oi(\ custrafe/ntes a(qro/oi h)=lqon kai\ ou)k e)/fasan xrh=nai ou)/te e)pecie/nai &lpar; ou)de\ ga\r pro/tero/n pw tou=to i)sxu/ontes ma=llon tolmh=sai &rpar; ou)/te e)s ki/ndunon fanero\n th\n po/lin katagagei=n: ei)/ te mh\ pei/setai/ tis, au)tou= th\n ma/xhn e)/sesqai. e)dh/loun de\ ou)de\n o(/ti i)/sasi ta\ prasso/mena, a)lla\ w(s ta\ be/ltista bouleu/ontes i)sxuri/zonto, kai\ a(/ma peri\ ta\s pu/las pare/menon fula/ssontes, w(/ste ou)k e)ge/neto toi=s e)pibouleu/ousi pra=cai o(\ e)/mellon.
