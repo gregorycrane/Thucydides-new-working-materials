@@ -1,0 +1,1210 @@
+avg fit 1209 91.57402812241521
+94 keep Athenian 2.1.1	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.1 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+96 keep Peloponnesian 2.1.1	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.1 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+83 keep Euboia 2.2.1	place	Εὔβοια	Εὐβοίας	fem:gen 2.2 place 385239IEub place Euboea  long="23.87" lat="38.53
+100 keep Chrysis 2.2.1	person	Χρυσίς	Χρυσίδος	fem:gen 2.2 people 2508 noclass Chrysis
+100 keep Argos 2.2.1	place	Ἄργος	Ἄργει	neut:nom/voc/acc 2.2 place 376227PArg place Argos  long="22.7195" lat="37.6316
+44 reject Ainesias 2.2.1	person	Αἰνησίας	Αἰνησίου	masc:gen 2.2 people 2003 noclass Leontiades
+83 keep Sparte 2.2.1	place	Σπάρτη	Σπάρτῃ	fem:dat 2.2 place 371224PSpa place Sparta  long="22.4237" lat="37.0821
+90 keep Pythodoros 2.2.1	person	Πυθόδωρος	Πυθοδώρου	masc:gen 2.2 people 1321 noclass Pythodorus
+71 keep Athenian 2.2.1	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.2 place 380237PAth place Athens  long="23.72793" lat="37.9718
+82 keep Poteidaia 2.2.1	place	Ποτείδαια	Ποτειδαίᾳ	fem:dat 2.2 place 402233UPot place Potidaea  long="23.3278" lat="40.1937
+86 keep Thebaean 2.2.1	ethnic	Θηβαῖος	Θηβαίων	masc/neut:gen 2.2 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+82 keep Pythaggelos 2.2.1	person	Πυθάγγελος	Πυθάγγελός	masc:nom 2.2 people 5942 noclass Pythangelus
+89 keep PhyleIdes 2.2.1	person	Φυλεΐδης	Φυλείδου	masc:gen 2.2 people 8174 noclass Phyleides
+43 reject Diemporos 2.2.1	person	Διέμπορος	Διέμπορος	masc:nom 2.2 place 376227PArg place Argos  long="22.7195" lat="37.6316
+75 keep Onetorides 2.2.1	person	Ὀνητορίδης	Ὀνητορίδου	masc:gen 2.2 people 12177 noclass Onetor
+86 keep Plataia 2.2.1	place	Πλάταια	Πλάταιαν	fem:acc 2.2 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+86 keep Boiotia 2.2.1	place	Βοιωτία	Βοιωτίας	fem:gen 2.2 place 384233RBoi place Boeotia  long="23.25" lat="38.35
+71 keep Athenian 2.2.1	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.2 place 380237PAth place Athens  long="23.72793" lat="37.9718
+86 keep Plataia 2.2.2	place	Πλάταια	Πλαταιῶν	fem:gen 2.2 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+100 keep Naucleides 2.2.2	person	Ναυκλείδης	Ναυκλείδης	masc:nom 2.2 people 8013 noclass Naucleides
+86 keep Thebaean 2.2.2	ethnic	Θηβαῖος	Θηβαίοις	masc/neut:dat 2.2 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+90 keep Eurymachos 2.2.3	person	Εὐρύμαχος	Εὐρυμάχου	masc:gen 2.2 people 1260 noclass Eurymachus
+100 keep Leontiades 2.2.3	person	Λεοντιάδης	Λεοντιάδου	masc:gen 2.2 people 2003 noclass Leontiades
+86 keep Thebaean 2.2.3	ethnic	Θηβαῖος	Θηβαίων	masc/neut:gen 2.2 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+86 keep Thebaean 2.2.3	ethnic	Θηβαῖος	Θηβαῖοι	masc:nom/voc 2.2 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+86 keep Plataia 2.2.3	place	Πλάταια	Πλάταιαν	fem:acc 2.2 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+93 keep Boeotian 2.2.4	ethnic	Βοιωτός	Βοιωτῶν	masc:gen 2.2 place 384233RBoi place Boeotia  long="23.25" lat="38.35
+89 keep Plataiean 2.3.1	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.3 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+80 keep Thebaean 2.3.1	ethnic	Θηβαῖος	Θηβαίους	masc:acc 2.3 place 383233PThe ethnic Thebans  long="23.3178" lat="38.3191
+80 keep Thebaean 2.3.2	ethnic	Θηβαῖος	Θηβαίους	masc:acc 2.3 place 383233PThe ethnic Thebans  long="23.3178" lat="38.3191
+75 keep Plataia 2.3.2	place	Πλάταια	Πλαταιῶν	fem:gen 2.3 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+71 keep Athenian 2.3.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.3 place 380237PAth place Athens  long="23.72793" lat="37.9718
+86 keep Plataia 2.4.3	place	Πλάταια	Πλαταιῶν	fem:gen 2.4 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+89 keep Plataiean 2.4.6	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.4 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+86 keep Thebaean 2.4.7	ethnic	Θηβαῖος	Θηβαίων	masc/neut:gen 2.4 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+89 keep Plataiean 2.4.7	ethnic	Πλαταιεύς	Πλαταιεῦσι	masc:dat 2.4 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+86 keep Plataia 2.4.8	place	Πλάταια	Πλαταίᾳ	fem:dat 2.4 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+86 keep Thebaean 2.5.1	ethnic	Θηβαῖος	Θηβαῖοι	masc:nom/voc 2.5 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+86 keep Plataia 2.5.2	place	Πλάταια	Πλάταια	fem:nom/voc 2.5 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+83 keep Thebai 2.5.2	place	Θῆβαι	Θηβῶν	fem:gen 2.5 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+100 keep Asopus 2.5.2	place	Ἀσωπός	Ἀσωπὸς	masc:nom 2.5 place 383233WAso place Asopus  long="23.5921" lat="38.3016
+86 keep Thebaean 2.5.4	ethnic	Θηβαῖος	Θηβαῖοι	masc:nom/voc 2.5 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+86 keep Plataia 2.5.4	place	Πλάταια	Πλαταιῶν	fem:gen 2.5 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+89 keep Plataiean 2.5.5	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.5 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+86 keep Thebaean 2.5.5	ethnic	Θηβαῖος	Θηβαίους	masc:acc 2.5 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+86 keep Thebaean 2.5.6	ethnic	Θηβαῖος	Θηβαῖοι	masc:nom/voc 2.5 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+89 keep Plataiean 2.5.6	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.5 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+86 keep Thebaean 2.5.7	ethnic	Θηβαῖος	Θηβαῖοι	masc:nom/voc 2.5 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+89 keep Plataiean 2.5.7	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.5 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+90 keep Eurymachos 2.5.7	person	Εὐρύμαχος	Εὐρύμαχος	masc:nom 2.5 people 1260 noclass Eurymachus
+100 keep Athens 2.6.1	place	Ἀθῆναι	Ἀθήνας	fem:acc 2.6 place 380237PAth place Athens  long="23.72793" lat="37.9718
+86 keep Thebaean 2.6.1	ethnic	Θηβαῖος	Θηβαίοις	masc/neut:dat 2.6 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+94 keep Athenian 2.6.2	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.6 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+86 keep Plataia 2.6.2	place	Πλάταια	Πλαταιῶν	fem:gen 2.6 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+94 keep Boeotian 2.6.2	ethnic	Βοιωτός	Βοιωτῶν	masc:gen 2.6 place 384233RBoi ethnic Boeotians  long="23.25" lat="38.35
+100 keep Attica 2.6.2	ethnic	Ἀττικός	Ἀττικῇ	fem:dat 2.6 place 379239RAtt place Attica  long="23.9" lat="37.9
+86 keep Plataia 2.6.2	place	Πλάταια	Πλάταιαν	fem:acc 2.6 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+86 keep Thebaean 2.6.2	ethnic	Θηβαῖος	Θηβαίων	masc/neut:gen 2.6 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+86 keep Thebaean 2.6.3	ethnic	Θηβαῖος	Θηβαίων	masc/neut:gen 2.6 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+94 keep Athenian 2.6.3	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.6 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+94 keep Athenian 2.6.4	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.6 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+86 keep Plataia 2.6.4	place	Πλάταια	Πλάταιαν	fem:acc 2.6 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+86 keep Plataia 2.7.1	place	Πλάταια	Πλαταιαῖς	fem:dat 2.7 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+100 keep Athenian 2.7.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.7 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+87 keep Lacedaemonian 2.7.1	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιοι	masc:nom/voc 2.7 place 371224PSpa place Lacedaemon  long="22.4237" lat="37.0821
+87 keep Lacedaemonian 2.7.2	ethnic	Λακεδαιμόνιος	Λακεδαιμονίοις	masc/neut:dat 2.7 place 371224PSpa place Lacedaemon  long="22.4237" lat="37.0821
+100 keep Italy 2.7.2	place	Ἰταλία	Ἰταλίας	fem:gen 2.7 place 406163RIta place Italy  long="16.3" lat="40.6
+100 keep Sicily 2.7.2	place	Σικελία	Σικελίας	fem:gen 2.7 place 376145RSic place Sicily  long="14.5" lat="37.6
+100 keep Athenian 2.7.2	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.7 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Athenian 2.7.3	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.7 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Peloponnese 2.7.3	place	Πελοπόννησος	Πελοπόννησον	fem:acc 2.7 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+100 keep Corcyra 2.7.3	place	Κέρκυρα	Κέρκυραν	fem:acc 2.7 place 396199PKer place Corcyra  long="19.9156" lat="39.6063
+100 keep Cephallenia 2.7.3	place	Κεφαλληνία	Κεφαλληνίαν	fem:acc 2.7 place 382206IKep place Cephallenia  long="20.59" lat="38.2
+90 keep Acharnanian 2.7.3	ethnic	Ἀκαρνάν	Ἀκαρνᾶνας	masc:acc 2.7 place 388210RAka place Acarnania  long="21" lat="38.8
+100 keep Zacynthus 2.7.3	place	Ζάκυνθος	Ζάκυνθον	fem:acc 2.7 place 378209PZak place Zacynthus  long="20.8921" lat="37.7872
+100 keep Peloponnese 2.8.1	place	Πελοπόννησος	Πελοποννήσῳ	fem:dat 2.8 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+100 keep Athens 2.8.1	place	Ἀθῆναι	Ἀθήναις	fem:dat 2.8 place 380237PAth place Athens  long="23.72793" lat="37.9718
+100 keep Delos 2.8.3	place	Δῆλος	Δῆλος	fem:nom 2.8 place 374253PDel place Delos  long="25.267" lat="37.398
+96 keep Lacedaemonian 2.8.4	ethnic	Λακεδαιμόνιος	Λακεδαιμονίους	masc:acc 2.8 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+71 keep Athenian 2.8.5	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.8 place 380237PAth place Athens  long="23.72793" lat="37.9718
+100 keep Lacedaemonian 2.9.2	ethnic	Λακεδαιμόνιος	Λακεδαιμονίων	masc/neut:gen 2.9 place 371224PSpa demonym Lacedaemonian  long="22.4237" lat="37.0821
+96 keep Peloponnesian 2.9.2	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.9 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Isthmus 2.9.2	place	Ἰσθμός	Ἰσθμοῦ	masc:gen 2.9 place 379230LIst place Isthmus  long="22.973" lat="37.928
+92 keep Argive 2.9.2	ethnic	Ἀργεῖος	Ἀργείων	masc/neut:gen 2.9 place 376227PArg ethnic Argives  long="22.7195" lat="37.6316
+100 keep Achaean 2.9.2	ethnic	Ἀχαιός	Ἀχαιῶν	masc/neut:gen 2.9 place 382219RAch demonym Achaean  long="21.9" lat="38.2
+100 keep Pellene 2.9.2	place	Πελλήνη	Πελληνῆς	masc:nom/voc 2.9 place 380225PPel place Pellene  long="22.5384" lat="38.0446
+100 keep Peloponnese 2.9.2	place	Πελοπόννησος	Πελοποννήσου	fem:gen 2.9 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+94 keep Megarian 2.9.2	ethnic	Μεγαρεύς	Μεγαρῆς	masc:nom/voc 2.9 place 380233PMeg ethnic Megarians  long="23.34285" lat="37.997
+94 keep Boeotian 2.9.2	ethnic	Βοιωτός	Βοιωτοί	masc:nom/voc 2.9 place 384233RBoi ethnic Boeotians  long="23.25" lat="38.35
+71 keep Locroi 2.9.2	place	Λοκροί	Λοκροί	masc:nom/voc 2.9 place 386231ROpu ethnic Locrians  long="23.1" lat="38.6
+80 keep Phocean 2.9.2	ethnic	Φωκεύς	Φωκῆς	masc:nom/voc 2.9 place 386227RPho ethnic Phocians  long="22.7" lat="38.6
+86 keep Ampraciotes 2.9.2	ethnic	Ἀμπρακιώτης	Ἀμπρακιῶται	masc:nom/voc 2.9 place 390209UAmb ethnic Ambraciots  long="20.9538" lat="39.0419
+95 keep Leucadian 2.9.2	ethnic	Λευκάδιος	Λευκάδιοι	masc:nom/voc 2.9 place 387207PLeu ethnic Leucadians  long="20.717" lat="38.81
+95 keep Anactorian 2.9.2	ethnic	Ἀνακτόριος	Ἀνακτόριοι	masc:nom/voc 2.9 place 389208PAna ethnic Anactorians  long="20.8435" lat="38.9209
+95 keep Corinthian 2.9.3	ethnic	Κορίνθιος	Κορίνθιοι	masc:nom/voc 2.9 place 379229PKor ethnic Corinthians  long="22.8802" lat="37.9054
+94 keep Megarian 2.9.3	ethnic	Μεγαρεύς	Μεγαρῆς	masc:nom/voc 2.9 place 380233PMeg ethnic Megarians  long="23.34285" lat="37.997
+60 reject Sicyonian 2.9.3	ethnic	Σικυώνιος	Σικυώνιοι	masc:nom/voc 2.9 place 378209PZak ethnic Zacynthians  long="20.8921" lat="37.7872
+100 keep Pellene 2.9.3	place	Πελλήνη	Πελληνῆς	masc:nom/voc 2.9 place 380225PPel place Pellene  long="22.5384" lat="38.0446
+83 keep Eleian 2.9.3	ethnic	Ἠλεῖος	Ἠλεῖοι	masc:nom/voc 2.9 place 378215REle ethnic Eleans  long="21.5" lat="37.8
+86 keep Ampraciotes 2.9.3	ethnic	Ἀμπρακιώτης	Ἀμπρακιῶται	masc:nom/voc 2.9 place 390209UAmb ethnic Ambraciots  long="20.9538" lat="39.0419
+95 keep Leucadian 2.9.3	ethnic	Λευκάδιος	Λευκάδιοι	masc:nom/voc 2.9 place 387207PLeu ethnic Leucadians  long="20.717" lat="38.81
+94 keep Boeotian 2.9.3	ethnic	Βοιωτός	Βοιωτοί	masc:nom/voc 2.9 place 384233RBoi ethnic Boeotians  long="23.25" lat="38.35
+80 keep Phocean 2.9.3	ethnic	Φωκεύς	Φωκῆς	masc:nom/voc 2.9 place 386227RPho ethnic Phocians  long="22.7" lat="38.6
+71 keep Locroi 2.9.3	place	Λοκροί	Λοκροί	masc:nom/voc 2.9 place 386231ROpu ethnic Locrians  long="23.1" lat="38.6
+100 keep Lacedaemonian 2.9.3	ethnic	Λακεδαιμόνιος	Λακεδαιμονίων	masc/neut:gen 2.9 place 371224PSpa demonym Lacedaemonian  long="22.4237" lat="37.0821
+71 keep Athenian 2.9.4	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.9 place 380237PAth place Athens  long="23.72793" lat="37.9718
+100 keep Chios 2.9.4	ethnic	Χῖος	Χῖοι	masc:nom/voc 2.9 place 384261PChi place Chios  long="26.1342" lat="38.3764
+93 keep Lesbian 2.9.4	ethnic	Λέσβιος	Λέσβιοι	masc:nom/voc 2.9 place 392261ILes ethnic Lesbians  long="26.2" lat="39.2075
+82 keep Plataiean 2.9.4	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.9 place 382233PPla ethnic Plateans  long="23.2733" lat="38.2213
+95 keep Messenian 2.9.4	ethnic	Μεσσήνιος	Μεσσήνιοι	masc:nom/voc 2.9 place 372218RMes ethnic Messenians  long="21.8" lat="37.2
+100 keep Naupactus 2.9.4	place	Ναύπακτος	Ναυπάκτῳ	fem:dat 2.9 place 384218UNau place Naupactus  long="21.8313" lat="38.3997
+91 keep Acharnanian 2.9.4	ethnic	Ἀκαρνάν	Ἀκαρνάνων	masc:gen 2.9 place 388210RAka ethnic Acarnanians  long="21" lat="38.8
+88 keep Corcyrian 2.9.4	group	Κερυκυραῖος	Κερκυραῖοι	masc:nom/voc 2.9 place 396199PKer place Corcyra  long="19.9156" lat="39.6063
+95 keep Zacynthian 2.9.4	ethnic	Ζακύνθιος	Ζακύνθιοι	masc:nom/voc 2.9 place 378209PZak ethnic Zacynthians  long="20.8921" lat="37.7872
+91 keep Carian 2.9.4	ethnic	Κάριος	Καρία	fem:nom/voc/acc 2.9 place 370287RKar place Caria  long="28.7" lat="37.01
+100 keep Dorian 2.9.4	ethnic	Δωριεύς	Δωριῆς	masc:nom/voc 2.9 place 387224RDor demonym Dorian  long="22.4" lat="38.7
+91 keep Carian 2.9.4	ethnic	Κάρ	Καρσὶ	masc:dat 2.9 place 370287RKar place Caria  long="28.7" lat="37.01
+100 keep Ionia 2.9.4	place	Ἰωνία	Ἰωνία	fem:nom/voc/acc 2.9 place 375275RIon place Ionia  long="27.7" lat="38
+91 keep Hellespontus 2.9.4	place	Ἑλλήσποντος	Ἑλλήσποντος	masc:nom 2.9 place 402264WHel place Hellespont  long="26.4" lat="40.2
+73 keep Thrace 2.9.4	place	Θρᾳκία	Θρᾴκης	fem:gen 2.9 place 364255PThe place Thera  long="25.477" lat="36.364
+100 keep Peloponnese 2.9.4	place	Πελοπόννησος	Πελοποννήσου	fem:gen 2.9 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+100 keep Crete 2.9.4	place	Κρήτη	Κρήτης	fem:gen 2.9 place 352252IKre place Crete  long="25.1836" lat="35.2052
+100 keep Cyclades 2.9.4	place	Κυκλάδες	Κυκλάδες	fem:nom/voc 2.9 place 372248RKyk place Cyclades  long="24.8" lat="37.2
+80 keep Melus 2.9.4	place	Μῆλος	Μήλου	masc/neut:gen 2.9 place 367244PMel place Melos  long="24.4199" lat="36.7389
+80 keep There 2.9.4	place	Θήρη	Θήρας	fem:gen 2.9 place 364255PThe place Thera  long="25.477" lat="36.364
+100 keep Chios 2.9.5	ethnic	Χῖος	Χῖοι	masc:nom/voc 2.9 place 384261PChi place Chios  long="26.1342" lat="38.3764
+93 keep Lesbian 2.9.5	ethnic	Λέσβιος	Λέσβιοι	masc:nom/voc 2.9 place 392261ILes ethnic Lesbians  long="26.2" lat="39.2075
+88 keep Corcyrian 2.9.5	group	Κερυκυραῖος	Κερκυραῖοι	masc:nom/voc 2.9 place 396199PKer place Corcyra  long="19.9156" lat="39.6063
+100 keep Lacedaemonian 2.10.1	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιοι	masc:nom/voc 2.10 place 371224PSpa demonym Lacedaemonian  long="22.4237" lat="37.0821
+86 keep Plataia 2.10.1	place	Πλάταια	Πλαταιαῖς	fem:dat 2.10 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+100 keep Peloponnese 2.10.1	place	Πελοπόννησος	Πελοπόννησον	fem:acc 2.10 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+100 keep Attica 2.10.1	ethnic	Ἀττικός	Ἀττικήν	fem:acc 2.10 place 379239RAtt place Attica  long="23.9" lat="37.9
+100 keep Isthmus 2.10.2	place	Ἰσθμός	Ἰσθμόν	masc:acc 2.10 place 379230LIst place Isthmus  long="22.973" lat="37.928
+90 keep Archidamos 2.10.3	person	Ἀρχίδαμος	Ἀρχίδαμος	masc:nom 2.10 people 239 noclass Archidamus
+100 keep Lacedaemonian 2.10.3	ethnic	Λακεδαιμόνιος	Λακεδαιμονίων	masc/neut:gen 2.10 place 371224PSpa demonym Lacedaemonian  long="22.4237" lat="37.0821
+96 keep Peloponnesian 2.11.1	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.11 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Peloponnese 2.11.1	place	Πελοπόννησος	Πελοποννήσῳ	fem:dat 2.11 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+94 keep Athenian 2.11.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.11 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+94 keep Athenian 2.11.8	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.11 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+90 keep Archidamos 2.12.1	person	Ἀρχίδαμος	Ἀρχίδαμος	masc:nom 2.12 people 239 noclass Archidamus
+50 reject Melesippos 2.12.1	person	Μελήσιππος	Μελήσιππον	masc:acc 2.12 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Athens 2.12.1	place	Ἀθῆναι	Ἀθήνας	fem:acc 2.12 place 380237PAth place Athens  long="23.72793" lat="37.9718
+100 keep Diacritus 2.12.1	noclass	Διάκριτος	Διακρίτου	masc:gen 2.12 people 7596 noclass Diacritus
+71 keep Spartiates 2.12.1	group	Σπαρτιάτης	Σπαρτιάτην	masc:acc 2.12 place 371224PSpa person Spartan  long="22.4237" lat="37.0821
+94 keep Athenian 2.12.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.12 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Pericles 2.12.2	person	Περικλῆς	Περικλέους	masc:gen 2.12 people 92 noclass Pericles
+96 keep Lacedaemonian 2.12.2	ethnic	Λακεδαιμόνιος	Λακεδαιμονίων	masc/neut:gen 2.12 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+50 reject Melesippos 2.12.2	person	Μελήσιππος	Μελησίππῳ	masc:dat 2.12 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+90 keep Archidamos 2.12.4	person	Ἀρχίδαμος	Ἀρχίδαμος	masc:nom 2.12 people 239 noclass Archidamus
+94 keep Athenian 2.12.4	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.12 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+94 keep Boeotian 2.12.5	ethnic	Βοιωτός	Βοιωτοὶ	masc:nom/voc 2.12 place 384233RBoi ethnic Boeotians  long="23.25" lat="38.35
+100 keep Peloponnesian 2.12.5	ethnic	Πελοποννήσιος	Πελοποννησίοις	masc/neut:dat 2.12 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+86 keep Plataia 2.12.5	place	Πλάταια	Πλάταιαν	fem:acc 2.12 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+100 keep Peloponnesian 2.13.1	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.13 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+100 keep Isthmus 2.13.1	place	Ἰσθμός	Ἰσθμὸν	masc:acc 2.13 place 379230LIst place Isthmus  long="22.973" lat="37.928
+100 keep Attica 2.13.1	ethnic	Ἀττικός	Ἀττικήν	fem:acc 2.13 place 379239RAtt place Attica  long="23.9" lat="37.9
+100 keep Pericles 2.13.1	person	Περικλῆς	Περικλῆς	masc:nom 2.13 people 92 noclass Pericles
+90 keep Xanthippos 2.13.1	person	Ξάνθιππος	Ξανθίππου	masc:gen 2.13 people 727 noclass Xanthippus
+94 keep Athenian 2.13.1	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.13 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+90 keep Archidamos 2.13.1	person	Ἀρχίδαμος	Ἀρχίδαμος	masc:nom 2.13 people 239 noclass Archidamus
+87 keep Lacedaemonian 2.13.1	ethnic	Λακεδαιμόνιος	Λακεδαιμονίων	masc/neut:gen 2.13 place 371224PSpa place Lacedaemon  long="22.4237" lat="37.0821
+94 keep Athenian 2.13.1	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.13 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+82 keep Poteidaia 2.13.3	place	Ποτείδαια	Ποτείδαιαν	fem:acc 2.13 place 402233UPot place Potidaea  long="23.3278" lat="40.1937
+100 keep Median 2.13.4	ethnic	Μηδικός	Μηδικὰ	neut:nom/voc/acc 2.13 people 538 noclass Median
+89 keep Phalericus 2.13.7	noclass	Φαληρικός	Φαληρικοῦ	masc/neut:gen 2.13 place 379237DPha demonym Phaleric  long="23.7062" lat="37.9373
+88 keep Peiraieus 2.13.7	place	Πειραιεύς	Πειραιᾶ	masc:acc 2.13 place 379236HPei place Piraeus  long="23.6448" lat="37.9394
+88 keep Peiraieus 2.13.7	place	Πειραιεύς	Πειραιῶς	masc:gen 2.13 place 379236HPei place Piraeus  long="23.6448" lat="37.9394
+100 keep Munychia 2.13.7	person	Μουνιχίη	Μουνιχίᾳ	fem:dat 2.13 place 379237HMou place Munychia  long="23.658" lat="37.938
+94 keep Athenian 2.13.9	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.13 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Peloponnesian 2.13.9	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.13 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+100 keep Pericles 2.13.9	person	Περικλῆς	Περικλῆς	masc:nom 2.13 people 92 noclass Pericles
+94 keep Athenian 2.14.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.14 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+83 keep Euboia 2.14.1	place	Εὔβοια	Εὔβοιαν	fem:acc 2.14 place 385239IEub place Euboea  long="23.87" lat="38.53
+94 keep Athenian 2.15.1	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.15 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Cecrops 2.15.1	person	Κέκροψ	Κέκροπος	masc:gen 2.15 people 447 noclass Cecrops
+100 keep Attica 2.15.1	ethnic	Ἀττικός	Ἀττικὴ	fem:nom/voc 2.15 place 379239RAtt place Attica  long="23.9" lat="37.9
+100 keep Theseus 2.15.1	person	Θησεύς	Θησέα	masc:acc 2.15 people 57 noclass Theseus
+95 keep Eleusinian 2.15.1	ethnic	Ἐλευσίνιος	Ἐλευσίνιοι	masc:nom/voc 2.15 place 380235PEle ethnic Eleusinians  long="23.5415" lat="38.0441
+88 keep Eumolpos 2.15.1	person	Εὔμολπος	Εὐμόλπου	masc:gen 2.15 people 793 noclass Eumolpus
+100 keep Erechtheus 2.15.1	person	Ἐρεχθεύς	Ἐρεχθέα	masc:acc 2.15 people 298 noclass Erechtheus
+100 keep Theseus 2.15.2	person	Θησεύς	Θησεὺς	masc:nom 2.15 people 57 noclass Theseus
+100 keep Theseus 2.15.2	person	Θησεύς	Θησέως	masc:nom 2.15 people 57 noclass Theseus
+94 keep Athenian 2.15.2	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.15 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+55 reject Zeus 2.15.4	person	Ζεύς	Διὸς	masc:gen 2.15 people 57 noclass Theseus
+100 keep Olympian 2.15.4	ethnic	Ὀλύμπιος	Ὀλυμπίου	masc/fem/neut:gen 2.15 place 380237SOly place Olympian Zeus  long="23.7337" lat="37.9694
+100 keep Pythion 2.15.4	place	Πύθιον	Πύθιον	neut:nom/voc/acc 2.15 place 380237SPth place Pythion  long="23.7322" lat="37.9675
+100 keep Earth 2.15.4	place	Γαῖα	Γῆς	fem:gen 2.15 people 3304 noclass Earth
+100 keep Limnai 2.15.4	place	Λίμναι	Λίμναις	fem:dat 2.15 place 380237SLmn place Limnai  long="23.73547" lat="37.96844
+88 keep Dionysos 2.15.4	person	Διόνυσος	Διονύσου	masc:gen 2.15 people 5 noclass Dionysus
+94 keep Dionysian 2.15.4	group	Διονύσιος	Διονύσια	neut:nom/voc/acc 2.15 people 651 noclass Dionysia
+100 keep Anthesterion 2.15.4	person	Ἀνθεστηριών	Ἀνθεστηριῶνι	masc:dat 2.15 people 4844 noclass Anthesterion
+94 keep Athenian 2.15.4	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.15 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Ionian 2.15.4	ethnic	Ἴωνες	Ἴωνες	masc:nom/voc 2.15 place 375275RIon demonym Ionian  long="27.7" lat="38
+92 keep Enneacrounus 2.15.5	noclass	Ἐννεάκρουνος	Ἐννεακρούνῳ	masc:dat 2.15 place 380237BKal place Enneacrounos  long="23.721" lat="37.9713
+89 keep Callirroe 2.15.5	place	Καλλιρρόη	Καλλιρρόῃ	fem:dat 2.15 place 380237BKal place Callirhoe  long="23.721" lat="37.9713
+94 keep Athenian 2.15.6	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.15 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+94 keep Athenian 2.16.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.16 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Median 2.16.1	ethnic	Μηδικός	Μηδικά	neut:nom/voc/acc 2.16 people 538 noclass Median
+90 keep Eleusinian 2.17.1	ethnic	Ἐλευσίνιος	Ἐλευσινίου	masc/neut:gen 2.17 place 380237SEle place Eleusinion  long="23.7249" lat="37.9735
+100 keep Pelasgian 2.17.1	noclass	Πελαργικός	Πελαργικὸν	neut:nom/voc/acc 2.17 place 380237FPel place Pelasgian  long="23.7244" lat="37.9721
+67 keep Pythicos 2.17.1	person	Πυθικός	Πυθικοῦ	masc/neut:gen 2.17 place 385225SDel demonym Pythian  long="22.50108" lat="38.48264
+88 keep Peiraieus 2.17.3	place	Πειραιεύς	Πειραιῶς	masc:gen 2.17 place 379236HPei place Piraeus  long="23.6448" lat="37.9394
+100 keep Peloponnese 2.17.4	place	Πελοπόννησος	Πελοποννήσῳ	fem:dat 2.17 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+96 keep Peloponnesian 2.18.1	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.18 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Attica 2.18.1	ethnic	Ἀττικός	Ἀττικῆς	fem:gen 2.18 place 379239RAtt place Attica  long="23.9" lat="37.9
+80 keep Oinoe 2.18.1	place	Οἰνόη	Οἰνόην	fem:acc 2.18 place 382234DOin place Oenoe  long="23.449" lat="38.168
+80 keep Oinoe 2.18.2	place	Οἰνόη	Οἰνόη	fem:nom/voc 2.18 place 382234DOin place Oenoe  long="23.449" lat="38.168
+100 keep Attica 2.18.2	ethnic	Ἀττικός	Ἀττικῆς	fem:gen 2.18 place 379239RAtt place Attica  long="23.9" lat="37.9
+80 keep Boiotia 2.18.2	place	Βοιωτία	Βοιωτίας	fem:gen 2.18 place 384233RBoi demonym Boeotian  long="23.25" lat="38.35
+100 keep Athenian 2.18.2	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.18 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+90 keep Archidamos 2.18.3	person	Ἀρχίδαμος	Ἀρχίδαμος	masc:nom 2.18 people 239 noclass Archidamus
+100 keep Athenian 2.18.3	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.18 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Isthmus 2.18.3	place	Ἰσθμός	Ἰσθμῷ	masc:dat 2.18 place 379230LIst place Isthmus  long="22.973" lat="37.928
+80 keep Oinoe 2.18.3	place	Οἰνόη	Οἰνόῃ	fem:dat 2.18 place 382234DOin place Oenoe  long="23.449" lat="38.168
+100 keep Athenian 2.18.4	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.18 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+96 keep Peloponnesian 2.18.4	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.18 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+90 keep Archidamos 2.18.5	person	Ἀρχίδαμος	Ἀρχίδαμον	masc:acc 2.18 people 239 noclass Archidamus
+100 keep Athenian 2.18.5	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.18 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+80 keep Oinoe 2.19.1	place	Οἰνόη	Οἰνόῃ	fem:dat 2.19 place 382234DOin place Oenoe  long="23.449" lat="38.168
+100 keep Athenian 2.19.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.19 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+86 keep Plataia 2.19.1	place	Πλάταια	Πλαταίᾳ	fem:dat 2.19 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+86 keep Thebaean 2.19.1	ethnic	Θηβαῖος	Θηβαίων	masc/neut:gen 2.19 place 383233PThe demonym Theban  long="23.3178" lat="38.3191
+100 keep Attica 2.19.1	ethnic	Ἀττικός	Ἀττικήν	fem:acc 2.19 place 379239RAtt place Attica  long="23.9" lat="37.9
+90 keep Archidamos 2.19.1	person	Ἀρχίδαμος	Ἀρχίδαμος	masc:nom 2.19 people 239 noclass Archidamus
+75 keep Zeuxidamos 2.19.1	person	Ζευξίδαμος	Ζευξιδάμου	masc:gen 2.19 people 938 noclass Zeuxis
+87 keep Lacedaemonian 2.19.1	ethnic	Λακεδαιμόνιος	Λακεδαιμονίων	masc/neut:gen 2.19 place 371224PSpa person Lacedaemon  long="22.4237" lat="37.0821
+100 keep Eleusis 2.19.2	place	Ἐλευσίς	Ἐλευσῖνα	fem:acc 2.19 place 380235PEle place Eleusis  long="23.5415" lat="38.0441
+78 keep Thriasios 2.19.2	person	Θριάσιος	Θριάσιον	neut:nom/voc/acc 2.19 place 381236LThr demonym Thriasian  long="23.59" lat="38.07
+100 keep Athenian 2.19.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.19 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+91 keep Reiti 2.19.2	noclass	Ῥεῖτι	Ῥείτους	masc:acc 2.19 place 381236WRhe place Rheiti  long="23.601" lat="38.023
+88 keep Aigaleus 2.19.2	noclass	Αἰγάλευς	Αἰγάλεων	masc:gen 2.19 place 379236LAig place Aegaleus  long="23.647" lat="38.047
+83 keep Cropie 2.19.2	noclass	Κρωπιή	Κρωπιᾶς	fem:gen 2.19 place 381237DKro place Cropia  long="23.6943" lat="38.0897
+88 keep Acharnai 2.19.2	place	Ἀχαρναί	Ἀχαρνάς	fem:acc 2.19 place 381237DAch place Acharnae  long="23.7332" lat="38.0803
+100 keep Attica 2.19.2	ethnic	Ἀττικός	Ἀττικῆς	fem:gen 2.19 place 379239RAtt place Attica  long="23.9" lat="37.9
+90 keep Archidamos 2.20.1	person	Ἀρχίδαμος	Ἀρχίδαμον	masc:acc 2.20 people 239 noclass Archidamus
+88 keep Acharnai 2.20.1	place	Ἀχαρναί	Ἀχαρνὰς	fem:acc 2.20 place 381237DAch place Acharnae  long="23.7332" lat="38.0803
+100 keep Athenian 2.20.2	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.20 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Eleusis 2.20.3	place	Ἐλευσίς	Ἐλευσῖνα	fem:acc 2.20 place 380235PEle place Eleusis  long="23.5415" lat="38.0441
+78 keep Thriasios 2.20.3	person	Θριάσιος	Θριάσιον	neut:nom/voc/acc 2.20 place 381236LThr demonym Thriasian  long="23.59" lat="38.07
+88 keep Acharnai 2.20.3	place	Ἀχαρναί	Ἀχαρνὰς	fem:acc 2.20 place 381237DAch place Acharnae  long="23.7332" lat="38.0803
+84 keep Acharnean 2.20.4	ethnic	Ἀχαρνεύς	Ἀχαρνῆς	masc:nom/voc 2.20 place 381237DAch ethnic Acharnians  long="23.7332" lat="38.0803
+100 keep Athenian 2.20.4	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.20 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+84 keep Acharnean 2.20.4	ethnic	Ἀχαρνεύς	Ἀχαρνέας	masc:acc 2.20 place 381237DAch ethnic Acharnians  long="23.7332" lat="38.0803
+90 keep Archidamos 2.20.5	person	Ἀρχίδαμος	Ἀρχίδαμος	masc:nom 2.20 people 239 noclass Archidamus
+88 keep Acharnai 2.20.5	place	Ἀχαρναί	Ἀχαρνὰς	fem:acc 2.20 place 381237DAch place Acharnae  long="23.7332" lat="38.0803
+94 keep Athenian 2.21.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.21 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Eleusis 2.21.1	place	Ἐλευσίς	Ἐλευσῖνα	fem:acc 2.21 place 380235PEle place Eleusis  long="23.5415" lat="38.0441
+78 keep Thriasios 2.21.1	person	Θριάσιος	Θριάσιον	neut:nom/voc/acc 2.21 place 381236LThr demonym Thriasian  long="23.59" lat="38.07
+100 keep Pleistoanax 2.21.1	person	Πλειστοάναξ	Πλειστοάνακτα	masc:acc 2.21 people 2346 noclass Pleistoanax
+100 keep Pausanias 2.21.1	person	Παυσανίας	Παυσανίου	masc:gen 2.21 people 117 noclass Pausanias
+87 keep Lacedaemonian 2.21.1	ethnic	Λακεδαιμόνιος	Λακεδαιμονίων	masc/neut:gen 2.21 place 371224PSpa person Lacedaemon  long="22.4237" lat="37.0821
+100 keep Attica 2.21.1	ethnic	Ἀττικός	Ἀττικῆς	fem:gen 2.21 place 379239RAtt place Attica  long="23.9" lat="37.9
+100 keep Thria 2.21.1	noclass	Θρῖα	Θριῶζε	nn:gen 2.21 place 381236DThr place Thria  long="23.5923" lat="38.0545
+100 keep Peloponnesian 2.21.1	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.21 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+83 keep Sparte 2.21.1	place	Σπάρτη	Σπάρτης	fem:gen 2.21 place 371224PSpa place Sparta  long="22.4237" lat="37.0821
+88 keep Acharnai 2.21.2	place	Ἀχαρναί	Ἀχαρνὰς	fem:acc 2.21 place 381237DAch place Acharnae  long="23.7332" lat="38.0803
+100 keep Median 2.21.2	ethnic	Μηδικός	Μηδικά	neut:nom/voc/acc 2.21 people 538 noclass Median
+84 keep Acharnean 2.21.3	ethnic	Ἀχαρνεύς	Ἀχαρνῆς	masc:nom/voc 2.21 place 381237DAch ethnic Acharnians  long="23.7332" lat="38.0803
+94 keep Athenian 2.21.3	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.21 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Pericles 2.21.3	person	Περικλῆς	Περικλέα	masc:acc 2.21 people 92 noclass Pericles
+59 reject Pericles 2.22.1	person	Περικλῆς	Περικλῆς	masc:nom 2.22 place 394228PPhe ethnic Pheraeans  long="22.7539" lat="39.379
+93 keep Phrygian 2.22.2	group	Φρύγιος	Φρυγίοις	masc/neut:dat 2.22 place 400310RPhr place Phrygia  long="31" lat="40
+100 keep Athenian 2.22.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.22 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+95 keep Thessalian 2.22.2	ethnic	Θεσσαλός	Θεσσαλοῖς	masc:dat 2.22 place 394223RThs ethnic Thessalians  long="22.3" lat="39.4
+100 keep Boeotian 2.22.2	ethnic	Βοιωτός	Βοιωτῶν	masc:gen 2.22 place 384233RBoi demonym Boeotian  long="23.25" lat="38.35
+100 keep Athenian 2.22.2	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.22 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+95 keep Thessalian 2.22.2	ethnic	Θεσσαλός	Θεσσαλοί	masc:nom/voc 2.22 place 394223RThs ethnic Thessalians  long="22.3" lat="39.4
+100 keep Boeotian 2.22.2	ethnic	Βοιωτός	Βοιωτοῖς	masc:dat 2.22 place 384233RBoi demonym Boeotian  long="23.25" lat="38.35
+95 keep Thessalian 2.22.2	ethnic	Θεσσαλός	Θεσσαλῶν	masc:gen 2.22 place 394223RThs ethnic Thessalians  long="22.3" lat="39.4
+96 keep Peloponnesian 2.22.3	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.22 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+95 keep Thessalian 2.22.3	ethnic	Θεσσαλός	Θεσσαλῶν	masc:gen 2.22 place 394223RThs ethnic Thessalians  long="22.3" lat="39.4
+100 keep Athenian 2.22.3	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.22 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Larisaean 2.22.3	ethnic	Λαρισαῖος	Λαρισαῖοι	masc:nom/voc 2.22 place 396224PLar demonym Larisaean  long="22.421" lat="39.6349
+100 keep Pharsalian 2.22.3	ethnic	Φαρσάλιος	Φαρσάλιοι	masc:nom/voc 2.22 place 393224UPha demonym Pharsalian  long="22.3869" lat="39.2883
+82 keep Parasian 2.22.3	noclass	Παράσιος	Παράσιοι	masc:nom/voc 2.22 place 393228PPyr ethnic Pyrasians  long="22.8212" lat="39.2788
+90 keep Crannonian 2.22.3	noclass	Κραννώνιος	Κραννώνιοι	masc:nom/voc 2.22 place 395223UKra ethnic Cranonians  long="22.3057" lat="39.4996
+94 keep Pyrasian 2.22.3	noclass	Πυράσιος	Πυράσιοι	masc:nom/voc 2.22 place 393228PPyr ethnic Pyrasians  long="22.8212" lat="39.2788
+95 keep Gyrtonian 2.22.3	ethnic	Γυρτώνιος	Γυρτώνιοι	masc:nom/voc 2.22 place 398226UGyr ethnic Gyrtonians  long="22.4031" lat="39.7573
+94 keep Pheraean 2.22.3	ethnic	Φεραῖος	Φεραῖοι	masc:nom/voc 2.22 place 394228PPhe ethnic Pheraeans  long="22.7539" lat="39.379
+92 keep Larissa 2.22.3	place	Λάρισσα	Λαρίσης	fem:gen 2.22 place 396224PLar place Larisa  long="22.421" lat="39.6349
+94 keep Polymede 2.22.3	person	Πολυμήδη	Πολυμήδης	fem:gen 2.22 people 5198 noclass Polymedes
+50 reject Aristonoun 2.22.3	person	Ἀριστόνουν	Ἀριστόνους	masc:nom 2.22 place 398226UGyr ethnic Gyrtonians  long="22.4031" lat="39.7573
+80 keep Pharsalus 2.22.3	place	Φάρσαλος	Φαρσάλου	masc:gen 2.22 place 393224UPha ethnic Pharsalians  long="22.3869" lat="39.2883
+100 keep Menon 2.22.3	person	Μένων	Μένων	masc:nom/voc 2.22 people 813 noclass Menon
+96 keep Peloponnesian 2.23.1	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.23 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+94 keep Athenian 2.23.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.23 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+88 keep Acharnai 2.23.1	place	Ἀχαρναί	Ἀχαρνῶν	fem:gen 2.23 place 381237DAch place Acharnae  long="23.7332" lat="38.0803
+100 keep Parnes 2.23.1	place	Πάρνης	Πάρνηθος	masc/fem:gen 2.23 place 382237LPar place Parnes  long="23.716" lat="38.174
+100 keep Brilessus 2.23.1	noclass	Βριλησσός	Βριλησσοῦ	masc:gen 2.23 place 381239LPen place Brilessus  long="23.8831" lat="38.0807
+94 keep Athenian 2.23.2	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.23 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Peloponnese 2.23.2	place	Πελοπόννησος	Πελοπόννησον	fem:acc 2.23 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+88 keep Carcinos 2.23.2	person	Καρκίνος	Καρκίνος	masc:nom 2.23 people 1658 noclass Carcinus
+100 keep Xenotimus 2.23.2	noclass	Ξενότιμος	Ξενοτίμου	masc:gen 2.23 people 8500 noclass Xenotimus
+100 keep Proteas 2.23.2	person	Πρωτέας	Πρωτέας	masc:nom 2.23 people 2347 noclass Proteas
+93 keep Epiclees 2.23.2	person	Ἐπικλέης	Ἐπικλέους	masc:gen 2.23 people 3020 noclass Epicles
+100 keep Socrates 2.23.2	person	Σωκράτης	Σωκράτης	masc:nom 2.23 people 10932 noclass Socrates
+100 keep Antigenes 2.23.2	person	Ἀντιγένης	Ἀντιγένους	masc:gen 2.23 people 1198 noclass Antigenes
+96 keep Peloponnesian 2.23.3	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.23 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Attica 2.23.3	ethnic	Ἀττικός	Ἀττικῇ	fem:dat 2.23 place 379239RAtt place Attica  long="23.9" lat="37.9
+93 keep Boeotian 2.23.3	ethnic	Βοιωτός	Βοιωτῶν	masc:gen 2.23 place 384233RBoi place Boeotia  long="23.25" lat="38.35
+100 keep Oropus 2.23.3	place	Ὠρωπός	Ὠρωπὸν	masc:acc 2.23 place 383238POro place Oropus  long="23.79" lat="38.3195
+53 reject Graicus 2.23.3	ethnic	Γραϊκός	Γραϊκὴν	fem:acc 2.23 people 1658 noclass Carcinus
+93 keep Oropian 2.23.3	ethnic	Ὠρώπιος	Ὠρώπιοι	masc:nom/voc 2.23 place 383238POro ethnic Oropians  long="23.79" lat="38.3195
+94 keep Athenian 2.23.3	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.23 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Peloponnese 2.23.3	place	Πελοπόννησος	Πελοπόννησον	fem:acc 2.23 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+94 keep Athenian 2.24.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.24 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Peloponnese 2.25.1	place	Πελοπόννησος	Πελοπόννησον	fem:acc 2.25 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+94 keep Athenian 2.25.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.25 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+84 keep Corcyrian 2.25.1	group	Κερυκυραῖος	Κερκυραῖοι	masc:nom/voc 2.25 place 396199PKer demonym Corcyraean  long="19.9156" lat="39.6063
+100 keep Methone 2.25.1	place	Μεθώνη	Μεθώνην	fem:acc 2.25 place 368217UMot place Methone  long="21.705" lat="36.817
+100 keep Laconia 2.25.1	ethnic	Λακωνικός	Λακωνικῆς	fem:gen 2.25 place 370225RLak place Laconia  long="22.5" lat="37.001
+100 keep Brasidas 2.25.2	person	Βρασίδας	Βρασίδας	masc:nom 2.25 people 293 noclass Brasidas
+100 keep Tellis 2.25.2	person	Τέλλις	Τέλλιδος	fem:gen 2.25 people 3087 noclass Tellis
+75 keep Spartiates 2.25.2	group	Σπαρτιάτης	Σπαρτιάτης	masc:nom 2.25 place 371224PSpa place Sparta  long="22.4237" lat="37.0821
+94 keep Athenian 2.25.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.25 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Methone 2.25.2	place	Μεθώνη	Μεθώνην	fem:acc 2.25 place 368217UMot place Methone  long="21.705" lat="36.817
+83 keep Sparte 2.25.2	place	Σπάρτη	Σπάρτῃ	fem:dat 2.25 place 371224PSpa place Sparta  long="22.4237" lat="37.0821
+94 keep Athenian 2.25.3	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.25 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+83 keep Eleian 2.25.3	ethnic	Ἠλεῖος	Ἠλείας	fem:gen 2.25 place 378215REle ethnic Eleans  long="21.5" lat="37.8
+100 keep Pheia 2.25.3	place	Φειά	Φειὰν	fem:acc 2.25 place 377213UPhe place Pheia  long="21.3136" lat="37.6642
+100 keep Elis 2.25.3	place	Ἦλις	Ἤλιδος	fem:gen 2.25 place 378214PEli place Elis  long="21.374" lat="37.89
+83 keep Eleian 2.25.3	ethnic	Ἠλεῖος	Ἠλείων	masc/neut:gen 2.25 place 378215REle ethnic Eleans  long="21.5" lat="37.8
+100 keep Ichthys 2.25.4	noclass	Ἰχθύς	Ἰχθῦν	masc:acc 2.25 place 378213LIch place Ichthys  long="21.311" lat="37.635
+100 keep Pheia 2.25.4	place	Φειά	Φειᾷ	fem:dat 2.25 place 377213UPhe place Pheia  long="21.3136" lat="37.6642
+95 keep Messenian 2.25.4	ethnic	Μεσσήνιος	Μεσσήνιοι	masc:nom/voc 2.25 place 372218RMes ethnic Messenians  long="21.8" lat="37.2
+100 keep Pheia 2.25.4	place	Φειά	Φειὰν	fem:acc 2.25 place 377213UPhe place Pheia  long="21.3136" lat="37.6642
+100 keep Pheia 2.25.5	place	Φειά	Φειάν	fem:acc 2.25 place 377213UPhe place Pheia  long="21.3136" lat="37.6642
+83 keep Eleian 2.25.5	ethnic	Ἠλεῖος	Ἠλείων	masc/neut:gen 2.25 place 378215REle ethnic Eleans  long="21.5" lat="37.8
+94 keep Athenian 2.25.5	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.25 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+94 keep Athenian 2.26.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.26 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+83 keep Locrus 2.26.1	ethnic	Λοκρός	Λοκρίδα	fem:acc 2.26 place 386231ROpu place Locris  long="23.1" lat="38.6
+83 keep Euboia 2.26.1	place	Εὔβοια	Εὐβοίας	fem:gen 2.26 place 385239IEub place Euboea  long="23.87" lat="38.53
+100 keep Cleopompus 2.26.1	noclass	Κλεόπομπος	Κλεόπομπος	masc:nom 2.26 people 6369 noclass Cleopompus
+93 keep Cleinias 2.26.1	person	Κλεινίας	Κλεινίου	masc:gen 2.26 people 545 noclass Clinias
+75 keep Thronion 2.26.2	place	Θρόνιον	Θρόνιον	neut:nom/voc/acc 2.26 place 388227PThr place Thronium  long="22.7113" lat="38.7759
+100 keep Alope 2.26.2	person	Ἀλόπη	Ἀλόπῃ	fem:dat 2.26 place 388229PAlo place Alope  long="22.9484" lat="38.7478
+83 keep Locroi 2.26.2	place	Λοκροί	Λοκρῶν	masc:gen 2.26 place 386231ROpu place Locris  long="23.1" lat="38.6
+95 keep Aeginetan 2.27.1	ethnic	Αἰγινήτης	Αἰγινήτας	masc:nom 2.27 place 378234PAig ethnic Aeginetans  long="23.425" lat="37.75
+83 keep Aigina 2.27.1	place	Αἴγινα	Αἰγίνης	fem:gen 2.27 place 378234PAig place Aegina  long="23.425" lat="37.75
+94 keep Athenian 2.27.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.27 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+83 keep Aigina 2.27.1	place	Αἴγινα	Αἴγιναν	fem:acc 2.27 place 378234PAig place Aegina  long="23.425" lat="37.75
+100 keep Peloponnese 2.27.1	place	Πελοπόννησος	Πελοποννήσῳ	fem:dat 2.27 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+95 keep Aeginetan 2.27.2	ethnic	Αἰγινήτης	Αἰγινήταις	masc:dat 2.27 place 378234PAig ethnic Aeginetans  long="23.425" lat="37.75
+87 keep Lacedaemonian 2.27.2	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιοι	masc:nom/voc 2.27 place 371224PSpa place Lacedaemon  long="22.4237" lat="37.0821
+100 keep Thyrea 2.27.2	place	Θυρέα	Θυρέαν	fem:acc 2.27 place 374227PThy place Thyrea  long="22.733" lat="37.395
+94 keep Athenian 2.27.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.27 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+91 keep Helot 2.27.2	ethnic	Εἵλως	Εἱλώτων	masc:gen 2.27 people 12102 noclass Helots
+80 keep Thyreatis 2.27.2	person	Θυρεάτις	Θυρεᾶτις	fem:nom 2.27 place 374227PThy place Thyrea  long="22.733" lat="37.395
+100 keep Argolis 2.27.2	ethnic	Ἀργεῖος	Ἀργείας	fem:gen 2.27 place 374229RArg place Argolis  long="22.9" lat="37.67
+100 keep Laconia 2.27.2	ethnic	Λακωνικός	Λακωνικῆς	fem:gen 2.27 place 370225RLak place Laconia  long="22.5" lat="37.001
+91 keep Nymphodoros 2.29.1	person	Νυμφόδωρος	Νυμφόδωρον	masc:acc 2.29 people 2060 noclass Nymphodorus
+100 keep Pythes 2.29.1	person	Πύθης	Πύθεω	masc:gen 2.29 people 1791 noclass Pythes
+94 keep Abderites 2.29.1	person	Ἀβδηρίτης	Ἀβδηρίτην	masc:acc 2.29 place 410250PAbd person Abderite  long="24.9833" lat="40.95
+100 keep Sitalces 2.29.1	person	Σιτάλκης	Σιτάλκης	masc:nom 2.29 people 1252 noclass Sitalces
+100 keep Athenian 2.29.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.29 place 380237PAth person Athenian  long="23.72793" lat="37.9718
+100 keep Sitalces 2.29.1	person	Σιτάλκης	Σιτάλκην	masc:acc 2.29 people 1252 noclass Sitalces
+80 keep Teras 2.29.1	person	Τήρας	Τήρεω	masc:gen 2.29 people 2264 noclass Teres
+94 keep Thracian 2.29.1	ethnic	Θρᾷξ	Θρᾳκῶν	masc:gen 2.29 place 410265RThr ethnic Thracians  long="26.5" lat="41
+80 keep Teras 2.29.2	person	Τήρας	Τήρης	masc:nom 2.29 people 2264 noclass Teres
+100 keep Sitalces 2.29.2	person	Σιτάλκης	Σιτάλκου	masc:gen 2.29 people 1252 noclass Sitalces
+75 keep Odrysai 2.29.2	place	Ὀδρύσαι	Ὀδρύσαις	fem:dat 2.29 place 417265ROdr ethnic Odrysians  long="26.5" lat="41.7
+100 keep Thrace 2.29.2	place	Θρᾳκία	Θρᾴκης	fem:gen 2.29 place 410265RThr place Thrace  long="26.5" lat="41
+94 keep Thracian 2.29.2	ethnic	Θρᾷξ	Θρᾳκῶν	masc:gen 2.29 place 410265RThr ethnic Thracians  long="26.5" lat="41
+100 keep Procne 2.29.3	person	Πρόκνη	Πρόκνην	fem:acc 2.29 people 1012 noclass Procne
+100 keep Pandion 2.29.3	person	Πανδίων	Πανδίονος	masc:gen 2.29 people 507 noclass Pandion
+100 keep Athens 2.29.3	place	Ἀθῆναι	Ἀθηνῶν	fem:gen 2.29 place 380237PAth place Athens  long="23.72793" lat="37.9718
+80 keep Teras 2.29.3	person	Τήρας	Τήρης	masc:nom 2.29 people 2264 noclass Teres
+100 keep Thrace 2.29.3	place	Θρᾳκία	Θρᾴκης	fem:gen 2.29 place 410265RThr place Thrace  long="26.5" lat="41
+92 keep Daulia 2.29.3	place	Δαυλία	Δαυλίᾳ	fem:nom/voc 2.29 place 385227PDau demonym Daulian  long="22.7318" lat="38.5055
+100 keep Phocis 2.29.3	place	Φωκίς	Φωκίδος	fem:gen 2.29 place 386227RPho place Phocis  long="22.7" lat="38.6
+100 keep Tereus 2.29.3	person	Τηρεύς	Τηρεὺς	masc:nom 2.29 people 682 noclass Tereus
+94 keep Thracian 2.29.3	ethnic	Θρᾷξ	Θρᾳκῶν	masc:gen 2.29 place 410265RThr ethnic Thracians  long="26.5" lat="41
+100 keep Itys 2.29.3	person	Ἴτυς	Ἴτυν	masc/fem:acc 2.29 people 1861 noclass Itys
+92 keep Daulias 2.29.3	noclass	Δαυλιάς	Δαυλιὰς	fem:nom 2.29 place 385227PDau place Daulis  long="22.7318" lat="38.5055
+100 keep Pandion 2.29.3	person	Πανδίων	Πανδίονα	masc:acc 2.29 people 507 noclass Pandion
+75 keep Odrysai 2.29.3	place	Ὀδρύσαι	Ὀδρύσας	fem:acc 2.29 place 417265ROdr ethnic Odrysians  long="26.5" lat="41.7
+75 keep Odrysai 2.29.3	place	Ὀδρύσαι	Ὀδρυσῶν	fem:gen 2.29 place 417265ROdr ethnic Odrysians  long="26.5" lat="41.7
+100 keep Sitalces 2.29.4	person	Σιτάλκης	Σιτάλκην	masc:acc 2.29 people 1252 noclass Sitalces
+100 keep Athenian 2.29.4	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.29 place 380237PAth person Athenian  long="23.72793" lat="37.9718
+100 keep Thrace 2.29.4	place	Θρᾳκία	Θρᾴκης	fem:gen 2.29 place 410265RThr place Thrace  long="26.5" lat="41
+100 keep Perdiccas 2.29.4	person	Περδίκκας	Περδίκκαν	masc:acc 2.29 people 888 noclass Perdiccas
+100 keep Athens 2.29.5	place	Ἀθῆναι	Ἀθήνας	fem:acc 2.29 place 380237PAth place Athens  long="23.72793" lat="37.9718
+91 keep Nymphodoros 2.29.5	person	Νυμφόδωρος	Νυμφόδωρος	masc:nom 2.29 people 2060 noclass Nymphodorus
+100 keep Sitalces 2.29.5	person	Σιτάλκης	Σιτάλκου	masc:gen 2.29 people 1252 noclass Sitalces
+53 reject Sadocos 2.29.5	person	Σάδοκος	Σάδοκον	masc:acc 2.29 people 1252 noclass Sitalces
+100 keep Athenian 2.29.5	ethnic	Ἀθηναῖος	Ἀθηναῖον	neut:nom/voc/acc 2.29 place 380237PAth person Athenian  long="23.72793" lat="37.9718
+100 keep Thrace 2.29.5	place	Θρᾳκία	Θρᾴκης	fem:gen 2.29 place 410265RThr place Thrace  long="26.5" lat="41
+100 keep Sitalces 2.29.5	person	Σιτάλκης	Σιτάλκην	masc:acc 2.29 people 1252 noclass Sitalces
+100 keep Thrace 2.29.5	place	Θρᾳκία	Θρᾳκίαν	fem:acc 2.29 place 410265RThr place Thrace  long="26.5" lat="41
+100 keep Athenian 2.29.5	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.29 place 380237PAth person Athenian  long="23.72793" lat="37.9718
+100 keep Perdiccas 2.29.6	person	Περδίκκας	Περδίκκαν	masc:acc 2.29 people 888 noclass Perdiccas
+100 keep Athenian 2.29.6	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.29 place 380237PAth person Athenian  long="23.72793" lat="37.9718
+67 reject thermo 2.29.6	noclass	θέρμω	Θέρμην	nn:acc 2.29 place 406229PThr place Therme  long="22.944" lat="40.5816
+100 keep Perdiccas 2.29.6	person	Περδίκκας	Περδίκκας	masc:nom 2.29 people 888 noclass Perdiccas
+95 keep Chalcidian 2.29.6	ethnic	Χαλκιδεύς	Χαλκιδέας	masc:acc 2.29 place 405233RCha ethnic Chalcidians  long="23.3" lat="40.5
+100 keep Athenian 2.29.6	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.29 place 380237PAth person Athenian  long="23.72793" lat="37.9718
+93 keep Phormion 2.29.6	person	Φορμίων	Φορμίωνος	masc:gen 2.29 people 188 noclass Phormio
+100 keep Sitalces 2.29.7	person	Σιτάλκης	Σιτάλκης	masc:nom 2.29 people 1252 noclass Sitalces
+80 keep Teras 2.29.7	person	Τήρας	Τήρεω	masc:gen 2.29 people 2264 noclass Teres
+94 keep Thracian 2.29.7	ethnic	Θρᾷξ	Θρᾳκῶν	masc:gen 2.29 place 410265RThr ethnic Thracians  long="26.5" lat="41
+100 keep Athenian 2.29.7	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.29 place 380237PAth person Athenian  long="23.72793" lat="37.9718
+100 keep Perdiccas 2.29.7	person	Περδίκκας	Περδίκκας	masc:nom 2.29 people 888 noclass Perdiccas
+84 keep Alexandros 2.29.7	person	Ἀλέξανδρος	Ἀλεξάνδρου	masc:gen 2.29 people 1150 noclass Alexander
+95 keep Macedonian 2.29.7	ethnic	Μακεδών	Μακεδόνων	masc/fem:gen 2.29 place 408225RMak ethnic Macedonians  long="22.5" lat="40.81
+94 keep Athenian 2.30.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.30 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Peloponnese 2.30.1	place	Πελοπόννησος	Πελοπόννησον	fem:acc 2.30 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+71 keep Sollion 2.30.1	place	Σόλλιον	Σόλλιόν	neut:nom/voc/acc 2.30 place 388207FSol place Sollium  long="20.835" lat="38.795
+82 keep Corinthian 2.30.1	ethnic	Κορίνθιος	Κορινθίων	masc/neut:gen 2.30 place 379229PKor place Corinth  long="22.8802" lat="37.9054
+75 keep Palaireus 2.30.1	noclass	Παλαιρεύς	Παλαιρεῦσιν	masc:dat 2.30 place 388208PPal place Palaira  long="20.823" lat="38.835
+91 keep Acharnanian 2.30.1	ethnic	Ἀκαρνάν	Ἀκαρνάνων	masc:gen 2.30 place 388210RAka ethnic Acarnanians  long="21" lat="38.8
+100 keep Astacus 2.30.1	place	Ἀστακός	Ἀστακόν	masc:acc 2.30 place 385211PAst place Astacus  long="21.0915" lat="38.5546
+75 keep Euarchos 2.30.1	person	Εὔαρχος	Εὔαρχος	masc:nom 2.30 people 6484 noclass Evarchus
+100 keep Cephallenia 2.30.2	place	Κεφαλληνία	Κεφαλληνίαν	fem:acc 2.30 place 382206IKep place Cephallenia  long="20.59" lat="38.2
+100 keep Cephallenia 2.30.2	place	Κεφαλληνία	Κεφαλληνία	fem:nom/voc/acc 2.30 place 382206IKep place Cephallenia  long="20.59" lat="38.2
+100 keep Acarnania 2.30.2	place	Ἀκαρνανία	Ἀκαρνανίαν	fem:acc 2.30 place 388210RAka place Acarnania  long="21" lat="38.8
+100 keep Leucas 2.30.2	place	Λευκάς	Λευκάδα	fem:acc 2.30 place 387207PLeu place Leucas  long="20.717" lat="38.81
+77 keep Palees 2.30.2	noclass	Παλέες	Παλῆς	masc:nom/voc 2.30 place 382204UPal ethnic Paleans  long="20.4375" lat="38.2226
+93 keep Cranian 2.30.2	noclass	Κράνιος	Κράνιοι	masc:nom/voc 2.30 place 382205UKra ethnic Cranians  long="20.5222" lat="38.1712
+93 keep Samaean 2.30.2	place	Σαμαῖος	Σαμαῖοι	masc:nom/voc 2.30 place 383207PSam ethnic Samaeans  long="20.6589" lat="38.2546
+89 keep Pronnaean 2.30.2	noclass	Προνναῖος	Προνναῖοι	masc:nom/voc 2.30 place 381208PPro ethnic Pronaeans  long="20.7767" lat="38.146
+100 keep Athens 2.30.2	place	Ἀθῆναι	Ἀθήνας	fem:acc 2.30 place 380237PAth place Athens  long="23.72793" lat="37.9718
+100 keep Athenian 2.31.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.31 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+86 keep Megaris 2.31.1	place	Μεγαρίς	Μεγαρίδα	fem:acc 2.31 place 380233PMeg place Megarid  long="23.34285" lat="37.997
+100 keep Pericles 2.31.1	person	Περικλῆς	Περικλέους	masc:gen 2.31 people 92 noclass Pericles
+90 keep Xanthippos 2.31.1	person	Ξάνθιππος	Ξανθίππου	masc:gen 2.31 people 727 noclass Xanthippus
+53 keep Peloponnese 2.31.1	place	Πελοπόννησος	Πελοπόννησον	fem:acc 2.31 people 92 noclass Pericles
+83 keep Aigina 2.31.1	place	Αἴγινα	Αἰγίνῃ	fem:dat 2.31 place 378234PAig place Aegina  long="23.425" lat="37.75
+100 keep Megara 2.31.1	place	Μέγαρα	Μεγάροις	neut:dat 2.31 place 380233PMeg place Megara  long="23.34285" lat="37.997
+100 keep Athenian 2.31.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.31 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Athenian 2.31.2	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.31 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+82 keep Poteidaia 2.31.2	place	Ποτείδαια	Ποτειδαίᾳ	fem:dat 2.31 place 402233UPot place Potidaea  long="23.3278" lat="40.1937
+100 keep Athenian 2.31.3	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.31 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+86 keep Megaris 2.31.3	place	Μεγαρίς	Μεγαρίδα	fem:acc 2.31 place 380233PMeg place Megarid  long="23.34285" lat="37.997
+83 keep Nisaia 2.31.3	place	Νίσαια	Νίσαια	fem:nom/voc 2.31 place 380234UNis place Nisaea  long="23.364" lat="37.9764
+88 keep Atalante 2.32.1	person	Ἀταλάντη	Ἀταλάντη	fem:nom/voc 2.32 place 388233IAta place Atalanta  long="23.095" lat="38.674
+94 keep Athenian 2.32.1	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.32 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+83 keep Locroi 2.32.1	place	Λοκροί	Λοκροῖς	masc:dat 2.32 place 386231ROpu place Locris  long="23.1" lat="38.6
+94 keep Opountian 2.32.1	ethnic	Ὀπούντιος	Ὀπουντίοις	masc/neut:dat 2.32 place 386231ROpu demonym Opuntian  long="23.1" lat="38.6
+89 keep Opous 2.32.1	place	Ὀπόεις	Ὀποῦντος	fem:gen 2.32 place 386230POpo place Opus  long="22.992" lat="38.652
+83 keep Locrus 2.32.1	ethnic	Λοκρός	Λοκρίδος	fem:gen 2.32 place 386231ROpu place Locris  long="23.1" lat="38.6
+83 keep Euboia 2.32.1	place	Εὔβοια	Εὔβοιαν	fem:acc 2.32 place 385239IEub place Euboea  long="23.87" lat="38.53
+96 keep Peloponnesian 2.32.1	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.32 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Attica 2.32.1	ethnic	Ἀττικός	Ἀττικῆς	fem:gen 2.32 place 379239RAtt place Attica  long="23.9" lat="37.9
+75 keep Euarchos 2.33.1	person	Εὔαρχος	Εὔαρχος	masc:nom 2.33 people 6484 noclass Evarchus
+95 keep Acharnanian 2.33.1	ethnic	Ἀκαρνάν	Ἀκαρνὰν	masc:nom/voc 2.33 place 388210RAka person Acarnanian  long="21" lat="38.8
+100 keep Astacus 2.33.1	place	Ἀστακός	Ἀστακὸν	masc:acc 2.33 place 385211PAst place Astacus  long="21.0915" lat="38.5546
+95 keep Corinthian 2.33.1	ethnic	Κορίνθιος	Κορινθίους	masc:acc 2.33 place 379229PKor ethnic Corinthians  long="22.8802" lat="37.9054
+90 keep Euphamides 2.33.1	noclass	Εὐφαμίδης	Εὐφαμίδας	masc:nom 2.33 people 7667 noclass Euphamidas
+91 keep Aristonymos 2.33.1	person	Ἀριστώνυμος	Ἀριστωνύμου	masc:gen 2.33 people 1815 noclass Aristonymus
+89 keep Timoxenos 2.33.1	person	Τιμόξενος	Τιμόξενος	masc:nom 2.33 people 2456 noclass Timoxenus
+100 keep Timocrates 2.33.1	person	Τιμοκράτης	Τιμοκράτους	masc:gen 2.33 people 250 noclass Timocrates
+88 keep Eumachos 2.33.1	person	Εὔμαχος	Εὔμαχος	masc:nom 2.33 people 2740 noclass Eumachus
+100 keep Chrysis 2.33.1	noclass	Χρύσις	Χρύσιδος	masc:gen 2.33 people 2508 noclass Chrysis
+95 keep Acarnania 2.33.2	place	Ἀκαρνανία	Ἀκαρνανίας	fem:gen 2.33 place 388210RAka person Acarnanian  long="21" lat="38.8
+100 keep Cephallenia 2.33.3	place	Κεφαλληνία	Κεφαλληνίαν	fem:acc 2.33 place 382206IKep place Cephallenia  long="20.59" lat="38.2
+100 keep Cranian 2.33.3	noclass	Κράνιος	Κρανίων	masc/neut:gen 2.33 place 382205UKra demonym Cranian  long="20.5222" lat="38.1712
+94 keep Athenian 2.34.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.34 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Marathon 2.34.5	place	Μαραθών	Μαραθῶνι	masc:dat 2.34 place 381241LMaB place Marathon  long="24.0002" lat="38.144
+100 keep Pericles 2.34.8	person	Περικλῆς	Περικλῆς	masc:nom 2.34 people 92 noclass Pericles
+90 keep Xanthippos 2.34.8	person	Ξάνθιππος	Ξανθίππου	masc:gen 2.34 people 727 noclass Xanthippus
+96 keep Lacedaemonian 2.39.2	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιοι	masc:nom/voc 2.39 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+100 keep Homer 2.41.4	person	Ὅμηρος	Ὁμήρου	masc:gen 2.41 people 9 noclass Homer
+45 reject Peloponnesian 2.47.2	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.47 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Attica 2.47.2	ethnic	Ἀττικός	Ἀττικήν	fem:acc 2.47 place 379239RAtt place Attica  long="23.9" lat="37.9
+90 keep Archidamos 2.47.2	person	Ἀρχίδαμος	Ἀρχίδαμος	masc:nom 2.47 people 239 noclass Archidamus
+90 keep Zeuxidamos 2.47.2	person	Ζευξίδαμος	Ζευξιδάμου	masc:gen 2.47 people 3096 noclass Zeuxidamus
+96 keep Lacedaemonian 2.47.2	ethnic	Λακεδαιμόνιος	Λακεδαιμονίων	masc/neut:gen 2.47 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+100 keep Attica 2.47.3	ethnic	Ἀττικός	Ἀττικῇ	fem:dat 2.47 place 379239RAtt place Attica  long="23.9" lat="37.9
+94 keep Athenian 2.47.3	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.47 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+83 keep Lemnus 2.47.3	place	Λῆμνος	Λῆμνον	fem:acc 2.47 place 399253ILem place Lemnos  long="25.21" lat="39.93
+82 keep Aithiopia 2.48.1	place	Αἰθιοπία	Αἰθιοπίας	fem:gen 2.48 place 130350REth place Ethiopia  long="35.01" lat="13.01
+100 keep Egypt 2.48.1	place	Αἴγυπτος	Αἰγύπτου	masc:gen 2.48 place 271307REgy place Egypt  long="30.7" lat="27.1
+100 keep Egypt 2.48.1	place	Αἴγυπτος	Αἴγυπτον	masc:acc 2.48 place 271307REgy place Egypt  long="30.7" lat="27.1
+100 keep Libya 2.48.1	place	Λιβύη	Λιβύην	fem:acc 2.48 place 300070RLib place Libya  long="10.01" lat="32.01
+71 keep Athenian 2.48.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.48 place 380237PAth place Athens  long="23.72793" lat="37.9718
+88 keep Peiraieus 2.48.2	place	Πειραιεύς	Πειραιεῖ	masc:dat 2.48 place 379236HPei place Piraeus  long="23.6448" lat="37.9394
+96 keep Peloponnesian 2.48.2	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.48 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+94 keep Athenian 2.54.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.54 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Dorian 2.54.2	noclass	Δωριακός	Δωριακὸς	masc:nom 2.54 place 387224RDor demonym Dorian  long="22.4" lat="38.7
+100 keep Dorian 2.54.3	person	Δωρικός	Δωρικὸς	masc:nom 2.54 place 387224RDor demonym Dorian  long="22.4" lat="38.7
+96 keep Lacedaemonian 2.54.4	ethnic	Λακεδαιμόνιος	Λακεδαιμονίων	masc/neut:gen 2.54 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+96 keep Peloponnesian 2.54.5	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.54 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Peloponnese 2.54.5	place	Πελοπόννησος	Πελοπόννησον	fem:acc 2.54 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+100 keep Athens 2.54.5	place	Ἀθῆναι	Ἀθήνας	fem:acc 2.54 place 380237PAth place Athens  long="23.72793" lat="37.9718
+96 keep Peloponnesian 2.55.1	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.55 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+53 reject Paralus 2.55.1	group	Πάραλος	Πάραλον	masc:acc 2.55 people 92 noclass Pericles
+100 keep Laurium 2.55.1	noclass	Λαύρειον	Λαυρείου	neut:gen 2.55 place 377241RLau place Laurium  long="24.05" lat="37.71
+100 keep Athenian 2.55.1	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.55 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Peloponnese 2.55.1	place	Πελοπόννησος	Πελοπόννησον	fem:acc 2.55 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+83 keep Euboia 2.55.1	place	Εὔβοια	Εὔβοιάν	fem:acc 2.55 place 385239IEub place Euboea  long="23.87" lat="38.53
+83 keep Andrus 2.55.1	place	Ἄνδρος	Ἄνδρον	fem:acc 2.55 place 378248PAnd place Andros  long="24.8265" lat="37.8158
+100 keep Pericles 2.55.2	person	Περικλῆς	Περικλῆς	masc:nom 2.55 people 92 noclass Pericles
+100 keep Athenian 2.55.2	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.55 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Peloponnese 2.56.1	place	Πελοπόννησος	Πελοποννήσῳ	fem:dat 2.56 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+100 keep Athenian 2.56.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.56 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+60 reject Chios 2.56.2	ethnic	Χῖος	Χῖοι	masc:nom/voc 2.56 people 10959 noclass horse
+100 keep Lesbian 2.56.2	ethnic	Λέσβιος	Λέσβιοι	masc:nom/voc 2.56 place 392261ILes demonym Lesbian  long="26.2" lat="39.2075
+100 keep Athenian 2.56.3	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.56 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+96 keep Peloponnesian 2.56.3	ethnic	Πελοποννήσιος	Πελοποννησίους	masc:acc 2.56 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Attica 2.56.3	ethnic	Ἀττικός	Ἀττικῆς	fem:gen 2.56 place 379239RAtt place Attica  long="23.9" lat="37.9
+100 keep Epidaurus 2.56.4	place	Ἐπίδαυρος	Ἐπίδαυρον	masc:acc 2.56 place 376232PEpi place Epidaurus  long="23.1602" lat="37.6335
+100 keep Peloponnese 2.56.4	place	Πελοπόννησος	Πελοποννήσου	fem:gen 2.56 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+100 keep Epidaurus 2.56.5	place	Ἐπίδαυρος	Ἐπιδαύρου	masc:gen 2.56 place 376232PEpi place Epidaurus  long="23.1602" lat="37.6335
+71 keep Troizenian 2.56.5	ethnic	Τροιζήνιος	Τροιζηνίδα	fem:acc 2.56 place 375234PTro place Troezen  long="23.3484" lat="37.5033
+77 keep Halias 2.56.5	noclass	Ἁλιάς	Ἁλιάδα	fem:acc 2.56 place 373231PHal place Halieis  long="23.1491" lat="37.3132
+82 keep Hermionis 2.56.5	place	Ἑρμιονίς	Ἑρμιονίδα	fem:acc 2.56 place 374232UHer place Hermione  long="23.2535" lat="37.3834
+100 keep Peloponnese 2.56.5	place	Πελοπόννησος	Πελοποννήσου	fem:gen 2.56 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+100 keep Prasiai 2.56.6	place	Πρασιαί	Πρασιὰς	fem:acc 2.56 place 371229PPra place Prasiai  long="22.8882" lat="37.145
+100 keep Laconia 2.56.6	ethnic	Λακωνικός	Λακωνικῆς	fem:gen 2.56 place 370225RLak place Laconia  long="22.5" lat="37.001
+96 keep Peloponnesian 2.56.6	ethnic	Πελοποννήσιος	Πελοποννησίους	masc:acc 2.56 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Attica 2.56.6	ethnic	Ἀττικός	Ἀττικῇ	fem:dat 2.56 place 379239RAtt place Attica  long="23.9" lat="37.9
+96 keep Peloponnesian 2.57.1	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.57 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+94 keep Athenian 2.57.1	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.57 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+94 keep Athenian 2.57.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.57 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+94 keep Athenian 2.57.1	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.57 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+96 keep Peloponnesian 2.57.1	ethnic	Πελοποννήσιος	Πελοποννησίους	masc:acc 2.57 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Attica 2.57.2	ethnic	Ἀττικός	Ἀττικῇ	fem:dat 2.57 place 379239RAtt place Attica  long="23.9" lat="37.9
+100 keep Hagnon 2.58.1	person	Ἅγνων	Ἅγνων	masc:nom/voc 2.58 people 1399 noclass Hagnon
+100 keep Nicias 2.58.1	person	Νικίας	Νικίου	masc:gen 2.58 people 115 noclass Nicias
+100 keep Cleopompus 2.58.1	noclass	Κλεόπομπος	Κλεόπομπος	masc:nom 2.58 people 6369 noclass Cleopompus
+93 keep Cleinias 2.58.1	person	Κλεινίας	Κλεινίου	masc:gen 2.58 people 545 noclass Clinias
+100 keep Pericles 2.58.1	person	Περικλῆς	Περικλέους	masc:gen 2.58 people 92 noclass Pericles
+95 keep Chalcidian 2.58.1	ethnic	Χαλκιδεύς	Χαλκιδέας	masc:acc 2.58 place 405233RCha ethnic Chalcidians  long="23.3" lat="40.5
+100 keep Thrace 2.58.1	place	Θρᾳκία	Θρᾴκης	fem:gen 2.58 place 410265RThr place Thrace  long="26.5" lat="41
+82 keep Poteidaia 2.58.1	place	Ποτείδαια	Ποτείδαιαν	fem:acc 2.58 place 402233UPot place Potidaea  long="23.3278" lat="40.1937
+82 keep Poteidaia 2.58.1	place	Ποτείδαια	Ποτειδαίᾳ	fem:dat 2.58 place 402233UPot place Potidaea  long="23.3278" lat="40.1937
+71 keep Athenian 2.58.2	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.58 place 380237PAth place Athens  long="23.72793" lat="37.9718
+71 keep Athenian 2.58.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.58 place 380237PAth place Athens  long="23.72793" lat="37.9718
+100 keep Hagnon 2.58.2	person	Ἅγνων	Ἅγνωνι	masc:dat 2.58 people 1399 noclass Hagnon
+93 keep Phormion 2.58.2	person	Φορμίων	Φορμίων	masc:nom/voc 2.58 people 188 noclass Phormio
+95 keep Chalcidian 2.58.2	ethnic	Χαλκιδεύς	Χαλκιδέας	masc:acc 2.58 place 405233RCha ethnic Chalcidians  long="23.3" lat="40.5
+100 keep Hagnon 2.58.3	person	Ἅγνων	Ἅγνων	masc:nom/voc 2.58 people 1399 noclass Hagnon
+100 keep Athens 2.58.3	place	Ἀθῆναι	Ἀθήνας	fem:acc 2.58 place 380237PAth place Athens  long="23.72793" lat="37.9718
+82 keep Poteidaia 2.58.3	place	Ποτείδαια	Ποτείδαιαν	fem:acc 2.58 place 402233UPot place Potidaea  long="23.3278" lat="40.1937
+96 keep Peloponnesian 2.59.1	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.59 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+94 keep Athenian 2.59.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.59 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Pericles 2.59.2	person	Περικλῆς	Περικλέα	masc:acc 2.59 people 92 noclass Pericles
+87 keep Lacedaemonian 2.59.2	ethnic	Λακεδαιμόνιος	Λακεδαιμονίους	masc:acc 2.59 place 371224PSpa place Lacedaemon  long="22.4237" lat="37.0821
+100 keep Pericles 2.59.2	person	Περικλῆς	Περικλεῖ	masc:dat 2.59 people 92 noclass Pericles
+87 keep Lacedaemonian 2.64.6	ethnic	Λακεδαιμόνιος	Λακεδαιμονίοις	masc/neut:dat 2.64 place 371224PSpa place Lacedaemon  long="22.4237" lat="37.0821
+100 keep Pericles 2.65.1	person	Περικλῆς	Περικλῆς	masc:nom 2.65 people 92 noclass Pericles
+94 keep Athenian 2.65.1	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.65 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+87 keep Lacedaemonian 2.65.2	ethnic	Λακεδαιμόνιος	Λακεδαιμονίους	masc:acc 2.65 place 371224PSpa place Lacedaemon  long="22.4237" lat="37.0821
+100 keep Sicily 2.65.11	place	Σικελία	Σικελίαν	fem:acc 2.65 place 376145RSic place Sicily  long="14.5" lat="37.6
+100 keep Sicily 2.65.12	place	Σικελία	Σικελίᾳ	fem:nom/voc 2.65 place 376145RSic place Sicily  long="14.5" lat="37.6
+100 keep Sicily 2.65.12	place	Σικελία	Σικελίας	fem:gen 2.65 place 376145RSic place Sicily  long="14.5" lat="37.6
+80 keep Cyros 2.65.12	person	Κῦρος	Κύρῳ	masc:dat 2.65 people 27 noclass Cyrus
+100 keep Peloponnesian 2.65.12	ethnic	Πελοποννήσιος	Πελοποννησίοις	masc/neut:dat 2.65 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+100 keep Pericles 2.65.13	person	Περικλῆς	Περικλεῖ	masc:dat 2.65 people 92 noclass Pericles
+100 keep Peloponnesian 2.65.13	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.65 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+100 keep Lacedaemonian 2.66.1	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιοι	masc:nom/voc 2.66 place 371224PSpa demonym Lacedaemonian  long="22.4237" lat="37.0821
+100 keep Zacynthus 2.66.1	place	Ζάκυνθος	Ζάκυνθον	fem:acc 2.66 place 378209PZak place Zacynthus  long="20.8921" lat="37.7872
+100 keep Elis 2.66.1	place	Ἦλις	Ἤλιδος	fem:gen 2.66 place 378214PEli place Elis  long="21.374" lat="37.89
+93 keep Achaean 2.66.1	ethnic	Ἀχαιός	Ἀχαιῶν	masc/neut:gen 2.66 place 382219RAch ethnic Achaeans  long="21.9" lat="38.2
+100 keep Peloponnese 2.66.1	place	Πελοπόννησος	Πελοποννήσου	fem:gen 2.66 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+71 keep Athenian 2.66.1	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.66 place 380237PAth place Athens  long="23.72793" lat="37.9718
+100 keep Lacedaemonian 2.66.2	ethnic	Λακεδαιμόνιος	Λακεδαιμονίων	masc/neut:gen 2.66 place 371224PSpa demonym Lacedaemonian  long="22.4237" lat="37.0821
+83 keep Cnemos 2.66.2	person	Κνῆμος	Κνῆμος	masc:nom 2.66 people 2609 noclass Cnemus
+38 reject Spartiates 2.66.2	group	Σπαρτιάτης	Σπαρτιάτης	masc:nom 2.66 place 380237PAth place Athens  long="23.72793" lat="37.9718
+100 keep Aristeus 2.67.1	person	Ἀριστεύς	Ἀριστεὺς	masc:nom 2.67 people 1738 noclass Aristeus
+100 keep Corinthian 2.67.1	ethnic	Κορίνθιος	Κορίνθιος	masc:nom 2.67 place 379229PKor person Corinthian  long="22.8802" lat="37.9054
+96 keep Lacedaemonian 2.67.1	ethnic	Λακεδαιμόνιος	Λακεδαιμονίων	masc/neut:gen 2.67 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+89 keep Aneristos 2.67.1	person	Ἀνήριστος	Ἀνήριστος	masc:nom 2.67 people 7247 noclass Aneristus
+88 keep Nicolaos 2.67.1	person	Νικόλαος	Νικόλαος	masc:nom 2.67 people 842 noclass Nicolaus
+57 reject Pratodamus 2.67.1	noclass	Πρατόδαμος	Πρατόδαμος	masc:nom 2.67 people 172 noclass Pharnabazus
+71 keep Tegeates 2.67.1	ethnic	Τεγεάτης	Τεγεάτης	masc:nom 2.67 place 375224PTeg person Tegean  long="22.429" lat="37.464
+100 keep Timagoras 2.67.1	person	Τιμαγόρας	Τιμαγόρας	masc:nom 2.67 people 1723 noclass Timagoras
+57 keep Argive 2.67.1	ethnic	Ἀργεῖος	Ἀργεῖος	masc:nom 2.67 people 1738 noclass Aristeus
+100 keep Pollis 2.67.1	person	Πόλλις	Πόλλις	masc:nom 2.67 people 1638 noclass Pollis
+50 reject Asia 2.67.1	place	Ἀσία	Ἀσίαν	fem:acc 2.67 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Sitalces 2.67.1	person	Σιτάλκης	Σιτάλκην	masc:acc 2.67 people 1252 noclass Sitalces
+80 keep Teras 2.67.1	person	Τήρας	Τήρεω	masc:gen 2.67 people 2264 noclass Teres
+100 keep Thrace 2.67.1	place	Θρᾳκία	Θρᾴκην	fem:acc 2.67 place 410265RThr place Thrace  long="26.5" lat="41
+100 keep Athenian 2.67.1	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.67 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+82 keep Poteidaia 2.67.1	place	Ποτείδαια	Ποτείδαιαν	fem:acc 2.67 place 402233UPot place Potidaea  long="23.3278" lat="40.1937
+91 keep Hellespontus 2.67.1	place	Ἑλλήσποντος	Ἑλλησπόντου	masc:gen 2.67 place 402264WHel place Hellespont  long="26.4" lat="40.2
+70 keep Pharnaces 2.67.1	person	Φαρνάκης	Φαρνάκην	masc:acc 2.67 people 172 noclass Pharnabazus
+91 keep Pharnabazos 2.67.1	person	Φαρνάβαζος	Φαρναβάζου	masc:gen 2.67 people 172 noclass Pharnabazus
+100 keep Athenian 2.67.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.67 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+88 keep Learchos 2.67.2	person	Λέαρχος	Λέαρχος	masc:nom 2.67 people 3620 noclass Learchus
+91 keep Callimachos 2.67.2	person	Καλλίμαχος	Καλλιμάχου	masc:gen 2.67 people 219 noclass Callimachus
+100 keep Ameiniades 2.67.2	noclass	Ἀμεινιάδης	Ἀμεινιάδης	masc:nom 2.67 people 7225 noclass Ameiniades
+100 keep Philemon 2.67.2	person	Φιλήμων	Φιλήμονος	masc:gen 2.67 people 638 noclass Philemon
+100 keep Sitalces 2.67.2	person	Σιτάλκης	Σιτάλκῃ	masc:dat 2.67 people 1252 noclass Sitalces
+53 reject Sadocos 2.67.2	person	Σάδοκος	Σάδοκον	masc:acc 2.67 people 1252 noclass Sitalces
+100 keep Athenian 2.67.2	ethnic	Ἀθηναῖος	Ἀθηναῖον	neut:nom/voc/acc 2.67 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Sitalces 2.67.2	person	Σιτάλκης	Σιτάλκου	masc:gen 2.67 people 1252 noclass Sitalces
+100 keep Thrace 2.67.3	place	Θρᾳκία	Θρᾴκης	fem:gen 2.67 place 410265RThr place Thrace  long="26.5" lat="41
+91 keep Hellespontus 2.67.3	place	Ἑλλήσποντος	Ἑλλήσποντον	masc:acc 2.67 place 402264WHel place Hellespont  long="26.4" lat="40.2
+88 keep Learchos 2.67.3	person	Λέαρχος	Λεάρχου	masc:gen 2.67 people 3620 noclass Learchus
+100 keep Ameiniades 2.67.3	noclass	Ἀμεινιάδης	Ἀμεινιάδου	masc:gen 2.67 people 7225 noclass Ameiniades
+100 keep Athens 2.67.3	place	Ἀθῆναι	Ἀθήνας	fem:acc 2.67 place 380237PAth place Athens  long="23.72793" lat="37.9718
+100 keep Athenian 2.67.4	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.67 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+88 keep Aristeas 2.67.4	person	Ἀριστέας	Ἀριστέα	masc:voc 2.67 people 1738 noclass Aristeus
+82 keep Poteidaia 2.67.4	place	Ποτείδαια	Ποτειδαίας	fem:gen 2.67 place 402233UPot place Potidaea  long="23.3278" lat="40.1937
+100 keep Thrace 2.67.4	place	Θρᾳκία	Θρᾴκης	fem:gen 2.67 place 410265RThr place Thrace  long="26.5" lat="41
+96 keep Lacedaemonian 2.67.4	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιοι	masc:nom/voc 2.67 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+100 keep Athenian 2.67.4	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.67 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Peloponnese 2.67.4	place	Πελοπόννησος	Πελοπόννησον	fem:acc 2.67 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+86 keep Ampraciotes 2.68.1	ethnic	Ἀμπρακιώτης	Ἀμπρακιῶται	masc:nom/voc 2.68 place 390209UAmb ethnic Ambraciots  long="20.9538" lat="39.0419
+100 keep Argos 2.68.1	place	Ἄργος	Ἄργος	neut:nom/voc/acc 2.68 place 389212PArg place Argos  long="21.19" lat="38.93
+92 keep Amphilochicus 2.68.1	place	Ἀμφιλοχικός	Ἀμφιλοχικὸν	neut:nom/voc/acc 2.68 people 1085 noclass Amphilochus
+100 keep Amphilochian 2.68.1	place	Ἀμφιλόχιος	Ἀμφιλοχίαν	fem:acc 2.68 place 390212RAmp demonym Amphilochian  long="21.2" lat="38.95
+92 keep Argive 2.68.2	ethnic	Ἀργεῖος	Ἀργείους	masc:acc 2.68 place 376227PArg ethnic Argives  long="22.7195" lat="37.6316
+100 keep Argos 2.68.3	place	Ἄργος	Ἄργος	neut:nom/voc/acc 2.68 place 389212PArg place Argos  long="21.19" lat="38.93
+92 keep Amphilochicus 2.68.3	place	Ἀμφιλοχικός	Ἀμφιλοχικὸν	neut:nom/voc/acc 2.68 people 1085 noclass Amphilochus
+100 keep Amphilochian 2.68.3	place	Ἀμφιλόχιος	Ἀμφιλοχίαν	fem:acc 2.68 place 390212RAmp demonym Amphilochian  long="21.2" lat="38.95
+100 keep Trojan 2.68.3	ethnic	Τρωικός	Τρωικὰ	neut:nom/voc/acc 2.68 place 400262UIli demonym Trojan  long="26.2389" lat="39.9575
+100 keep Argos 2.68.3	place	Ἄργος	Ἄργει	neut:nom/voc/acc 2.68 place 389212PArg place Argos  long="21.19" lat="38.93
+91 keep Amphilochos 2.68.3	person	Ἀμφίλοχος	Ἀμφίλοχος	masc:nom 2.68 people 1085 noclass Amphilochus
+90 keep Amphiaraos 2.68.3	person	Ἀμφιάραος	Ἀμφιάρεω	fem:gen 2.68 people 284 noclass Amphiaraus
+70 keep Ampracicus 2.68.3	place	Ἀμπρακικός	Ἀμπρακικῷ	masc/neut:dat 2.68 people 284 noclass Amphiaraus
+100 keep Amphilochian 2.68.4	place	Ἀμφιλόχιος	Ἀμφιλοχίας	fem:gen 2.68 place 390212RAmp demonym Amphilochian  long="21.2" lat="38.95
+86 keep Ampraciotes 2.68.5	ethnic	Ἀμπρακιώτης	Ἀμπρακιώτας	masc:nom 2.68 place 390209UAmb ethnic Ambraciots  long="20.9538" lat="39.0419
+92 keep Amphilochicus 2.68.5	place	Ἀμφιλοχικός	Ἀμφιλοχικῇ	fem:dat 2.68 people 1085 noclass Amphilochus
+86 keep Ampraciotes 2.68.5	ethnic	Ἀμπρακιώτης	Ἀμπρακιωτῶν	masc:gen 2.68 place 390209UAmb ethnic Ambraciots  long="20.9538" lat="39.0419
+100 keep Amphilochus 2.68.5	group	Ἀμφίλοχος	Ἀμφίλοχοι	masc:nom/voc 2.68 people 1085 noclass Amphilochus
+92 keep Argive 2.68.6	ethnic	Ἀργεῖος	Ἀργείους	masc:acc 2.68 place 376227PArg ethnic Argives  long="22.7195" lat="37.6316
+86 keep Ampraciotes 2.68.6	ethnic	Ἀμπρακιώτης	Ἀμπρακιῶται	masc:nom/voc 2.68 place 390209UAmb ethnic Ambraciots  long="20.9538" lat="39.0419
+100 keep Amphilochus 2.68.7	group	Ἀμφίλοχος	Ἀμφίλοχοι	masc:nom/voc 2.68 people 1085 noclass Amphilochus
+91 keep Acharnanian 2.68.7	ethnic	Ἀκαρνάν	Ἀκαρνᾶσι	masc:dat 2.68 place 388210RAka ethnic Acarnanians  long="21" lat="38.8
+94 keep Athenian 2.68.7	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.68 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+93 keep Phormion 2.68.7	person	Φορμίων	Φορμίωνά	masc:acc 2.68 people 188 noclass Phormio
+93 keep Phormion 2.68.7	person	Φορμίων	Φορμίωνος	masc:gen 2.68 people 188 noclass Phormio
+100 keep Argos 2.68.7	place	Ἄργος	Ἄργος	neut:nom/voc/acc 2.68 place 389212PArg place Argos  long="21.19" lat="38.93
+86 keep Ampraciotes 2.68.7	ethnic	Ἀμπρακιώτης	Ἀμπρακιώτας	masc:nom 2.68 place 390209UAmb ethnic Ambraciots  long="20.9538" lat="39.0419
+91 keep Acharnanian 2.68.7	ethnic	Ἀκαρνάν	Ἀκαρνᾶνες	masc:nom/voc 2.68 place 388210RAka ethnic Acarnanians  long="21" lat="38.8
+94 keep Athenian 2.68.8	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.68 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+91 keep Acharnanian 2.68.8	ethnic	Ἀκαρνάν	Ἀκαρνᾶσιν	masc:dat 2.68 place 388210RAka ethnic Acarnanians  long="21" lat="38.8
+86 keep Ampraciotes 2.68.9	ethnic	Ἀμπρακιώτης	Ἀμπρακιῶται	masc:nom/voc 2.68 place 390209UAmb ethnic Ambraciots  long="20.9538" lat="39.0419
+92 keep Argive 2.68.9	ethnic	Ἀργεῖος	Ἀργείους	masc:acc 2.68 place 376227PArg ethnic Argives  long="22.7195" lat="37.6316
+94 keep Chaonian 2.68.9	ethnic	Χάων	Χαόνων	masc:gen 2.68 place 403197RCha ethnic Chaonians  long="19.7" lat="40.3
+100 keep Argos 2.68.9	place	Ἄργος	Ἄργος	neut:nom/voc/acc 2.68 place 389212PArg place Argos  long="21.19" lat="38.93
+94 keep Athenian 2.69.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.69 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Peloponnese 2.69.1	place	Πελοπόννησος	Πελοπόννησον	fem:acc 2.69 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+93 keep Phormion 2.69.1	person	Φορμίων	Φορμίωνα	masc:acc 2.69 people 188 noclass Phormio
+100 keep Naupactus 2.69.1	place	Ναύπακτος	Ναυπάκτου	fem:gen 2.69 place 384218UNau place Naupactus  long="21.8313" lat="38.3997
+100 keep Corinth 2.69.1	place	Κόρινθος	Κορίνθου	fem:gen 2.69 place 379229PKor place Corinth  long="22.8802" lat="37.9054
+94 keep Crisaean 2.69.1	ethnic	Κρισαῖος	Κρισαίου	masc/neut:gen 2.69 place 384225UKri place Crissaean Gulf  long="22.469" lat="38.4712
+91 keep Carian 2.69.1	ethnic	Κάριος	Καρίας	fem:gen 2.69 place 370287RKar place Caria  long="28.7" lat="37.01
+91 keep Lycian 2.69.1	ethnic	Λύκιος	Λυκίας	fem:gen 2.69 place 365295RLyc place Lycia  long="29.5" lat="36.5
+86 keep Melesandrus 2.69.1	noclass	Μελήσανδρος	Μελήσανδρον	masc:acc 2.69 people 6661 noclass Melesander
+100 keep Peloponnesian 2.69.1	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.69 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+100 keep Phaselis 2.69.1	noclass	Φάσηλις	Φασήλιδος	fem:gen 2.69 place 365306PPha place Phaselis  long="30.552" lat="36.524
+100 keep Phoenicia 2.69.1	place	Φοινίκη	Φοινίκης	fem:gen 2.69 place 335354RPho place Phoenicia  long="35.4" lat="33.5
+94 keep Athenian 2.69.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.69 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+91 keep Lycian 2.69.2	ethnic	Λύκιος	Λυκίαν	fem:acc 2.69 place 365295RLyc place Lycia  long="29.5" lat="36.5
+86 keep Melesandrus 2.69.2	noclass	Μελήσανδρος	Μελήσανδρος	masc:nom 2.69 people 6661 noclass Melesander
+76 keep Poteideates 2.70.1	ethnic	Ποτειδεάτης	Ποτειδεᾶται	masc:nom/voc 2.70 place 402233UPot ethnic Potidaeans  long="23.3278" lat="40.1937
+100 keep Attica 2.70.1	ethnic	Ἀττικός	Ἀττικὴν	fem:acc 2.70 place 379239RAtt place Attica  long="23.9" lat="37.9
+96 keep Peloponnesian 2.70.1	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.70 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Athenian 2.70.1	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.70 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Athenian 2.70.1	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.70 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Xenophon 2.70.1	person	Ξενοφῶν	Ξενοφῶντί	masc:dat 2.70 people 62 noclass Xenophon
+100 keep Euripides 2.70.1	person	Εὐριπίδης	Εὐριπίδου	masc:gen 2.70 people 75 noclass Euripides
+42 reject Hestiodorus 2.70.1	noclass	Ἑστιόδωρος	Ἑστιοδώρῳ	masc:dat 2.70 people 657 noclass Aristocleides
+100 keep Aristocleides 2.70.1	person	Ἀριστοκλείδης	Ἀριστοκλείδου	masc:gen 2.70 people 657 noclass Aristocleides
+91 keep Phanomachos 2.70.1	person	Φανόμαχος	Φανομάχῳ	masc:dat 2.70 people 8144 noclass Phanomachus
+91 keep Callimachos 2.70.1	person	Καλλίμαχος	Καλλιμάχου	masc:gen 2.70 people 219 noclass Callimachus
+86 keep Chalcidicus 2.70.4	place	Χαλκιδικός	Χαλκιδικὴν	fem:acc 2.70 place 405233RCha place Chalcidice  long="23.3" lat="40.5
+100 keep Athenian 2.70.4	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.70 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+82 keep Poteidaia 2.70.4	place	Ποτείδαια	Ποτείδαιαν	fem:acc 2.70 place 402233UPot place Potidaea  long="23.3278" lat="40.1937
+95 keep Thoucydides 2.70.4	person	Θουκυδίδης	Θουκυδίδης	masc:nom 2.70 people 193 noclass Thucydides
+96 keep Peloponnesian 2.71.1	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.71 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Attica 2.71.1	ethnic	Ἀττικός	Ἀττικὴν	fem:acc 2.71 place 379239RAtt place Attica  long="23.9" lat="37.9
+86 keep Plataia 2.71.1	place	Πλάταια	Πλάταιαν	fem:acc 2.71 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+90 keep Archidamos 2.71.1	person	Ἀρχίδαμος	Ἀρχίδαμος	masc:nom 2.71 people 239 noclass Archidamus
+90 keep Zeuxidamos 2.71.1	person	Ζευξίδαμος	Ζευξιδάμου	masc:gen 2.71 people 3096 noclass Zeuxidamus
+96 keep Lacedaemonian 2.71.1	ethnic	Λακεδαιμόνιος	Λακεδαιμονίων	masc/neut:gen 2.71 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+94 keep Plataiean 2.71.1	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.71 place 382233PPla demonym Plataean  long="23.2733" lat="38.2213
+90 keep Archidamos 2.71.2	person	Ἀρχίδαμος	Ἀρχίδαμε	masc:voc 2.71 people 239 noclass Archidamus
+96 keep Lacedaemonian 2.71.2	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιοι	masc:nom/voc 2.71 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+86 keep Plataia 2.71.2	place	Πλάταια	Πλαταιῶν	fem:gen 2.71 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+100 keep Pausanias 2.71.2	person	Παυσανίας	Παυσανίας	masc:nom 2.71 people 117 noclass Pausanias
+91 keep Cleombrotos 2.71.2	person	Κλεόμβροτος	Κλεομβρότου	masc:gen 2.71 people 450 noclass Cleombrotus
+96 keep Lacedaemonian 2.71.2	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιος	masc:nom 2.71 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+89 keep Mede 2.71.2	ethnic	Μῆδος	Μήδων	masc:gen 2.71 place 355480RMed ethnic Medes  long="48" lat="35.5
+100 keep Zeus 2.71.2	person	Ζεύς	Διὶ	masc:dat 2.71 people 1 noclass Zeus
+94 keep Plataiean 2.71.2	ethnic	Πλαταιεύς	Πλαταιεῦσι	masc:dat 2.71 place 382233PPla demonym Plataean  long="23.2733" lat="38.2213
+80 keep Thebaean 2.71.3	ethnic	Θηβαῖος	Θηβαίων	masc/neut:gen 2.71 place 383233PThe ethnic Thebans  long="23.3178" lat="38.3191
+100 keep Plataean 2.71.4	place	Πλαταιικός	Πλαταιίδα	fem:acc 2.71 place 382233PPla demonym Plataean  long="23.2733" lat="38.2213
+100 keep Pausanias 2.71.4	person	Παυσανίας	Παυσανίας	masc:nom 2.71 people 117 noclass Pausanias
+75 keep Plataia 2.72.1	place	Πλάταια	Πλαταιῶν	fem:gen 2.72 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+90 keep Archidamos 2.72.1	person	Ἀρχίδαμος	Ἀρχίδαμος	masc:nom 2.72 people 239 noclass Archidamus
+89 keep Plataiean 2.72.1	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.72 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+100 keep Pausanias 2.72.1	person	Παυσανίας	Παυσανίας	masc:nom 2.72 people 117 noclass Pausanias
+94 keep Athenian 2.72.1	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.72 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+90 keep Archidamos 2.72.2	person	Ἀρχίδαμος	Ἀρχίδαμος	masc:nom 2.72 people 239 noclass Archidamus
+75 keep Plataia 2.72.2	place	Πλάταια	Πλαταιῶν	fem:gen 2.72 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+94 keep Athenian 2.72.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.72 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+94 keep Athenian 2.72.2	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.72 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+80 keep Thebaean 2.72.2	ethnic	Θηβαῖος	Θηβαῖοι	masc:nom/voc 2.72 place 383233PThe ethnic Thebans  long="23.3178" lat="38.3191
+96 keep Lacedaemonian 2.72.3	ethnic	Λακεδαιμόνιος	Λακεδαιμονίοις	masc/neut:dat 2.72 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+94 keep Athenian 2.73.1	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.73 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+94 keep Plataiean 2.73.2	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.73 place 382233PPla demonym Plataean  long="23.2733" lat="38.2213
+94 keep Athenian 2.73.2	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.73 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+94 keep Plataiean 2.73.3	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.73 place 382233PPla demonym Plataean  long="23.2733" lat="38.2213
+94 keep Athenian 2.73.3	ethnic	Ἀθηναῖος	Ἀθηναῖοί	masc:nom/voc 2.73 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+94 keep Plataiean 2.74.1	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.74 place 382233PPla demonym Plataean  long="23.2733" lat="38.2213
+94 keep Athenian 2.74.1	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.74 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+96 keep Lacedaemonian 2.74.1	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιοι	masc:nom/voc 2.74 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+90 keep Archidamos 2.74.2	person	Ἀρχίδαμος	Ἀρχίδαμος	masc:nom 2.74 people 239 noclass Archidamus
+100 keep Plataean 2.74.2	place	Πλαταιικός	Πλαταιίδα	fem:acc 2.74 place 382233PPla demonym Plataean  long="23.2733" lat="38.2213
+89 keep Mede 2.74.2	ethnic	Μῆδος	Μήδων	masc:gen 2.74 place 355480RMed ethnic Medes  long="48" lat="35.5
+89 keep Cithairon 2.75.2	place	Κιθαιρών	Κιθαιρῶνος	masc:gen 2.75 place 382233LCit place Cithaeron  long="23.2506" lat="38.185
+100 keep Lacedaemonian 2.75.3	ethnic	Λακεδαιμόνιος	Λακεδαιμονίων	masc/neut:gen 2.75 place 371224PSpa demonym Lacedaemonian  long="22.4237" lat="37.0821
+89 keep Plataiean 2.75.4	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.75 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+89 keep Plataiean 2.75.6	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.75 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+96 keep Peloponnesian 2.76.1	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.76 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+96 keep Peloponnesian 2.76.4	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.76 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+89 keep Plataiean 2.76.4	ethnic	Πλαταιεύς	Πλαταιᾶς	masc:acc 2.76 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+89 keep Plataiean 2.76.4	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.76 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+96 keep Peloponnesian 2.77.1	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.77 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+89 keep Plataiean 2.77.5	ethnic	Πλαταιεύς	Πλαταιᾶς	masc:acc 2.77 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+96 keep Peloponnesian 2.78.1	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.78 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+94 keep Boeotian 2.78.2	ethnic	Βοιωτός	Βοιωτοὶ	masc:nom/voc 2.78 place 384233RBoi ethnic Boeotians  long="23.25" lat="38.35
+89 keep Plataiean 2.78.3	ethnic	Πλαταιεύς	Πλαταιῆς	masc:nom/voc 2.78 place 382233PPla ethnic Plataeans  long="23.2733" lat="38.2213
+100 keep Athens 2.78.3	place	Ἀθῆναι	Ἀθήνας	fem:acc 2.78 place 380237PAth place Athens  long="23.72793" lat="37.9718
+94 keep Athenian 2.78.3	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.78 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+86 keep Plataia 2.78.4	place	Πλάταια	Πλαταιῶν	fem:gen 2.78 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+86 keep Plataia 2.79.1	place	Πλάταια	Πλαταιῶν	fem:gen 2.79 place 382233PPla place Plataea  long="23.2733" lat="38.2213
+94 keep Athenian 2.79.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.79 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Chalcidian 2.79.1	ethnic	Χαλκιδεύς	Χαλκιδέας	masc:acc 2.79 place 405233RCha demonym Chalcidian  long="23.3" lat="40.5
+100 keep Thrace 2.79.1	place	Θρᾳκία	Θρᾴκης	fem:gen 2.79 place 410265RThr place Thrace  long="26.5" lat="41
+95 keep Bottiaean 2.79.1	noclass	Βοττιαῖος	Βοττιαίους	masc:acc 2.79 place 406223RBot ethnic Bottiaeans  long="22.3" lat="40.6
+100 keep Xenophon 2.79.1	person	Ξενοφῶν	Ξενοφῶν	masc:nom 2.79 people 62 noclass Xenophon
+100 keep Euripides 2.79.1	person	Εὐριπίδης	Εὐριπίδου	masc:gen 2.79 people 75 noclass Euripides
+100 keep Spartolus 2.79.2	place	Σπάρτωλος	Σπάρτωλον	masc:acc 2.79 place 403232PSpa place Spartolus  long="23.1598" lat="40.3163
+80 keep Bottice 2.79.2	noclass	Βοττική	Βοττικὴν	fem:acc 2.79 place 406223RBot place Bottiaea  long="22.3" lat="40.6
+100 keep Olynthus 2.79.2	place	Ὄλυνθος	Ὄλυνθον	masc:acc 2.79 place 403234POly place Olynthus  long="23.354" lat="40.2963
+100 keep Spartolus 2.79.2	place	Σπάρτωλος	Σπαρτώλου	masc:gen 2.79 place 403232PSpa place Spartolus  long="23.1598" lat="40.3163
+94 keep Athenian 2.79.2	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.79 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Chalcidian 2.79.3	ethnic	Χαλκιδεύς	Χαλκιδέων	masc:gen 2.79 place 405233RCha demonym Chalcidian  long="23.3" lat="40.5
+94 keep Athenian 2.79.3	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.79 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Spartolus 2.79.3	place	Σπάρτωλος	Σπάρτωλον	masc:acc 2.79 place 403232PSpa place Spartolus  long="23.1598" lat="40.3163
+92 keep Crousis 2.79.4	place	Κρουσίς	Κρουσίδος	fem:gen 2.79 place 403231RKro person Crusis  long="23.099" lat="40.321
+100 keep Olynthus 2.79.4	place	Ὄλυνθος	Ὀλύνθου	masc:gen 2.79 place 403234POly place Olynthus  long="23.354" lat="40.2963
+100 keep Spartolus 2.79.5	place	Σπάρτωλος	Σπαρτώλου	masc:gen 2.79 place 403232PSpa place Spartolus  long="23.1598" lat="40.3163
+100 keep Chalcidian 2.79.5	ethnic	Χαλκιδεύς	Χαλκιδέων	masc:gen 2.79 place 405233RCha demonym Chalcidian  long="23.3" lat="40.5
+94 keep Athenian 2.79.5	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.79 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+94 keep Athenian 2.79.6	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.79 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Chalcidian 2.79.6	ethnic	Χαλκιδεύς	Χαλκιδέων	masc:gen 2.79 place 405233RCha demonym Chalcidian  long="23.3" lat="40.5
+94 keep Athenian 2.79.6	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.79 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+94 keep Athenian 2.79.7	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.79 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+82 keep Poteidaia 2.79.7	place	Ποτείδαια	Ποτείδαιαν	fem:acc 2.79 place 402233UPot place Potidaea  long="23.3278" lat="40.1937
+100 keep Athens 2.79.7	place	Ἀθῆναι	Ἀθήνας	fem:acc 2.79 place 380237PAth place Athens  long="23.72793" lat="37.9718
+100 keep Chalcidian 2.79.7	ethnic	Χαλκιδεύς	Χαλκιδῆς	masc:nom/voc 2.79 place 405233RCha demonym Chalcidian  long="23.3" lat="40.5
+95 keep Bottiaean 2.79.7	noclass	Βοττιαῖος	Βοττιαῖοι	masc:nom/voc 2.79 place 406223RBot ethnic Bottiaeans  long="22.3" lat="40.6
+86 keep Ampraciotes 2.80.1	ethnic	Ἀμπρακιώτης	Ἀμπρακιῶται	masc:nom/voc 2.80 place 390209UAmb ethnic Ambraciots  long="20.9538" lat="39.0419
+94 keep Chaonian 2.80.1	ethnic	Χάων	Χάονες	masc:nom/voc 2.80 place 403197RCha ethnic Chaonians  long="19.7" lat="40.3
+100 keep Acarnania 2.80.1	place	Ἀκαρνανία	Ἀκαρνανίαν	fem:acc 2.80 place 388210RAka place Acarnania  long="21" lat="38.8
+100 keep Athenian 2.80.1	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.80 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+96 keep Lacedaemonian 2.80.1	ethnic	Λακεδαιμόνιος	Λακεδαιμονίους	masc:acc 2.80 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+95 keep Acharnanian 2.80.1	ethnic	Ἀκαρνάν	Ἀκαρνάνων	masc:gen 2.80 place 388210RAka demonym Acarnanian  long="21" lat="38.8
+100 keep Zacynthus 2.80.1	place	Ζάκυνθος	Ζακύνθου	fem:gen 2.80 place 378209PZak place Zacynthus  long="20.8921" lat="37.7872
+100 keep Cephallenia 2.80.1	place	Κεφαλληνία	Κεφαλληνίας	fem:gen 2.80 place 382206IKep place Cephallenia  long="20.59" lat="38.2
+100 keep Athenian 2.80.1	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.80 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Peloponnese 2.80.1	place	Πελοπόννησος	Πελοπόννησον	fem:acc 2.80 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+100 keep Naupactus 2.80.1	place	Ναύπακτος	Ναύπακτον	fem:acc 2.80 place 384218UNau place Naupactus  long="21.8313" lat="38.3997
+96 keep Lacedaemonian 2.80.2	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιοι	masc:nom/voc 2.80 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+83 keep Cnemos 2.80.2	person	Κνῆμος	Κνῆμον	masc:acc 2.80 people 2609 noclass Cnemus
+100 keep Leucas 2.80.2	place	Λευκάς	Λευκάδα	fem:acc 2.80 place 387207PLeu place Leucas  long="20.717" lat="38.81
+95 keep Corinthian 2.80.3	ethnic	Κορίνθιος	Κορίνθιοι	masc:nom/voc 2.80 place 379229PKor ethnic Corinthians  long="22.8802" lat="37.9054
+86 keep Ampraciotes 2.80.3	ethnic	Ἀμπρακιώτης	Ἀμπρακιώταις	masc:dat 2.80 place 390209UAmb ethnic Ambraciots  long="20.9538" lat="39.0419
+100 keep Corinth 2.80.3	place	Κόρινθος	Κορίνθου	fem:gen 2.80 place 379229PKor place Corinth  long="22.8802" lat="37.9054
+83 keep Sicuon 2.80.3	place	Σικυών	Σικυῶνος	fem:gen 2.80 place 380227PSik place Sicyon  long="22.7145" lat="37.9834
+100 keep Leucas 2.80.3	place	Λευκάς	Λευκάδος	fem:gen 2.80 place 387207PLeu place Leucas  long="20.717" lat="38.81
+95 keep Anactorian 2.80.3	ethnic	Ἀνακτόριος	Ἀνακτορίου	masc/neut:gen 2.80 place 389208PAna ethnic Anactorians  long="20.8435" lat="38.9209
+88 keep Ampracia 2.80.3	place	Ἀμπρακία	Ἀμπρακίας	fem:gen 2.80 place 392210PAmb place Ambracia  long="20.9899" lat="39.155
+100 keep Leucas 2.80.3	place	Λευκάς	Λευκάδι	fem:dat 2.80 place 387207PLeu place Leucas  long="20.717" lat="38.81
+83 keep Cnemos 2.80.4	person	Κνῆμος	Κνῆμος	masc:nom 2.80 people 2609 noclass Cnemus
+93 keep Phormion 2.80.4	person	Φορμίων	Φορμίωνα	masc:acc 2.80 people 188 noclass Phormio
+75 keep Atticus 2.80.4	ethnic	Ἀττικός	Ἀττικῶν	masc/neut:gen 2.80 people 42 noclass Antiochus
+100 keep Naupactus 2.80.4	place	Ναύπακτος	Ναύπακτον	fem:acc 2.80 place 384218UNau place Naupactus  long="21.8313" lat="38.3997
+86 keep Ampraciotes 2.80.5	ethnic	Ἀμπρακιώτης	Ἀμπρακιῶται	masc:nom/voc 2.80 place 390209UAmb ethnic Ambraciots  long="20.9538" lat="39.0419
+95 keep Leucadian 2.80.5	ethnic	Λευκάδιος	Λευκάδιοι	masc:nom/voc 2.80 place 387207PLeu ethnic Leucadians  long="20.717" lat="38.81
+95 keep Anactorian 2.80.5	ethnic	Ἀνακτόριος	Ἀνακτόριοι	masc:nom/voc 2.80 place 389208PAna ethnic Anactorians  long="20.8435" lat="38.9209
+96 keep Peloponnesian 2.80.5	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.80 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+94 keep Chaonian 2.80.5	ethnic	Χάων	Χάονες	masc:nom/voc 2.80 place 403197RCha ethnic Chaonians  long="19.7" lat="40.3
+71 keep Photian 2.80.5	ethnic	Φώτιος	Φώτιος	masc:nom 2.80 people 6809 noclass Photius
+100 keep Nicanor 2.80.5	person	Νικάνωρ	Νικάνωρ	masc:nom 2.80 people 401 noclass Nicanor
+94 keep Chaonian 2.80.5	ethnic	Χάων	Χαόνων	masc:gen 2.80 place 403197RCha ethnic Chaonians  long="19.7" lat="40.3
+82 keep Thesprotoi 2.80.5	ethnic	Θεσπρωτοί	Θεσπρωτοὶ	masc:nom/voc 2.80 place 394204RThp ethnic Thesprotians  long="20.4" lat="39.4
+78 keep Molossus 2.80.6	ethnic	Μολοσσός	Μολοσσοὺς	masc/fem:acc 2.80 place 398206RMol ethnic Molossians  long="20.6" lat="39.8
+78 keep Atintan 2.80.6	ethnic	Ἀτιντάν	Ἀτιντᾶνας	masc:acc 2.80 place 405205RAti ethnic Atintanians  long="20.5" lat="40.5
+70 reject Sabylinthus 2.80.6	noclass	Σαβύλινθος	Σαβύλινθος	masc:nom 2.80 place 378209PZak place Zacynthus  long="20.8921" lat="37.7872
+42 keep Tharyps 2.80.6	noclass	Θάρυψ	Θάρυπος	masc:gen 2.80 place 394204RThp ethnic Thesprotians  long="20.4" lat="39.4
+84 keep Parauaean 2.80.6	ethnic	Παραυαῖος	Παραυαίους	masc:acc 2.80 place 400209RPar ethnic Paravaeans  long="20.92" lat="39.98
+86 keep Oroidus 2.80.6	noclass	Ὄροιδος	Ὄροιδος	masc:nom 2.80 people 9952 noclass Oroedus
+75 keep Orestes 2.80.6	person	Ὀρέστης	Ὀρέσται	masc:dat 2.80 place 405215ROre ethnic Orestians  long="21.5" lat="40.5
+89 keep Antiochos 2.80.6	person	Ἀντίοχος	Ἀντίοχος	masc:nom 2.80 people 42 noclass Antiochus
+84 keep Parauaean 2.80.6	ethnic	Παραυαῖος	Παραυαίων	masc/neut:gen 2.80 place 400209RPar ethnic Paravaeans  long="20.92" lat="39.98
+86 keep Oroidus 2.80.6	noclass	Ὄροιδος	Ὀροίδῳ	masc:dat 2.80 people 9952 noclass Oroedus
+89 keep Antiochos 2.80.6	person	Ἀντίοχος	Ἀντιόχου	masc:gen 2.80 people 42 noclass Antiochus
+100 keep Perdiccas 2.80.7	person	Περδίκκας	Περδίκκας	masc:nom 2.80 people 888 noclass Perdiccas
+100 keep Athenian 2.80.7	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.80 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+95 keep Macedonian 2.80.7	ethnic	Μακεδών	Μακεδόνων	masc/fem:gen 2.80 place 408225RMak ethnic Macedonians  long="22.5" lat="40.81
+83 keep Cnemos 2.80.8	person	Κνῆμος	Κνῆμος	masc:nom 2.80 people 2609 noclass Cnemus
+100 keep Corinth 2.80.8	place	Κόρινθος	Κορίνθου	fem:gen 2.80 place 379229PKor place Corinth  long="22.8802" lat="37.9054
+83 keep Argolis 2.80.8	ethnic	Ἀργεῖος	Ἀργείας	fem:gen 2.80 place 389212PArg place Argos  long="21.19" lat="38.93
+93 keep Limnaean 2.80.8	ethnic	Λιμναῖος	Λιμναίαν	fem:acc 2.80 place 389212PLim place Limnaea  long="21.1688" lat="38.8576
+100 keep Stratus 2.80.8	place	Στράτος	Στράτον	masc:acc 2.80 place 387213PStr place Stratus  long="21.3195" lat="38.6718
+100 keep Acarnania 2.80.8	place	Ἀκαρνανία	Ἀκαρνανίας	fem:gen 2.80 place 388210RAka place Acarnania  long="21" lat="38.8
+91 keep Acharnanian 2.81.1	ethnic	Ἀκαρνάν	Ἀκαρνᾶνες	masc:nom/voc 2.81 place 388210RAka ethnic Acarnanians  long="21" lat="38.8
+93 keep Phormion 2.81.1	person	Φορμίων	Φορμίωνα	masc:acc 2.81 people 188 noclass Phormio
+100 keep Corinth 2.81.1	place	Κόρινθος	Κορίνθου	fem:gen 2.81 place 379229PKor place Corinth  long="22.8802" lat="37.9054
+100 keep Naupactus 2.81.1	place	Ναύπακτος	Ναύπακτον	fem:acc 2.81 place 384218UNau place Naupactus  long="21.8313" lat="38.3997
+96 keep Peloponnesian 2.81.2	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.81 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+94 keep Stratian 2.81.2	ethnic	Στράτιος	Στρατίων	masc:gen 2.81 place 387213PStr ethnic Stratians  long="21.3195" lat="38.6718
+94 keep Chaonian 2.81.3	ethnic	Χάων	Χάονες	masc:nom/voc 2.81 place 403197RCha ethnic Chaonians  long="19.7" lat="40.3
+95 keep Leucadian 2.81.3	ethnic	Λευκάδιος	Λευκάδιοι	masc:nom/voc 2.81 place 387207PLeu ethnic Leucadians  long="20.717" lat="38.81
+95 keep Anactorian 2.81.3	ethnic	Ἀνακτόριος	Ἀνακτόριοι	masc:nom/voc 2.81 place 389208PAna ethnic Anactorians  long="20.8435" lat="38.9209
+83 keep Cnemos 2.81.3	person	Κνῆμος	Κνῆμος	masc:nom 2.81 people 2609 noclass Cnemus
+96 keep Peloponnesian 2.81.3	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.81 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+86 keep Ampraciotes 2.81.3	ethnic	Ἀμπρακιώτης	Ἀμπρακιῶται	masc:nom/voc 2.81 place 390209UAmb ethnic Ambraciots  long="20.9538" lat="39.0419
+94 keep Chaonian 2.81.4	ethnic	Χάων	Χάονες	masc:nom/voc 2.81 place 403197RCha ethnic Chaonians  long="19.7" lat="40.3
+94 keep Stratian 2.81.5	ethnic	Στράτιος	Στράτιοι	masc:nom/voc 2.81 place 387213PStr ethnic Stratians  long="21.3195" lat="38.6718
+94 keep Chaonian 2.81.6	ethnic	Χάων	Χαόνων	masc:gen 2.81 place 403197RCha ethnic Chaonians  long="19.7" lat="40.3
+42 reject Hellenicus 2.81.7	ethnic	Ἑλληνικός	Ἑλληνικῶν	masc/neut:gen 2.81 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+94 keep Stratian 2.81.8	ethnic	Στράτιος	Στρατίων	masc:gen 2.81 place 387213PStr ethnic Stratians  long="21.3195" lat="38.6718
+91 keep Acharnanian 2.81.8	ethnic	Ἀκαρνάν	Ἀκαρνᾶνας	masc:acc 2.81 place 388210RAka ethnic Acarnanians  long="21" lat="38.8
+91 keep Acharnanian 2.81.8	ethnic	Ἀκαρνάν	Ἀκαρνᾶνες	masc:nom/voc 2.81 place 388210RAka ethnic Acarnanians  long="21" lat="38.8
+83 keep Cnemos 2.82.1	person	Κνῆμος	Κνῆμος	masc:nom 2.82 people 2609 noclass Cnemus
+100 keep Anapus 2.82.1	place	Ἄναπος	Ἄναπον	masc:acc 2.82 place 388213WAna place Anapus  long="21.166" lat="38.47
+100 keep Stratus 2.82.1	place	Στράτος	Στράτου	masc:gen 2.82 place 387213PStr place Stratus  long="21.3195" lat="38.6718
+75 keep Oiniadai 2.82.1	place	Οἰνιάδαι	Οἰνιαδῶν	fem:gen 2.82 place 384212POin place Oeniadae  long="21.1948" lat="38.4118
+94 keep Stratian 2.82.1	ethnic	Στράτιος	Στράτιοι	masc:nom/voc 2.82 place 387213PStr ethnic Stratians  long="21.3195" lat="38.6718
+100 keep Corinth 2.83.1	place	Κόρινθος	Κορίνθου	fem:gen 2.83 place 379229PKor place Corinth  long="22.8802" lat="37.9054
+94 keep Crisaean 2.83.1	ethnic	Κρισαῖος	Κρισαίου	masc/neut:gen 2.83 place 384225UKri place Crissaean Gulf  long="22.469" lat="38.4712
+83 keep Cnemos 2.83.1	person	Κνῆμος	Κνήμῳ	masc:dat 2.83 people 2609 noclass Cnemus
+91 keep Acharnanian 2.83.1	ethnic	Ἀκαρνάν	Ἀκαρνᾶνες	masc:nom/voc 2.83 place 388210RAka ethnic Acarnanians  long="21" lat="38.8
+100 keep Stratus 2.83.1	place	Στράτος	Στράτῳ	masc:dat 2.83 place 387213PStr place Stratus  long="21.3195" lat="38.6718
+93 keep Phormion 2.83.1	person	Φορμίων	Φορμίωνα	masc:acc 2.83 people 188 noclass Phormio
+100 keep Athenian 2.83.1	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.83 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Naupactus 2.83.1	place	Ναύπακτος	Ναυπάκτῳ	fem:dat 2.83 place 384218UNau place Naupactus  long="21.8313" lat="38.3997
+93 keep Phormion 2.83.2	person	Φορμίων	Φορμίων	masc:nom/voc 2.83 people 188 noclass Phormio
+100 keep Corinthian 2.83.3	ethnic	Κορίνθιος	Κορίνθιοι	masc:nom/voc 2.83 place 379229PKor demonym Corinthian  long="22.8802" lat="37.9054
+100 keep Acarnania 2.83.3	place	Ἀκαρνανία	Ἀκαρνανίαν	fem:acc 2.83 place 388210RAka place Acarnania  long="21" lat="38.8
+100 keep Athenian 2.83.3	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.83 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+83 keep Patrai 2.83.3	place	Πάτραι	Πατρῶν	fem:gen 2.83 place 382217PPat place Patrae  long="21.74" lat="38.245
+83 keep Achaia 2.83.3	place	Ἀχαία	Ἀχαΐας	fem:gen 2.83 place 382219RAch place Achaea  long="21.9" lat="38.2
+100 keep Acarnania 2.83.3	place	Ἀκαρνανία	Ἀκαρνανίας	fem:gen 2.83 place 388210RAka place Acarnania  long="21" lat="38.8
+100 keep Chalcis 2.83.3	place	Χαλκίς	Χαλκίδος	fem:gen 2.83 place 384216UHyp place Chalcis  long="21.6314" lat="38.3535
+67 reject Euenos 2.83.3	person	Εὔηνος	Εὐήνου	masc:gen 2.83 place 384216WEve place Evenus  long="21.552" lat="38.376
+100 keep Corinthian 2.83.4	ethnic	Κορίνθιος	Κορινθίων	masc/neut:gen 2.83 place 379229PKor demonym Corinthian  long="22.8802" lat="37.9054
+100 keep Machaon 2.83.4	person	Μαχάων	Μαχάων	masc:nom/voc 2.83 people 1010 noclass Machaon
+100 keep Isocrates 2.83.4	person	Ἰσοκράτης	Ἰσοκράτης	masc:nom 2.83 people 222 noclass Isocrates
+50 reject Agatharchides 2.83.4	person	Ἀγαθαρχίδης	Ἀγαθαρχίδας	masc:nom 2.83 place 384216UHyp place Chalcis  long="21.6314" lat="38.3535
+96 keep Peloponnesian 2.83.5	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.83 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+94 keep Athenian 2.84.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.84 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+93 keep Phormion 2.84.1	person	Φορμίων	Φορμίωνος	masc:gen 2.84 people 188 noclass Phormio
+94 keep Athenian 2.84.3	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.84 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+83 keep Patrai 2.84.3	place	Πάτραι	Πάτρας	fem:acc 2.84 place 382217PPat place Patrae  long="21.74" lat="38.245
+100 keep Dyme 2.84.3	place	Δύμη	Δύμην	fem:acc 2.84 place 381216PDym place Dyme  long="21.5514" lat="38.1446
+83 keep Achaia 2.84.3	place	Ἀχαία	Ἀχαΐας	fem:gen 2.84 place 382219RAch place Achaea  long="21.9" lat="38.2
+94 keep Athenian 2.84.4	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.84 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+74 keep Molycreian 2.84.4	noclass	Μολύκρειος	Μολύκρειον	neut:nom/voc/acc 2.84 place 384218PMol place Molycrium  long="21.749" lat="38.385
+100 keep Rhium 2.84.4	place	Ῥίον	Ῥίῳ	neut:dat 2.84 place 383218LRhi place Rhium  long="21.782" lat="38.31
+100 keep Poseidon 2.84.4	person	Ποσειδῶν	Ποσειδῶνι	masc:dat 2.84 people 25 noclass Poseidon
+100 keep Naupactus 2.84.4	place	Ναύπακτος	Ναύπακτον	fem:acc 2.84 place 384218UNau place Naupactus  long="21.8313" lat="38.3997
+96 keep Peloponnesian 2.84.5	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.84 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Dyme 2.84.5	place	Δύμη	Δύμης	fem:gen 2.84 place 381216PDym place Dyme  long="21.5514" lat="38.1446
+83 keep Patrai 2.84.5	place	Πάτραι	Πατρῶν	fem:gen 2.84 place 382217PPat place Patrae  long="21.74" lat="38.245
+100 keep Cyllene 2.84.5	person	Κυλλήνη	Κυλλήνην	fem:acc 2.84 place 379211PKyl place Cyllene  long="21.1393" lat="37.94052
+100 keep Eleian 2.84.5	ethnic	Ἠλεῖος	Ἠλείων	masc/neut:gen 2.84 place 378215REle demonym Eleian  long="21.5" lat="37.8
+100 keep Leucas 2.84.5	place	Λευκάς	Λευκάδος	fem:gen 2.84 place 387207PLeu place Leucas  long="20.717" lat="38.81
+83 keep Cnemos 2.84.5	person	Κνῆμος	Κνῆμος	masc:nom 2.84 people 2609 noclass Cnemus
+100 keep Stratus 2.84.5	place	Στράτος	Στράτῳ	masc:dat 2.84 place 387213PStr place Stratus  long="21.3195" lat="38.6718
+96 keep Lacedaemonian 2.85.1	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιοι	masc:nom/voc 2.85 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+83 keep Cnemos 2.85.1	person	Κνῆμος	Κνήμῳ	masc:dat 2.85 people 2609 noclass Cnemus
+100 keep Timocrates 2.85.1	person	Τιμοκράτης	Τιμοκράτη	masc:nom/voc/acc 2.85 people 250 noclass Timocrates
+100 keep Brasidas 2.85.1	person	Βρασίδας	Βρασίδαν	masc:acc 2.85 people 293 noclass Brasidas
+100 keep Lycophron 2.85.1	person	Λυκόφρων	Λυκόφρονα	masc:acc 2.85 people 840 noclass Lycophron
+94 keep Athenian 2.85.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.85 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+83 keep Cnemos 2.85.3	person	Κνῆμος	Κνήμου	masc:gen 2.85 people 2609 noclass Cnemus
+93 keep Phormion 2.85.4	person	Φορμίων	Φορμίων	masc:nom/voc 2.85 people 188 noclass Phormio
+100 keep Athens 2.85.4	place	Ἀθῆναι	Ἀθήνας	fem:acc 2.85 place 380237PAth place Athens  long="23.72793" lat="37.9718
+100 keep Crete 2.85.5	place	Κρήτη	Κρήτην	fem:acc 2.85 place 352252IKre place Crete  long="25.1836" lat="35.2052
+100 keep Nicias 2.85.5	person	Νικίας	Νικίας	masc:nom 2.85 people 115 noclass Nicias
+100 keep Cretan 2.85.5	ethnic	Κρής	Κρὴς	masc:nom 2.85 place 352252IKre person Cretan  long="25.1836" lat="35.2052
+67 keep Gortynian 2.85.5	ethnic	Γορτύνιος	Γορτύνιος	masc:nom 2.85 place 351249UGor place Gortys  long="24.95" lat="35.0594
+100 keep Cydonia 2.85.5	place	Κυδωνία	Κυδωνίαν	fem:acc 2.85 place 355240PKyd place Cydonia  long="24.0187" lat="35.5158
+87 keep Polichnitai 2.85.5	noclass	Πολιχνῖται	Πολιχνίταις	masc:dat 2.85 place 352261UPol ethnic Polichnitans  long="26.1297" lat="35.1986
+84 keep Cydoniates 2.85.5	ethnic	Κυδωνιάτης	Κυδωνιατῶν	masc:gen 2.85 place 355240PKyd ethnic Cydonians  long="24.0187" lat="35.5158
+100 keep Crete 2.85.6	place	Κρήτη	Κρήτην	fem:acc 2.85 place 352252IKre place Crete  long="25.1836" lat="35.2052
+87 keep Polichnitai 2.85.6	noclass	Πολιχνῖται	Πολιχνιτῶν	masc:gen 2.85 place 352261UPol ethnic Polichnitans  long="26.1297" lat="35.1986
+84 keep Cydoniates 2.85.6	ethnic	Κυδωνιάτης	Κυδωνιατῶν	masc:gen 2.85 place 355240PKyd ethnic Cydonians  long="24.0187" lat="35.5158
+100 keep Cyllene 2.86.1	person	Κυλλήνη	Κυλλήνῃ	fem:dat 2.86 place 379211PKyl place Cyllene  long="21.1393" lat="37.94052
+100 keep Peloponnesian 2.86.1	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.86 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+94 keep Athenian 2.86.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.86 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Crete 2.86.1	place	Κρήτη	Κρήτην	fem:acc 2.86 place 352252IKre place Crete  long="25.1836" lat="35.2052
+100 keep Panormus 2.86.1	place	Πάνορμος	Πάνορμον	masc:acc 2.86 place 383218HPan place Panormus  long="21.8167" lat="38.3167
+100 keep Achaean 2.86.1	ethnic	Ἀχαϊκός	Ἀχαϊκόν	neut:nom/voc/acc 2.86 place 382219RAch demonym Achaean  long="21.9" lat="38.2
+100 keep Peloponnesian 2.86.1	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.86 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+93 keep Phormion 2.86.2	person	Φορμίων	Φορμίων	masc:nom/voc 2.86 people 188 noclass Phormio
+100 keep Rhium 2.86.2	place	Ῥίον	Ῥίον	neut:nom/voc/acc 2.86 place 383218LRhi place Rhium  long="21.782" lat="38.31
+74 keep Molycricus 2.86.2	noclass	Μολυκρικός	Μολυκρικὸν	neut:nom/voc/acc 2.86 place 384218PMol demonym Molycrian  long="21.749" lat="38.385
+100 keep Rhium 2.86.3	place	Ῥίον	Ῥίον	neut:nom/voc/acc 2.86 place 383218LRhi place Rhium  long="21.782" lat="38.31
+94 keep Athenian 2.86.3	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.86 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Peloponnese 2.86.3	place	Πελοπόννησος	Πελοποννήσῳ	fem:dat 2.86 place 375222RPel place Peloponnese  long="22.15" lat="37.54
+94 keep Crisaean 2.86.3	ethnic	Κρισαῖος	Κρισαίου	masc/neut:gen 2.86 place 384225UKri place Crissaean Gulf  long="22.469" lat="38.4712
+100 keep Rhium 2.86.4	place	Ῥίον	Ῥίῳ	neut:dat 2.86 place 383218LRhi place Rhium  long="21.782" lat="38.31
+100 keep Achaean 2.86.4	ethnic	Ἀχαϊκός	Ἀχαϊκῷ	masc/neut:dat 2.86 place 382219RAch demonym Achaean  long="21.9" lat="38.2
+100 keep Peloponnesian 2.86.4	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.86 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+100 keep Panormus 2.86.4	place	Πάνορμος	Πανόρμου	masc:gen 2.86 place 383218HPan place Panormus  long="21.8167" lat="38.3167
+94 keep Athenian 2.86.4	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.86 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Rhium 2.86.5	place	Ῥίον	Ῥίων	neut:gen 2.86 place 383218LRhi place Rhium  long="21.782" lat="38.31
+83 keep Cnemos 2.86.6	person	Κνῆμος	Κνῆμος	masc:nom 2.86 people 2609 noclass Cnemus
+100 keep Brasidas 2.86.6	person	Βρασίδας	Βρασίδας	masc:nom 2.86 people 293 noclass Brasidas
+100 keep Peloponnesian 2.86.6	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.86 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+94 keep Athenian 2.86.6	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.86 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+96 keep Peloponnesian 2.87.1	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.87 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Peloponnesian 2.88.1	ethnic	Πελοποννήσιος	Πελοποννησίοις	masc/neut:dat 2.88 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+93 keep Phormion 2.88.1	person	Φορμίων	Φορμίων	masc:nom/voc 2.88 people 188 noclass Phormio
+94 keep Athenian 2.88.2	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.88 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Peloponnesian 2.88.2	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.88 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+94 keep Athenian 2.88.3	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.88 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+96 keep Lacedaemonian 2.89.4	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιοί	masc:nom/voc 2.89 place 371224PSpa ethnic Lacedaemonians  long="22.4237" lat="37.0821
+96 keep Peloponnesian 2.89.10	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.89 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+94 keep Athenian 2.89.10	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.89 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+93 keep Phormion 2.90.1	person	Φορμίων	Φορμίων	masc:nom/voc 2.90 people 188 noclass Phormio
+100 keep Peloponnesian 2.90.1	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.90 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+94 keep Athenian 2.90.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.90 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Naupactus 2.90.2	place	Ναύπακτος	Ναύπακτον	fem:acc 2.90 place 384218UNau place Naupactus  long="21.8313" lat="38.3997
+93 keep Phormion 2.90.2	person	Φορμίων	Φορμίων	masc:nom/voc 2.90 people 188 noclass Phormio
+94 keep Athenian 2.90.2	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.90 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Messenian 2.90.3	ethnic	Μεσσήνιος	Μεσσηνίων	masc/neut:gen 2.90 place 372218RMes demonym Messenian  long="21.8" lat="37.2
+100 keep Peloponnesian 2.90.4	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.90 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+94 keep Athenian 2.90.4	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.90 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Peloponnesian 2.90.5	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.90 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+94 keep Athenian 2.90.5	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.90 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Messenian 2.90.6	ethnic	Μεσσήνιος	Μεσσήνιοι	masc:nom/voc 2.90 place 372218RMes demonym Messenian  long="21.8" lat="37.2
+96 keep Peloponnesian 2.91.1	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.91 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+57 keep Attica 2.91.1	ethnic	Ἀττικός	Ἀττικὰς	fem:acc 2.91 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Athenian 2.91.1	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.91 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Naupactus 2.91.1	place	Ναύπακτος	Ναύπακτον	fem:acc 2.91 place 384218UNau place Naupactus  long="21.8313" lat="38.3997
+75 keep Apollonios 2.91.1	person	Ἀπολλώνιος	Ἀπολλώνιον	neut:nom/voc/acc 2.91 people 2 noclass Apollo
+100 keep Athenian 2.91.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.91 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+94 keep Leucadia 2.91.2	place	Λευκαδία	Λευκαδία	fem:nom/voc 2.91 place 387207PLeu demonym Leucadian  long="20.717" lat="38.81
+57 keep Attica 2.91.3	ethnic	Ἀττικός	Ἀττικὴ	fem:nom/voc 2.91 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+94 keep Leucadia 2.91.3	place	Λευκαδία	Λευκαδίᾳ	fem:dat 2.91 place 387207PLeu demonym Leucadian  long="20.717" lat="38.81
+96 keep Peloponnesian 2.91.4	ethnic	Πελοποννήσιος	Πελοποννησίοις	masc/neut:dat 2.91 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Athenian 2.92.1	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.92 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Panormus 2.92.1	place	Πάνορμος	Πάνορμον	masc:acc 2.92 place 383218HPan place Panormus  long="21.8167" lat="38.3167
+100 keep Athenian 2.92.2	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.92 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+94 keep Leucadia 2.92.3	place	Λευκαδία	Λευκαδίας	fem:gen 2.92 place 387207PLeu demonym Leucadian  long="20.717" lat="38.81
+100 keep Timocrates 2.92.3	person	Τιμοκράτης	Τιμοκράτης	masc:nom 2.92 people 250 noclass Timocrates
+100 keep Lacedaemonian 2.92.3	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιος	masc:nom 2.92 place 371224PSpa person Lacedaemonian  long="22.4237" lat="37.0821
+74 keep Naupactian 2.92.3	ethnic	Ναυπάκτιος	Ναυπακτίων	masc/neut:gen 2.92 place 384218UNau place Naupactus  long="21.8313" lat="38.3997
+100 keep Athenian 2.92.4	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.92 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+96 keep Peloponnesian 2.92.5	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.92 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Rhium 2.92.5	place	Ῥίον	Ῥίον	neut:nom/voc/acc 2.92 place 383218LRhi place Rhium  long="21.782" lat="38.31
+100 keep Achaean 2.92.5	ethnic	Ἀχαϊκός	Ἀχαϊκὸν	neut:nom/voc/acc 2.92 place 382219RAch demonym Achaean  long="21.9" lat="38.2
+100 keep Athenian 2.92.6	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.92 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+94 keep Crisaean 2.92.6	ethnic	Κρισαῖος	Κρισαῖον	neut:nom/voc/acc 2.92 place 384225UKri place Crissaean Gulf  long="22.469" lat="38.4712
+100 keep Corinth 2.92.6	place	Κόρινθος	Κόρινθον	fem:acc 2.92 place 379229PKor place Corinth  long="22.8802" lat="37.9054
+100 keep Leucadian 2.92.6	ethnic	Λευκάδιος	Λευκαδίων	masc/neut:gen 2.92 place 387207PLeu demonym Leucadian  long="20.717" lat="38.81
+50 reject Crete 2.92.7	place	Κρήτη	Κρήτης	fem:gen 2.92 place 379229PKor place Corinth  long="22.8802" lat="37.9054
+100 keep Athenian 2.92.7	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.92 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+93 keep Phormion 2.92.7	person	Φορμίων	Φορμίωνι	masc:dat 2.92 people 188 noclass Phormio
+100 keep Naupactus 2.92.7	place	Ναύπακτος	Ναύπακτον	fem:acc 2.92 place 384218UNau place Naupactus  long="21.8313" lat="38.3997
+100 keep Corinth 2.93.1	place	Κόρινθος	Κόρινθόν	fem:acc 2.93 place 379229PKor place Corinth  long="22.8802" lat="37.9054
+94 keep Crisaean 2.93.1	ethnic	Κρισαῖος	Κρισαῖον	neut:nom/voc/acc 2.93 place 384225UKri place Crissaean Gulf  long="22.469" lat="38.4712
+83 keep Cnemos 2.93.1	person	Κνῆμος	Κνῆμος	masc:nom 2.93 people 2609 noclass Cnemus
+100 keep Brasidas 2.93.1	person	Βρασίδας	Βρασίδας	masc:nom 2.93 people 293 noclass Brasidas
+100 keep Peloponnesian 2.93.1	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.93 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+94 keep Megarian 2.93.1	ethnic	Μεγαρεύς	Μεγαρέων	masc:gen 2.93 place 380233PMeg ethnic Megarians  long="23.34285" lat="37.997
+88 keep Peiraieus 2.93.1	place	Πειραιεύς	Πειραιῶς	masc:gen 2.93 place 379236HPei place Piraeus  long="23.6448" lat="37.9394
+100 keep Athenian 2.93.1	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.93 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Corinth 2.93.2	place	Κόρινθος	Κορίνθου	fem:gen 2.93 place 379229PKor place Corinth  long="22.8802" lat="37.9054
+100 keep Athens 2.93.2	place	Ἀθῆναι	Ἀθήνας	fem:acc 2.93 place 380237PAth place Athens  long="23.72793" lat="37.9718
+100 keep Megara 2.93.2	place	Μέγαρα	Μέγαρα	neut:nom/voc/acc 2.93 place 380233PMeg place Megara  long="23.34285" lat="37.997
+100 keep Nisaea 2.93.2	place	Νισαῖος	Νισαίας	fem:gen 2.93 place 380234UNis place Nisaea  long="23.364" lat="37.9764
+88 keep Peiraieus 2.93.2	place	Πειραιεύς	Πειραιᾶ	masc:acc 2.93 place 379236HPei place Piraeus  long="23.6448" lat="37.9394
+100 keep Nisaea 2.93.4	place	Νισαῖος	Νισαίας	fem:gen 2.93 place 380234UNis place Nisaea  long="23.364" lat="37.9764
+88 keep Peiraieus 2.93.4	place	Πειραιεύς	Πειραιᾶ	masc:acc 2.93 place 379236HPei place Piraeus  long="23.6448" lat="37.9394
+100 keep Salamis 2.93.4	place	Σαλαμίς	Σαλαμῖνος	fem:gen 2.93 place 379235PSal place Salamis  long="23.5408" lat="37.952
+100 keep Megara 2.93.4	place	Μέγαρα	Μέγαρα	neut:nom/voc/acc 2.93 place 380233PMeg place Megara  long="23.34285" lat="37.997
+94 keep Megarian 2.93.4	ethnic	Μεγαρεύς	Μεγαρεῦσι	masc:dat 2.93 place 380233PMeg ethnic Megarians  long="23.34285" lat="37.997
+100 keep Salamis 2.93.4	place	Σαλαμίς	Σαλαμῖνα	fem:acc 2.93 place 379235PSal place Salamis  long="23.5408" lat="37.952
+100 keep Athens 2.94.1	place	Ἀθῆναι	Ἀθήνας	fem:acc 2.94 place 380237PAth place Athens  long="23.72793" lat="37.9718
+88 keep Peiraieus 2.94.1	place	Πειραιεύς	Πειραιᾶ	masc:acc 2.94 place 379236HPei place Piraeus  long="23.6448" lat="37.9394
+88 keep Peiraieus 2.94.1	place	Πειραιεύς	Πειραιεῖ	masc:dat 2.94 place 379236HPei place Piraeus  long="23.6448" lat="37.9394
+100 keep Salamis 2.94.1	place	Σαλαμίς	Σαλαμῖνα	fem:acc 2.94 place 379235PSal place Salamis  long="23.5408" lat="37.952
+94 keep Athenian 2.94.2	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.94 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+88 keep Peiraieus 2.94.2	place	Πειραιεύς	Πειραιᾶ	masc:acc 2.94 place 379236HPei place Piraeus  long="23.6448" lat="37.9394
+100 keep Salamis 2.94.2	place	Σαλαμίς	Σαλαμῖνα	fem:acc 2.94 place 379235PSal place Salamis  long="23.5408" lat="37.952
+88 keep Peiraieus 2.94.2	place	Πειραιεύς	Πειραιῶς	masc:gen 2.94 place 379236HPei place Piraeus  long="23.6448" lat="37.9394
+96 keep Peloponnesian 2.94.3	ethnic	Πελοποννήσιος	Πελοποννήσιοι	masc:nom/voc 2.94 place 375222RPel ethnic Peloponnesians  long="22.15" lat="37.54
+100 keep Salamis 2.94.3	place	Σαλαμίς	Σαλαμῖνος	fem:gen 2.94 place 379235PSal place Salamis  long="23.5408" lat="37.952
+67 reject Boudoron 2.94.3	noclass	Βούδορον	Βουδόρου	neut:gen 2.94 place 380234FBou place Budorum  long="23.4357" lat="37.9797
+100 keep Nisaea 2.94.3	place	Νισαῖος	Νισαίας	fem:gen 2.94 place 380234UNis place Nisaea  long="23.364" lat="37.9764
+100 keep Megara 2.94.3	place	Μέγαρα	Μέγαρα	neut:nom/voc/acc 2.94 place 380233PMeg place Megara  long="23.34285" lat="37.997
+100 keep Corinth 2.94.3	place	Κόρινθος	Κορίνθου	fem:gen 2.94 place 379229PKor place Corinth  long="22.8802" lat="37.9054
+94 keep Athenian 2.94.4	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.94 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+100 keep Salamis 2.94.4	place	Σαλαμίς	Σαλαμῖνι	fem:dat 2.94 place 379235PSal place Salamis  long="23.5408" lat="37.952
+88 keep Peiraieus 2.94.4	place	Πειραιεύς	Πειραιῶς	masc:gen 2.94 place 379236HPei place Piraeus  long="23.6448" lat="37.9394
+100 keep Sitalces 2.95.1	person	Σιτάλκης	Σιτάλκης	masc:nom 2.95 people 1252 noclass Sitalces
+80 keep Teras 2.95.1	person	Τήρας	Τήρεω	masc:gen 2.95 people 2264 noclass Teres
+67 keep Odrysus 2.95.1	noclass	Ὄδρυσος	Ὀδρύσης	fem:gen 2.95 place 417265ROdr person Odrysian  long="26.5" lat="41.7
+100 keep Perdiccas 2.95.1	person	Περδίκκας	Περδίκκαν	masc:acc 2.95 people 888 noclass Perdiccas
+84 keep Alexandros 2.95.1	person	Ἀλέξανδρος	Ἀλεξάνδρου	masc:gen 2.95 people 1150 noclass Alexander
+100 keep Macedonia 2.95.1	place	Μακεδονία	Μακεδονίας	fem:gen 2.95 place 408225RMak person Macedonia  long="22.5" lat="40.81
+100 keep Chalcidian 2.95.1	ethnic	Χαλκιδεύς	Χαλκιδέας	masc:acc 2.95 place 405233RCha demonym Chalcidian  long="23.3" lat="40.5
+100 keep Thrace 2.95.1	place	Θρᾳκία	Θρᾴκης	fem:gen 2.95 place 410265RThr place Thrace  long="26.5" lat="41
+100 keep Perdiccas 2.95.2	person	Περδίκκας	Περδίκκας	masc:nom 2.95 people 888 noclass Perdiccas
+100 keep Athenian 2.95.2	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat 2.95 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+80 keep Philippos 2.95.2	person	Φίλιππος	Φίλιππον	masc:acc 2.95 people 26 noclass Philip
+100 keep Thrace 2.95.2	place	Θρᾳκία	Θρᾴκης	fem:gen 2.95 place 410265RThr place Thrace  long="26.5" lat="41
+82 keep Chalcidicus 2.95.2	place	Χαλκιδικός	Χαλκιδικὸν	neut:nom/voc/acc 2.95 place 405233RCha ethnic Chalcidians  long="23.3" lat="40.5
+80 keep Philippos 2.95.3	person	Φίλιππος	Φιλίππου	masc:gen 2.95 people 26 noclass Philip
+100 keep Amyntas 2.95.3	person	Ἀμύντας	Ἀμύνταν	masc:acc 2.95 people 246 noclass Amyntas
+95 keep Macedonian 2.95.3	ethnic	Μακεδών	Μακεδόνων	masc/fem:gen 2.95 place 408225RMak person Macedonia  long="22.5" lat="40.81
+100 keep Athenian 2.95.3	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.95 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Hagnon 2.95.3	person	Ἅγνων	Ἅγνωνα	masc:acc 2.95 people 1399 noclass Hagnon
+100 keep Athenian 2.95.3	ethnic	Ἀθηναῖος	Ἀθηναίους	masc:acc 2.95 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Chalcidian 2.95.3	ethnic	Χαλκιδεύς	Χαλκιδέας	masc:acc 2.95 place 405233RCha demonym Chalcidian  long="23.3" lat="40.5
+75 keep Odrysai 2.96.1	place	Ὀδρύσαι	Ὀδρυσῶν	fem:gen 2.96 place 417265ROdr ethnic Odrysians  long="26.5" lat="41.7
+83 keep Haimus 2.96.1	place	Αἷμος	Αἵμου	masc:gen 2.96 place 428247LHae place Haemus  long="24.659" lat="42.773
+92 keep Rodope 2.96.1	place	Ῥοδόπη	Ῥοδόπης	fem:gen 2.96 place 412253LRho place Rhodope  long="25.28" lat="41.23
+50 reject Thracian 2.96.1	ethnic	Θρᾷξ	Θρᾷκας	masc:acc 2.96 place 425230RAgr ethnic Agrianes  long="23" lat="42.5
+100 keep Euxine 2.96.1	place	Εὔξεινος	Εὔξεινόν	masc:acc 2.96 place 435335WPon place Euxine  long="33.5" lat="43.5
+91 keep Hellespontus 2.96.1	place	Ἑλλήσποντος	Ἑλλήσποντον	masc:acc 2.96 place 402264WHel place Hellespont  long="26.4" lat="40.2
+83 keep Haimus 2.96.1	place	Αἷμος	Αἷμον	masc:acc 2.96 place 428247LHae place Haemus  long="24.659" lat="42.773
+80 keep Getai 2.96.1	ethnic	Γέται	Γέτας	masc:acc 2.96 place 435268RGet ethnic Getae  long="26.8" lat="43.5
+100 keep Danube 2.96.1	place	Ἴστρος	Ἴστρου	masc:gen 2.96 place 442277WIst place Danube  long="27.742" lat="44.206
+100 keep Euxine 2.96.1	place	Εὔξεινος	Εὐξείνου	masc:gen 2.96 place 435335WPon place Euxine  long="33.5" lat="43.5
+80 keep Getai 2.96.1	ethnic	Γέται	Γέται	masc:nom/voc 2.96 place 435268RGet ethnic Getae  long="26.8" lat="43.5
+75 keep Scythes 2.96.1	ethnic	Σκύθης	Σκύθαις	masc:dat 2.96 place 475310RSky ethnic Scythians  long="31.01" lat="47.5
+60 reject Dian 2.96.2	group	Δῖος	Δῖοι	masc:nom/voc 2.96 place 442277WIst place Danube  long="27.742" lat="44.206
+92 keep Rodope 2.96.2	place	Ῥοδόπη	Ῥοδόπην	fem:acc 2.96 place 412253LRho place Rhodope  long="25.28" lat="41.23
+86 keep Agrian 2.96.3	ethnic	Ἀγριάν	Ἀγριᾶνας	masc:acc 2.96 place 425230RAgr ethnic Agrianes  long="23" lat="42.5
+59 reject Laiaeans 2.96.3	ethnic	Λαιαῖοι	Λαιαίους	masc:acc 2.96 place 415220RPai ethnic Paeonians  long="22.01" lat="41.5
+67 keep Paionicus 2.96.3	noclass	Παιονικός	Παιονικὰ	neut:nom/voc/acc 2.96 place 415220RPai ethnic Paeonians  long="22.01" lat="41.5
+59 reject Laiaeans 2.96.3	ethnic	Λαιαῖοι	Λαιαίων	masc:gen 2.96 place 415220RPai ethnic Paeonians  long="22.01" lat="41.5
+100 keep Paeonian 2.96.3	ethnic	Παίων	Παιόνων	masc:gen 2.96 place 415220RPai demonym Paeonian  long="22.01" lat="41.5
+100 keep Strymon 2.96.3	place	Στρυμών	Στρυμόνος	masc:gen 2.96 place 408238WStr place Strymon  long="23.8489" lat="40.7858
+100 keep Scombrus 2.96.3	place	Σκόμβρος	Σκόμβρου	masc:gen 2.96 people 8285 noclass Scombrus
+86 keep Agrian 2.96.3	ethnic	Ἀγριάν	Ἀγριάνων	masc:gen 2.96 place 425230RAgr ethnic Agrianes  long="23" lat="42.5
+100 keep Paeonian 2.96.3	ethnic	Παίων	Παίονας	masc:acc 2.96 place 415220RPai demonym Paeonian  long="22.01" lat="41.5
+94 keep Triballoi 2.96.4	ethnic	Τριβαλλοί	Τριβαλλούς	masc:acc 2.96 place 425220RTri ethnic Triballi  long="22" lat="42.5
+50 reject Treras 2.96.4	ethnic	Τρήρας	Τρῆρες	masc:voc 2.96 place 407260WHeb place Hebrus  long="26.1825" lat="40.78557
+47 reject Tilataean 2.96.4	noclass	Τιλαταῖος	Τιλαταῖοι	masc:nom/voc 2.96 place 415220RPai demonym Paeonian  long="22.01" lat="41.5
+100 keep Scombrus 2.96.4	place	Σκόμβρος	Σκόμβρου	masc:gen 2.96 people 8285 noclass Scombrus
+67 reject Oscian 2.96.4	noclass	Ὄσκιος	Ὀσκίου	masc:gen 2.96 place 417265ROdr ethnic Odrysians  long="26.5" lat="41.7
+100 keep Nestus 2.96.4	place	Νέστος	Νέστος	masc:nom 2.96 place 418238WNes place Nestus  long="24.771" lat="41.0916
+100 keep Hebrus 2.96.4	place	Ἕβρος	Ἕβρος	masc:nom 2.96 place 407260WHeb place Hebrus  long="26.1825" lat="40.78557
+92 keep Rodope 2.96.4	place	Ῥοδόπη	Ῥοδόπης	fem:gen 2.96 place 412253LRho place Rhodope  long="25.28" lat="41.23
+80 keep Odrysai 2.97.1	place	Ὀδρύσαι	Ὀδρυσῶν	fem:gen 2.97 place 417265ROdr demonym Odrysian  long="26.5" lat="41.7
+100 keep Abdera 2.97.1	place	Ἄβδηρα	Ἀβδήρων	neut:gen 2.97 place 410250PAbd place Abdera  long="24.9833" lat="40.95
+100 keep Euxine 2.97.1	place	Εὔξεινος	Εὔξεινον	masc:acc 2.97 place 435335WPon place Euxine  long="33.5" lat="43.5
+100 keep Danube 2.97.1	place	Ἴστρος	Ἴστρου	masc:gen 2.97 place 442277WIst place Danube  long="27.742" lat="44.206
+100 keep Danube 2.97.1	place	Ἴστρος	Ἴστρον	masc:acc 2.97 place 442277WIst place Danube  long="27.742" lat="44.206
+78 keep Byzantine 2.97.2	ethnic	Βυζάντιος	Βυζαντίου	neut:gen 2.97 place 410290UByz place Byzantium  long="28.9739" lat="41.0059
+50 reject Laiaeans 2.97.2	ethnic	Λαιαῖοι	Λαιαίους	masc:acc 2.97 people 1252 noclass Sitalces
+100 keep Strymon 2.97.2	place	Στρυμών	Στρυμόνα	masc:acc 2.97 place 408238WStr place Strymon  long="23.8489" lat="40.7858
+40 reject Hellenis 2.97.3	ethnic	Ἑλληνίς	Ἑλληνίδων	fem:gen 2.97 people 328 noclass Seuthes
+100 keep Seuthes 2.97.3	person	Σεύθης	Σεύθου	masc:gen 2.97 people 328 noclass Seuthes
+100 keep Sitalces 2.97.3	person	Σιτάλκης	Σιτάλκου	masc:gen 2.97 people 1252 noclass Sitalces
+80 keep Odrysai 2.97.3	place	Ὀδρύσαι	Ὀδρυσῶν	fem:gen 2.97 place 417265ROdr demonym Odrysian  long="26.5" lat="41.7
+100 keep Persian 2.97.4	ethnic	Πέρσης	Περσῶν	masc:gen 2.97 place 295540RPer demonym Persian  long="54" lat="29.5
+71 keep Thracian 2.97.4	ethnic	Θρᾷξ	Θρᾳξί	masc:dat 2.97 place 410265RThr place Thrace  long="26.5" lat="41
+100 keep Ionian 2.97.5	ethnic	Ἰόνιος	Ἰονίου	masc/neut:gen 2.97 place 408187WIon place Ionian Sea  long="18.7" lat="39.2
+100 keep Euxine 2.97.5	place	Εὔξεινος	Εὐξείνου	masc:gen 2.97 place 435335WPon place Euxine  long="33.5" lat="43.5
+75 keep Scythes 2.97.5	ethnic	Σκύθης	Σκυθῶν	masc:gen 2.97 place 475310RSky ethnic Scythians  long="31.01" lat="47.5
+55 reject Asia 2.97.6	place	Ἀσία	Ἀσίᾳ	fem:nom/voc 2.97 place 295540RPer demonym Persian  long="54" lat="29.5
+75 keep Scythes 2.97.6	ethnic	Σκύθης	Σκύθαις	masc:dat 2.97 place 475310RSky ethnic Scythians  long="31.01" lat="47.5
+62 keep Sitalces 2.98.1	person	Σιτάλκης	Σιτάλκης	masc:nom 2.98 place 414233RSin ethnic Sintians  long="23.3" lat="41.4
+100 keep Macedonia 2.98.1	place	Μακεδονία	Μακεδονίαν	fem:acc 2.98 place 408225RMak place Macedonia  long="22.5" lat="40.81
+50 reject Cercina 2.98.1	place	Κέρκινα	Κερκίνης	fem:gen 2.98 place 410265RThr ethnic Thracians  long="26.5" lat="41
+71 keep Sintoi 2.98.1	noclass	Σιντοί	Σιντῶν	masc:gen 2.98 place 414233RSin ethnic Sintians  long="23.3" lat="41.4
+94 keep Paeonian 2.98.1	ethnic	Παίων	Παιόνων	masc:gen 2.98 place 415220RPai ethnic Paeonians  long="22.01" lat="41.5
+94 keep Paeonian 2.98.1	ethnic	Παίων	Παίονας	masc:acc 2.98 place 415220RPai ethnic Paeonians  long="22.01" lat="41.5
+75 keep Odrysai 2.98.2	place	Ὀδρύσαι	Ὀδρυσῶν	fem:gen 2.98 place 417265ROdr ethnic Odrysians  long="26.5" lat="41.7
+94 keep Paeonian 2.98.2	ethnic	Παίων	Παίονας	masc:acc 2.98 place 415220RPai ethnic Paeonians  long="22.01" lat="41.5
+71 keep Sintoi 2.98.2	noclass	Σιντοί	Σιντοὺς	masc:acc 2.98 place 414233RSin ethnic Sintians  long="23.3" lat="41.4
+67 keep Maidoi 2.98.2	ethnic	Μαιδοί	Μαιδούς	masc:acc 2.98 place 408225RMak place Macedonia  long="22.5" lat="40.81
+100 keep Doberus 2.98.2	place	Δόβηρος	Δόβηρον	masc:acc 2.98 place 414228UDob place Doberus  long="22.7543" lat="41.3824
+67 keep Paionicus 2.98.2	noclass	Παιονικός	Παιονικήν	fem:acc 2.98 place 415220RPai ethnic Paeonians  long="22.01" lat="41.5
+75 keep Odrysai 2.98.4	place	Ὀδρύσαι	Ὀδρύσαι	fem:nom/voc 2.98 place 417265ROdr ethnic Odrysians  long="26.5" lat="41.7
+80 keep Getai 2.98.4	ethnic	Γέται	Γέται	masc:nom/voc 2.98 place 435268RGet ethnic Getae  long="26.8" lat="43.5
+92 keep Rodope 2.98.4	place	Ῥοδόπη	Ῥοδόπης	fem:gen 2.98 place 412253LRho place Rhodope  long="25.28" lat="41.23
+100 keep Doberus 2.99.1	place	Δόβηρος	Δοβήρῳ	masc:dat 2.99 place 414228UDob place Doberus  long="22.7543" lat="41.3824
+100 keep Macedonia 2.99.1	place	Μακεδονία	Μακεδονίαν	fem:acc 2.99 place 408225RMak place Macedonia  long="22.5" lat="40.81
+100 keep Perdiccas 2.99.1	person	Περδίκκας	Περδίκκας	masc:nom 2.99 people 888 noclass Perdiccas
+95 keep Macedonian 2.99.2	ethnic	Μακεδών	Μακεδόνων	masc/fem:gen 2.99 place 408225RMak place Macedonia  long="22.5" lat="40.81
+78 keep Lygcestai 2.99.2	ethnic	Λυγκησταί	Λυγκησταὶ	masc:nom/voc 2.99 place 410214RLyn ethnic Lyncestae  long="21.36" lat="40.97
+89 keep Elimiotes 2.99.2	noclass	Ἐλιμιώτης	Ἐλιμιῶται	masc:nom/voc 2.99 place 402218REli ethnic Elimiotae  long="21.84" lat="40.22
+100 keep Macedonia 2.99.3	place	Μακεδονία	Μακεδονίαν	fem:acc 2.99 place 408225RMak place Macedonia  long="22.5" lat="40.81
+84 keep Alexandros 2.99.3	person	Ἀλέξανδρος	Ἀλέξανδρος	masc:nom 2.99 people 1150 noclass Alexander
+100 keep Perdiccas 2.99.3	person	Περδίκκας	Περδίκκου	masc:gen 2.99 people 888 noclass Perdiccas
+94 keep Temenides 2.99.3	person	Τημενίδης	Τημενίδαι	masc:dat 2.99 people 6007 noclass Temenids
+100 keep Argos 2.99.3	place	Ἄργος	Ἄργους	neut:gen 2.99 place 376227PArg place Argos  long="22.7195" lat="37.6316
+100 keep Pieria 2.99.3	place	Πιερία	Πιερίας	fem:gen 2.99 place 402225RPie place Pieria  long="22.5" lat="40.2
+71 keep Pieres 2.99.3	place	Πίερες	Πίερας	masc:acc 2.99 place 402225RPie ethnic Pierians  long="22.5" lat="40.2
+75 keep Pangaean 2.99.3	place	Πάγγαιος	Πάγγαιον	masc:acc 2.99 place 409241LPan place Pangaeus  long="24.0828" lat="40.9169
+100 keep Strymon 2.99.3	place	Στρυμών	Στρυμόνος	masc:gen 2.99 place 408238WStr place Strymon  long="23.8489" lat="40.7858
+86 keep Phagras 2.99.3	noclass	Φάγρας	Φάγρητα	neut:nom/voc/acc 2.99 place 408239PPha place Phagres  long="23.959" lat="40.771
+75 keep Piericus 2.99.3	group	Πιερικός	Πιερικὸς	masc:nom 2.99 place 402225RPie ethnic Pierians  long="22.5" lat="40.2
+75 keep Pangaean 2.99.3	place	Πάγγαιος	Παγγαίῳ	masc:dat 2.99 place 409241LPan place Pangaeus  long="24.0828" lat="40.9169
+75 keep Bottie 2.99.3	noclass	Βοττίη	Βοττίας	fem:gen 2.99 place 406223RBot ethnic Bottiaeans  long="22.3" lat="40.6
+95 keep Bottiaean 2.99.3	noclass	Βοττιαῖος	Βοττιαίους	masc:acc 2.99 place 406223RBot ethnic Bottiaeans  long="22.3" lat="40.6
+95 keep Chalcidian 2.99.3	ethnic	Χαλκιδεύς	Χαλκιδέων	masc:gen 2.99 place 405233RCha ethnic Chalcidians  long="23.3" lat="40.5
+86 keep Paionia 2.99.4	place	Παιονία	Παιονίας	fem:gen 2.99 place 415220RPai place Paeonia  long="22.01" lat="41.5
+80 keep Axios 2.99.4	person	Ἀξιός	Ἀξιὸν	masc:acc 2.99 place 411225WAxi place Axius  long="22.6611" lat="40.7223
+100 keep Pella 2.99.4	place	Πέλλα	Πέλλης	fem:gen 2.99 place 408225PPel place Pella  long="22.518" lat="40.754
+80 keep Axios 2.99.4	person	Ἀξιός	Ἀξιοῦ	masc:gen 2.99 place 411225WAxi place Axius  long="22.6611" lat="40.7223
+100 keep Strymon 2.99.4	place	Στρυμών	Στρυμόνος	masc:gen 2.99 place 408238WStr place Strymon  long="23.8489" lat="40.7858
+100 keep Mygdonia 2.99.4	place	Μυγδονία	Μυγδονίαν	fem:acc 2.99 place 407232RMyg place Mygdonia  long="23.2" lat="40.7
+100 keep Edonians 2.99.4	noclass	Ἠδῶνες	Ἠδῶνας	masc:acc 2.99 place 408238UEdo ethnic Edonians  long="23.9" lat="40.9
+83 keep Eordie 2.99.5	noclass	Ἐορδίη	Ἐορδίας	fem:gen 2.99 place 405217REor place Eordia  long="21.7" lat="40.5
+93 keep Eordian 2.99.5	ethnic	Ἐορδός	Ἐορδούς	masc:acc 2.99 place 405217REor ethnic Eordians  long="21.7" lat="40.5
+46 keep Physca 2.99.5	noclass	Φύσκα	Φύσκαν	fem:acc 2.99 place 408239PPha place Phagres  long="23.959" lat="40.771
+86 keep Almopie 2.99.5	noclass	Ἀλμωπίη	Ἀλμωπίας	fem:gen 2.99 place 410220RAlm place Almopia  long="22.01" lat="40.97
+80 keep Almops 2.99.5	group	Ἄλμωψ	Ἄλμωπας	masc:acc 2.99 place 410220RAlm ethnic Almopians  long="22.01" lat="40.97
+95 keep Macedonian 2.99.6	ethnic	Μακεδών	Μακεδόνες	masc/fem:nom/voc 2.99 place 408225RMak place Macedonia  long="22.5" lat="40.81
+94 keep Anthemous 2.99.6	place	Ἀνθεμοῦς	Ἀνθεμοῦντα	masc:acc 2.99 place 404233PAnt place Anthemus  long="23.2542" lat="40.4449
+89 keep Crestonie 2.99.6	noclass	Κρηστωνίη	Κρηστωνίαν	fem:acc 2.99 place 408230RKre place Crestonia  long="23" lat="40.84
+100 keep Bisaltia 2.99.6	place	Βισαλτία	Βισαλτίαν	fem:acc 2.99 place 410232RBis place Bisaltia  long="23.2" lat="41
+95 keep Macedonian 2.99.6	ethnic	Μακεδών	Μακεδόνων	masc/fem:gen 2.99 place 408225RMak place Macedonia  long="22.5" lat="40.81
+100 keep Macedonia 2.99.6	place	Μακεδονία	Μακεδονία	fem:nom/voc/acc 2.99 place 408225RMak place Macedonia  long="22.5" lat="40.81
+100 keep Perdiccas 2.99.6	person	Περδίκκας	Περδίκκας	masc:nom 2.99 people 888 noclass Perdiccas
+84 keep Alexandros 2.99.6	person	Ἀλέξανδρος	Ἀλεξάνδρου	masc:gen 2.99 people 1150 noclass Alexander
+100 keep Sitalces 2.99.6	person	Σιτάλκης	Σιτάλκης	masc:nom 2.99 people 1252 noclass Sitalces
+95 keep Macedonian 2.100.1	ethnic	Μακεδών	Μακεδόνες	masc/fem:nom/voc 2.100 place 408225RMak ethnic Macedonians  long="22.5" lat="40.81
+89 keep Archelaos 2.100.2	person	Ἀρχέλαος	Ἀρχέλαος	masc:nom 2.100 people 113 noclass Archelaus
+100 keep Perdiccas 2.100.2	person	Περδίκκας	Περδίκκου	masc:gen 2.100 people 888 noclass Perdiccas
+100 keep Doberus 2.100.3	place	Δόβηρος	Δοβήρου	masc:gen 2.100 place 414228UDob place Doberus  long="22.7543" lat="41.3824
+80 keep Philippos 2.100.3	person	Φίλιππος	Φιλίππου	masc:gen 2.100 people 26 noclass Philip
+100 keep Eidomene 2.100.3	noclass	Εἰδομενή	Εἰδομενὴν	fem:acc 2.100 place 413225UEid place Eidomene  long="22.5" lat="41.28
+94 keep Gortynian 2.100.3	ethnic	Γορτύνιος	Γορτυνίαν	fem:acc 2.100 place 412225UGor place Gortynia  long="22.5432" lat="40.9486
+88 keep Atalante 2.100.3	person	Ἀταλάντη	Ἀταλάντην	fem:acc 2.100 place 407226PAll place Atalanta  long="22.5975" lat="40.7352
+100 keep Amyntas 2.100.3	person	Ἀμύντας	Ἀμύντου	masc:gen 2.100 people 246 noclass Amyntas
+86 keep Europus 2.100.3	place	Εὐρωπός	Εὐρωπὸν	masc:acc 2.100 place 409226PEur place Europos  long="22.554" lat="40.8863
+100 keep Macedonia 2.100.4	place	Μακεδονία	Μακεδονίαν	fem:acc 2.100 place 408225RMak place Macedonia  long="22.5" lat="40.81
+100 keep Pella 2.100.4	place	Πέλλα	Πέλλης	fem:gen 2.100 place 408225PPel place Pella  long="22.518" lat="40.754
+92 keep Cyrrus 2.100.4	place	Κύρρος	Κύρρου	masc:gen 2.100 place 408223UKyr place Cyrrhus  long="22.301" lat="40.8312
+94 keep Bottiaean 2.100.4	noclass	Βοττιαῖος	Βοττιαίαν	fem:acc 2.100 place 406223RBot place Bottiaea  long="22.3" lat="40.6
+100 keep Pieria 2.100.4	place	Πιερία	Πιερίαν	fem:acc 2.100 place 402225RPie place Pieria  long="22.5" lat="40.2
+100 keep Mygdonia 2.100.4	place	Μυγδονία	Μυγδονίαν	fem:acc 2.100 place 407232RMyg place Mygdonia  long="23.2" lat="40.7
+89 keep Crestonie 2.100.4	noclass	Κρηστωνίη	Κρηστωνίαν	fem:acc 2.100 place 408230RKre place Crestonia  long="23" lat="40.84
+94 keep Anthemous 2.100.4	place	Ἀνθεμοῦς	Ἀνθεμοῦντα	masc:acc 2.100 place 404233PAnt place Anthemus  long="23.2542" lat="40.4449
+95 keep Macedonian 2.100.5	ethnic	Μακεδών	Μακεδόνες	masc/fem:nom/voc 2.100 place 408225RMak ethnic Macedonians  long="22.5" lat="40.81
+100 keep Sitalces 2.101.1	person	Σιτάλκης	Σιτάλκης	masc:nom 2.101 people 1252 noclass Sitalces
+100 keep Perdiccas 2.101.1	person	Περδίκκας	Περδίκκαν	masc:acc 2.101 people 888 noclass Perdiccas
+94 keep Athenian 2.101.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.101 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+95 keep Chalcidian 2.101.1	ethnic	Χαλκιδεύς	Χαλκιδέας	masc:acc 2.101 place 405233RCha ethnic Chalcidians  long="23.3" lat="40.5
+95 keep Bottiaean 2.101.1	noclass	Βοττιαῖος	Βοττιαίους	masc:acc 2.101 place 406223RBot ethnic Bottiaeans  long="22.3" lat="40.6
+95 keep Thessalian 2.101.2	ethnic	Θεσσαλός	Θεσσαλοὶ	masc:nom/voc 2.101 place 394223RThs ethnic Thessalians  long="22.3" lat="39.4
+57 reject Magnes 2.101.2	group	Μάγνης	Μάγνητες	masc:nom/voc 2.101 place 379239LPan ethnic Panaeans  long="23.968" lat="37.791
+95 keep Thessalian 2.101.2	ethnic	Θεσσαλός	Θεσσαλῶν	masc:gen 2.101 place 394223RThs ethnic Thessalians  long="22.3" lat="39.4
+91 keep Thermopylai 2.101.2	place	Θερμοπύλαι	Θερμοπυλῶν	fem:gen 2.101 place 388225FThe place Thermopylae  long="22.536" lat="38.795
+100 keep Strymon 2.101.3	place	Στρυμών	Στρυμόνος	masc:gen 2.101 place 408238WStr place Strymon  long="23.8489" lat="40.7858
+94 keep Thracian 2.101.3	ethnic	Θρᾷξ	Θρᾷκες	masc:nom/voc 2.101 place 410265RThr ethnic Thracians  long="26.5" lat="41
+93 keep Panaean 2.101.3	noclass	Παναῖος	Παναῖοι	masc:nom/voc 2.101 place 379239LPan ethnic Panaeans  long="23.968" lat="37.791
+94 keep Odomantoi 2.101.3	ethnic	Ὀδόμαντοι	Ὀδόμαντοι	masc:nom/voc 2.101 place 410236ROdo ethnic Odomanti  long="23.6" lat="41
+40 reject Drooi 2.101.3	noclass	Δρῶοι	Δρῶοι	masc:nom/voc 2.101 people 1082 noclass Stratonice
+53 reject Dersaean 2.101.3	noclass	Δερσαῖος	Δερσαῖοι	masc:nom/voc 2.101 place 394223RThs ethnic Thessalians  long="22.3" lat="39.4
+94 keep Athenian 2.101.4	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.101 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+86 keep Chalcidicus 2.101.5	place	Χαλκιδικός	Χαλκιδικὴν	fem:acc 2.101 place 405233RCha place Chalcidice  long="23.3" lat="40.5
+100 keep Bottice 2.101.5	noclass	Βοττική	Βοττικὴν	fem:acc 2.101 place 406223RBot place Bottice  long="22.3" lat="40.6
+100 keep Macedonia 2.101.5	place	Μακεδονία	Μακεδονίαν	fem:acc 2.101 place 408225RMak place Macedonia  long="22.5" lat="40.81
+100 keep Seuthes 2.101.5	person	Σεύθης	Σεύθου	masc:gen 2.101 people 328 noclass Seuthes
+50 reject Sparadocus 2.101.5	noclass	Σπαράδοκος	Σπαραδόκου	masc:gen 2.101 people 1082 noclass Stratonice
+100 keep Seuthes 2.101.5	person	Σεύθης	Σεύθην	masc:acc 2.101 people 328 noclass Seuthes
+100 keep Perdiccas 2.101.5	person	Περδίκκας	Περδίκκας	masc:nom 2.101 people 888 noclass Perdiccas
+95 keep Chalcidian 2.101.6	ethnic	Χαλκιδεύς	Χαλκιδεῦσιν	masc:dat 2.101 place 405233RCha ethnic Chalcidians  long="23.3" lat="40.5
+100 keep Perdiccas 2.101.6	person	Περδίκκας	Περδίκκας	masc:nom 2.101 people 888 noclass Perdiccas
+100 keep Stratonice 2.101.6	place	Στρατονίκη	Στρατονίκην	fem:acc 2.101 people 1082 noclass Stratonice
+100 keep Seuthes 2.101.6	person	Σεύθης	Σεύθῃ	masc:dat 2.101 people 328 noclass Seuthes
+100 keep Sitalces 2.101.6	person	Σιτάλκης	Σιτάλκου	masc:gen 2.101 people 1252 noclass Sitalces
+100 keep Naupactus 2.102.1	place	Ναύπακτος	Ναυπάκτῳ	fem:dat 2.102 place 384218UNau place Naupactus  long="21.8313" lat="38.3997
+100 keep Athenian 2.102.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.102 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+100 keep Peloponnesian 2.102.1	ethnic	Πελοποννήσιος	Πελοποννησίων	masc/neut:gen 2.102 place 375222RPel demonym Peloponnesian  long="22.15" lat="37.54
+93 keep Phormion 2.102.1	person	Φορμίων	Φορμίωνος	masc:gen 2.102 people 188 noclass Phormio
+100 keep Astacus 2.102.1	place	Ἀστακός	Ἀστακοῦ	masc:gen 2.102 place 385211PAst place Astacus  long="21.0915" lat="38.5546
+100 keep Acarnania 2.102.1	place	Ἀκαρνανία	Ἀκαρνανίας	fem:gen 2.102 place 388210RAka place Acarnania  long="21" lat="38.8
+100 keep Athenian 2.102.1	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen 2.102 place 380237PAth demonym Athenian  long="23.72793" lat="37.9718
+95 keep Messenian 2.102.1	ethnic	Μεσσήνιος	Μεσσηνίων	masc/neut:gen 2.102 place 372218RMes ethnic Messenians  long="21.8" lat="37.2
+100 keep Stratus 2.102.1	place	Στράτος	Στράτου	masc:gen 2.102 place 387213PStr place Stratus  long="21.3195" lat="38.6718
+100 keep Coronta 2.102.1	place	Κόροντα	Κορόντων	neut:gen 2.102 place 386212PKor place Coronta  long="21.1595" lat="38.5898
+43 reject Cynes 2.102.1	noclass	Κύνης	Κύνητα	neut:nom/voc/acc 2.102 place 383213IEch place Echinades  long="21.02" lat="38.43
+59 reject Theolytos 2.102.1	person	Θεόλυτος	Θεολύτου	masc:gen 2.102 place 383211WAch place Achelous  long="21.1067" lat="38.3388
+100 keep Coronta 2.102.1	place	Κόροντα	Κόροντα	neut:nom/voc/acc 2.102 place 386212PKor place Coronta  long="21.1595" lat="38.5898
+75 keep Oiniadai 2.102.2	place	Οἰνιάδαι	Οἰνιάδας	fem:acc 2.102 place 384212POin place Oeniadae  long="21.1948" lat="38.4118
+90 keep Acharnanian 2.102.2	ethnic	Ἀκαρνάν	Ἀκαρνάνων	masc:gen 2.102 place 388210RAka place Acarnania  long="21" lat="38.8
+88 keep Acheloos 2.102.2	person	Ἀχελῷος	Ἀχελῷος	masc:nom 2.102 place 383211WAch place Achelous  long="21.1067" lat="38.3388
+100 keep Pindus 2.102.2	place	Πίνδος	Πίνδου	masc:gen 2.102 place 400208LPin place Pindus  long="20.75" lat="40
+86 keep Dolopie 2.102.2	noclass	Δολοπίη	Δολοπίας	fem:gen 2.102 place 392217RDol place Dolopia  long="21.7" lat="39.2
+100 keep Agraeans 2.102.2	ethnic	Ἀγραῖοι	Ἀγραίων	masc:gen 2.102 place 389213RAgr ethnic Agraeans  long="21.28" lat="38.875
+83 keep Amphilochus 2.102.2	group	Ἀμφίλοχος	Ἀμφιλόχων	masc:gen 2.102 place 390212RAmp ethnic Amphilochians  long="21.2" lat="38.95
+80 keep Acarnanicus 2.102.2	noclass	Ἀκαρνανικός	Ἀκαρνανικοῦ	masc/neut:gen 2.102 place 388210RAka place Acarnania  long="21" lat="38.8
+100 keep Stratus 2.102.2	place	Στράτος	Στράτον	masc:acc 2.102 place 387213PStr place Stratus  long="21.3195" lat="38.6718
+75 keep Echinai 2.102.3	place	Ἐχῖναι	Ἐχινάδων	fem:gen 2.102 place 383213IEch place Echinades  long="21.02" lat="38.43
+75 keep Oiniadai 2.102.3	place	Οἰνιάδαι	Οἰνιαδῶν	fem:gen 2.102 place 384212POin place Oeniadae  long="21.1948" lat="38.4118
+88 keep Acheloos 2.102.3	person	Ἀχελῷος	Ἀχελῴου	masc:gen 2.102 place 383211WAch place Achelous  long="21.1067" lat="38.3388
+93 keep Alcmeon 2.102.5	person	Ἀλκμέων	Ἀλκμέωνι	masc:dat 2.102 people 564 noclass Alcmaeon
+90 keep Amphiaraos 2.102.5	person	Ἀμφιάραος	Ἀμφιάρεω	fem:gen 2.102 people 284 noclass Amphiaraus
+100 keep Apollo 2.102.5	person	Ἀπόλλων	Ἀπόλλω	masc:nom 2.102 people 2 noclass Apollo
+88 keep Acheloos 2.102.6	person	Ἀχελῷος	Ἀχελῴου	masc:gen 2.102 place 383211WAch place Achelous  long="21.1067" lat="38.3388
+75 keep Oiniadai 2.102.6	place	Οἰνιάδαι	Οἰνιάδας	fem:acc 2.102 place 384212POin place Oeniadae  long="21.1948" lat="38.4118
+90 keep Acharnanian 2.102.6	ethnic	Ἀκαρνάν	Ἀκαρνᾶνος	masc:gen 2.102 place 388210RAka place Acarnania  long="21" lat="38.8
+93 keep Alcmeon 2.102.6	person	Ἀλκμέων	Ἀλκμέωνα	masc:acc 2.102 people 564 noclass Alcmaeon
+94 keep Athenian 2.103.1	ethnic	Ἀθηναῖος	Ἀθηναῖοι	masc:nom/voc 2.103 place 380237PAth ethnic Athenians  long="23.72793" lat="37.9718
+93 keep Phormion 2.103.1	person	Φορμίων	Φορμίων	masc:nom/voc 2.103 people 188 noclass Phormio
+100 keep Acarnania 2.103.1	place	Ἀκαρνανία	Ἀκαρνανίας	fem:gen 2.103 place 388210RAka place Acarnania  long="21" lat="38.8
+100 keep Naupactus 2.103.1	place	Ναύπακτος	Ναύπακτον	fem:acc 2.103 place 384218UNau place Naupactus  long="21.8313" lat="38.3997
+100 keep Athens 2.103.1	place	Ἀθῆναι	Ἀθήνας	fem:acc 2.103 place 380237PAth place Athens  long="23.72793" lat="37.9718
+95 keep Thoucydides 2.103.1	person	Θουκυδίδης	Θουκυδίδης	masc:nom 2.103 people 193 noclass Thucydides
