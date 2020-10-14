@@ -1,0 +1,1081 @@
+0.0	0.2	3.6	11	λυπηρός	painful
+0.0	0.2	3.6	11	βεβαιόω	to make firm
+0.0	0.4	4.1	14	εἴκω	give way
+0.0	0.5	8.2	24	καίτοι	and indeed
+0.0	0.6	7.3	23	ἐνθάδε	here
+0.0	0.6	7.3	24	τιμάω	to honor; to value something at a price (gen.)
+0.0	0.7	9.1	29	χάρις	gratitude
+0.0	1.2	13.2	43	ἀρετή	goodness
+0.0	1.6	21.9	67	ἡμέτερος	our
+0.0	11.4	116.6	388	σύ	you (personal pronoun)
+0.1	0.4	2.7	11	τάχα	(Homer
+0.1	0.4	3.2	12	παράδειγμα	a pattern
+0.1	0.4	3.6	13	μέμφομαι	to blame
+0.1	0.5	2.7	12	βίος	life
+0.1	0.5	2.7	12	ἀρκέω	to ward off; to be sufficient
+0.1	0.5	2.7	12	ἀξίωσις	a thinking worthy
+0.1	0.5	2.7	12	δικαιόω	to set right
+0.1	0.5	3.2	13	εὔνοια	good-will
+0.1	0.5	3.2	13	καταπλήσσω	to strike down
+0.1	0.5	4.1	15	εἴπερ	strengthd. for εἰ
+0.1	0.5	4.5	16	ἐμός	mine
+0.1	0.6	3.2	15	ἕπομαι	follow
+0.1	0.6	3.2	15	αἰτιάομαι	to charge
+0.1	0.6	3.6	15	μανθάνω	to learn
+0.1	0.6	4.1	16	εὐτυχέω	to be well off
+0.1	0.6	4.1	17	τιμή	that which is paid in token of worth
+0.1	0.6	4.5	17	ἡδονή	delight
+0.1	0.6	4.5	17	ἀπωθέω	to thrust away
+0.1	0.6	5.9	21	δέος	fear
+0.1	0.7	4.1	18	νόμιμος	conformable to custom
+0.1	0.7	4.1	18	προσέτι	over and above
+0.1	0.7	6.4	23	πέλας	near
+0.1	0.8	4.1	19	ἀλλότριος	of/belonging to another
+0.1	0.8	4.1	19	ἐνθυμέομαι	to lay to heart
+0.1	0.8	5.0	21	πόνος	work
+0.1	0.9	5.0	22	κατορθόω	to set upright
+0.1	0.9	5.4	23	ἄδικος	wrong-doing
+0.1	1.0	5.4	24	κἀν	crasis of καὶ ἐν
+0.1	1.0	5.4	24	εἰκότως	in all likelihood
+0.1	1.2	8.6	33	χείρων	worse
+0.1	1.2	8.6	34	προσήκω	to have come; to belong to
+0.1	1.3	8.2	34	ὀρθός	straight
+0.1	1.3	9.1	36	αἰσχρός	causing shame
+0.1	1.5	11.8	44	κτάομαι	to procure for oneself
+0.1	1.6	10.0	41	ἁμαρτάνω	to miss
+0.1	1.6	15.0	52	ὦ	O! oh!
+0.1	1.8	11.8	48	ἐχθρός	hated
+0.1	1.8	14.6	53	ὑμέτερος	your
+0.1	1.8	9.1	42	συμφέρω	to bring together; impers. to benefit
+0.1	18.7	176.1	603	ἐγώ	I (first person pronoun)
+0.1	2.3	11.8	53	εὖ	well
+0.2	0.5	2.2	11	ἀδικία	injustice
+0.2	0.5	2.2	11	ἀλήθεια	truth
+0.2	0.5	2.2	11	ὑποδέχομαι	to receive
+0.2	0.6	2.2	12	στερέω	to deprive
+0.2	0.6	2.2	12	ὑφίστημι	to place under; mid. to submit
+0.2	0.6	2.2	13	φιλέω	to love
+0.2	0.6	2.2	13	συνετός	intelligent
+0.2	0.6	2.7	13	σύνεσις	comprehension
+0.2	0.6	2.7	13	ἀπαράσκευος	without preparation
+0.2	0.6	2.7	14	πῶς1	nodef
+0.2	0.6	2.7	14	πρέπω	to be clearly seen
+0.2	0.6	2.7	14	ἐχυρός	strong
+0.2	0.6	2.7	14	ἐπαινέω	to approve
+0.2	0.6	2.7	14	πολιτεύω	to live as a citizen
+0.2	0.6	2.7	14	ἀντιλαμβάνω	to receive instead of
+0.2	0.7	2.7	15	ἄγαν	very
+0.2	0.7	3.2	16	κολάζω	to curtail
+0.2	0.8	3.2	17	δουλεία	servitude
+0.2	0.9	4.1	20	προθέω2	[derivation unclear]
+0.2	0.9	4.5	21	διότι	for the reason that
+0.2	0.9	4.5	21	θαυμάζω	to wonder
+0.2	1.0	3.6	20	σύμφορος	accompanying; suitable
+0.2	1.0	3.6	20	εὐπρεπής	well-looking
+0.2	1.0	4.1	21	ἰδιώτης	a private person
+0.2	1.0	4.5	22	ἀναγκαῖος	necessary
+0.2	1.1	4.5	23	ἰσχύω	to be strong
+0.2	1.1	4.5	23	ὠφέλιμος	useful
+0.2	1.2	4.1	24	ἀποτρέπω	to turn away from
+0.2	1.2	4.1	24	προσλαμβάνω	to take or receive in addition
+0.2	1.2	5.0	25	ἐπαίρω	to lift up and set on
+0.2	1.3	4.5	26	τιμωρέω	to help
+0.2	1.3	5.0	27	ὑπακούω	to listen
+0.2	1.5	6.4	32	ὅταν	when
+0.2	1.5	7.3	34	ἐπιβουλεύω	to plot against
+0.2	1.7	6.8	35	πατήρ	a father
+0.2	1.8	6.8	37	σκοπέω	to look at
+0.2	1.8	7.7	38	σῶμα	the body
+0.2	1.8	7.7	39	ἰσχύς	strength
+0.2	1.9	7.3	39	εἰρήνη	peace
+0.2	1.9	7.3	39	ὠφέλεια	help
+0.2	12.6	58.0	274	νῦν	now at this very time
+0.2	2.0	8.2	42	ἐκεῖ	there
+0.2	2.3	8.2	45	Μῆδος	a Mede
+0.2	2.4	8.6	47	δόξα	a notion
+0.2	2.5	11.8	56	ὠφελέω	to help
+0.2	2.5	12.3	57	ἄξιος	worthy
+0.2	2.6	11.4	56	κινδυνεύω	to be daring
+0.2	2.7	9.6	53	σφάλλω	to make to fall
+0.2	2.8	12.8	61	νόμος	usage
+0.2	3.1	10.5	59	ἀσφαλής	not liable to fall
+0.2	3.1	10.9	61	συμφορά	an event
+0.2	3.2	11.8	64	οἰκεῖος	in or of the house
+0.2	3.8	13.7	75	ἀγαθός	good
+0.2	4.1	16.4	84	βλάπτω	to disable
+0.2	4.1	16.9	85	δράω	to do
+0.2	4.1	19.2	90	πάσχω	to experience
+0.2	4.3	19.2	93	δίκαιος	just
+0.2	4.7	16.9	92	ἴσος	equal to
+0.2	5.3	18.7	103	κοινός	common
+0.2	5.7	21.9	115	χρή	it is fated
+0.2	6.0	21.4	117	ἀμύνω	to keep off
+0.2	6.0	22.8	120	ἀδικέω	to do wrong
+0.2	6.2	23.7	124	μόνος	alone
+0.2	6.9	23.7	133	ὅμοιος	like
+0.3	0.6	1.8	11	τρέφω	to nourish
+0.3	0.6	1.8	11	βραδύς	slow
+0.3	0.6	1.8	11	ἄπειμι1	nodef
+0.3	0.6	1.8	11	αἰσχύνη	shame done one
+0.3	0.6	1.8	11	δουλεύω	to be a slave
+0.3	0.6	1.8	11	ἐπιτάσσω	to put upon one as a duty
+0.3	0.6	1.8	11	τεκμήριον	a sure signs.
+0.3	0.6	1.8	11	ἐξηγέομαι	to be leader of; dictate
+0.3	0.6	1.8	12	ῥώμη	bodily strength
+0.3	0.6	1.8	12	φρονέω	to think
+0.3	0.6	1.8	12	προφέρω	to bring before
+0.3	0.6	1.8	12	συνόμνυμι	to swear together
+0.3	0.6	1.8	12	ὑπολαμβάνω	take up; understand
+0.3	0.7	1.8	13	λογισμός	a counting
+0.3	0.7	1.8	13	περιουσία	supersum
+0.3	0.7	1.8	13	ἐνδέχομαι	to take upon oneself; to be possible
+0.3	0.7	2.2	14	βέλτιστος	best
+0.3	0.8	2.2	15	ἐφίημι	to send to; (mid) to long for
+0.3	0.8	2.2	15	ἐλασσόω	to make less
+0.3	0.8	2.2	15	ἀναπείθω	to bring over
+0.3	0.9	2.7	17	παραβαίνω	(go beside) overstep
+0.3	1.0	2.7	18	γοῦν	at least then
+0.3	1.0	3.2	19	ὀργίζω	to make angry
+0.3	1.0	3.2	19	μεταβολή	a change
+0.3	1.0	3.2	19	πολλάκις	many times
+0.3	1.0	3.2	19	ἀποφαίνω	to shew fort
+0.3	1.1	3.2	20	ἀπιστέω	to disbelieve
+0.3	1.1	3.2	20	πρόσοδος	approach
+0.3	1.1	3.6	21	ἀδεής	without fear
+0.3	1.2	3.2	21	λείπω	to leave
+0.3	1.2	3.2	21	προθυμία	readiness
+0.3	1.2	3.2	22	ἄκων	a javelin
+0.3	1.2	3.6	22	φύσις	the nature
+0.3	1.2	3.6	22	τελευταῖος	last
+0.3	1.3	4.1	25	πατρίς	fatherland
+0.3	1.4	3.6	25	προέχω	to hold before
+0.3	1.4	4.5	27	ἀφαιρέω	to take from
+0.3	1.4	4.5	27	ἀντίπαλος	wrestling against
+0.3	1.6	4.5	29	δουλόω	to make a slave of
+0.3	1.8	5.0	33	τολμάω	to undertake
+0.3	1.8	5.0	33	πιστός2	to be trusted
+0.3	1.9	5.9	36	ἀμείνων	better
+0.3	13.2	34.7	230	λόγος	the word
+0.3	14.3	47.5	271	ὅδε	this
+0.3	16.1	40.7	277	οὔτε	neither / nor
+0.3	2.0	6.4	38	κρίνω	to pick out
+0.3	2.1	5.9	38	τύχη	(good) fortune
+0.3	2.1	5.9	38	ἐλάχιστος	the smallest
+0.3	2.2	6.4	40	ἄρα	particle: 'so'
+0.3	2.7	6.8	47	δίκη	(custom
+0.3	2.7	7.7	49	πού	nodef
+0.3	3.0	8.6	54	ἀνάγκη	force
+0.3	3.1	8.2	55	ἱκανός	becoming
+0.3	3.2	8.2	56	Ἑλλάς	Hellas
+0.3	3.7	11.4	68	βέβαιος	firm
+0.3	36.1	95.6	629	ἤ1	nodef
+0.3	36.1	99.7	638	ἄν1	nodef
+0.3	4.3	11.4	76	βραχύς	short
+0.3	4.4	14.1	83	ἴδιος	one's own
+0.3	4.8	13.2	85	ὅστις	indef. relative or indirect interrogative
+0.3	4.8	13.7	86	δεινός	fearful
+0.3	4.9	12.3	84	μηδέ	but not
+0.3	4.9	14.6	90	ἥσσων	less
+0.3	5.0	16.0	94	ὑπάρχω	to begin; to exist
+0.3	5.1	13.2	89	οἴομαι	to suppose
+0.3	5.5	15.5	98	εἰκός	like truth
+0.3	5.5	17.3	102	κίνδυνος	a danger
+0.3	7.1	21.0	129	γιγνώσκω	to learn to know
+0.3	7.6	22.4	138	δύναμις	power
+0.3	8.5	23.3	150	ἔργον	work
+0.3	8.8	23.7	155	Ἕλλην	Hellen; Greek
+0.3	9.3	30.6	175	γε	at least
+0.4	0.6	1.3	11	σύνοιδα	to share in knowledge
+0.4	0.6	1.3	11	παραίνεσις	an exhortation
+0.4	0.8	1.8	14	ἐνδεής	in need of; deficient
+0.4	0.8	1.8	14	φοβερός	fearful
+0.4	0.8	1.8	14	λογίζομαι	to count
+0.4	0.9	2.2	16	ἀκοή	a hearing
+0.4	0.9	2.2	16	τόλμα	courage
+0.4	0.9	2.2	16	ἡλικία	time of life
+0.4	0.9	2.2	16	ἐξαρτύω	to get ready
+0.4	0.9	2.2	16	ἐκπλήγνυμι	nodef
+0.4	1.0	2.2	17	ἀνέχω	to hold up; (mid.) endure
+0.4	1.0	2.2	17	βίαιος	forcible
+0.4	1.0	2.2	17	ἄπειρος1	nodef
+0.4	1.1	2.7	19	ὑποπτεύω	to be suspicious
+0.4	1.1	2.7	19	καταστρέφω	to turn down
+0.4	1.2	2.7	20	πάλαι	long ago
+0.4	1.2	2.7	20	Μηδικός	Median
+0.4	1.2	2.7	20	μέτριος	within measure
+0.4	1.2	2.7	21	ξένος	a guest
+0.4	1.2	2.7	21	ταὐτός	identical
+0.4	1.2	2.7	21	δημοκρατία	democracy
+0.4	1.3	2.7	22	προκαλέω	to call forth
+0.4	1.3	2.7	22	ἀγωνίζομαι	to contend for a prize
+0.4	1.3	3.2	23	μόλις	barely
+0.4	1.3	3.2	23	ἡγεμών	leader
+0.4	1.4	3.2	24	διαφέρω	to carry through; be different from
+0.4	1.4	3.2	24	διασῴζω	to preserve through
+0.4	1.4	3.2	24	χρήσιμος	useful
+0.4	1.5	3.2	25	κράτιστος	strongest
+0.4	1.5	3.6	26	ἑκών	willing
+0.4	1.5	3.6	26	διάνοια	a thought
+0.4	1.7	3.6	28	περιοράω	to look over
+0.4	1.7	3.6	28	ἀπαλλάσσω	to set free
+0.4	1.7	4.1	29	τιμωρία	help
+0.4	1.7	4.1	29	ἀσφάλεια	security against stumbling
+0.4	1.8	4.1	31	ἀσθενής	without strength
+0.4	1.8	4.1	31	προσγίγνομαι	to come in addition
+0.4	1.8	4.5	31	διάφορος	different
+0.4	1.8	4.5	31	ἐλευθερόω	to free
+0.4	1.8	4.5	32	ἐλευθερία	freedom
+0.4	1.9	4.1	32	αὐτίκα	forthwith
+0.4	1.9	4.5	33	ἐλεύθερος	free
+0.4	2.0	4.1	33	δέω2	to lack
+0.4	2.0	4.5	34	πω	up to this time
+0.4	2.2	4.5	36	προστίθημι	to add
+0.4	2.3	5.4	39	τίθημι	to set
+0.4	2.4	5.0	40	ἡσυχία	stillness
+0.4	2.5	5.4	42	αὖ	again
+0.4	2.7	5.9	45	αἰτία	a charge
+0.4	22.4	46.6	363	μᾶλλον	more
+0.4	29.4	64.9	484	ἀλλά	otherwise
+0.4	3.1	6.8	52	ἀγών	a gathering; a contest
+0.4	3.1	7.7	54	σώζω	nodef
+0.4	3.3	7.7	56	ἵνα	in order that (conj.); where (rel. adv.)
+0.4	3.5	7.7	58	καιρός	time; the right moment
+0.4	3.8	7.7	62	ἄλλως	in another way
+0.4	38.2	86.9	634	εἰ	conj. if
+0.4	4.4	10.5	75	φίλος	friend; loved
+0.4	4.6	10.0	76	ἐλπίς	hope
+0.4	4.7	10.5	78	φέρω	to bear
+0.4	5.3	10.9	86	πειράω	to attempt
+0.4	5.8	12.3	95	σύμπας	all together
+0.4	5.9	12.3	96	ὅσπερ	the very man who
+0.4	5.9	12.8	97	καλός	beautiful
+0.4	6.0	13.2	99	ἀξιόω	to think worthy of; to expect
+0.4	6.2	15.5	106	μήτε	neither / nor
+0.4	6.4	13.7	105	πολεμέω	to be at war
+0.4	6.7	14.6	110	δέχομαι	to take
+0.4	6.8	14.1	110	βουλεύω	to take counsel
+0.4	6.8	14.1	111	ἕτερος	the one; the other (of two)
+0.4	60.0	137.2	997	μή	not
+0.4	7.2	17.8	123	οἶδα	to know
+0.4	7.8	16.9	128	ἡγέομαι	to lead; to consider
+0.5	0.7	1.3	12	μνήμη	a remembrance
+0.5	0.7	1.3	12	ἀθυμέω	to be disheartened
+0.5	0.9	1.8	15	θάπτω	to bury
+0.5	0.9	1.8	15	ἔμπειρος	experienced
+0.5	0.9	1.8	15	συμμαχέω	to be an ally
+0.5	0.9	1.8	15	ἀνθρώπειος	of man
+0.5	1.0	1.8	16	δαπάνη	outgoing
+0.5	1.0	1.8	16	ἀνέλπιστος	unhoped for
+0.5	1.2	2.2	19	πεῖρα	a trial
+0.5	1.2	2.2	20	πορίζω	to carry: to bring about
+0.5	1.2	2.2	20	κτείνω	to kill
+0.5	1.3	2.2	21	αἰτέω	to ask
+0.5	1.3	2.2	21	κακόω	to treat ill
+0.5	1.3	2.2	21	οὗτος,ταύτῃ	nodef
+0.5	1.3	2.2	21	ἀνίημι	to send up; let go
+0.5	1.3	2.2	21	εἰσβαίνω	to go into
+0.5	1.3	2.2	21	ὑπόλοιπος	left behind
+0.5	1.5	2.7	24	ἔχθρα	hatred
+0.5	1.6	2.7	25	ἀφανής	unseen
+0.5	1.6	2.7	25	ἐπεξέρχομαι	to go out against
+0.5	1.8	3.2	29	νέος	young
+0.5	1.8	3.2	29	δημόσιος	belonging to the people
+0.5	1.8	3.6	30	πολίτης	(fellow) citizen
+0.5	1.9	3.2	30	κρείσσων	stronger
+0.5	10.6	18.2	164	τοιοῦτος	such as this
+0.5	11.3	19.6	175	γνώμη	a means of knowing
+0.5	14.6	25.6	226	οὐδέ	and/but not; not even
+0.5	2.4	4.1	37	ὄνομα	name
+0.5	2.4	4.5	38	ἀντέχω	to hold out against
+0.5	2.5	5.0	41	ἐάω	to let
+0.5	2.6	4.5	41	αὐτόνομος	living under one's own laws
+0.5	2.8	5.0	44	ἄριστος	best
+0.5	24.9	42.0	381	μέγας	big
+0.5	3.0	5.9	48	φόβος	fear
+0.5	3.0	5.9	48	περιγίγνομαι	to be superior to; to survive
+0.5	3.3	5.9	52	ἀντί	over against
+0.5	3.6	6.8	57	ἥκιστος	least
+0.5	4.0	6.8	62	πρόθυμος	ready
+0.5	4.0	7.7	64	ὑπέρ	over
+0.5	4.5	7.7	70	ἐθέλω	to will
+0.5	5.1	8.6	79	χαλεπός	hard to bear
+0.5	5.2	9.1	81	ἔπειμι2	(go) come upon
+0.5	5.4	10.5	86	κακός	bad
+0.5	5.9	10.5	92	μηδείς	(and not one); not one
+0.5	6.0	10.9	94	οἷος	(such a kind) as; for οἷός τε see οἷος III.2
+0.5	7.5	14.1	119	ἐναντίος	opposite
+0.5	72.7	124.4	1116	γάρ	for
+0.5	8.0	16.0	128	ἀεί	always
+0.5	8.4	15.0	131	ἀρχή	a beginning
+0.6	0.8	1.3	13	τυραννίς	kingly power
+0.6	0.8	1.3	13	καταφρονέω	to think down upon
+0.6	0.9	1.3	14	συνάγω	to bring together
+0.6	0.9	1.3	14	ἀγγελία	a message
+0.6	0.9	1.3	14	ἐπιστήμη	knowledge
+0.6	1.1	1.8	17	ζημία	loss
+0.6	1.1	1.8	17	εὔνους	nodef
+0.6	1.1	1.8	17	σημαίνω	to shew by a sign
+0.6	1.1	1.8	17	ὁμολογέω	agree
+0.6	1.1	1.8	17	ἄπρακτος	doing nothing
+0.6	1.1	1.8	17	ἐμπειρία	experience
+0.6	1.2	1.8	18	φίλιος	friendly
+0.6	1.2	1.8	19	θάνατος	death
+0.6	1.5	2.2	23	νόσος	sickness
+0.6	1.5	2.2	23	πάτριος	of one’s father
+0.6	1.5	2.2	23	τοσόσδε	so strong
+0.6	1.5	2.2	23	τύραννος	an absolute sovereign
+0.6	1.5	2.2	23	παρακαλέω	to call to
+0.6	1.7	2.7	26	διαφορά	difference
+0.6	1.7	2.7	26	διδάσκω	to teach
+0.6	1.7	2.7	26	προέρχομαι	to go forward
+0.6	1.8	2.7	27	ὄχλος	a moving crowd
+0.6	103.8	159.1	1553	οὐ	not
+0.6	11.3	17.3	170	ὥσπερ	just as if
+0.6	13.9	21.0	208	ἄρχω	(to be first) to rule
+0.6	16.2	25.1	244	πολέμιος	hostile; enemy
+0.6	17.8	28.8	270	ἐάν	if
+0.6	18.6	30.6	284	πλείων	more
+0.6	2.0	3.2	31	συνίστημι	to set together
+0.6	2.4	3.6	36	ἔθω	be accustomed (see also εἴωθα)
+0.6	2.4	3.6	37	πάνυ	altogether
+0.6	2.5	4.1	39	θαρσέω	to be of good courage
+0.6	2.6	4.1	40	φθείρω	to ruin
+0.6	2.6	4.1	40	ὑπήκοος	giving ear
+0.6	2.8	4.5	43	ἐπάγω	to bring on
+0.6	21.4	30.6	316	μάλιστα	most
+0.6	3.1	4.5	46	θεός	god
+0.6	3.1	5.0	47	λύω	to loose
+0.6	3.9	6.4	60	δηλόω	to make visible
+0.6	36.8	53.9	546	διά	through c. gen.; because of c. acc.
+0.6	4.1	5.9	61	ἑτοῖμος	at hand
+0.6	4.2	6.4	63	ἕνεκα	on account of
+0.6	4.4	6.4	66	ὅτε	when
+0.6	5.0	7.7	76	ἐπέρχομαι	come near; come upon; attack
+0.6	5.1	8.2	78	βάρβαρος	barbarous
+0.6	6.1	9.1	91	ποτέ	nodef
+0.6	7.6	12.3	116	ἄνθρωπος	man
+0.6	7.7	11.8	116	εἶμι	come
+0.6	7.8	11.8	117	δεῖ	it is necessary
+0.6	8.5	13.2	128	παρέχω	to furnish
+0.6	97.3	150.0	1458	ὅς	who
+0.7	0.7	0.9	11	δοῦλος	slave
+0.7	0.7	0.9	11	δόκησις	an opinion
+0.7	0.7	0.9	11	ἐμπίπτω	to fall in
+0.7	0.7	0.9	11	μέλλησις	a being about to do
+0.7	0.7	0.9	11	ἁμάρτημα	a failure
+0.7	0.7	0.9	11	προίστημι	nodef
+0.7	0.7	0.9	11	ἐντυγχάνω	to light upon
+0.7	1.0	1.3	15	κέρδος	gain
+0.7	1.0	1.3	15	διαβολή	false accusation
+0.7	1.0	1.3	15	ἐπινοέω	to think on
+0.7	1.0	1.3	15	ἑτοιμάζω	to make ready
+0.7	1.0	1.3	15	ἀντεῖπον	to speak against
+0.7	1.4	1.8	21	πολιτεία	citizenship
+0.7	1.4	1.8	21	ἀπολείπω	to leave over
+0.7	1.6	2.2	24	μετέχω	to partake of
+0.7	1.6	2.2	24	ἐπιτρέπω	to turn over to
+0.7	1.7	2.2	25	περίειμι1	nodef
+0.7	1.9	2.7	29	ἐπίσταμαι	to know
+0.7	13.8	18.2	201	δή	[interactional particle: S&H on same page]
+0.7	19.2	26.5	281	νομίζω	to have as a custom; to believe
+0.7	2.0	2.7	30	αἴτιος	to blame
+0.7	2.0	2.7	30	ἐπικαλέω	to call upon
+0.7	2.3	3.2	34	πρόφασις	that which is alleged as the cause
+0.7	2.4	3.2	35	καταλείπω	to leave behind
+0.7	2.4	3.2	36	σύν	along with
+0.7	2.4	3.2	36	ἀθρόος	in crowds
+0.7	2.6	3.6	39	νέμω	to deal out
+0.7	2.7	3.6	40	μακρός	long
+0.7	2.8	3.6	41	παύω	to make to cease
+0.7	21.4	26.9	308	δοκέω	seem
+0.7	22.1	27.9	318	ἔτι	yet
+0.7	26.7	34.7	386	πόλεμος	battle
+0.7	3.2	4.5	48	κατέχω	to hold fast
+0.7	3.4	4.5	50	Θηβαῖος	Theban
+0.7	3.8	5.4	57	πιστεύω	to trust
+0.7	4.3	5.9	63	σαφής	clear
+0.7	4.6	5.9	67	κωλύω	to let
+0.7	53.3	69.5	771	ἔχω	to have
+0.7	7.0	9.6	103	παρασκευή	preparation
+0.7	7.4	10.0	108	ἅπας	quite all
+0.7	7.7	10.5	113	δίδωμι	to give
+0.7	73.7	99.2	1073	τις	any one
+0.7	8.9	12.3	131	φημί	to say
+0.8	0.8	0.9	12	γένος	race
+0.8	0.8	0.9	12	ὑποψία	suspicion
+0.8	0.8	0.9	12	ἔγκειμαι	to lie in
+0.8	0.8	0.9	12	ἠπειρώτης	of the mainland
+0.8	1.1	1.3	16	ἐπιχείρησις	an attempt
+0.8	1.5	1.8	22	ἄπορος	without passage
+0.8	1.5	1.8	22	ἐκεῖθεν	from that place
+0.8	1.5	1.8	22	θεραπεύω	to be an attendant
+0.8	1.8	2.2	26	ἔνειμι	to be in; to be possible
+0.8	10.1	11.4	143	χράω2	proclaim an oracle
+0.8	10.3	12.8	148	χρῆμα	thing
+0.8	10.8	13.2	155	πλεῖστος	most
+0.8	14.8	18.2	212	πείθω	to prevail upon
+0.8	16.0	18.7	227	ἕκαστος	every
+0.8	16.1	18.2	227	ὥστε	so that
+0.8	18.4	20.5	259	λέγω2	nodef
+0.8	2.4	2.7	34	Δωριεύς	a Dorian
+0.8	2.4	2.7	35	ἡσσάομαι	to be less than another
+0.8	2.6	3.2	38	κεῖμαι	to lie; to have been set/put (as perf. pass. of τίθημι)
+0.8	2.6	3.2	38	προχωρέω	to go forward
+0.8	2.8	3.2	40	ὀργή	natural impulse
+0.8	2.9	3.6	42	καθαιρέω	to take down
+0.8	20.0	24.7	287	παρά	from the side of
+0.8	21.7	24.7	306	ἐκεῖνος	that over there
+0.8	3.1	3.6	44	καταλύω	to put down
+0.8	3.7	4.5	53	φανερός	open to sight
+0.8	36.1	42.9	513	πᾶς	all
+0.8	4.2	5.0	60	ἀδύνατος	unable
+0.8	5.2	5.9	74	ἀκούω	to hear
+0.8	7.0	8.2	100	φαίνω	to bring to light
+0.8	7.6	8.6	108	φοβέω	to put to flight
+0.8	8.7	10.5	124	συμμαχία	an alliance offensive and defensive
+0.8	9.7	11.4	138	ναυτικός	seafaring
+0.9	1.2	1.3	17	ἐξελαύνω	to drive out from
+0.9	1.2	1.3	17	προκαταλαμβάνω	to seize beforehand
+0.9	1.2	1.3	18	ἀπαντάω	to meet
+0.9	1.7	1.8	24	φιλία	friendly love
+0.9	1.7	1.8	24	Ἰταλία	Italy
+0.9	10.3	11.4	145	εἶπον	to speak
+0.9	10.8	10.9	150	ἀφίστημι	to put away
+0.9	10.8	11.4	151	δύναμαι	to be able
+0.9	11.8	12.3	165	Σικελία	Sicily
+0.9	128.2	130.8	1775	μέν	on the one hand
+0.9	13.0	13.2	181	μέλλω	to think of doing
+0.9	13.6	15.0	191	πράσσω	do
+0.9	18.9	20.1	264	καθίστημι	to set down
+0.9	189.5	189.8	2615	τε	and
+0.9	2.5	2.7	36	αὐτόθεν	from the very spot
+0.9	2.6	2.7	37	ἐκπλέω	to sail out
+0.9	2.6	2.7	37	σωτηρία	a saving
+0.9	2.9	3.2	41	μείς	a month
+0.9	24.4	26.5	342	ὅσος	as much/many as
+0.9	3.1	3.2	43	εὑρίσκω	to find
+0.9	3.7	4.1	53	ἐλπίζω	to hope for
+0.9	31.1	34.3	436	ὅτι	adv. + superl.
+0.9	4.6	5.0	65	ἀναγκάζω	to force
+0.9	5.6	5.9	78	ἐρῶ	[I will say]
+0.9	5.8	6.4	82	οἰκέω	to inhabit
+0.9	6.2	6.8	88	δυνατός	strong
+0.9	6.3	6.4	88	μέρος	a part
+0.9	6.4	6.8	90	ταχύς	quick
+0.9	60.8	62.2	842	πόλις	a city
+0.9	61.8	64.4	859	πρός	(w. gen.) from; (w. dat.) at
+0.9	7.3	7.7	102	ῥᾴδιος	easy
+1.0	0.9	0.9	13	τέχνη	art
+1.0	0.9	0.9	13	ἄλλοτε	at another time
+1.0	0.9	0.9	13	διακωλύω	to hinder
+1.0	0.9	0.9	13	ἀνατίθημι	dedicate
+1.0	0.9	0.9	13	κατασκευή	preparation
+1.0	0.9	0.9	13	ἀκολουθέω	to follow
+1.0	0.9	0.9	13	ἑκατέρωθεν	on each side
+1.0	0.9	0.9	13	παραγγέλλω	to transmit as a message; give orders
+1.0	1.3	1.3	19	μιμνήσκω	to remind
+1.0	1.3	1.3	19	παραυτίκα	immediately
+1.0	1.4	1.3	20	ζάω	to live
+1.0	1.4	1.3	20	Βοιωτία	Boeotia
+1.0	1.4	1.3	20	προεῖπον	to tell
+1.0	1.4	1.3	20	Αἰγινήτης	an Aeginetan (Αἴγινα)
+1.0	1.8	1.8	25	κινέω	to set in motion
+1.0	1.8	1.8	26	Ἴωνες	Ionians
+1.0	1.8	1.8	26	Ἑλληνικός	Hellenic
+1.0	1.9	1.8	27	σύμβασις	an agreement
+1.0	1.9	1.8	27	πρόσειμι2	approach
+1.0	1.9	1.8	27	ἀναλαμβάνω	to take up
+1.0	10.5	9.6	144	οὕτως	so
+1.0	12.2	11.4	167	εἷς	one
+1.0	172.0	171.9	2373	εἰμί	to be
+1.0	19.7	19.6	272	πάρειμι1	nodef
+1.0	2.4	2.2	34	ἔργω1	nodef
+1.0	2.4	2.2	34	οἰκία	a building
+1.0	2.9	2.7	40	ἐπιφέρω	to bring
+1.0	21.3	21.0	294	ἀνήρ	a man
+1.0	22.4	20.5	305	οὐδείς	not one
+1.0	3.7	3.6	52	μάχομαι	to fight
+1.0	31.0	29.7	425	ὑπό	from under
+1.0	42.5	40.2	582	περί	around
+1.0	5.5	5.4	76	ὅμως	all the same
+1.0	58.6	53.5	798	πολύς	much
+1.0	6.8	6.8	95	τοιόσδε	such a
+1.0	69.8	66.7	957	ἄλλος	other
+1.0	7.6	7.3	105	ἀμφότερος	each of two
+1.0	9.2	8.6	126	συμβαίνω	meet
+1.1	1.0	0.9	14	λιμός	hunger
+1.1	1.0	0.9	14	κτίζω	to found
+1.1	1.0	0.9	14	ἱδρύω	to make to sit down
+1.1	1.0	0.9	14	πορθέω	to destroy
+1.1	1.0	0.9	14	ἀπολύω	to loose from
+1.1	1.5	1.3	21	κόσμος	order
+1.1	10.0	8.6	136	βοηθέω	to come to aid
+1.1	10.1	8.6	137	τυγχάνω	(with gen.) to hit the mark
+1.1	11.4	10.0	155	ὁράω	to see
+1.1	12.9	10.9	174	κρατέω	to be strong
+1.1	18.0	15.5	243	οὖν	so
+1.1	19.9	17.8	271	ἔρχομαι	to come
+1.1	2.1	1.8	29	μισθός	wages
+1.1	2.6	2.2	36	ἐρῆμος	desolate
+1.1	2.6	2.2	36	ἐπιχειρέω	to attempt
+1.1	226.9	197.6	3066	αὐτός	unemph. 3rd pers.pronoun; -self; [the] same 
+1.1	27.7	23.3	373	ἤδη	already
+1.1	3.2	2.7	44	διαφεύγω	to flee through
+1.1	3.6	3.2	49	πλόος	a sailing
+1.1	333.8	290.4	4510	δέ	but
+1.1	38.1	34.3	518	σύμμαχος	fighting along with
+1.1	4.2	3.6	57	ὁδός	a way
+1.1	4.2	3.6	57	φυλάσσω	to keep watch and ward
+1.1	4.3	3.6	59	αἴρω	to take up
+1.1	46.8	42.5	637	ἀπό	from
+1.1	5.0	4.5	69	μέντοι	however
+1.1	6.4	5.4	87	ἡσυχάζω	to be still
+1.1	6.6	5.9	90	σφέτερος	their own
+1.1	62.1	52.1	835	γίγνομαι	become
+1.1	761.4	637.2	10230	καί	and
+1.1	9.7	8.6	132	ἔπειτα	then
+1.2	1.1	0.9	15	στενός	narrow
+1.2	1.1	0.9	15	ἔξειμι1	nodef
+1.2	1.1	0.9	15	συμμαχικός	of or for alliance
+1.2	1.1	0.9	15	ἀποδείκνυμι	display
+1.2	1.1	0.9	15	ἀπροσδόκητος	unexpected
+1.2	1.6	1.3	22	ὄψις	look
+1.2	1.6	1.3	22	οὔπω	not yet
+1.2	1.6	1.3	22	ἔθνος	a number of people accustomed to live together
+1.2	134.7	108.4	1801	ἐν	in
+1.2	15.3	12.3	205	λαμβάνω	to take
+1.2	2.2	1.8	30	ἀπορία	difficulty of passing
+1.2	2.3	1.8	31	ἵππος	a horse
+1.2	26.5	21.9	356	ἑαυτοῦ	himself
+1.2	27.0	21.4	361	ἅμα	at once
+1.2	6.2	5.0	83	παραδίδωμι	to hand over
+1.2	6.8	5.4	91	πρᾶγμα	that which has been done
+1.2	6.8	5.4	92	χώρα	land
+1.2	73.6	59.4	985	ὡς	as
+1.2	8.2	6.8	111	τρόπος	a turn
+1.2	8.8	7.3	119	πρίν	before; (after negated main clause) until
+1.2	86.7	71.8	1164	οὗτος	this; that
+1.2	9.3	7.3	124	χωρέω	give way
+1.3	1.2	0.9	16	τηρέω	to watch over
+1.3	1.2	0.9	16	ὅμιλος	any assembled crowd
+1.3	1.2	0.9	16	μηδέτερος	neither of the two
+1.3	1.2	0.9	16	συνέρχομαι	come together
+1.3	1.2	0.9	17	Πλάταια	Plataea
+1.3	1.2	0.9	17	ὀνομάζω	to name
+1.3	1.2	0.9	17	ἐπικρατέω	to rule over
+1.3	1.2	0.9	17	ἐργάζομαι	to work
+1.3	1.2	0.9	17	Χαλκιδικός	of or from Chalcis (in Euboea or Thrace)
+1.3	1.2	0.9	17	Ποτειδεάτης	inhabitant of Potidaea
+1.3	1.8	1.3	24	ἄποικος	away from home
+1.3	1.8	1.3	24	ἀνθίστημι	to set against
+1.3	1.8	1.3	25	ὁμολογία	agreement
+1.3	1.8	1.3	25	συγχωρέω	to come together
+1.3	10.3	7.7	137	ὁ,ὅς	nodef
+1.3	16.4	12.3	218	ὀλίγος	few
+1.3	2.5	1.8	34	στάδιον	a stade
+1.3	24.2	17.3	319	γῆ	earth
+1.3	27.9	20.5	369	βούλομαι	to will
+1.3	3.0	2.2	40	ἐπιτίθημι	to lay
+1.3	3.6	2.7	48	ἀφίημι	to send forth
+1.3	4.2	3.2	56	προσδέχομαι	to receive favourably
+1.3	4.9	3.6	65	ἄνευ	without
+1.3	4.9	3.6	65	ἐγγύς	near
+1.3	46.3	35.6	616	μετά	(w gen) with
+1.3	6.0	4.5	80	πρό	before
+1.3	6.8	5.0	90	μέχρι	until (prep. and conj. w. aor.)
+1.3	65.6	47.5	866	κατά	down
+1.3	7.4	5.4	99	ἐλάσσων	smaller
+1.4	1.3	0.9	18	ἄρτι	just now
+1.4	1.3	0.9	18	εἴτε	whether..or (regardless of whether A or B)
+1.4	1.3	0.9	18	ἐμμένω	to abide in
+1.4	1.3	0.9	18	ἔφοδος3	a way towards
+1.4	1.3	0.9	18	πρόσκειμαι	to be placed at
+1.4	1.9	1.3	26	ἐπείγω	to press down
+1.4	1581.7	1117.5	20800	ὁ	the
+1.4	3.1	2.2	42	χείρ	the hand
+1.4	3.1	2.2	42	ἐκπέμπω	to send out
+1.4	3.1	2.2	42	παραινέω	to exhort
+1.4	3.3	2.2	44	παραγίγνομαι	to come near
+1.4	40.7	27.4	533	ποιέω	to make
+1.4	6.4	4.5	85	ἥκω	to have come
+1.4	7.4	5.0	98	τοσοῦτος	so large
+1.4	8.0	5.4	105	τρέπω	to turn
+1.4	8.3	5.9	110	δείδω	to fear
+1.4	93.6	65.4	1230	ἐπί	on
+1.5	1.4	0.9	19	σημεῖον	a sign
+1.5	1.4	0.9	19	δεύτερος	second
+1.5	1.4	0.9	19	προσέρχομαι	to come
+1.5	11.8	7.7	155	ἀλλήλων	of one another
+1.5	12.4	8.2	163	τότε	at that time
+1.5	2.0	1.3	27	ὅθεν	from where
+1.5	2.0	1.3	27	στάσις	a standing
+1.5	2.0	1.3	27	περαιόω	to carry to the opposite side
+1.5	2.0	1.3	27	ἐκλείπω	to leave out
+1.5	2.7	1.8	36	ἀποκρίνω	to separate
+1.5	2.8	1.8	37	ἱερόν	sanctuary
+1.5	3.4	2.2	45	παῖς	a child
+1.5	4.9	3.2	65	τρεῖς	three
+1.5	5.7	3.6	75	ἐπιτήδειος	suitable; useful
+1.5	69.1	44.3	899	ἐκ	from out of
+1.6	1.5	0.9	20	τάξις	an arranging
+1.6	1.5	0.9	20	προσφέρω	to bring to
+1.6	1.5	0.9	20	διέρχομαι	to go through
+1.6	2.2	1.3	29	κράτος	strength
+1.6	21.7	12.8	280	ἐπεί	after
+1.6	4.5	2.7	59	ποταμός	a river
+1.6	47.7	28.3	616	πρότερος	before
+1.7	1.6	0.9	21	ἀρέσκω	(to make good
+1.7	1.6	0.9	21	μέγεθος	greatness
+1.7	1.6	0.9	21	ἐπίκουρος	an assister
+1.7	1.6	0.9	21	κατοικίζω	settle
+1.7	12.0	6.8	155	Πελοπόννησος	the Peloponnesus
+1.7	13.3	7.7	172	ὅπως	how
+1.7	2.3	1.3	30	ὑποχωρέω	to go back
+1.7	3.1	1.8	41	ἀπόλλυμι	to destroy
+1.7	5.7	3.2	74	λοιπός	remaining
+1.8	1.7	0.9	22	ἐναντιόομαι	to set oneself against
+1.8	12.1	6.4	155	σπονδή	drink-offering; (pl.) truce
+1.8	141.3	74.5	1804	εἰς	into
+1.8	2.4	1.3	31	προδίδωμι	to give beforehand
+1.8	3.4	1.8	44	προσχωρέω	to go to
+1.8	5.8	3.2	75	ἀπέρχομαι	to go away
+1.8	6.8	3.6	88	οὐκέτι	no more
+1.9	7.0	3.6	90	Νικίας	Nicias
+2.0	0.8	0.4	11	ἄστυ	a city
+2.0	0.8	0.4	11	ῥητός	stated
+2.0	0.8	0.4	11	οὔκουν	not therefore
+2.0	0.8	0.4	11	ἀκμάζω	to be in full bloom
+2.0	0.8	0.4	11	κοινόω	to make common
+2.0	0.8	0.4	11	λαμπρός	bright
+2.0	0.8	0.4	11	σύνειμι2	come together
+2.0	0.8	0.4	11	ἀποκλείω	to shut off from
+2.0	0.8	0.4	11	κυβερνήτης	a steersman
+2.0	0.8	0.4	11	περιτειχίζω	to wall all round
+2.0	1.8	0.9	23	νίκη	victory
+2.0	1.8	0.9	23	πεδίον	a plain
+2.0	1.8	0.9	23	νεωτερίζω	to attempt anything new
+2.0	1.8	0.9	23	πανταχόθεν	from all places
+2.0	10.3	5.0	131	πλῆθος	a great number
+2.0	11.9	5.9	152	διαφθείρω	to destroy
+2.0	2.7	1.3	35	αὐτοῦ	at the very place
+2.0	2.7	1.3	35	τέμνω	to cut
+2.0	2.7	1.3	35	ἐκκλησία	an assembly of the citizens regularly summoned
+2.0	3.7	1.8	48	ἀποβαίνω	to step off from
+2.0	4.6	2.2	59	φεύγω	to flee
+2.0	4.6	2.2	59	Ἀττική	Attica
+2.0	4.6	2.2	59	πολιορκέω	to hem in a city
+2.0	6.4	3.2	82	ἑκάτερος	each of two
+2.0	8.6	4.1	109	νικάω	to conquer
+2.0	9.4	4.5	120	αἰσθάνομαι	to perceive
+2.1	1.9	0.9	25	ὅμορος	having the same borders with
+2.1	1.9	0.9	25	ὑπισχνέομαι	to promise
+2.1	14.4	6.8	183	χωρίον	a particular place
+2.1	19.2	9.1	243	ὕστερος	latter
+2.1	20.6	9.6	261	Πελοποννήσιος	Peloponnesian (of people)
+2.1	5.7	2.7	73	ἐπιγίγνομαι	to be born after
+2.1	7.0	3.2	89	κομίζω	to take care of
+2.1	7.7	3.6	98	ὁρμάω	to set in motion
+2.1	7.8	3.6	99	αὖθις	back
+2.2	0.9	0.4	12	πη	[Dor. in some way
+2.2	0.9	0.4	12	Σαλαμίς	Salamis
+2.2	0.9	0.4	12	ἀδελφός	sons of the same mother
+2.2	0.9	0.4	12	ἀναλίσκω	to use up
+2.2	6.2	2.7	78	ἵστημι	to make to stand
+2.2	7.3	3.2	92	Κερυκυραῖος	nodef
+2.3	16.2	6.8	204	πέμπω	to send
+2.3	2.1	0.9	27	μεθίστημι	to place in another way
+2.3	3.0	1.3	38	ἐνδίδωμι	to give in
+2.3	3.1	1.3	39	μέσος	middle
+2.3	3.1	1.3	39	τέλος	the fulfilment
+2.3	3.1	1.3	39	Ποτείδαια	Potidea
+2.4	2.2	0.9	28	ὑπομένω	to stay behind
+2.4	2.2	0.9	28	ἀπολαμβάνω	to take away
+2.4	3.2	1.3	41	ὅρκος	the object by which one swears
+2.4	3.2	1.3	41	Κέρκυρα	Corcyra
+2.4	4.4	1.8	56	μένω	to stay at home
+2.4	4.4	1.8	56	ναυμαχέω	to fight in a ship
+2.4	6.6	2.7	83	τάχος	swiftness
+2.4	8.8	3.6	111	δύο	two
+2.4	8.8	3.6	111	πάλιν	back
+2.5	1.0	0.4	13	μηνύω	to disclose what is secret
+2.5	1.0	0.4	13	ταραχή	trouble
+2.5	1.0	0.4	13	Ἀττική,Ἀττικός	nodef
+2.5	1.0	0.4	13	ἀριθμός	number
+2.5	1.0	0.4	13	εἰσκομίζω	to carry into
+2.5	2.3	0.9	29	οἰκίζω	to found as a colony
+2.5	2.3	0.9	29	συστρατεύω	to make a campaign
+2.5	3.3	1.3	42	παρέρχομαι	to go by
+2.5	5.7	2.2	72	πλήν	except
+2.6	2.4	0.9	30	πέλαγος	the sea
+2.6	2.4	0.9	31	τρίτος	the third
+2.6	2.4	0.9	31	τοξότης	a bowman
+2.6	3.4	1.3	43	ἀγγέλλω	to bear a message
+2.6	4.7	1.8	59	διανοέομαι	to be minded
+2.7	1.1	0.4	14	ἰδέα	form
+2.7	1.1	0.4	14	φράζω	to point out
+2.7	1.1	0.4	14	σπουδή	haste
+2.7	1.1	0.4	14	εἰκάζω	to make like to
+2.7	13.9	5.0	173	στρατιά	army
+2.7	14.7	5.4	183	θάλασσα	the sea
+2.7	2.5	0.9	32	ἑπτά	seven
+2.7	2.5	0.9	32	ὕδωρ	water
+2.7	2.5	0.9	32	Παυσανίας	Pausanias
+2.7	3.6	1.3	45	προσάγω	to bring to
+2.7	3.6	1.3	45	ἐξέρχομαι	to go out
+2.7	49.8	17.8	618	Λακεδαιμόνιος	Spartan
+2.7	7.5	2.7	94	αὐτός,αὐτοῦ	nodef
+2.7	8.7	3.2	109	στρατεύω	to serve in war
+2.8	14.1	5.0	175	ἡμέρα	day
+2.8	2.6	0.9	33	ἄπειμι2	go away
+2.8	3.7	1.3	46	ὑστεραῖος	on the day after
+2.8	3.7	1.3	47	σῖτος	corn
+2.8	3.7	1.3	47	πορεύω	to make to go
+2.8	5.1	1.8	64	Μεγαρεύς	a citizen of Megara
+2.8	5.2	1.8	65	τάσσω	to arrange
+2.9	1.2	0.4	15	Ζεύς	Zeus
+2.9	1.2	0.4	15	κενός	empty
+2.9	1.2	0.4	15	ἀγρός	fields
+2.9	1.2	0.4	15	συμπλέω	to sail in company with
+2.9	1.2	0.4	15	ἐντεῦθεν	hence
+2.9	1.2	0.4	15	περιμένω	to wait for
+2.9	1.2	0.4	15	καθέζομαι	to sit down
+2.9	1.2	0.4	16	βοή	a loud cry
+2.9	1.2	0.4	16	ἔκπληξις	consternation
+2.9	1.2	0.4	16	ἀνοίγνυμι	to open
+2.9	14.9	5.0	185	χρόνος	time
+2.9	3.8	1.3	48	παλαιός	old in years
+2.9	5.3	1.8	66	ἤπειρος	terra-firma
+3.0	12.5	4.1	155	αἱρέω	to take
+3.0	8.2	2.7	102	ὅπλον	a tool
+3.0	8.3	2.7	103	στράτευμα	an expedition
+3.0	9.8	3.2	121	πεζός	on foot
+3.1	11.2	3.6	138	κελεύω	to urge
+3.1	2.8	0.9	35	διαλύω	to loose one from another
+3.1	2.8	0.9	35	πανδημεί	with the whole people
+3.1	4.1	1.3	51	ἄρχων	a ruler
+3.1	4.1	1.3	51	ἀποχωρέω	to go from
+3.2	1.3	0.4	17	ἑορτή	a feast
+3.2	1.3	0.4	17	Σπάρτη	Sparta
+3.2	1.3	0.4	17	ἄνωθεν	from above
+3.2	1.3	0.4	17	ἄγγελος	a messenger
+3.2	1.3	0.4	17	σεισμός	a shaking
+3.2	1.3	0.4	17	καρτερός	strong
+3.2	1.3	0.4	17	προσποιέω	to make over to; mid. procure
+3.2	1.3	0.4	17	αἰφνίδιος	unforeseen
+3.2	1.3	0.4	17	ἐπικηρυκεύομαι	to send a message by a herald
+3.2	123.2	37.5	1512	Ἀθηναῖος	Athenian
+3.2	2.9	0.9	36	Πλαταιεύς	inhabitant of Plataeae
+3.2	4.2	1.3	52	προσπίτνω	to fall upon
+3.3	3.0	0.9	37	ὁπότε	when
+3.4	1.4	0.4	18	ξύλον	wood
+3.4	1.4	0.4	18	Αἴγινα	Aegina
+3.4	1.4	0.4	18	ἐπιπίπτω	to fall upon
+3.4	1.4	0.4	18	ἀσθένεια	want of strength
+3.4	1.4	0.4	18	συντίθημι	to put together
+3.4	11.1	3.2	136	Βοιωτός	a Boeotian
+3.4	4.5	1.3	56	τριήρης	trireme
+3.4	6.2	1.8	77	ἔξω	out
+3.6	16.4	4.5	201	πλέω	to sail
+3.6	3.3	0.9	41	σπένδω	to pour a libation
+3.6	6.5	1.8	80	καλέω	to call
+3.6	6.6	1.8	81	ἀποδίδωμι	to give back
+3.7	1.5	0.4	19	ἄκρα	a headland
+3.7	1.5	0.4	19	ἅπτω	to fasten
+3.7	1.5	0.4	19	ἀργύριον	a piece of silver
+3.7	1.5	0.4	19	παραχρῆμα	on the spot
+3.7	1.5	0.4	19	ἀπαγγέλλω	to bring tidings
+3.7	13.5	3.6	165	παρασκευάζω	to get ready
+3.7	3.4	0.9	42	ἕως	(w. aor or as prep.) until; (w. pres) as long as
+3.7	3.4	0.9	42	ἐπιπλέω	to sail upon
+3.7	4.9	1.3	60	λανθάνω	to escape notice
+3.9	8.7	2.2	107	στρατόπεδον	the ground on which soldiers are encamped
+4.0	1.6	0.4	20	κρύφα	without the knowledge of
+4.0	1.6	0.4	20	ἀπορέω	[(Ion.) > ἀφοράω]
+4.0	1.6	0.4	20	ἔφορος	an overseer
+4.0	1.6	0.4	20	προσβολή	a putting to
+4.0	1.6	0.4	20	πρεσβεύω	to be the elder; to be an ambassador
+4.0	5.2	1.3	64	εἶδον	to see
+4.0	8.9	2.2	109	ἄγω	to lead
+4.1	11.1	2.7	135	ἀναχωρέω	to go back
+4.1	18.6	4.5	227	Κορίνθιος	Corinthian
+4.1	3.7	0.9	45	ἀποπέμπω	to send off
+4.2	1.7	0.4	21	πως2	nodef
+4.2	1.7	0.4	21	ὄμνυμι	to swear
+4.2	21.3	5.0	259	εὐθύς	straight
+4.2	5.5	1.3	67	δηιόω	nodef
+4.3	5.6	1.3	68	προσβάλλω	to strike
+4.4	4.0	0.9	49	ἀπέχω	to keep off
+4.4	8.0	1.8	97	ἔτος	a year
+4.5	1.8	0.4	22	φόρος	tribute
+4.5	1.8	0.4	22	ὅμηρος	a pledge for the maintenance of unity
+4.5	1.8	0.4	22	ἐπέξειμι	go out against
+4.5	1.8	0.4	22	διαβάλλω	to throw over
+4.5	1.8	0.4	22	μεταπέμπω	to send after
+4.5	1.8	0.4	23	βάλλω	to throw
+4.5	1.8	0.4	23	ναύτης	a sailor
+4.5	1.8	0.4	23	παρακελεύομαι	to order
+4.5	76.4	16.9	924	ναῦς	a ship
+4.6	8.3	1.8	101	νύξ	the night
+4.7	1.9	0.4	24	διώκω	to pursue
+4.7	1.9	0.4	24	κύκλος	a ring
+4.7	1.9	0.4	24	ἰσχυρός	strong
+4.7	1.9	0.4	24	φρούριον	a watch-post
+4.7	6.2	1.3	76	Χαλκιδεύς	Chalcidian
+4.8	4.4	0.9	54	Θράκη	nodef
+5.0	2.0	0.4	25	ἠώς	the morning red
+5.0	2.0	0.4	25	Εἵλως	a Helot
+5.0	2.0	0.4	25	οἴχομαι	to be gone
+5.0	2.0	0.4	25	Ἀρχίδαμος	Archidamus
+5.0	2.0	0.4	25	καταβαίνω	to step down
+5.0	2.0	0.4	25	προσβοηθέω	to come to aid
+5.1	11.4	2.2	138	νῆσος	an island
+5.1	46.5	9.1	560	σφεῖς	personal and (ind.) reflexive pronoun
+5.1	6.7	1.3	81	ναυμαχία	a sea-fight
+5.2	2.1	0.4	26	ἕξ	six
+5.2	2.1	0.4	26	ἄνω2	up
+5.2	2.1	0.4	26	ἀγορά	an assembly of the people
+5.2	2.1	0.4	26	ἥμισυς	half
+5.2	2.1	0.4	26	βοήθεια	help
+5.2	2.1	0.4	26	μετέωρος	raised from the ground
+5.2	9.5	1.8	115	ἱππεύς	a horseman
+5.3	11.8	2.2	143	πρέσβυς	an old man; pl. ambassadors
+5.5	14.9	2.7	180	ὁπλίτης	heavy-armed
+5.5	2.2	0.4	27	ἐπιβοηθέω	to come to aid
+5.5	2.2	0.4	27	Σπαρτιάτης	a Spartan
+5.5	2.2	0.4	27	συλλαμβάνω	to collect
+5.5	2.2	0.4	27	στρατοπεδεύω	to encamp
+5.5	9.9	1.8	119	δῆμος	people; (originally) a country-district
+5.6	7.4	1.3	90	τελευτάω	to complete
+5.7	12.6	2.2	152	στρατηγός	the leader
+5.7	2.3	0.4	28	ἐπίπλοος2	(n) sailing against
+5.7	2.3	0.4	28	προσμείγνυμι	to mingle
+5.8	5.3	0.9	64	ἀποστέλλω	to send off
+5.9	2.4	0.4	29	ἐνταῦθα	here
+5.9	2.4	0.4	29	στρατεία	an expedition
+5.9	2.4	0.4	30	ἐπέχω	to hold on; hold out; hold back; adjourn; occupy
+5.9	2.4	0.4	30	τέσσαρες	four
+5.9	2.4	0.4	30	ἐπίκειμαι	lie on
+6.0	13.3	2.2	160	μάχη	battle
+6.0	5.4	0.9	65	ἀποθνήσκω	nodef
+6.0	7.8	1.3	94	φυλακή	a watching
+6.1	5.5	0.9	66	εἰσβάλλω	to throw into
+6.1	5.5	0.9	66	πυνθάνομαι	to learn by hearsay
+6.1	5.5	0.9	66	καταλαμβάνω	to seize upon
+6.2	2.5	0.4	31	κόλπος	bosom; gulf
+6.2	5.6	0.9	68	ἀποκτείνω	to kill
+6.5	2.6	0.4	32	φυγή	flight
+6.5	2.6	0.4	32	ταύτῃ	in this way.
+6.5	2.6	0.4	32	ἀναιρέω	to take up; to destroy
+6.7	2.7	0.4	33	ἀπάγω	to lead away
+6.9	2.8	0.4	34	ὁλκάς	a trading vessel
+6.9	2.8	0.4	34	διαβαίνω	to cross (a river
+6.9	2.8	0.4	34	εἰσέρχομαι	to go in
+7.2	16.0	2.2	191	ἀφικνέομαι	to come to
+7.5	3.0	0.4	36	παραλαμβάνω	to receive from
+7.7	3.1	0.4	37	ἐντός	within
+7.7	3.1	0.4	37	ἁλίσκομαι	to be caught
+7.9	17.4	2.2	207	τεῖχος	a wall
+8.2	3.3	0.4	40	Κόρινθος	Corinth
+8.5	3.4	0.4	41	τεσσαράκοντα	forty
+8.8	8.0	0.9	96	εἴκοσι	twenty
+9.7	3.9	0.4	47	Εὔβοια	Euboea
+10.0	4.0	0.4	48	ψιλός	bare
+10.1	9.1	0.9	108	Ἀθῆναι	the city of Athens
+10.5	4.2	0.4	50	φθάνω	to come or do first
+11.0	9.9	0.9	118	Χῖος	Chian (inhabitant of Chios)
+11.2	4.5	0.4	54	τετρακόσιοι	four hundred
+11.7	4.7	0.4	56	στρατιώτης	a citizen bound to military service;
+12.5	5.0	0.4	60	ἀποπλέω	to sail away
+12.7	5.1	0.4	61	τειχίζω	to build a wall
+13.0	5.2	0.4	62	παραπλέω	to sail by
+15.2	13.7	0.9	162	βασιλεύς	a king
+15.7	6.3	0.4	75	οἶκος	a house
+15.7	6.3	0.4	75	πέντε	five
+16.7	6.7	0.4	79	λιμήν	a harbour
+18.5	7.4	0.4	88	στρατός	an encamped army
+22.5	9.0	0.4	106	θέρος	summer
+22.5	9.0	0.4	106	χειμών	winter; storm
+45.0	18.0	0.4	210	Ἀργεῖος	of/from Argos
+1000	0.9	0	11	ἔσω	to the interior
+1000	0.9	0	11	ὕλη	wood
+1000	0.9	0	11	θύω1	nodef
+1000	0.9	0	11	πούς	a foot
+1000	0.9	0	11	χῶμα	earth thrown up
+1000	0.9	0	11	ἥλιος	the sun
+1000	0.9	0	11	θεῖος1	nodef
+1000	0.9	0	11	Ὠρωπός	Oropos
+1000	0.9	0	11	καθίζω	to make to sit down
+1000	0.9	0	11	πέμπτος	the fifth
+1000	0.9	0	11	εἴσειμι	to go into
+1000	0.9	0	11	ἐμβάλλω	to throw in
+1000	0.9	0	11	ἐπιβαίνω	to go upon
+1000	0.9	0	11	ἐπιδιώκω	to pursue after
+1000	0.9	0	11	εὐρυχωρία	open space
+1000	0.9	0	11	συμβοηθέω	to render joint aid
+1000	0.9	0	11	Ἀνακτόριος	Anactorian
+1000	0.9	0	11	κατάστρωμα	that which is spread over
+1000	0.9	0	11	κατέρχομαι	to go down from; return from exile
+1000	0.9	0	11	ἐγκαταλείπω	to leave behind
+1000	1.0	0	12	κώμη	country town
+1000	1.0	0	12	Κνῆμος	Cnemus
+1000	1.0	0	12	Πέρσης	a Persian; Perses (pr.n.)
+1000	1.0	0	12	ἄπωθεν	from afar
+1000	1.0	0	12	ἔξωθεν	from without
+1000	1.0	0	12	ἀνέλκω	to draw up
+1000	1.0	0	12	ἐλαύνω	to drive
+1000	1.0	0	12	ἔπαλξις	a means of defence
+1000	1.0	0	12	ἀρχαῖος	from the beginning
+1000	1.0	0	12	προσέχω	to hold to
+1000	1.0	0	12	πάρειμι2	go past
+1000	1.0	0	12	ναυάγιον	a piece of wreck
+1000	1.0	0	12	βασιλεύω	to be king
+1000	1.0	0	12	κατακαίω	to burn down
+1000	1.0	0	12	συγκαλέω	to call to council
+1000	1.0	0	12	Φαρνάβαζος	Pharnabazus
+1000	1.0	0	12	ἀνδραποδίζω	to reduce to slavery
+1000	1.1	0	13	πάθος	anything that befalls one
+1000	1.1	0	13	φάσκω	to say
+1000	1.1	0	13	ἅλωσις	a taking
+1000	1.1	0	13	σκεῦος	a vessel
+1000	1.1	0	13	εἰσάγω	to lead in
+1000	1.1	0	13	οἰκήτωρ	an inhabitant; a colonist
+1000	1.1	0	13	λογάδες	nodef
+1000	1.1	0	13	δέκατος	tenth
+1000	1.1	0	13	ταράσσω	to stir
+1000	1.1	0	13	Ἀριστεύς	Aristeus
+1000	1.1	0	13	ναύαρχος	the commander of a fleet
+1000	1.1	0	13	οὐδέτερος	not either
+1000	1.1	0	13	Σικυώνιος	of Sicyon
+1000	1.1	0	13	τρισχίλιοι	three thousand
+1000	1.1	0	13	παραβοηθέω	to come up to help
+1000	1.2	0	14	Ἅγνων	Hagnon
+1000	1.2	0	14	στόμα	the mouth
+1000	1.2	0	14	Φωκεύς	a Phocian
+1000	1.2	0	14	οἴκημα	any inhabited place
+1000	1.2	0	14	Στρυμών	the Strymon
+1000	1.2	0	14	πρόειμι1	nodef
+1000	1.2	0	14	μεθόριος	lying between as a boundary
+1000	1.2	0	14	Ἀμφίλοχος	Amphilochus
+1000	1.2	0	14	πολιορκία	a besieging
+1000	1.2	0	14	Βυζάντιος	inhabitant of Byzantium (no LSJ entry)
+1000	1.2	0	14	καταδιώκω	to pursue closely
+1000	1.2	0	14	πανστρατιά	a levy of the whole army
+1000	1.2	0	14	συμμίγνυμι	nodef
+1000	1.2	0	15	νεώς	a temple (LSJ ναός)
+1000	1.2	0	15	τάφρος	a ditch
+1000	1.2	0	15	φρουρά	a looking out
+1000	1.2	0	15	θόρυβος	a noise
+1000	1.2	0	15	πρεσβεία	age
+1000	1.2	0	15	συμμαχίς	allied
+1000	1.2	0	15	ἐπιστέλλω	to send to
+1000	1.2	0	15	τριήραρχος	the captain of a trireme
+1000	1.2	0	15	ἐμπίμπρημι	to kindle
+1000	1.3	0	16	ὁρμίζω	to bring to a safe anchorage
+1000	1.3	0	16	πόλισμα	a city
+1000	1.3	0	16	συνεχής	holding together
+1000	1.3	0	16	Αἴγυπτος	Egypt (f.); king Aegyptus (m.)
+1000	1.3	0	16	εἰσπίπτω	to fall into
+1000	1.3	0	16	Λευκάδιος	of Leucas
+1000	1.3	0	16	πελταστής	one who bears a light shield
+1000	1.3	0	16	αἰχμάλωτος	taken by the spear
+1000	1.3	0	16	ταλαιπωρέω	to go through hard labour
+1000	1.3	0	16	συμπολεμέω	to join in war
+1000	1.4	0	17	υἱός	a son
+1000	1.4	0	17	Δῆλος	Delos
+1000	1.4	0	17	τροπή	a turn
+1000	1.4	0	17	κατάγω	to lead down
+1000	1.4	0	17	ἔσχατος	outermost
+1000	1.4	0	17	διαιρέω	to take one from another
+1000	1.4	0	17	Σιτάλκης	Sitalces
+1000	1.4	0	17	συγγράφω	to write down
+1000	1.4	0	17	δισχίλιοι	two thousand
+1000	1.4	0	17	ὀγδοήκοντα	eighty
+1000	1.5	0	18	πύργος	a tower
+1000	1.5	0	18	Ἀκαρνανία	Acarnania
+1000	1.5	0	18	ἀτείχιστος	unwalled
+1000	1.6	0	19	ὁρμέω	to be moored
+1000	1.6	0	19	Ἰσθμός	Isthmus
+1000	1.6	0	19	Λευκάς	Leucas
+1000	1.6	0	19	μηχανή	an instrument
+1000	1.6	0	19	μεταξύ	betwixt
+1000	1.6	0	19	Θουκυδίδης	Thucydides
+1000	1.7	0	20	ἄρχω,ἄρχων	nodef
+1000	1.7	0	20	ἱερός	super-human
+1000	1.7	0	20	γράφω	to scratch
+1000	1.7	0	20	δώδεκα	twelve
+1000	1.7	0	20	Ἀττικός	Attic
+1000	1.7	0	20	φρουρός	a watcher
+1000	1.7	0	20	Ἐπίδαυρος	Epidaurus
+1000	1.7	0	20	ἀκρόπολις	the upper city
+1000	1.7	0	20	ἑβδομήκοντα	seventy
+1000	1.8	0	21	ὅπη	by which way
+1000	1.8	0	21	πιέζω	to press
+1000	1.8	0	21	ἄνεμος	wind
+1000	1.8	0	21	Ἀπόλλων	Apollo
+1000	1.8	0	21	Λέσβιος	Lesbian
+1000	1.8	0	21	ἐνιαυτός	year
+1000	1.8	0	22	αὐτόθι	on the spot
+1000	1.8	0	22	Μέγαρα	town of Megara
+1000	1.8	0	22	ἐκπίπτω	to fall out of
+1000	1.8	0	22	φρουρέω	to keep watch
+1000	1.8	0	22	Πλαταιός	nodef
+1000	1.8	0	22	οἰκοδομέω	to build a house
+1000	1.8	0	22	προστάσσω	to order
+1000	1.9	0	23	Μακεδών	a Macedonian
+1000	1.9	0	23	ἑξακόσιοι	six hundred
+1000	2.0	0	24	λίθος	a stone
+1000	2.0	0	24	Φορμίων	Phormio
+1000	2.0	0	24	εἰσπλέω	to sail into
+1000	2.0	0	24	Περικλῆς	Pericles
+1000	2.0	0	24	ἀπόβασις	a stepping off
+1000	2.0	0	24	προσπλέω	to sail towards
+1000	2.1	0	25	ἱερόν,ἱερός	nodef
+1000	2.1	0	25	ὑπόσπονδος	under a treaty
+1000	2.2	0	26	Θρᾷξ	a Thracian;
+1000	2.2	0	26	ὀκτώ	eight
+1000	2.2	0	26	εἰσβολή	an inroad
+1000	2.2	0	26	ἀναβαίνω	to go up
+1000	2.3	0	27	Νίσαια	Nisaea
+1000	2.3	0	27	συλλέγω	to collect
+1000	2.3	0	27	πεντακόσιοι	five hundred
+1000	2.4	0	28	ἔαρ	spring
+1000	2.4	0	28	Θεσσαλός	Thessalian
+1000	2.4	0	28	τάλαντον	a balance
+1000	2.5	0	30	καταπλέω	to sail down
+1000	2.6	0	31	Λακωνικός	Laconian
+1000	2.6	0	31	ἀναχώρησις	a drawing back
+1000	2.7	0	32	ὄρος	a mountain
+1000	2.7	0	32	θνήσκω	nodef
+1000	2.8	0	33	κῆρυξ	a herald
+1000	2.9	0	34	γυνή	a woman
+1000	2.9	0	34	καταφεύγω	to flee for refuge
+1000	2.9	0	34	Ἑλλήσποντος	the Hellespont
+1000	3.0	0	35	Πειραιεύς	Peiraeus
+1000	3.1	0	36	πύλη	one wing of a pair of double gates
+1000	3.1	0	36	ἀνάγω	to lead up; mid. set sail
+1000	3.1	0	36	ἑξήκοντα	sixty
+1000	3.1	0	36	περιπλέω	to sail
+1000	3.1	0	37	πλοῖον	a floating vessel
+1000	3.3	0	39	στρατηγέω	to be general
+1000	3.4	0	40	διακόσιοι	two hundred
+1000	3.5	0	41	πεντήκοντα	fifty
+1000	3.6	0	42	ἀνίστημι	to make to stand up
+1000	3.7	0	43	Ναύπακτος	Naupactus
+1000	3.7	0	43	Μεσσήνιος	of Messene
+1000	3.7	0	44	δεξιός	on the right hand
+1000	3.9	0	46	Ἀμπρακιώτης	Ambracian
+1000	4.1	0	48	Ἠλεῖος	from Elis
+1000	4.3	0	50	Ἀκαρνάν	Acarnan
+1000	4.3	0	51	Περδίκκας	Perdiccas
+1000	4.5	0	53	Λοκροί	the Locrians
+1000	4.5	0	53	τριάκοντα	thirty
+1000	4.7	0	55	κέρας	the horn of an animal
+1000	4.7	0	55	ἑκατόν	a hundred
+1000	4.9	0	57	νεκρός	a dead body
+1000	4.9	0	57	τροπαῖος	of or for rout
+1000	4.9	0	58	Ἄργος	Argos
+1000	4.9	0	58	τριακόσιοι	three hundred
+1000	5.6	0	66	χίλιοι	a thousand
+1000	6.8	0	80	δέκα	ten
+1000	8.0	0	94	Βρασίδας	Brasidas
+116057 21861
