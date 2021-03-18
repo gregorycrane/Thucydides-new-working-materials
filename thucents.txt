@@ -1827,7 +1827,7 @@
 2.21.3	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen
 2.21.3	person	Περικλῆς	Περικλέα	masc:acc
 2.22.1	person	Περικλῆς	Περικλῆς	masc:nom
-2.22.2	group	Φρύγιος	Φρυγίοις	masc/neut:dat
+2.22.2	place	Φρύγιος	Φρυγίοις	masc/neut:dat
 2.22.2	ethnic	Ἀθηναῖος	Ἀθηναίων	masc/neut:gen
 2.22.2	ethnic	Θεσσαλός	Θεσσαλοῖς	masc:dat
 2.22.2	ethnic	Βοιωτός	Βοιωτῶν	masc:gen
@@ -1986,7 +1986,7 @@
 2.30.2	place	Ἀκαρνανία	Ἀκαρνανίαν	fem:acc
 2.30.2	place	Λευκάς	Λευκάδα	fem:acc
 2.30.2	noclass	Παλέες	Παλῆς	masc:nom/voc
-2.30.2	noclass	Κράνιος	Κράνιοι	masc:nom/voc
+2.30.2	place	Κράνιος	Κράνιοι	masc:nom/voc
 2.30.2	place	Σαμαῖος	Σαμαῖοι	masc:nom/voc
 2.30.2	noclass	Προνναῖος	Προνναῖοι	masc:nom/voc
 2.30.2	place	Ἀθῆναι	Ἀθήνας	fem:acc
@@ -4636,7 +4636,7 @@
 4.56.2	place	Ἐπίδαυρος	Ἐπίδαυρον	masc:acc
 4.56.2	noclass	Λιμηρή	Λιμηράν	fem:acc
 4.56.2	place	Θυρέα	Θυρέαν	fem:acc
-4.56.2	person	Κυνουρίας	Κυνουρίας	masc:nom
+4.56.2	place	Κυνουρίας	Κυνουρίας	masc:nom
 4.56.2	ethnic	Ἀργεῖος	Ἀργείας	fem:gen
 4.56.2	ethnic	Λακωνικός	Λακωνικῆς	fem:gen
 4.56.2	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιοι	masc:nom/voc
@@ -5868,7 +5868,7 @@
 5.14.3	ethnic	Εἵλως	Εἱλώτων	masc:gen
 5.14.4	ethnic	Ἀργεῖος	Ἀργείους	masc:acc
 5.14.4	ethnic	Ἀργεῖος	Ἀργεῖοι	masc:nom/voc
-5.14.4	person	Κυνουρίας	Κυνουρίαν	masc:acc
+5.14.4	place	Κυνουρίας	Κυνουρίαν	masc:acc
 5.14.4	ethnic	Ἀργεῖος	Ἀργείοις	masc/neut:dat
 5.14.4	ethnic	Ἀθηναῖος	Ἀθηναίοις	masc/neut:dat
 5.14.4	place	Πελοπόννησος	Πελοποννήσῳ	fem:dat
@@ -6473,7 +6473,7 @@
 5.40.3	ethnic	Λακεδαιμόνιος	Λακεδαιμονίους	masc:acc
 5.41.1	ethnic	Λακεδαιμόνιος	Λακεδαιμονίους	masc:acc
 5.41.2	ethnic	Ἀργεῖος	Ἀργεῖοι	masc:nom/voc
-5.41.2	person	Κυνουρίας	Κυνουρίας	masc:nom
+5.41.2	place	Κυνουρίας	Κυνουρίας	masc:nom
 5.41.2	place	Θυρέα	Θυρέαν	fem:acc
 5.41.2	place	Ἀνθήνη	Ἀνθήνην	fem:acc
 5.41.2	ethnic	Λακεδαιμόνιος	Λακεδαιμόνιοι	masc:nom/voc
