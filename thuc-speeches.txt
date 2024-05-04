@@ -1,7 +1,7 @@
 #Based on Josh Sosin: http://people.duke.edu/~jds15/clst-283/thuc.outline.html#speeches
 Book 1
 at Athens
-Corcyrans 1.32-1.36
+Corcyrans   Athens  1.32-1.36
 Corinthians 1.37-1.43
 at Sparta
 Corinthians 1.68-1.71
@@ -41,8 +41,8 @@ at Syracuse
 Hermocrates 6.33-6.34
 Athenagoras 6.36-6.40
 Syracusan General 6.41
-at Camarina
-Hermocrates 7.76-7.80
+ 
+Hermocrates Camarina    6.76-6.80
 Euphemus 6.82-6.87
 at Sparta
 Alcibiades 6.89-6.92

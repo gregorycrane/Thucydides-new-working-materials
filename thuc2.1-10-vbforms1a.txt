@@ -1,0 +1,267 @@
+ἀρχθῶσι	(to be first) to rule: aor subj pass 3rd pl
+ἄρχεται	(to be first) to rule: pres ind mp 3rd sg
+ἀρχόμενοι	(to be first) to rule: pres part mp masc nom pl
+ἀρχομένῳ	(to be first) to rule: pres part mp neut dat sg
+ἔτυχον	(with gen.) to hit the mark: aor ind act 3rd pl
+τύχωσι	(with gen.) to hit the mark: aor subj act 3rd pl
+ῥηθείσης	[I will say]: aor part pass fem gen sg
+εἰρημένον	[I will say]: perf part mp masc acc sg
+ὁμολογοῦσι	agree: pres ind act 3rd pl
+παρέσται	be present: fut ind mid 3rd sg
+παρόντα	be present: pres part act neut acc pl
+περιῆσαν	be superior: imperf ind act 3rd pl
+ἐγένοντο	become: aor ind mid 3rd pl
+γενομένων	become: aor part mid masc gen pl
+γενόμενον	become: aor part mid neut acc sg
+γενομένου	become: aor part mid neut gen sg
+ἐγίγνετο	become: imperf ind mp 3rd sg
+γεγενημένα	become: perf part mp neut acc pl
+γεγενημένον	become: perf part mp neut acc sg
+γεγενημένων	become: perf part mp neut gen pl
+γεγενημένου	become: perf part mp neut gen sg
+γίγνοιτο	become: pres opt mp 3rd sg
+γιγνομένῃ	become: pres part mp fem dat sg
+γιγνόμενα	become: pres part mp neut acc pl
+γίγνωνται	become: pres subj mp 3rd pl
+ξυνῇσαν	come together: imperf ind act 3rd pl
+ξυνιουσῶν	come together: pres part act fem gen pl
+ᾖσαν	come: imperf ind act 3rd pl
+ἰόντες	come: pres part act masc nom pl
+διαβουλευομένων	complete its term: pres part mp neut gen pl
+ἔπραξαν	do: aor ind act 3rd pl
+ἐπεπράγεσαν	do: plup ind act 3rd pl
+πράσσοντες	do: pres part act masc nom pl
+ἐχώρησαν	give way: aor ind act 3rd pl
+ἐχώρουν	give way: imperf ind act 3rd pl
+ἐξῄει	go out: imperf ind act 3rd sg
+ἐπεμείγνυντο	have intercourse: imperf ind mp 3rd pl
+χρή	it is fated: pres ind act 3rd sg
+ἔδει	it is necessary: imperf ind act 3rd sg
+εἰκός	like truth: perf part act neut acc sg
+ξυνέβησαν	meet: aor ind act 3rd pl
+ξυνέβη	meet: aor ind act 3rd sg
+ξυμβαίνωσι	meet: pres subj act 3rd pl
+ἀνίσχοντα	nodef: pres part act masc acc sg
+χρησάμενος	proclaim an oracle: aor part mid masc nom sg
+χρήσωνται	proclaim an oracle: aor subj mid 3rd pl
+χρωμένων	proclaim an oracle: pres part mp fem gen pl
+ἐδόκει	seem: imperf ind act 3rd sg
+ξυνεπιλαμβάνειν	take part with: pres inf act 
+ἐνέμειναν	to abide in: aor ind act 3rd pl
+περιήγγελλον	to announce by messages sent round: aor ind act 3rd pl
+ἐνεωτέριζον	to attempt anything new: imperf ind act 3rd pl
+πειράσαντες	to attempt: aor part act masc nom pl
+βοιωταρχοῦντες	to be a Boeotarch: pres part act masc nom pl
+ἱερωμένης	to be a priest: pres part mp fem gen sg
+δύναιτο	to be able: pres opt mp 3rd sg
+ξυμμαχεῖν	to be an ally: pres inf act 
+πολεμήσειν	to be at war: fut inf act 
+πολεμήσοντες	to be at war: fut part act masc nom pl
+ἐπολέμουν	to be at war: imperf ind act 3rd pl
+ἐπεγένετο	to be born after: aor ind mid 3rd sg
+ἐπιγενομένου	to be born after: aor part mid neut gen sg
+διενοοῦντο	to be minded: imperf ind mp 3rd pl
+ἡσύχαζον	to be still: imperf ind act 3rd pl
+ἡσυχάζοντας	to be still: pres part act masc acc pl
+κρατήσειν	to be strong: fut inf act 
+ἐπρεσβεύοντο	to be the elder; to be an ambassador: imperf ind mp 3rd pl
+ἔσοιτο	to be: fut opt mid 3rd sg
+ἐσομένων	to be: fut part mid fem gen pl
+ἦσαν	to be: imperf ind act 3rd pl
+ἦν	to be: imperf ind act 3rd sg
+εἶεν	to be: pres opt act 3rd pl
+εἴη	to be: pres opt act 3rd sg
+οὖσαν	to be: pres part act fem acc sg
+οὖσαι	to be: pres part act fem nom pl
+οὖσα	to be: pres part act fem nom sg
+ὄντας	to be: pres part act masc acc pl
+ὄντες	to be: pres part act masc nom pl
+οὖσι	to be: pres part act neut dat pl
+ὦσι	to be: pres subj act 3rd pl
+ᾖ	to be: pres subj act 3rd sg
+ἠγγέλθη	to bear a message: aor ind pass 3rd sg
+ἀπεκρούσαντο	to beat off from: aor ind mid 3rd pl
+ὑπάρχειν	to begin; to exist: pres inf act 
+ὑπάρχουσαν	to begin; to exist: pres part act fem acc sg
+ὑπαρχούσαις	to begin; to exist: pres part act fem dat pl
+ἐπηγάγοντο	to bring on: aor ind mid 3rd pl
+ἐπαγαγομένοις	to bring on: aor part mid neut dat pl
+ἐφαίνετο	to bring to light: imperf ind mp 3rd sg
+προσφέροιντο	to bring to: pres opt mp 3rd pl
+κατακαύσωσι	to burn down: aor subj act 3rd pl
+ξυγκαλέσας	to call to council: aor part act masc nom sg
+ἐσεκομίσαντο	to carry into: aor ind mid 3rd pl
+ἐξεκόμισαν	to carry out: aor ind act 3rd pl
+ξυνέλαβον	to collect: aor ind act 3rd pl
+ξυνελέγοντο	to collect: imperf ind mp 3rd pl
+ξυνειλεγμένον	to collect: perf part mp neut acc sg
+ξυνειλημμένων	to collect: perf part mp neut gen pl
+παρεγένοντο	to come near: aor ind mid 3rd pl
+ἐπεβοήθουν	to come to aid: imperf ind act 3rd pl
+ἀφικόμενος	to come to: aor part mid masc nom sg
+ἐλθεῖν	to come: aor inf act 
+τελευτῶντος	to complete: pres part act masc gen sg
+νενικημένων	to conquer: perf part mp neut gen pl
+διαβάντες	to cross (a river: aor part act masc nom pl
+διακόψαντες	to cut in two: aor part act masc nom pl
+ἐξηπατημένοι	to deceive: perf part mp masc nom pl
+διεφθάρησαν	to destroy: aor ind pass 3rd pl
+ἀπώλλυντο	to destroy: imperf ind mp 3rd pl
+διεφθαρμένους	to destroy: perf part mp masc acc pl
+διεφθαρμένων	to destroy: perf part mp masc gen pl
+τεθνηκότες	to die; see also ἀποθνῄσκω: perf part act masc nom pl
+διορύσσοντες	to dig through: pres part act masc nom pl
+ἀδικήσαντες	to do wrong: aor part act masc nom pl
+ἀδικεῖν	to do wrong: pres inf act 
+δράσειαν	to do: aor opt act 3rd pl
+ἔλαθον	to escape notice: aor ind act 3rd pl
+λαθόντες	to escape notice: aor part act masc nom pl
+ἀνεζητεῖτο	to examine into: imperf ind mp 3rd sg
+ἐξήταζον	to examine well: imperf ind act 3rd pl
+παρῄνει	to exhort: imperf ind act 3rd sg
+ἐσπίπτουσι	to fall into: pres ind act 3rd pl
+προσπίπτοιεν	to fall upon: pres opt act 3rd pl
+ἥπτετο	to fasten: imperf ind mp 3rd sg
+καταδείσαντες	to fear greatly: aor part act masc nom pl
+δείσαντες	to fear: aor part act masc nom pl
+ηὗρε	to find: aor ind act 3rd sg
+ἐκφεύγειν	to flee out: pres inf act 
+ἔφευγον	to flee: imperf ind act 3rd pl
+ἐρρύη	to flow: aor ind pass 3rd sg
+ἐλευθεροῦσι	to free: pres ind act 3rd pl
+παρεῖχον	to furnish: imperf ind act 3rd pl
+παρείχοντο	to furnish: imperf ind mp 3rd pl
+παρασκευασθῇ	to get ready: aor subj pass 3rd sg
+ἐξήρτυον	to get ready: imperf ind act 3rd pl
+παρεσκευάζοντο	to get ready: imperf ind mp 3rd pl
+ἀπέδοσαν	to give back: aor ind act 3rd pl
+ἀποδώσειν	to give back: fut inf act 
+προδιδόντες	to give beforehand: pres part act masc nom pl
+δούσης	to give: aor part act fem gen sg
+ἀνεχώρησαν	to go back: aor ind act 3rd pl
+ἀναχωρησάντων	to go back: aor part act masc gen pl
+προχωροίη	to go forward: pres opt act 3rd sg
+ἐσῆλθον	to go in: aor ind act 3rd pl
+ἐσελθόντες	to go in: aor part act masc nom pl
+ἐσεληλυθόσι	to go in: perf part act neut dat pl
+ἐξῆλθον	to go out: aor ind act 3rd pl
+προσχωρήσειν	to go to: fut inf act 
+ἀναβάντες	to go up: aor part act masc nom pl
+ἐνόμισαν	to have as a custom; to believe: aor ind act 3rd pl
+νομίσαντες	to have as a custom; to believe: aor part act masc nom pl
+νομίζοντες	to have as a custom; to believe: pres part act masc nom pl
+εἶχον	to have: imperf ind act 3rd pl
+ἔχουσι	to have: pres ind act 3rd pl
+ἔχειν	to have: pres inf act 
+ἔχοντες	to have: pres part act masc nom pl
+ἐχομένων	to have: pres part mp neut gen pl
+ἤλπιζον	to hope for: imperf ind act 3rd pl
+ξυνεπολέμουν	to join in war: imperf ind act 3rd pl
+ἀπέχει	to keep off: pres ind act 3rd sg
+φυλάξαντες	to keep watch and ward: aor part act masc nom pl
+ἀπέκτειναν	to kill: aor ind act 3rd pl
+ἀποκτενεῖν	to kill: fut inf act 
+ἐμπρήσαντες	to kindle: aor part act masc nom pl
+εἰδότες	to know: perf part act masc nom pl
+ᾔδεσαν	to know: plup ind act 3rd pl
+δέοντα	to lack: pres part act neut acc pl
+ἐπιθέμενοι	to lay: aor part mid masc nom pl
+ἐσήγαγον	to lead in: aor ind act 3rd pl
+ἀγαγεῖν	to lead: aor inf act 
+ἡγοῦντο	to lead; to consider: imperf ind mid 3rd pl
+ἡγεῖτο	to lead; to consider: imperf ind mid 3rd sg
+ἔγνωσαν	to learn to know: aor ind act 3rd pl
+ἐγκατέλιπον	to leave behind: aor ind act 3rd pl
+ζῶντας	to live: pres part act masc acc pl
+ζώντων	to live: pres part act neut gen pl
+λελυμένων	to loose: perf part mp fem gen pl
+ἑτοιμάζειν	to make ready: pres inf act 
+πορευόμενοι	to make to go: pres part mp masc nom pl
+πλανώμενοι	to make to wander: pres part mp masc nom pl
+ἐποίησε	to make: aor ind act 3rd sg
+ποιήσαντες	to make: aor part act masc nom pl
+ἐποίει	to make: imperf ind act 3rd sg
+ἐποιοῦντο	to make: imperf ind mp 3rd pl
+πεποιημένα	to make: perf part mp neut acc pl
+ποιεῖν	to make: pres inf act 
+ποιεῖσθαι	to make: pres inf mp 
+ποιούμενοι	to make: pres part mp masc nom pl
+κατενόησαν	to observe well: aor ind act 3rd pl
+ἀνέῳξαν	to open: aor ind act 3rd pl
+ἀνεῳγμέναι	to open: perf part mp fem nom pl
+ᾔσθοντο	to perceive: aor ind mid 3rd pl
+ἔλεγον	to pick; to say: imperf ind act 3rd pl
+ἐλέγετο	to pick; to say: imperf ind mp 3rd sg
+λέγουσι	to pick; to say: pres ind act 3rd pl
+λέγοντες	to pick; to say: pres part act masc nom pl
+ἐπεβούλευον	to plot against: imperf ind act 3rd pl
+ἐπείθοντο	to prevail upon: imperf ind mp 3rd pl
+διώκοντας	to pursue: pres part act masc acc pl
+διωκόμενοι	to pursue: pres part mp masc nom pl
+ἀφίστασθαι	to put away: pres inf mp 
+ἐφοβήθησαν	to put to flight: aor ind pass 3rd pl
+φοβούμενοι	to put to flight: pres part mp masc nom pl
+ἐπετάχθη	to put upon one as a duty: aor ind pass 3rd sg
+ἀντιλαμβάνονται	to receive instead of: pres ind mp 3rd pl
+μέμνηνται	to remind: perf ind mp 3rd pl
+ἀνεῖπε	to say aloud: aor ind act 3rd sg
+ἔφασαν	to say: imperf ind act 3rd pl
+φασι	to say: pres ind act 3rd pl
+γέγραπται	to scratch: perf ind mp 3rd sg
+προιδόντες	to see beforehand: aor part act masc nom pl
+ἑώρων	to see: imperf ind act 3rd pl
+ὁρῶντες	to see: pres part act masc nom pl
+προκαταλαβεῖν	to seize beforehand: aor inf act 
+καταλαβεῖν	to seize upon: aor inf act 
+κατειλημμένην	to seize upon: perf part mp fem acc sg
+ἐξέπεμψαν	to send out: aor ind act 3rd pl
+ἐπέστελλον	to send to: imperf ind act 3rd pl
+ἔπεμψαν	to send: aor ind act 3rd pl
+ἔπεμπον	to send: imperf ind act 3rd pl
+πέμπειν	to send: pres inf act 
+στρατεύσαντες	to serve in war: aor part act masc nom pl
+προκαθεστηκυίας	to set before;: perf part act fem gen sg
+καταστάντες	to set down: aor part act masc nom pl
+καθίστασαν	to set down: imperf ind act 3rd pl
+καθίσταντο	to set down: imperf ind mp 3rd pl
+καθεστῶτος	to set down: perf part act masc gen sg
+ὥρμηντο	to set in motion, urge: plup ind mp 3rd pl
+ἐκινήθη	to set in motion: aor ind pass 3rd sg
+θέμενοι	to set: aor part mid masc nom pl
+σεισθεῖσα	to shake: aor part pass fem nom sg
+ἔκλῃσε	to shut: aor ind act 3rd sg
+ᾖδον	to sing: imperf ind act 3rd pl
+εἰπεῖν	to speak: aor inf act 
+ἔρρωντο	to strengthen: plup ind mp 3rd pl
+ἔρρωτο	to strengthen: plup ind mp 3rd sg
+προσέβαλον	to strike: aor ind act 3rd pl
+προσβαλόντων	to strike: aor part act neut gen pl
+οἰόμενοι	to suppose: pres part mp masc nom pl
+ὑποτοπήσαντες	to suspect: aor part act masc nom pl
+ἐζωγρημένοι	to take alive: perf part mp masc nom pl
+ἀπειλημμένους	to take away: perf part mp masc acc pl
+βουλεύσωσι	to take counsel: aor subj act 3rd pl
+ἐβουλεύοντο	to take counsel: imperf ind mp 3rd pl
+λάβοιεν	to take: aor opt act 3rd pl
+δεξάμενοι	to take: aor part mid masc nom pl
+ἑλομένοις	to take: aor part mid neut dat pl
+ληφθέντες	to take: aor part pass masc nom pl
+δεχομένους	to take: pres part mp masc acc pl
+προειπόντων	to tell: aor part act neut gen pl
+μέλλοντες	to think of doing: pres part act masc nom pl
+μέλλουσι	to think of doing: pres part act neut dat pl
+ἐπενόουν	to think on: imperf ind act 3rd pl
+ἐσβαλοῦντες	to throw into: fut part act masc nom pl
+ἔρριψαν	to throw: aor ind act 3rd pl
+βαλλόντων	to throw: pres part act neut gen pl
+ἀπεωθοῦντο	to thrust away: imperf ind mp 3rd pl
+τραπόμενοι	to turn: aor part mid masc nom pl
+ξυνεστρέφοντο	to twist up into a ball: imperf ind mp 3rd pl
+ξυνεστραμμένον	to twist up into a ball: perf part mp neut acc sg
+κελεύοντες	to urge: pres part act masc nom pl
+καταπολεμήσοντες	to war down: fut part act masc nom pl
+ἐβούλοντο	to will: imperf ind mp 3rd pl
+βούλεται	to will: pres ind mp 3rd sg
+βουλόμενοι	to will: pres part mp masc nom pl
+βουλομένῳ	to will: pres part mp neut dat sg
+βούλωνται	to will: pres subj mp 3rd pl

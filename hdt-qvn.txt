@@ -1,0 +1,1698 @@
+0.0	σαυτοῦ	pronoun	tot	37	2.00	q	37	13.74	n	0	0	nodef
+0.0	ὑμέτερος	adjective	tot	17	0.91	q	17	6.31	n	0	0	your
+0.00	ὦ	interjection	tot	173	9.35	q	165	61.30	n	8	0.50	O! oh!
+0.00	σύ	pronoun	tot	780	42.18	q	744	276.44	n	36	2.27	you (personal pronoun)
+0.01	σός	adjective	tot	67	3.62	q	61	22.66	n	6	0.37	your
+0.01	τοι	particle	tot	36	1.94	q	33	12.26	n	3	0.18	let me tell you
+0.01	ἐμός	adjective	tot	84	4.54	q	76	28.23	n	8	0.50	mine
+0.01	Ἠετίων	proper	tot	12	0.64	q	11	4.08	n	1	0.06	Eetion
+0.01	ἡμέτερος	adjective	tot	40	2.16	q	36	13.37	n	4	0.25	our
+0.02	ἐμαυτοῦ	pronoun	tot	16	0.86	q	14	5.20	n	2	0.12	of me
+0.03	κίνδυνος	noun	tot	11	0.59	q	9	3.34	n	2	0.12	a danger
+0.03	βούλευμα	noun	tot	11	0.59	q	9	3.34	n	2	0.12	a deliberate resolution
+0.04	χρή	verb	tot	18	0.97	q	14	5.20	n	4	0.25	it is fated
+0.04	ποῖος	adjective	tot	14	0.75	q	11	4.08	n	3	0.18	of what nature? of what sort?
+0.04	δεσπότης	adjective	tot	47	2.54	q	37	13.74	n	10	0.63	a master
+0.07	πῶς	adverb	tot	16	0.86	q	11	4.08	n	5	0.31	how? in what way
+0.07	ἐγώ	pronoun	tot	1139	61.59	q	781	290.19	n	358	22.65	I (first person pronoun)
+0.07	μηκέτι	adverb	tot	10	0.54	q	7	2.60	n	3	0.18	no more
+0.07	τοίνυν	particle	tot	23	1.24	q	16	5.94	n	7	0.44	therefore
+0.08	ἀνόσιος	adjective	tot	12	0.64	q	8	2.97	n	4	0.25	unholy
+0.08	πότερος	adjective	tot	12	0.64	q	8	2.97	n	4	0.25	which of the two?
+0.09	Γλαύκος	proper	tot	11	0.59	q	7	2.60	n	4	0.25	nodef
+0.09	περιέχω	verb	tot	14	0.75	q	9	3.34	n	5	0.31	to encompass
+0.10	χρηστός	adjective	tot	49	2.64	q	30	11.14	n	19	1.20	useful
+0.11	ἀνέω	verb	tot	10	0.54	q	6	2.22	n	4	0.25	winnow
+0.11	κέρδος	noun	tot	10	0.54	q	6	2.22	n	4	0.25	gain
+0.11	ἀδικέω	verb	tot	34	1.83	q	20	7.43	n	14	0.88	to do wrong
+0.11	ποιητέος	adjective	tot	10	0.54	q	6	2.22	n	4	0.25	to be made
+0.11	μόναρχος	noun	tot	10	0.54	q	6	2.22	n	4	0.25	one who rules alone
+0.12	πάντως	adverb	tot	33	1.78	q	19	7.05	n	14	0.88	altogether;
+0.12	στρατάω	verb	tot	12	0.64	q	7	2.60	n	5	0.31	nodef
+0.13	ὕβρις	noun	tot	16	0.86	q	9	3.34	n	7	0.44	wantonness
+0.13	θυμός	noun	tot	18	0.97	q	10	3.71	n	8	0.50	the soul
+0.14	ἦ	adverb	tot	15	0.81	q	8	2.97	n	7	0.44	in truth
+0.14	βίος	adjective	tot	35	1.89	q	19	7.05	n	16	1.01	life
+0.14	τύχη	noun	tot	15	0.81	q	8	2.97	n	7	0.44	(good) fortune
+0.14	χάρις	noun	tot	15	0.81	q	8	2.97	n	7	0.44	gratitude
+0.14	πατρίς	adjective	tot	15	0.81	q	8	2.97	n	7	0.44	fatherland
+0.14	ἄχαρις	noun	tot	13	0.70	q	7	2.60	n	6	0.37	without grace
+0.14	θαρσέω	verb	tot	15	0.81	q	8	2.97	n	7	0.44	to be of good courage
+0.14	τολμάω	verb	tot	15	0.81	q	8	2.97	n	7	0.44	to undertake
+0.14	μάταιος	adjective	tot	11	0.59	q	6	2.22	n	5	0.31	vain
+0.14	ἄπειρος	adjective	tot	11	0.59	q	6	2.22	n	5	0.31	without trial
+0.14	μηδαμός	adverb	tot	13	0.70	q	7	2.60	n	6	0.37	none
+0.14	ἀντιόομαι	verb	tot	15	0.81	q	8	2.97	n	7	0.44	to resist
+0.17	κοίτη	noun	tot	10	0.54	q	5	1.85	n	5	0.31	the marriage-bed
+0.17	δοῦλος	noun	tot	38	2.05	q	19	7.05	n	19	1.20	slave
+0.17	δουλόω	verb	tot	12	0.64	q	6	2.22	n	6	0.37	to make a slave of
+0.17	παιδίον	noun	tot	24	1.29	q	12	4.45	n	12	0.75	a child
+0.17	Ἄριστος	proper	tot	12	0.64	q	6	2.22	n	6	0.37	nodef
+0.17	προσθέω	verb	tot	10	0.54	q	5	1.85	n	5	0.31	to run towards
+0.17	περεῖδον	verb	tot	12	0.64	q	6	2.22	n	6	0.37	nodef
+0.17	ἐπίτροπος	adjective	tot	12	0.64	q	6	2.22	n	6	0.37	one to whom a charge is entrusted
+0.17	ἐλεύθερος	adjective	tot	38	2.05	q	19	7.05	n	19	1.20	free
+0.18	ξένος	noun	tot	84	4.54	q	40	14.86	n	44	2.78	a guest
+0.18	ἀγαθός	adjective	tot	94	5.08	q	45	16.72	n	49	3.10	good
+0.18	ὄνειρος	noun	tot	23	1.24	q	11	4.08	n	12	0.75	a dream
+0.18	ὁπότερος	adjective	tot	21	1.13	q	10	3.71	n	11	0.69	which of two
+0.19	ἐάν	conjunction	tot	206	11.14	q	97	36.04	n	109	6.89	if
+0.19	χρεών	noun	tot	36	1.94	q	17	6.31	n	19	1.20	necessity; it is necessary
+0.19	εὐτυχέω	verb	tot	13	0.70	q	6	2.22	n	7	0.44	to be well off
+0.19	πατρώιος	adjective	tot	13	0.70	q	6	2.22	n	7	0.44	nodef
+0.19	προθυμία	noun	tot	15	0.81	q	7	2.60	n	8	0.50	readiness
+0.19	κρείσσων	verb	tot	17	0.91	q	8	2.97	n	9	0.56	stronger
+0.19	μιμνήσκω	verb	tot	30	1.62	q	14	5.20	n	16	1.01	to remind
+0.19	χαρίζομαι	verb	tot	15	0.81	q	7	2.60	n	8	0.50	nodef
+0.19	Θρασυβούλος	proper	tot	13	0.70	q	6	2.22	n	7	0.44	nodef
+0.20	εἶμι	verb	tot	96	5.19	q	43	15.97	n	53	3.35	come
+0.20	οἶκος	noun	tot	37	2.00	q	17	6.31	n	20	1.26	a house
+0.20	καιρός	noun	tot	11	0.59	q	5	1.85	n	6	0.37	time; the right moment
+0.20	κακότης	noun	tot	11	0.59	q	5	1.85	n	6	0.37	badness
+0.20	ἐπιμελέομαι	verb	tot	11	0.59	q	5	1.85	n	6	0.37	to take care of
+0.21	προσκτάομαι	verb	tot	16	0.86	q	7	2.60	n	9	0.56	to gain
+0.22	εὖ	adverb	tot	124	6.70	q	54	20.06	n	70	4.43	well
+0.22	μήτε	particle	tot	70	3.78	q	30	11.14	n	40	2.53	neither / nor
+0.22	ἐρέω	verb	tot	14	0.75	q	6	2.22	n	8	0.50	Epic: ask
+0.22	φόνος	noun	tot	21	1.13	q	9	3.34	n	12	0.75	murder
+0.22	χαίρω	verb	tot	23	1.24	q	10	3.71	n	13	0.82	to rejoice
+0.22	δύναμις	adjective	tot	51	2.75	q	22	8.17	n	29	1.83	power
+0.22	Κύψελος	proper	tot	14	0.75	q	6	2.22	n	8	0.50	pr.n. Cypselus
+0.22	κάτειμι	verb	tot	14	0.75	q	6	2.22	n	8	0.50	go down
+0.22	ἀφαιρέω	verb	tot	28	1.51	q	12	4.45	n	16	1.01	to take from
+0.23	συνίημι	verb	tot	12	0.64	q	5	1.85	n	7	0.44	to bring together; understand
+0.23	δισχίλιοι	adjective	tot	12	0.64	q	5	1.85	n	7	0.44	two thousand
+0.23	δουλόσύνη	noun	tot	19	1.02	q	8	2.97	n	11	0.69	nodef
+0.23	ἐνδέχομαι	verb	tot	19	1.02	q	8	2.97	n	11	0.69	to take upon oneself; to be possible
+0.23	ἐκμανθάνω	verb	tot	24	1.29	q	10	3.71	n	14	0.88	to learn thoroughly
+0.24	δόλος	noun	tot	17	0.91	q	7	2.60	n	10	0.63	a bait
+0.24	ἀμείνων	adjective	tot	53	2.86	q	22	8.17	n	31	1.96	better
+0.24	ἄριστος	adjective	tot	95	5.13	q	39	14.49	n	56	3.54	best
+0.24	καταλύω	verb	tot	17	0.91	q	7	2.60	n	10	0.63	to put down
+0.24	ἀποβάλλω	verb	tot	17	0.91	q	7	2.60	n	10	0.63	to throw off
+0.24	ἐπανίστημι	verb	tot	22	1.18	q	9	3.34	n	13	0.82	to set up again
+0.25	βία	adjective	tot	10	0.54	q	4	1.48	n	6	0.37	bodily strength
+0.25	λόγιον	noun	tot	10	0.54	q	4	1.48	n	6	0.37	an announcement
+0.25	ἐνοράω	verb	tot	10	0.54	q	4	1.48	n	6	0.37	to see
+0.25	συμβολή	noun	tot	10	0.54	q	4	1.48	n	6	0.37	a coming together
+0.25	εὐτυχία	noun	tot	10	0.54	q	4	1.48	n	6	0.37	good luck
+0.25	Σμέρδις	proper	tot	48	2.59	q	19	7.05	n	29	1.83	Smerdis
+0.25	ἐπιφαίνω	verb	tot	15	0.81	q	6	2.22	n	9	0.56	to shew forth
+0.25	ἐλευθερία	noun	tot	15	0.81	q	6	2.22	n	9	0.56	freedom
+0.25	προίστημι	verb	tot	15	0.81	q	6	2.22	n	9	0.56	nodef
+0.25	ἐγγίγνομαι	verb	tot	20	1.08	q	8	2.97	n	12	0.75	to be born or bred in; be innate
+0.25	προαγορεύω	verb	tot	20	1.08	q	8	2.97	n	12	0.75	to tell beforehand
+0.25	στρατηλασία	noun	tot	10	0.54	q	4	1.48	n	6	0.37	an expedition
+0.25	προσδέχομαι	verb	tot	15	0.81	q	6	2.22	n	9	0.56	to receive favourably
+0.26	μή	conjunction	tot	504	27.25	q	196	72.82	n	308	19.49	not
+0.26	γε	particle	tot	232	12.54	q	90	33.44	n	142	8.98	at least
+0.26	φιλέω	verb	tot	18	0.97	q	7	2.60	n	11	0.69	to love
+0.26	φοβέω	verb	tot	23	1.24	q	9	3.34	n	14	0.88	to put to flight
+0.26	φρονέω	verb	tot	31	1.67	q	12	4.45	n	19	1.20	to think
+0.26	ἀλήθεια	adjective	tot	28	1.51	q	11	4.08	n	17	1.07	truth
+0.26	Κόρινθος	adverb	tot	23	1.24	q	9	3.34	n	14	0.88	Corinth
+0.26	φροντίζω	verb	tot	18	0.97	q	7	2.60	n	11	0.69	to think
+0.27	εἰ	conjunction	tot	456	24.66	q	175	65.02	n	281	17.78	conj. if
+0.27	ψυχή	noun	tot	21	1.13	q	8	2.97	n	13	0.82	breath
+0.27	ἄνευ	preposition	tot	26	1.40	q	10	3.71	n	16	1.01	without
+0.27	προέχω	verb	tot	13	0.70	q	5	1.85	n	8	0.50	to hold before
+0.27	σπεύδω	verb	tot	13	0.70	q	5	1.85	n	8	0.50	to set a-going
+0.27	φλαῦρος	adjective	tot	13	0.70	q	5	1.85	n	8	0.50	petty
+0.27	νεανίης	noun	tot	13	0.70	q	5	1.85	n	8	0.50	nodef
+0.27	ἐκβαίνω	verb	tot	13	0.70	q	5	1.85	n	8	0.50	to step out of
+0.27	Μασσαγέται	proper	tot	21	1.13	q	8	2.97	n	13	0.82	Massagetae
+0.28	νόος	adjective	tot	51	2.75	q	19	7.05	n	32	2.02	mind
+0.28	τάχος	adjective	tot	16	0.86	q	6	2.22	n	10	0.63	swiftness
+0.28	ἔοικα	verb	tot	64	3.46	q	24	8.91	n	40	2.53	to be like; to look like
+0.28	δαίμων	adjective	tot	16	0.86	q	6	2.22	n	10	0.63	god; divine power
+0.28	ὄλβιος	adjective	tot	16	0.86	q	6	2.22	n	10	0.63	happy
+0.28	μηδείς	pronoun	tot	82	4.43	q	31	11.51	n	51	3.22	(and not one); not one
+0.28	δειμαίνω	verb	tot	16	0.86	q	6	2.22	n	10	0.63	to be afraid
+0.28	ἐξεπίσταμαι	verb	tot	16	0.86	q	6	2.22	n	10	0.63	to know thoroughly
+0.29	μηδέ	particle	tot	57	3.08	q	21	7.80	n	36	2.27	but not
+0.29	νοέω	verb	tot	19	1.02	q	7	2.60	n	12	0.75	to perceive by the eyes
+0.29	ψεύδω	verb	tot	19	1.02	q	7	2.60	n	12	0.75	to cheat by lies
+0.29	καίτοι	particle	tot	19	1.02	q	7	2.60	n	12	0.75	and indeed
+0.29	θνήσκω	verb	tot	19	1.02	q	7	2.60	n	12	0.75	nodef
+0.29	δίκαιος	adjective	tot	60	3.24	q	22	8.17	n	38	2.40	just
+0.29	ὑπερέχω	verb	tot	11	0.59	q	4	1.48	n	7	0.44	to hold sth over or above sth; to excel
+0.29	εὐδαίμων	adjective	tot	11	0.59	q	4	1.48	n	7	0.44	fortunate
+0.29	στέφανος	noun	tot	11	0.59	q	4	1.48	n	7	0.44	wreath
+0.29	ἡγεμονία	noun	tot	19	1.02	q	7	2.60	n	12	0.75	a leading the way
+0.29	μαίνομαι	verb	tot	19	1.02	q	7	2.60	n	12	0.75	to rage
+0.29	φθέγγομαι	verb	tot	11	0.59	q	4	1.48	n	7	0.44	to utter a sound
+0.29	Ἡράκλειδαι	proper	tot	11	0.59	q	4	1.48	n	7	0.44	nodef
+0.29	διαχράομαι	verb	tot	22	1.18	q	8	2.97	n	14	0.88	to use constantly
+0.29	πλησιόχωρος	adjective	tot	11	0.59	q	4	1.48	n	7	0.44	near a country
+0.29	διαδείκνυμι	verb	tot	11	0.59	q	4	1.48	n	7	0.44	to shew clearly
+0.29	συστρατεύομαι	verb	tot	11	0.59	q	4	1.48	n	7	0.44	nodef
+0.30	πω	particle	tot	39	2.10	q	14	5.20	n	25	1.58	up to this time
+0.30	τίκτω	verb	tot	45	2.43	q	16	5.94	n	29	1.83	to bring into the world
+0.30	πολίτης	noun	tot	28	1.51	q	10	3.71	n	18	1.13	(fellow) citizen
+0.30	ἁμαρτάνω	verb	tot	25	1.35	q	9	3.34	n	16	1.01	to miss
+0.31	ἄρα	particle	tot	48	2.59	q	17	6.31	n	31	1.96	particle: 'so'
+0.31	παύω	verb	tot	43	2.32	q	15	5.57	n	28	1.77	to make to cease
+0.31	γέρας	adjective	tot	17	0.91	q	6	2.22	n	11	0.69	a gift of honour
+0.31	πάλαι	adverb	tot	23	1.24	q	8	2.97	n	15	0.94	long ago
+0.31	ἐθέλω	verb	tot	189	10.22	q	66	24.52	n	123	7.78	to will
+0.31	ἱκέτης	noun	tot	17	0.91	q	6	2.22	n	11	0.69	one who comes to seek protection
+0.31	ἀσφαλής	adjective	tot	17	0.91	q	6	2.22	n	11	0.69	not liable to fall
+0.31	ἐπιβουλεύω	verb	tot	17	0.91	q	6	2.22	n	11	0.69	to plot against
+0.32	τίνω	verb	tot	26	1.40	q	9	3.34	n	17	1.07	to pay a price
+0.32	καλός	noun	tot	67	3.62	q	23	8.54	n	44	2.78	beautiful
+0.32	πάσχω	verb	tot	81	4.38	q	28	10.40	n	53	3.35	to experience
+0.32	δέομαι	verb	tot	129	6.97	q	44	16.34	n	85	5.37	lack
+0.32	ἐκεῖνος	pronoun	tot	290	15.68	q	99	36.78	n	191	12.08	that over there
+0.33	δίκη	adjective	tot	50	2.70	q	17	6.31	n	33	2.08	(custom
+0.33	ἀληθής	adjective	tot	50	2.70	q	17	6.31	n	33	2.08	unconcealed
+0.34	ἄν	particle	tot	494	26.71	q	164	60.93	n	330	20.88	modal particle
+0.34	νῦν	adverb	tot	572	30.93	q	189	70.22	n	383	24.24	now at this very time
+0.34	οὔπω	adverb	tot	12	0.64	q	4	1.48	n	8	0.50	not yet
+0.34	ποτέ	particle	tot	66	3.56	q	22	8.17	n	44	2.78	nodef
+0.34	σώζω	verb	tot	18	0.97	q	6	2.22	n	12	0.75	nodef
+0.34	πατήρ	noun	tot	118	6.38	q	39	14.49	n	79	5.00	a father
+0.34	ἀρετή	noun	tot	24	1.29	q	8	2.97	n	16	1.01	goodness
+0.34	ἀξιόω	verb	tot	12	0.64	q	4	1.48	n	8	0.50	to think worthy of; to expect
+0.34	ἐφέπω	verb	tot	15	0.81	q	5	1.85	n	10	0.63	to go after
+0.34	χρῄζω	verb	tot	18	0.97	q	6	2.22	n	12	0.75	to need
+0.34	στάσις	adjective	tot	15	0.81	q	5	1.85	n	10	0.63	a standing
+0.34	βραχύς	adjective	tot	15	0.81	q	5	1.85	n	10	0.63	short
+0.34	ἐκπέμπω	verb	tot	15	0.81	q	5	1.85	n	10	0.63	to send out
+0.34	σύμμαχος	adjective	tot	79	4.27	q	26	9.66	n	53	3.35	fighting along with
+0.34	Ὑστάσπης	proper	tot	21	1.13	q	7	2.60	n	14	0.88	Hystaspes
+0.34	ἀνθρώπειος	adjective	tot	15	0.81	q	5	1.85	n	10	0.63	of man
+0.35	φίλος	adjective	tot	49	2.64	q	16	5.94	n	33	2.08	friend; loved
+0.35	τάξις	noun	tot	31	1.67	q	10	3.71	n	21	1.32	an arranging
+0.35	Ἑλλάς	proper	tot	207	11.19	q	67	24.89	n	140	8.86	Hellas
+0.35	κοινός	adjective	tot	37	2.00	q	12	4.45	n	25	1.58	common
+0.35	οἰκεῖος	adjective	tot	28	1.51	q	9	3.34	n	19	1.20	in or of the house
+0.35	τιμωρέω	verb	tot	49	2.64	q	16	5.94	n	33	2.08	to help
+0.35	μάχομαι	verb	tot	89	4.81	q	29	10.77	n	60	3.79	to fight
+0.35	ἐπιτρέπω	verb	tot	28	1.51	q	9	3.34	n	19	1.20	to turn over to
+0.35	ὁμολογέω	verb	tot	37	2.00	q	12	4.45	n	25	1.58	agree
+0.36	ἀρέσκω	verb	tot	19	1.02	q	6	2.22	n	13	0.82	(to make good
+0.36	ῥύομαι	verb	tot	25	1.35	q	8	2.97	n	17	1.07	to draw to oneself
+0.36	αἰσχρός	adjective	tot	19	1.02	q	6	2.22	n	13	0.82	causing shame
+0.36	ἐπιτήδειος	adjective	tot	25	1.35	q	8	2.97	n	17	1.07	suitable; useful
+0.37	ὁράω	verb	tot	148	8.00	q	46	17.09	n	102	6.45	to see
+0.37	νικάω	verb	tot	84	4.54	q	26	9.66	n	58	3.67	to conquer
+0.37	οὔκουν	adverb	tot	29	1.56	q	9	3.34	n	20	1.26	not therefore
+0.37	πρᾶγμα	noun	tot	210	11.35	q	65	24.15	n	145	9.17	that which has been done
+0.37	ἀδύνατος	adjective	tot	16	0.86	q	5	1.85	n	11	0.69	unable
+0.37	παραμένω	verb	tot	16	0.86	q	5	1.85	n	11	0.69	to stay beside
+0.37	παραυτίκα	adverb	tot	16	0.86	q	5	1.85	n	11	0.69	immediately
+0.37	ἀποδίδωμι	verb	tot	48	2.59	q	15	5.57	n	33	2.08	to give back
+0.37	ἐξεργάζομαι	verb	tot	32	1.73	q	10	3.71	n	22	1.39	to work out
+0.38	ἠέ	conjunction	tot	428	23.14	q	131	48.67	n	297	18.79	ah!
+0.38	γόνος	noun	tot	13	0.70	q	4	1.48	n	9	0.56	that which is begotten
+0.38	μηχανή	noun	tot	13	0.70	q	4	1.48	n	9	0.56	an instrument
+0.38	ἄγνυμι	verb	tot	13	0.70	q	4	1.48	n	9	0.56	to break
+0.38	πρόσθεν	adverb	tot	13	0.70	q	4	1.48	n	9	0.56	before
+0.38	καρτερός	adjective	tot	13	0.70	q	4	1.48	n	9	0.56	strong
+0.39	ἀντί	preposition	tot	70	3.78	q	21	7.80	n	49	3.10	over against
+0.39	λιμήν	noun	tot	10	0.54	q	3	1.11	n	7	0.44	a harbour
+0.39	σοφία	noun	tot	20	1.08	q	6	2.22	n	14	0.88	skill
+0.39	πειράω	verb	tot	87	4.70	q	26	9.66	n	61	3.86	to attempt
+0.39	ἐπινοέω	verb	tot	10	0.54	q	3	1.11	n	7	0.44	to think on
+0.39	πρόγονος	adjective	tot	10	0.54	q	3	1.11	n	7	0.44	a forefather
+0.39	παραινέω	verb	tot	20	1.08	q	6	2.22	n	14	0.88	to exhort
+0.39	κατατίθημι	verb	tot	10	0.54	q	3	1.11	n	7	0.44	to place
+0.39	μεταμέλομαι	verb	tot	10	0.54	q	3	1.11	n	7	0.44	feel repentance
+0.39	συγγιγνώσκω	verb	tot	20	1.08	q	6	2.22	n	14	0.88	to think with
+0.40	ἑκάς	adjective	tot	17	0.91	q	5	1.85	n	12	0.75	far
+0.40	ὁπόσος	adjective	tot	17	0.91	q	5	1.85	n	12	0.75	as many as
+0.40	πράσσω	verb	tot	78	4.21	q	23	8.54	n	55	3.48	do
+0.40	δυνατός	adjective	tot	27	1.46	q	8	2.97	n	19	1.20	strong
+0.40	προτίθημι	verb	tot	17	0.91	q	5	1.85	n	12	0.75	to place before
+0.40	συμβουλεύω	verb	tot	57	3.08	q	17	6.31	n	40	2.53	to advise
+0.40	παραδίδωμι	verb	tot	64	3.46	q	19	7.05	n	45	2.84	to hand over
+0.41	τίς	pronoun	tot	385	20.82	q	112	41.61	n	273	17.27	who? which?
+0.41	ἥκω	verb	tot	107	5.78	q	31	11.51	n	76	4.81	to have come
+0.41	οὔτε	adverb	tot	447	24.17	q	131	48.67	n	316	20.00	neither / nor
+0.41	ἀγών	noun	tot	38	2.05	q	11	4.08	n	27	1.70	a gathering; a contest
+0.41	θεῖος	adjective	tot	31	1.67	q	9	3.34	n	22	1.39	of/from the gods
+0.42	λύω	verb	tot	35	1.89	q	10	3.71	n	25	1.58	to loose
+0.42	ἀλλά	adverb	tot	513	27.74	q	148	54.99	n	365	23.10	otherwise
+0.42	ἀτάρ	particle	tot	14	0.75	q	4	1.48	n	10	0.63	but
+0.42	ἀέκων	adjective	tot	14	0.75	q	4	1.48	n	10	0.63	against one's will
+0.42	κακός	adjective	tot	176	9.51	q	50	18.57	n	126	7.97	bad
+0.42	ὑπάρχω	verb	tot	21	1.13	q	6	2.22	n	15	0.94	to begin; to exist
+0.42	κάλλιστα	adverb	tot	21	1.13	q	6	2.22	n	15	0.94	nodef
+0.42	Ἀστυάγης	proper	tot	63	3.40	q	18	6.68	n	45	2.84	Astyages
+0.42	Πελοπόννησος	proper	tot	56	3.02	q	16	5.94	n	40	2.53	the Peloponnesus
+0.43	ἄξιος	adjective	tot	64	3.46	q	18	6.68	n	46	2.91	worthy
+0.43	ἔργον	noun	tot	146	7.89	q	41	15.23	n	105	6.64	work
+0.43	ἡσυχία	noun	tot	25	1.35	q	7	2.60	n	18	1.13	stillness
+0.43	συνοικέω	verb	tot	32	1.73	q	9	3.34	n	23	1.45	to dwell together
+0.44	οἷος	adjective	tot	174	9.41	q	48	17.83	n	126	7.97	(such a kind) as; for οἷός τε see οἷος III.2
+0.44	ἥρως	noun	tot	18	0.97	q	5	1.85	n	13	0.82	hero
+0.44	ἴσχω	verb	tot	18	0.97	q	5	1.85	n	13	0.82	to hold
+0.44	ἄδικος	adjective	tot	18	0.97	q	5	1.85	n	13	0.82	wrong-doing
+0.44	πολέμιος	adjective	tot	69	3.73	q	19	7.05	n	50	3.16	hostile; enemy
+0.44	τυραννίς	noun	tot	36	1.94	q	10	3.71	n	26	1.64	kingly power
+0.44	κατεργάζομαι	verb	tot	36	1.94	q	10	3.71	n	26	1.64	to effect by labour
+0.45	ἄφιξις	adjective	tot	11	0.59	q	3	1.11	n	8	0.50	an arrival
+0.45	ὄνειδος	noun	tot	11	0.59	q	3	1.11	n	8	0.50	reproach
+0.45	καταδύω	verb	tot	11	0.59	q	3	1.11	n	8	0.50	to go down
+0.45	ἐναντίος	adjective	tot	22	1.18	q	6	2.22	n	16	1.01	opposite
+0.45	βασιλεύς	noun	tot	593	32.07	q	162	60.19	n	431	27.27	a king
+0.45	ἀναγνοέω	verb	tot	11	0.59	q	3	1.11	n	8	0.50	nodef
+0.45	προσδέομαι	verb	tot	11	0.59	q	3	1.11	n	8	0.50	nodef
+0.45	ἐπιτροπεύω	verb	tot	11	0.59	q	3	1.11	n	8	0.50	to be a trustee
+0.45	ἐκγίγνομαι	verb	tot	11	0.59	q	3	1.11	n	8	0.50	to be born of
+0.46	μάλα	adverb	tot	15	0.81	q	4	1.48	n	11	0.69	very
+0.46	ἔρδω	verb	tot	15	0.81	q	4	1.48	n	11	0.69	to do
+0.46	φθάνω	verb	tot	15	0.81	q	4	1.48	n	11	0.69	to come or do first
+0.46	ἐχθρός	adjective	tot	15	0.81	q	4	1.48	n	11	0.69	hated
+0.46	ὁποῖος	adjective	tot	15	0.81	q	4	1.48	n	11	0.69	of what sort
+0.46	ἄπειμι	verb	tot	41	2.21	q	11	4.08	n	30	1.89	be absent
+0.47	παῖς	adjective	tot	324	17.52	q	86	31.95	n	238	15.06	a child
+0.47	μέρος	noun	tot	19	1.02	q	5	1.85	n	14	0.88	a part
+0.47	χιλιάς	adjective	tot	19	1.02	q	5	1.85	n	14	0.88	the number one thousand
+0.47	μᾶλλον	adverb	tot	110	5.94	q	29	10.77	n	81	5.12	more
+0.47	θρόνον	noun	tot	19	1.02	q	5	1.85	n	14	0.88	flowers embroidered on cloth
+0.47	ἐπείγω	verb	tot	19	1.02	q	5	1.85	n	14	0.88	to press down
+0.47	πρόθυμος	adjective	tot	38	2.05	q	10	3.71	n	28	1.77	ready
+0.47	ἐφίστημι	verb	tot	122	6.59	q	32	11.89	n	90	5.69	to set on
+0.47	βούλομαι	verb	tot	256	13.84	q	68	25.26	n	188	11.89	to will
+0.48	μένω	verb	tot	73	3.94	q	19	7.05	n	54	3.41	to stay at home
+0.48	μέντοι	particle	tot	116	6.27	q	30	11.14	n	86	5.44	however
+0.48	τυγχάνω	verb	tot	104	5.62	q	27	10.03	n	77	4.87	(with gen.) to hit the mark
+0.48	ὑπομένω	verb	tot	23	1.24	q	6	2.22	n	17	1.07	to stay behind
+0.48	τοιοῦτος	adjective	tot	186	10.05	q	48	17.83	n	138	8.73	such as this
+0.49	νέος	adjective	tot	47	2.54	q	12	4.45	n	35	2.21	young
+0.49	ἀνήρ	noun	tot	731	39.53	q	187	69.48	n	544	34.43	a man
+0.49	μήτηρ	noun	tot	51	2.75	q	13	4.83	n	38	2.40	a mother
+0.49	κτείνω	verb	tot	51	2.75	q	13	4.83	n	38	2.40	to kill
+0.49	εὐπετής	adverb	tot	35	1.89	q	9	3.34	n	26	1.64	falling well; favourable
+0.50	χρῆμα	adjective	tot	187	10.11	q	47	17.46	n	140	8.86	thing
+0.51	σπουδή	noun	tot	20	1.08	q	5	1.85	n	15	0.94	haste
+0.51	καίπερ	particle	tot	16	0.86	q	4	1.48	n	12	0.75	although
+0.51	νοστέω	verb	tot	16	0.86	q	4	1.48	n	12	0.75	to come
+0.51	χαλεπός	adjective	tot	12	0.64	q	3	1.11	n	9	0.56	hard to bear
+0.51	οἰκέτης	noun	tot	24	1.29	q	6	2.22	n	18	1.13	a house-slave
+0.51	διαιτάω	verb	tot	12	0.64	q	3	1.11	n	9	0.56	act. to treat; to arbitrate; mid. to live (a certain way)
+0.51	ἀρρωδέω	verb	tot	16	0.86	q	4	1.48	n	12	0.75	nodef
+0.51	θαυμάζω	verb	tot	32	1.73	q	8	2.97	n	24	1.51	to wonder
+0.51	Βοιώτιος	proper	tot	16	0.86	q	4	1.48	n	12	0.75	Boeotian
+0.51	καθαιρέω	verb	tot	24	1.29	q	6	2.22	n	18	1.13	to take down
+0.51	ἐξαιρετός	adjective	tot	12	0.64	q	3	1.11	n	9	0.56	that can be taken out
+0.51	Συρακόσιος	proper	tot	12	0.64	q	3	1.11	n	9	0.56	Syracusan
+0.51	Περίανδρος	proper	tot	32	1.73	q	8	2.97	n	24	1.51	Periander
+0.51	παρέρχομαι	verb	tot	16	0.86	q	4	1.48	n	12	0.75	to go by
+0.51	ἀναλαμβάνω	verb	tot	28	1.51	q	7	2.60	n	21	1.32	to take up
+0.52	ἵνα	conjunction	tot	126	6.81	q	31	11.51	n	95	6.01	in order that (conj.); where (rel. adv.)
+0.52	ὅτε	conjunction	tot	41	2.21	q	10	3.71	n	31	1.96	when
+0.52	πόλεμος	noun	tot	114	6.16	q	28	10.40	n	86	5.44	battle
+0.52	ἀποκτείνω	verb	tot	65	3.51	q	16	5.94	n	49	3.10	to kill
+0.53	γνώμη	noun	tot	170	9.19	q	41	15.23	n	129	8.16	a means of knowing
+0.53	ἄνθρωπος	noun	tot	307	16.60	q	74	27.49	n	233	14.74	man
+0.53	ζεύγνυμι	verb	tot	29	1.56	q	7	2.60	n	22	1.39	to yoke
+0.53	Ἀρτάβανος	proper	tot	25	1.35	q	6	2.22	n	19	1.20	nodef
+0.53	ἐξηγέομαι	verb	tot	25	1.35	q	6	2.22	n	19	1.20	to be leader of; dictate
+0.53	προδίδωμι	verb	tot	25	1.35	q	6	2.22	n	19	1.20	to give beforehand
+0.54	οὖς	noun	tot	21	1.13	q	5	1.85	n	16	1.01	auris
+0.54	οὖν	particle	tot	409	22.11	q	97	36.04	n	312	19.74	so
+0.54	ἴσος	adjective	tot	46	2.48	q	11	4.08	n	35	2.21	equal to
+0.54	μάχη	noun	tot	118	6.38	q	28	10.40	n	90	5.69	battle
+0.54	πείθω	verb	tot	130	7.03	q	31	11.51	n	99	6.26	to prevail upon
+0.54	ἡλικία	noun	tot	21	1.13	q	5	1.85	n	16	1.01	time of life
+0.54	συμφορά	noun	tot	46	2.48	q	11	4.08	n	35	2.21	an event
+0.54	ἀποφαίνω	verb	tot	21	1.13	q	5	1.85	n	16	1.01	to shew fort
+0.55	πού	adverb	tot	51	2.75	q	12	4.45	n	39	2.46	nodef
+0.55	γάρ	particle	tot	1473	79.66	q	345	128.19	n	1128	71.39	for
+0.55	τις	pronoun	tot	707	38.23	q	166	61.68	n	541	34.24	any one
+0.55	βάλλω	verb	tot	34	1.83	q	8	2.97	n	26	1.64	to throw
+0.55	οὐδείς	pronoun	tot	564	30.50	q	132	49.04	n	432	27.34	not one
+0.55	ἄργυρος	noun	tot	17	0.91	q	4	1.48	n	13	0.82	silver
+0.55	ἀπειλέω	verb	tot	17	0.91	q	4	1.48	n	13	0.82	[to force back]
+0.55	ἐπιλέγω	verb	tot	47	2.54	q	11	4.08	n	36	2.27	to choose
+0.55	ἐνύπνιον	noun	tot	17	0.91	q	4	1.48	n	13	0.82	a thing seen in sleep
+0.55	κινδυνεύω	verb	tot	17	0.91	q	4	1.48	n	13	0.82	to be daring
+0.55	ἐπιχειρέω	verb	tot	30	1.62	q	7	2.60	n	23	1.45	to attempt
+0.56	ἤδη	adverb	tot	134	7.24	q	31	11.51	n	103	6.51	already
+0.56	ἔαρ	noun	tot	13	0.70	q	3	1.11	n	10	0.63	spring
+0.56	ἄγρα	noun	tot	13	0.70	q	3	1.11	n	10	0.63	a catching
+0.56	θεός	noun	tot	202	10.92	q	47	17.46	n	155	9.81	god
+0.56	οὐδέ	particle	tot	236	12.76	q	55	20.43	n	181	11.45	and/but not; not even
+0.56	κακόω	verb	tot	13	0.70	q	3	1.11	n	10	0.63	to treat ill
+0.56	ὅμοιος	adjective	tot	117	6.32	q	27	10.03	n	90	5.69	like
+0.56	ξένιος	adjective	tot	13	0.70	q	3	1.11	n	10	0.63	belonging to a friend and guest
+0.56	μετέχω	verb	tot	13	0.70	q	3	1.11	n	10	0.63	to partake of
+0.56	πλήσσω	verb	tot	13	0.70	q	3	1.11	n	10	0.63	to strike
+0.56	εὔχομαι	verb	tot	13	0.70	q	3	1.11	n	10	0.63	to pray
+0.56	ἀπεῖπον	verb	tot	13	0.70	q	3	1.11	n	10	0.63	to speak out
+0.56	μεθίημι	verb	tot	26	1.40	q	6	2.22	n	20	1.26	to let go
+0.56	ναυμαχέω	verb	tot	26	1.40	q	6	2.22	n	20	1.26	to fight in a ship
+0.57	ὅδε	pronoun	tot	711	38.45	q	163	60.56	n	548	34.68	this
+0.57	ἕνεκα	preposition	tot	154	8.32	q	35	13.00	n	119	7.53	on account of
+0.57	κατάγω	verb	tot	22	1.18	q	5	1.85	n	17	1.07	to lead down
+0.57	δικαιόω	verb	tot	22	1.18	q	5	1.85	n	17	1.07	to set right
+0.57	ἀπαγγέλλω	verb	tot	22	1.18	q	5	1.85	n	17	1.07	to bring tidings
+0.57	ἀνοίγνυμι	verb	tot	22	1.18	q	5	1.85	n	17	1.07	to open
+0.57	καταρρωδέω	verb	tot	22	1.18	q	5	1.85	n	17	1.07	to fear
+0.58	Μήδων	proper	tot	62	3.35	q	14	5.20	n	48	3.03	nodef
+0.58	βουλεύω	verb	tot	133	7.19	q	30	11.14	n	103	6.51	to take counsel
+0.58	περιγίγνομαι	verb	tot	31	1.67	q	7	2.60	n	24	1.51	to be superior to; to survive
+0.59	ἕνος	adjective	tot	45	2.43	q	10	3.71	n	35	2.21	belonging to the former of two periods
+0.59	τιμή	noun	tot	27	1.46	q	6	2.22	n	21	1.32	that which is paid in token of worth
+0.59	ὅστις	pronoun	tot	387	20.92	q	86	31.95	n	301	19.05	indef. relative or indirect interrogative
+0.59	στερέω	verb	tot	18	0.97	q	4	1.48	n	14	0.88	to deprive
+0.59	ἀντέχω	verb	tot	18	0.97	q	4	1.48	n	14	0.88	to hold out against
+0.59	ὑποδέχομαι	verb	tot	36	1.94	q	8	2.97	n	28	1.77	to receive
+0.60	ἔπος	adjective	tot	82	4.43	q	18	6.68	n	64	4.05	a word
+0.60	ἥσσων	adverb	tot	32	1.73	q	7	2.60	n	25	1.58	less
+0.60	φαίνω	verb	tot	174	9.41	q	38	14.11	n	136	8.60	to bring to light
+0.60	ἔρχομαι	verb	tot	232	12.54	q	51	18.94	n	181	11.45	to come
+0.60	τάχιστος	adjective	tot	87	4.70	q	19	7.05	n	68	4.30	nodef
+0.60	στρατεύω	verb	tot	164	8.86	q	36	13.37	n	128	8.10	to serve in war
+0.60	ὑπερβάλλω	verb	tot	41	2.21	q	9	3.34	n	32	2.02	to throw over
+0.61	ἀεί	adverb	tot	111	6.00	q	24	8.91	n	87	5.50	always
+0.61	ζόη	noun	tot	23	1.24	q	5	1.85	n	18	1.13	nodef
+0.61	ὅπως	conjunction	tot	147	7.94	q	32	11.89	n	115	7.27	how
+0.61	ἄρχω	verb	tot	211	11.41	q	46	17.09	n	165	10.44	(to be first) to rule
+0.61	αἴτιος	adjective	tot	37	2.00	q	8	2.97	n	29	1.83	to blame
+0.61	φυλακή	noun	tot	23	1.24	q	5	1.85	n	18	1.13	a watching
+0.61	ἀνδρίς	noun	tot	37	2.00	q	8	2.97	n	29	1.83	woman
+0.61	τοσόσδε	adjective	tot	23	1.24	q	5	1.85	n	18	1.13	so strong
+0.61	οὐρανός	noun	tot	23	1.24	q	5	1.85	n	18	1.13	heaven
+0.61	ἀπόλλυμι	verb	tot	102	5.51	q	22	8.17	n	80	5.06	to destroy
+0.61	τελευτάω	verb	tot	111	6.00	q	24	8.91	n	87	5.50	to complete
+0.61	ἐλάχιστος	adjective	tot	23	1.24	q	5	1.85	n	18	1.13	the smallest
+0.61	Πρηξάσπης	proper	tot	23	1.24	q	5	1.85	n	18	1.13	Prexaspes
+0.61	ὑποτίθημι	verb	tot	23	1.24	q	5	1.85	n	18	1.13	to place under
+0.62	πιστός	adjective	tot	28	1.51	q	6	2.22	n	22	1.39	liquid (medicines)
+0.62	δεινός	adjective	tot	75	4.05	q	16	5.94	n	59	3.73	fearful
+0.62	ἐλαύνω	verb	tot	84	4.54	q	18	6.68	n	66	4.17	to drive
+0.62	ἀσθενής	adjective	tot	28	1.51	q	6	2.22	n	22	1.39	without strength
+0.62	Κύπριος	proper	tot	14	0.75	q	3	1.11	n	11	0.69	of Cyprus
+0.62	ἐμπίτνω	verb	tot	14	0.75	q	3	1.11	n	11	0.69	fall upon
+0.62	ἀπαιτέω	verb	tot	14	0.75	q	3	1.11	n	11	0.69	to demand back
+0.62	σιδήρεος	adjective	tot	14	0.75	q	3	1.11	n	11	0.69	made of iron
+0.62	προβαίνω	verb	tot	14	0.75	q	3	1.11	n	11	0.69	to step on
+0.62	ἀποβαίνω	verb	tot	28	1.51	q	6	2.22	n	22	1.39	to step off from
+0.62	διαβάλλω	verb	tot	28	1.51	q	6	2.22	n	22	1.39	to throw over
+0.62	ἐργάζομαι	verb	tot	65	3.51	q	14	5.20	n	51	3.22	to work
+0.62	καταστρέφω	verb	tot	65	3.51	q	14	5.20	n	51	3.22	to turn down
+0.63	ἦθος	adjective	tot	19	1.02	q	4	1.48	n	15	0.94	custom
+0.63	δείδω	verb	tot	38	2.05	q	8	2.97	n	30	1.89	to fear
+0.63	οἰκίον	noun	tot	19	1.02	q	4	1.48	n	15	0.94	house
+0.63	χειρόω	verb	tot	19	1.02	q	4	1.48	n	15	0.94	master
+0.63	ἐκπλέω	verb	tot	19	1.02	q	4	1.48	n	15	0.94	to sail out
+0.63	ἡγέομαι	verb	tot	19	1.02	q	4	1.48	n	15	0.94	to lead; to consider
+0.63	δέχομαι	verb	tot	80	4.32	q	17	6.31	n	63	3.98	to take
+0.63	ἐλευθερόω	verb	tot	19	1.02	q	4	1.48	n	15	0.94	to free
+0.64	φονεύω	verb	tot	24	1.29	q	5	1.85	n	19	1.20	to murder
+0.65	φέρω	verb	tot	212	11.46	q	44	16.34	n	168	10.63	to bear
+0.65	σοφός	adjective	tot	29	1.56	q	6	2.22	n	23	1.45	wise
+0.65	αἰχμή	noun	tot	29	1.56	q	6	2.22	n	23	1.45	the point of a spear
+0.65	χωρέω	verb	tot	29	1.56	q	6	2.22	n	23	1.45	give way
+0.65	ἡγεμών	noun	tot	29	1.56	q	6	2.22	n	23	1.45	leader
+0.65	κρατέω	verb	tot	29	1.56	q	6	2.22	n	23	1.45	to be strong
+0.65	οὐδαμός	adverb	tot	92	4.97	q	19	7.05	n	73	4.62	not even one
+0.65	δίζημαι	verb	tot	29	1.56	q	6	2.22	n	23	1.45	to seek out
+0.65	κτάομαι	verb	tot	58	3.13	q	12	4.45	n	46	2.91	to procure for oneself
+0.65	συλλαμβάνω	verb	tot	29	1.56	q	6	2.22	n	23	1.45	to collect
+0.65	Πελοποννήσιοι	proper	tot	29	1.56	q	6	2.22	n	23	1.45	nodef
+0.66	πέρ	particle	tot	249	13.46	q	51	18.94	n	198	12.53	nodef
+0.66	ἑτοῖμος	adjective	tot	44	2.37	q	9	3.34	n	35	2.21	at hand
+0.66	περίειμι	verb	tot	59	3.19	q	12	4.45	n	47	2.97	be superior
+0.66	πυνθάνομαι	verb	tot	128	6.92	q	26	9.66	n	102	6.45	to learn by hearsay
+0.67	δίδωμι	verb	tot	302	16.33	q	61	22.66	n	241	15.25	to give
+0.67	τοσοῦτος	adjective	tot	124	6.70	q	25	9.28	n	99	6.26	so large
+0.68	οὐ	adverb	tot	1424	77.01	q	284	105.52	n	1140	72.15	not
+0.68	ἑκών	adjective	tot	25	1.35	q	5	1.85	n	20	1.26	willing
+0.68	ἁλής	adverb	tot	15	0.81	q	3	1.11	n	12	0.75	assembled
+0.68	ἀρχή	noun	tot	145	7.84	q	29	10.77	n	116	7.34	a beginning
+0.68	αἷμα	noun	tot	15	0.81	q	3	1.11	n	12	0.75	blood
+0.68	Φρύξ	proper	tot	20	1.08	q	4	1.48	n	16	1.01	a Phrygian
+0.68	ἴδιος	adjective	tot	20	1.08	q	4	1.48	n	16	1.01	one's own
+0.68	πάθος	adjective	tot	25	1.35	q	5	1.85	n	20	1.26	anything that befalls one
+0.68	φόβος	noun	tot	10	0.54	q	2	0.74	n	8	0.50	fear
+0.68	λιμός	noun	tot	10	0.54	q	2	0.74	n	8	0.50	hunger
+0.68	ἄμαξα	noun	tot	15	0.81	q	3	1.11	n	12	0.75	a wagon
+0.68	φύσις	noun	tot	20	1.08	q	4	1.48	n	16	1.01	the nature
+0.68	ἀντίον	adjective	tot	25	1.35	q	5	1.85	n	20	1.26	[over against >ἀντίος]
+0.68	κράτος	noun	tot	15	0.81	q	3	1.11	n	12	0.75	strength
+0.68	Ἱππίης	proper	tot	20	1.08	q	4	1.48	n	16	1.01	nodef
+0.68	ἄνειμι	verb	tot	10	0.54	q	2	0.74	n	8	0.50	go up
+0.68	καθίζω	verb	tot	10	0.54	q	2	0.74	n	8	0.50	to make to sit down
+0.68	ἁνδάνω	verb	tot	15	0.81	q	3	1.11	n	12	0.75	to please
+0.68	εἰκάζω	verb	tot	20	1.08	q	4	1.48	n	16	1.01	to make like to
+0.68	ἔνειμι	verb	tot	25	1.35	q	5	1.85	n	20	1.26	to be in; to be possible
+0.68	συνάπας	adjective	tot	10	0.54	q	2	0.74	n	8	0.50	all together
+0.68	τιμωρία	noun	tot	10	0.54	q	2	0.74	n	8	0.50	help
+0.68	λογάδες	noun	tot	10	0.54	q	2	0.74	n	8	0.50	nodef
+0.68	Κίσσιος	proper	tot	10	0.54	q	2	0.74	n	8	0.50	of or from Cissia
+0.68	Ἐλευσίς	proper	tot	15	0.81	q	3	1.11	n	12	0.75	Eleusis
+0.68	ἀποχράω	verb	tot	10	0.54	q	2	0.74	n	8	0.50	to suffice
+0.68	παρίημι	verb	tot	15	0.81	q	3	1.11	n	12	0.75	to pass over
+0.68	ἀπολέγω	verb	tot	15	0.81	q	3	1.11	n	12	0.75	to pick out from; to decline
+0.68	ἀγγέλλω	verb	tot	25	1.35	q	5	1.85	n	20	1.26	to bear a message
+0.68	χρήσιμος	adjective	tot	10	0.54	q	2	0.74	n	8	0.50	useful
+0.68	διίστημι	verb	tot	10	0.54	q	2	0.74	n	8	0.50	nodef
+0.68	περιφέρω	verb	tot	10	0.54	q	2	0.74	n	8	0.50	to carry round
+0.68	προσφέρω	verb	tot	35	1.89	q	7	2.60	n	28	1.77	to bring to
+0.68	ἀνάστατος	adjective	tot	10	0.54	q	2	0.74	n	8	0.50	made to rise up and depart
+0.68	καταδοκέω	verb	tot	10	0.54	q	2	0.74	n	8	0.50	to suppose
+0.68	μετέπειμι	verb	tot	15	0.81	q	3	1.11	n	12	0.75	nodef
+0.68	ἐπίσταμαι	verb	tot	20	1.08	q	4	1.48	n	16	1.01	to know
+0.68	παρίστημι	verb	tot	20	1.08	q	4	1.48	n	16	1.01	to make to stand
+0.68	ὑποχείριος	adjective	tot	10	0.54	q	2	0.74	n	8	0.50	under the hand
+0.68	εὐδαιμονία	noun	tot	10	0.54	q	2	0.74	n	8	0.50	prosperity
+0.68	Ἡγησίστρατος	proper	tot	10	0.54	q	2	0.74	n	8	0.50	nodef
+0.68	παραγίγνομαι	verb	tot	25	1.35	q	5	1.85	n	20	1.26	to come near
+0.69	δοκέω	verb	tot	380	20.55	q	75	27.86	n	305	19.30	seem
+0.69	δύναμαι	verb	tot	91	4.92	q	18	6.68	n	73	4.62	to be able
+0.69	γιγνώσκω	verb	tot	61	3.29	q	12	4.45	n	49	3.10	to learn to know
+0.70	ἔχω	verb	tot	1132	61.21	q	220	81.74	n	912	57.72	to have
+0.70	λόγος	noun	tot	445	24.06	q	87	32.32	n	358	22.65	the word
+0.70	φράζω	verb	tot	82	4.43	q	16	5.94	n	66	4.17	to point out
+0.70	τίθημι	verb	tot	87	4.70	q	17	6.31	n	70	4.43	to set
+0.70	ἐμπίμπρημι	verb	tot	36	1.94	q	7	2.60	n	29	1.83	to kindle
+0.71	πρό	preposition	tot	73	3.94	q	14	5.20	n	59	3.73	before
+0.71	θύρα	noun	tot	26	1.40	q	5	1.85	n	21	1.32	a door
+0.71	ὀρθός	adjective	tot	52	2.81	q	10	3.71	n	42	2.65	straight
+0.71	ἰσθμός	noun	tot	52	2.81	q	10	3.71	n	42	2.65	neck
+0.71	Ὀροίτης	proper	tot	26	1.40	q	5	1.85	n	21	1.32	Oroetes
+0.71	λογίζομαι	verb	tot	26	1.40	q	5	1.85	n	21	1.32	to count
+0.71	ἐπιγίγνομαι	verb	tot	26	1.40	q	5	1.85	n	21	1.32	to be born after
+0.72	ἅπας	adjective	tot	116	6.27	q	22	8.17	n	94	5.94	quite all
+0.72	δῆλος	adjective	tot	21	1.13	q	4	1.48	n	17	1.07	visible
+0.72	μέλλω	verb	tot	116	6.27	q	22	8.17	n	94	5.94	to think of doing
+0.72	εἶδον	verb	tot	195	10.54	q	37	13.74	n	158	10.00	to see
+0.72	γέφυρα	adjective	tot	42	2.27	q	8	2.97	n	34	2.15	a dyke
+0.72	ὅμιλος	noun	tot	21	1.13	q	4	1.48	n	17	1.07	any assembled crowd
+0.72	Πέρσης	proper	tot	314	16.98	q	60	22.29	n	254	16.07	a Persian; Perses (pr.n.)
+0.72	ἀναπείθω	verb	tot	21	1.13	q	4	1.48	n	17	1.07	to bring over
+0.72	πρόσκειμαι	verb	tot	21	1.13	q	4	1.48	n	17	1.07	to be placed at
+0.73	θέα	noun	tot	74	4.00	q	14	5.20	n	60	3.79	a seeing
+0.73	ἔθω	verb	tot	37	2.00	q	7	2.60	n	30	1.89	be accustomed (see also εἴωθα)
+0.73	ἄλλῃ	adverb	tot	16	0.86	q	3	1.11	n	13	0.82	in another place
+0.73	Θήβη	proper	tot	16	0.86	q	3	1.11	n	13	0.82	nodef
+0.73	ὅσιος	adjective	tot	16	0.86	q	3	1.11	n	13	0.82	hallowed
+0.73	ὕπνον	noun	tot	16	0.86	q	3	1.11	n	13	0.82	lichen
+0.73	πιέζω	verb	tot	16	0.86	q	3	1.11	n	13	0.82	to press
+0.73	στόλος	noun	tot	37	2.00	q	7	2.60	n	30	1.89	an expedition; a voyage; equipment
+0.73	εἰσάγω	verb	tot	16	0.86	q	3	1.11	n	13	0.82	to lead in
+0.73	καθήκω	verb	tot	32	1.73	q	6	2.22	n	26	1.64	to have come; to suit
+0.73	βοηθέω	verb	tot	64	3.46	q	12	4.45	n	52	3.29	to come to aid
+0.73	θάνατος	adjective	tot	53	2.86	q	10	3.71	n	43	2.72	death
+0.73	εὑρίσκω	verb	tot	111	6.00	q	21	7.80	n	90	5.69	to find
+0.73	ἀνδραποδίζω	verb	tot	16	0.86	q	3	1.11	n	13	0.82	to reduce to slavery
+0.74	ἀίω	verb	tot	248	13.41	q	46	17.09	n	202	12.78	nodef
+0.74	ὥστε	conjunction	tot	150	8.11	q	28	10.40	n	122	7.72	so that
+0.74	Μαρδόνιος	proper	tot	123	6.65	q	23	8.54	n	100	6.32	Mardonius
+0.75	Μάγος	proper	tot	65	3.51	q	12	4.45	n	53	3.35	a Magus
+0.75	τιμάω	verb	tot	49	2.64	q	9	3.34	n	40	2.53	to honor; to value something at a price (gen.)
+0.75	πλείων	verb	tot	87	4.70	q	16	5.94	n	71	4.49	more
+0.75	Ἀργεῖος	proper	tot	60	3.24	q	11	4.08	n	49	3.10	of/from Argos
+0.76	πύλη	adjective	tot	33	1.78	q	6	2.22	n	27	1.70	one wing of a pair of double gates
+0.76	μήνη	noun	tot	11	0.59	q	2	0.74	n	9	0.56	the moon
+0.76	γεύω	verb	tot	11	0.59	q	2	0.74	n	9	0.56	to give a taste of
+0.76	ἔχθρα	noun	tot	11	0.59	q	2	0.74	n	9	0.56	hatred
+0.76	φυγάς	noun	tot	11	0.59	q	2	0.74	n	9	0.56	one who flees
+0.76	τόξον	noun	tot	33	1.78	q	6	2.22	n	27	1.70	a bow
+0.76	δῶρον	noun	tot	55	2.97	q	10	3.71	n	45	2.84	a gift
+0.76	δῆμος	noun	tot	55	2.97	q	10	3.71	n	45	2.84	people; (originally) a country-district
+0.76	ποιέω	verb	tot	1204	65.11	q	220	81.74	n	984	62.28	to make
+0.76	πλῆθος	noun	tot	93	5.02	q	17	6.31	n	76	4.81	a great number
+0.76	ἔνερθε	preposition	tot	11	0.59	q	2	0.74	n	9	0.56	from beneath
+0.76	Κυμαῖος	proper	tot	11	0.59	q	2	0.74	n	9	0.56	of Cumae
+0.76	προίσχω	verb	tot	11	0.59	q	2	0.74	n	9	0.56	nodef
+0.76	ἄχθομαι	verb	tot	11	0.59	q	2	0.74	n	9	0.56	to be loaded; to be annoyed
+0.76	διαιρέω	verb	tot	22	1.18	q	4	1.48	n	18	1.13	to take one from another
+0.76	ἐπιτελής	adjective	tot	11	0.59	q	2	0.74	n	9	0.56	brought to an end
+0.76	ποικίλος	adjective	tot	11	0.59	q	2	0.74	n	9	0.56	many-coloured
+0.76	στασιάζω	verb	tot	11	0.59	q	2	0.74	n	9	0.56	to rebel
+0.76	προσχωρέω	verb	tot	11	0.59	q	2	0.74	n	9	0.56	to go to
+0.76	ἀναμιμνήσκω	verb	tot	11	0.59	q	2	0.74	n	9	0.56	to remind
+0.76	ἑβδομήκοντα	verb	tot	22	1.18	q	4	1.48	n	18	1.13	seventy
+0.77	Ζεύς	proper	tot	61	3.29	q	11	4.08	n	50	3.16	Zeus
+0.77	συμφέρω	verb	tot	50	2.70	q	9	3.34	n	41	2.59	to bring together; impers. to benefit
+0.78	οὕτως	adverb	tot	520	28.12	q	93	34.55	n	427	27.02	so
+0.78	ἀνάγκη	noun	tot	45	2.43	q	8	2.97	n	37	2.34	force
+0.78	πάρειμι	verb	tot	186	10.05	q	33	12.26	n	153	9.68	be present
+0.79	εἰμί	verb	tot	3553	192.14	q	625	232.22	n	2928	185.32	to be
+0.79	κιθών	adjective	tot	17	0.91	q	3	1.11	n	14	0.88	nodef
+0.79	σχεδόν	adverb	tot	17	0.91	q	3	1.11	n	14	0.88	close
+0.79	παλαιός	adjective	tot	34	1.83	q	6	2.22	n	28	1.77	old in years
+0.79	ἀλλήλων	pronoun	tot	68	3.67	q	12	4.45	n	56	3.54	of one another
+0.79	πολεμέω	verb	tot	17	0.91	q	3	1.11	n	14	0.88	to be at war
+0.79	διδάσκω	verb	tot	17	0.91	q	3	1.11	n	14	0.88	to teach
+0.79	ἐντέλλω	verb	tot	91	4.92	q	16	5.94	n	75	4.74	to enjoin
+0.79	οὐδέτερος	adjective	tot	17	0.91	q	3	1.11	n	14	0.88	not either
+0.80	ὥρα	adjective	tot	40	2.16	q	7	2.60	n	33	2.08	[sacrificial victim]
+0.80	Πέρσευς	proper	tot	385	20.82	q	67	24.89	n	318	20.12	nodef
+0.81	οἶδα	verb	tot	145	7.84	q	25	9.28	n	120	7.59	to know
+0.81	λείπω	verb	tot	81	4.38	q	14	5.20	n	67	4.24	to leave
+0.81	ἀδελφός	adjective	tot	98	5.29	q	17	6.31	n	81	5.12	sons of the same mother
+0.81	φυλάσσω	verb	tot	81	4.38	q	14	5.20	n	67	4.24	to keep watch and ward
+0.82	θυγάτηρ	adjective	tot	123	6.65	q	21	7.80	n	102	6.45	a daughter
+0.82	πρόκειμαι	verb	tot	35	1.89	q	6	2.22	n	29	1.83	to be set before one
+0.83	ἀκέω	verb	tot	53	2.86	q	9	3.34	n	44	2.78	heal
+0.83	μέγας	adverb	tot	577	31.20	q	98	36.41	n	479	30.31	big
+0.83	τύραννος	noun	tot	65	3.51	q	11	4.08	n	54	3.41	an absolute sovereign
+0.84	τε	particle	tot	2737	148.01	q	461	171.29	n	2276	144.05	and
+0.84	πᾶς	adjective	tot	1222	66.08	q	205	76.17	n	1017	64.36	all
+0.85	δύη	adjective	tot	12	0.64	q	2	0.74	n	10	0.63	woe
+0.85	σύν	preposition	tot	72	3.89	q	12	4.45	n	60	3.79	along with
+0.85	ὁμοῦ	adverb	tot	18	0.97	q	3	1.11	n	15	0.94	at the same place
+0.85	ἐπεί	conjunction	tot	399	21.57	q	66	24.52	n	333	21.07	after
+0.85	αὐλή	noun	tot	12	0.64	q	2	0.74	n	10	0.63	court
+0.85	ὠθέω	verb	tot	12	0.64	q	2	0.74	n	10	0.63	to thrust
+0.85	πόρος	noun	tot	18	0.97	q	3	1.11	n	15	0.94	a means of passing/providing
+0.85	ἀμύνω	verb	tot	24	1.29	q	4	1.48	n	20	1.26	to keep off
+0.85	ἔξοδος	noun	tot	12	0.64	q	2	0.74	n	10	0.63	a going out; an exit
+0.85	κόσμος	noun	tot	24	1.29	q	4	1.48	n	20	1.26	order
+0.85	Ἄτοσσα	proper	tot	12	0.64	q	2	0.74	n	10	0.63	Atossa
+0.85	Κύπρος	proper	tot	18	0.97	q	3	1.11	n	15	0.94	Cyprus
+0.85	χωρίζω	verb	tot	12	0.64	q	2	0.74	n	10	0.63	to separate
+0.85	λαμπρός	adjective	tot	12	0.64	q	2	0.74	n	10	0.63	bright
+0.85	ἕβδομος	adjective	tot	12	0.64	q	2	0.74	n	10	0.63	seventh
+0.85	ἤπειρος	adjective	tot	66	3.56	q	11	4.08	n	55	3.48	terra-firma
+0.85	σύνειμι	verb	tot	12	0.64	q	2	0.74	n	10	0.63	be with (incl. be wife of
+0.85	προφέρω	verb	tot	12	0.64	q	2	0.74	n	10	0.63	to bring before
+0.85	βουκόλος	noun	tot	12	0.64	q	2	0.74	n	10	0.63	a cowherd
+0.85	ὑφίστημι	verb	tot	12	0.64	q	2	0.74	n	10	0.63	to place under; mid. to submit
+0.85	περιπίπτω	verb	tot	12	0.64	q	2	0.74	n	10	0.63	to fall around
+0.85	διέρχομαι	verb	tot	12	0.64	q	2	0.74	n	10	0.63	to go through
+0.85	Εὐρυβιάδης	proper	tot	18	0.97	q	3	1.11	n	15	0.94	Eurybiades
+0.85	τετρακόσιοι	adjective	tot	24	1.29	q	4	1.48	n	20	1.26	four hundred
+0.86	ὄψις	noun	tot	79	4.27	q	13	4.83	n	66	4.17	look
+0.86	λοιπός	adjective	tot	103	5.57	q	17	6.31	n	86	5.44	remaining
+0.86	κελεύω	verb	tot	200	10.81	q	33	12.26	n	167	10.56	to urge
+0.86	ναυτικός	adjective	tot	67	3.62	q	11	4.08	n	56	3.54	seafaring
+0.86	ἀφίστημι	verb	tot	67	3.62	q	11	4.08	n	56	3.54	to put away
+0.86	καθίστημι	verb	tot	85	4.59	q	14	5.20	n	71	4.49	to set down
+0.88	γυνή	noun	tot	373	20.17	q	60	22.29	n	313	19.81	a woman
+0.88	μοῖρα	adjective	tot	37	2.00	q	6	2.22	n	31	1.96	a part
+0.88	ἀρχαῖος	adjective	tot	37	2.00	q	6	2.22	n	31	1.96	from the beginning
+0.88	μανθάνω	verb	tot	148	8.00	q	24	8.91	n	124	7.84	to learn
+0.89	πολύς	adjective	tot	664	35.90	q	106	39.38	n	558	35.31	much
+0.89	πόνος	noun	tot	25	1.35	q	4	1.48	n	21	1.32	work
+0.89	αὐξάνω	verb	tot	25	1.35	q	4	1.48	n	21	1.32	to make large
+0.89	ἐπειδάν	conjunction	tot	157	8.49	q	25	9.28	n	132	8.35	whenever.
+0.89	Μακεδών	proper	tot	25	1.35	q	4	1.48	n	21	1.32	a Macedonian
+0.89	νησιώτης	noun	tot	25	1.35	q	4	1.48	n	21	1.32	an islander
+0.89	ἀπέρχομαι	verb	tot	25	1.35	q	4	1.48	n	21	1.32	to go away
+0.90	γῆ	noun	tot	260	14.06	q	41	15.23	n	219	13.86	earth
+0.90	γάμος	adjective	tot	19	1.02	q	3	1.11	n	16	1.01	a wedding
+0.90	τάφος	noun	tot	19	1.02	q	3	1.11	n	16	1.01	a burial
+0.90	οὖρον	noun	tot	19	1.02	q	3	1.11	n	16	1.01	urine
+0.90	παρέχω	verb	tot	132	7.13	q	21	7.80	n	111	7.02	to furnish
+0.90	ἡμίονος	noun	tot	19	1.02	q	3	1.11	n	16	1.01	a half-ass
+0.90	πρέσβυς	noun	tot	38	2.05	q	6	2.22	n	32	2.02	an old man; pl. ambassadors
+0.90	ἐκφαίνω	verb	tot	19	1.02	q	3	1.11	n	16	1.01	to shew forth
+0.90	δορύφορος	adjective	tot	19	1.02	q	3	1.11	n	16	1.01	nodef
+0.90	εἰσέρχομαι	verb	tot	38	2.05	q	6	2.22	n	32	2.02	to go in
+0.91	γαμέω	verb	tot	32	1.73	q	5	1.85	n	27	1.70	to marry
+0.91	σημαίνω	verb	tot	70	3.78	q	11	4.08	n	59	3.73	to shew by a sign
+0.91	γίγνομαι	verb	tot	1350	73.00	q	211	78.40	n	1139	72.09	become
+0.91	ἀναγκάζω	verb	tot	32	1.73	q	5	1.85	n	27	1.70	to force
+0.92	ὅσος	adjective	tot	263	14.22	q	41	15.23	n	222	14.05	as much/many as
+0.92	Ἰώνιος	proper	tot	58	3.13	q	9	3.34	n	49	3.10	Ionian
+0.93	Δίη	proper	tot	13	0.70	q	2	0.74	n	11	0.69	nodef
+0.93	ψυχρός	adjective	tot	13	0.70	q	2	0.74	n	11	0.69	cold
+0.93	μικρός	adjective	tot	39	2.10	q	6	2.22	n	33	2.08	small
+0.93	χωράζω	verb	tot	13	0.70	q	2	0.74	n	11	0.69	set up
+0.93	τοξεύω	verb	tot	13	0.70	q	2	0.74	n	11	0.69	to shoot with the bow
+0.93	νόμαιος	adjective	tot	13	0.70	q	2	0.74	n	11	0.69	customary
+0.93	ἄφθονος	adjective	tot	13	0.70	q	2	0.74	n	11	0.69	without envy
+0.93	ἁγέομαι	verb	tot	13	0.70	q	2	0.74	n	11	0.69	custom
+0.93	ἀγορεύω	verb	tot	13	0.70	q	2	0.74	n	11	0.69	to speak in the assembly
+0.93	ἐκτείνω	verb	tot	13	0.70	q	2	0.74	n	11	0.69	to stretch out
+0.93	πλεῖστος	adjective	tot	65	3.51	q	10	3.71	n	55	3.48	most
+0.93	βούκολος	noun	tot	13	0.70	q	2	0.74	n	11	0.69	nodef
+0.93	προσδαίω	verb	tot	13	0.70	q	2	0.74	n	11	0.69	nodef
+0.93	ἀπόστασις	noun	tot	13	0.70	q	2	0.74	n	11	0.69	a standing away from
+0.93	Κανδαύλης	proper	tot	13	0.70	q	2	0.74	n	11	0.69	dog-throttler
+0.93	ἐπαγγέλλω	verb	tot	26	1.40	q	4	1.48	n	22	1.39	to tell
+0.93	Ἀρταφρένης	proper	tot	26	1.40	q	4	1.48	n	22	1.39	Artaphrenes
+0.93	ἐπιλαμβάνω	verb	tot	13	0.70	q	2	0.74	n	11	0.69	to lay hold of
+0.93	συμμίγνυμι	verb	tot	52	2.81	q	8	2.97	n	44	2.78	nodef
+0.93	ἀποδέχομαι	verb	tot	65	3.51	q	10	3.71	n	55	3.48	to accept from
+0.94	ἵστημι	verb	tot	131	7.08	q	20	7.43	n	111	7.02	to make to stand
+0.94	ἐλάσσων	adjective	tot	59	3.19	q	9	3.34	n	50	3.16	smaller
+0.94	στρατία	noun	tot	210	11.35	q	32	11.89	n	178	11.26	nodef
+0.94	Κορίνθιος	proper	tot	59	3.19	q	9	3.34	n	50	3.16	Corinthian
+0.94	διαφθείρω	verb	tot	85	4.59	q	13	4.83	n	72	4.55	to destroy
+0.95	χείρ	noun	tot	86	4.65	q	13	4.83	n	73	4.62	the hand
+0.95	τέκνον	noun	tot	53	2.86	q	8	2.97	n	45	2.84	a child
+0.96	ἥδομαι	verb	tot	20	1.08	q	3	1.11	n	17	1.07	to enjoy oneself
+0.96	μέμφομαι	verb	tot	20	1.08	q	3	1.11	n	17	1.07	to blame
+0.97	ὀφθαλμός	noun	tot	27	1.46	q	4	1.48	n	23	1.45	the eye
+0.97	ἀπελαύνω	verb	tot	47	2.54	q	7	2.60	n	40	2.53	to drive away
+0.97	διεξέρχομαι	verb	tot	27	1.46	q	4	1.48	n	23	1.45	to go through
+0.98	ἄλλως	adverb	tot	34	1.83	q	5	1.85	n	29	1.83	in another way
+0.98	ὥσπερ	adverb	tot	34	1.83	q	5	1.85	n	29	1.83	just as if
+0.98	σῖτος	noun	tot	34	1.83	q	5	1.85	n	29	1.83	corn
+0.98	διακόσιοι	adjective	tot	34	1.83	q	5	1.85	n	29	1.83	two hundred
+0.99	μείς	adjective	tot	41	2.21	q	6	2.22	n	35	2.21	a month
+0.99	ἔνθα	adverb	tot	48	2.59	q	7	2.60	n	41	2.59	there
+0.99	Κῦρος	proper	tot	198	10.70	q	29	10.77	n	169	10.69	Cyrus
+0.99	ἁλίσκομαι	verb	tot	41	2.21	q	6	2.22	n	35	2.21	to be caught
+1.00	στρατός	noun	tot	221	11.95	q	32	11.89	n	189	11.96	an encamped army
+1.01	ὧδε	adverb	tot	125	6.76	q	18	6.68	n	107	6.77	in this wise
+1.02	ἐρῶ	verb	tot	77	4.16	q	11	4.08	n	66	4.17	[I will say]
+1.02	οὔτι	adverb	tot	14	0.75	q	2	0.74	n	12	0.75	in no wise
+1.02	ἔται	noun	tot	14	0.75	q	2	0.74	n	12	0.75	nodef
+1.02	ὦμος	noun	tot	14	0.75	q	2	0.74	n	12	0.75	shoulder (with the upper arm)
+1.02	αὖθις	adverb	tot	63	3.40	q	9	3.34	n	54	3.41	back
+1.02	ἐλπίς	noun	tot	14	0.75	q	2	0.74	n	12	0.75	hope
+1.02	τρεῖς	noun	tot	49	2.64	q	7	2.60	n	42	2.65	three
+1.02	Κίλιξ	proper	tot	28	1.51	q	4	1.48	n	24	1.51	a Cilician
+1.02	ἀείρω	verb	tot	14	0.75	q	2	0.74	n	12	0.75	to lift
+1.02	σύμπας	adjective	tot	14	0.75	q	2	0.74	n	12	0.75	all together
+1.02	συνάγω	verb	tot	14	0.75	q	2	0.74	n	12	0.75	to bring together
+1.02	κατέχω	verb	tot	35	1.89	q	5	1.85	n	30	1.89	to hold fast
+1.02	ἥκιστος	adjective	tot	21	1.13	q	3	1.11	n	18	1.13	least
+1.02	χράομαι	verb	tot	154	8.32	q	22	8.17	n	132	8.35	use
+1.02	Ἀθήναιος	proper	tot	63	3.40	q	9	3.34	n	54	3.41	Athenaeus
+1.02	καταμένω	verb	tot	14	0.75	q	2	0.74	n	12	0.75	to stay behind
+1.02	προεῖπον	verb	tot	21	1.13	q	3	1.11	n	18	1.13	to tell
+1.02	στασιώτης	noun	tot	14	0.75	q	2	0.74	n	12	0.75	the members of a party
+1.02	Μακεδονία	proper	tot	14	0.75	q	2	0.74	n	12	0.75	Macedon
+1.02	ἐξέρχομαι	verb	tot	21	1.13	q	3	1.11	n	18	1.13	to go out
+1.02	ἐξαγγέλλω	verb	tot	21	1.13	q	3	1.11	n	18	1.13	to send out
+1.02	ἀνδράποδον	noun	tot	14	0.75	q	2	0.74	n	12	0.75	one taken in war and sold as a slave
+1.02	προστίθημι	verb	tot	28	1.51	q	4	1.48	n	24	1.51	to add
+1.02	προσέρχομαι	verb	tot	14	0.75	q	2	0.74	n	12	0.75	to come
+1.03	πέμπω	verb	tot	255	13.79	q	36	13.37	n	219	13.86	to send
+1.04	χρυσός	noun	tot	64	3.46	q	9	3.34	n	55	3.48	gold
+1.04	Σπάρτη	proper	tot	93	5.02	q	13	4.83	n	80	5.06	Sparta
+1.04	Ἀθηναῖος	proper	tot	178	9.62	q	25	9.28	n	153	9.68	Athenian
+1.05	πρίν	adverb	tot	86	4.65	q	12	4.45	n	74	4.68	before; (after negated main clause) until
+1.06	Ἕλλην	proper	tot	546	29.52	q	75	27.86	n	471	29.81	Hellen; Greek
+1.07	μόνος	adjective	tot	212	11.46	q	29	10.77	n	183	11.58	alone
+1.07	ἀκούω	verb	tot	139	7.51	q	19	7.05	n	120	7.59	to hear
+1.07	δηλόω	verb	tot	44	2.37	q	6	2.22	n	38	2.40	to make visible
+1.07	πορεύω	verb	tot	44	2.37	q	6	2.22	n	38	2.40	to make to go
+1.07	Ἀρίστων	proper	tot	22	1.18	q	3	1.11	n	19	1.20	Ariston
+1.07	ἐκβάλλω	verb	tot	22	1.18	q	3	1.11	n	19	1.20	to throw
+1.07	βάρβαρος	adjective	tot	197	10.65	q	27	10.03	n	170	10.75	barbarous
+1.07	πολλάκις	adverb	tot	22	1.18	q	3	1.11	n	19	1.20	many times
+1.08	Σπαρτιάτης	proper	tot	103	5.57	q	14	5.20	n	89	5.63	a Spartan
+1.09	καί	conjunction	tot	7611	411.61	q	1023	380.11	n	6588	416.97	and
+1.09	πρός	preposition	tot	820	44.34	q	110	40.87	n	710	44.93	(w. gen.) from; (w. dat.) at
+1.10	ὅθεν	adverb	tot	15	0.81	q	2	0.74	n	13	0.82	from where
+1.10	οἶνον	noun	tot	30	1.62	q	4	1.48	n	26	1.64	nodef
+1.10	τείνω	verb	tot	15	0.81	q	2	0.74	n	13	0.82	to stretch
+1.10	ἔσοδος	noun	tot	15	0.81	q	2	0.74	n	13	0.82	nodef
+1.10	μέτειμι	verb	tot	15	0.81	q	2	0.74	n	13	0.82	be among; (+dat and gen) have a share in
+1.10	λαμβάνω	verb	tot	180	9.73	q	24	8.91	n	156	9.87	to take
+1.10	ἀποπέμπω	verb	tot	105	5.67	q	14	5.20	n	91	5.75	to send off
+1.10	ἀνίστημι	verb	tot	15	0.81	q	2	0.74	n	13	0.82	to make to stand up
+1.10	κατοικέω	verb	tot	30	1.62	q	4	1.48	n	26	1.64	to settle; to inhabit
+1.10	περιέρχομαι	verb	tot	15	0.81	q	2	0.74	n	13	0.82	to go round
+1.11	περί	preposition	tot	536	28.98	q	71	26.38	n	465	29.43	around
+1.11	Λυδός	proper	tot	113	6.11	q	15	5.57	n	98	6.20	(adj) Lydian; (subst) Lydus
+1.11	τρόπος	noun	tot	136	7.35	q	18	6.68	n	118	7.46	a turn
+1.11	μηχανάομαι	verb	tot	53	2.86	q	7	2.60	n	46	2.91	to prepare
+1.12	ὑπό	preposition	tot	556	30.06	q	73	27.12	n	483	30.57	from under
+1.12	πεζός	adjective	tot	99	5.35	q	13	4.83	n	86	5.44	on foot
+1.12	τοιόσδε	adjective	tot	206	11.14	q	27	10.03	n	179	11.32	such a
+1.12	ἑσσόομαι	verb	tot	38	2.05	q	5	1.85	n	33	2.08	nodef
+1.12	Λακεδαιμόνιος	proper	tot	228	12.33	q	30	11.14	n	198	12.53	Spartan
+1.13	ὅπου	adverb	tot	23	1.24	q	3	1.11	n	20	1.26	where
+1.13	ἐμβάλλω	verb	tot	23	1.24	q	3	1.11	n	20	1.26	to throw in
+1.13	ἀφηγέομαι	verb	tot	23	1.24	q	3	1.11	n	20	1.26	to lead from
+1.14	εἷς	adjective	tot	162	8.76	q	21	7.80	n	141	8.92	one
+1.14	ἀμφότερος	adjective	tot	85	4.59	q	11	4.08	n	74	4.68	each of two
+1.15	μέν	particle	tot	2536	137.14	q	325	120.75	n	2211	139.94	on the one hand
+1.15	δέω	verb	tot	109	5.89	q	14	5.20	n	95	6.01	to bind
+1.15	εὐθύς	adjective	tot	39	2.10	q	5	1.85	n	34	2.15	straight
+1.15	ἐλπίζω	verb	tot	39	2.10	q	5	1.85	n	34	2.15	to hope for
+1.15	ἐκλείπω	verb	tot	39	2.10	q	5	1.85	n	34	2.15	to leave out
+1.15	μεταπέμπω	verb	tot	39	2.10	q	5	1.85	n	34	2.15	to send after
+1.15	παραλαμβάνω	verb	tot	70	3.78	q	9	3.34	n	61	3.86	to receive from
+1.17	ἅμα	adverb	tot	174	9.41	q	22	8.17	n	152	9.62	at once
+1.17	αἱρέω	verb	tot	190	10.27	q	24	8.91	n	166	10.50	to take
+1.18	αὐτός	pronoun	tot	2540	137.36	q	320	118.90	n	2220	140.51	unemph. 3rd pers.pronoun; -self; [the] same 
+1.19	ἄρος	adjective	tot	24	1.29	q	3	1.11	n	21	1.32	use
+1.19	πέδη	noun	tot	16	0.86	q	2	0.74	n	14	0.88	a fetter
+1.19	ὀργή	noun	tot	16	0.86	q	2	0.74	n	14	0.88	natural impulse
+1.19	ὁρτή	noun	tot	32	1.73	q	4	1.48	n	28	1.77	nodef
+1.19	δέκα	verb	tot	64	3.46	q	8	2.97	n	56	3.54	ten
+1.19	νέμω	verb	tot	80	4.32	q	10	3.71	n	70	4.43	to deal out
+1.19	ἐσθής	noun	tot	48	2.59	q	6	2.22	n	42	2.65	dress
+1.19	Γύγης	proper	tot	24	1.29	q	3	1.11	n	21	1.32	Gyges
+1.19	ἐπάγω	verb	tot	16	0.86	q	2	0.74	n	14	0.88	to bring on
+1.19	ὀλίγος	adjective	tot	112	6.05	q	14	5.20	n	98	6.20	few
+1.19	τραχύς	adjective	tot	16	0.86	q	2	0.74	n	14	0.88	rugged
+1.19	ἀδελφή	noun	tot	24	1.29	q	3	1.11	n	21	1.32	a sister
+1.19	Νάξιος	proper	tot	16	0.86	q	2	0.74	n	14	0.88	Naxian
+1.19	μάλιστα	adverb	tot	217	11.73	q	27	10.03	n	190	12.02	most
+1.19	προσήκω	verb	tot	16	0.86	q	2	0.74	n	14	0.88	to have come; to belong to
+1.19	λαγχάνω	verb	tot	16	0.86	q	2	0.74	n	14	0.88	to obtain by lot
+1.19	περιέπω	verb	tot	16	0.86	q	2	0.74	n	14	0.88	to treat with great care
+1.19	διατελέω	verb	tot	16	0.86	q	2	0.74	n	14	0.88	(w. pple.) continually...; to bring quite to an end
+1.19	στράτευμα	adjective	tot	24	1.29	q	3	1.11	n	21	1.32	an expedition
+1.19	βασίλειος	adjective	tot	32	1.73	q	4	1.48	n	28	1.77	of the king
+1.19	Δημάρητος	proper	tot	56	3.02	q	7	2.60	n	49	3.10	nodef
+1.19	μνημόσυνον	noun	tot	16	0.86	q	2	0.74	n	14	0.88	a remembrance
+1.19	Λακεδαίμων	proper	tot	32	1.73	q	4	1.48	n	28	1.77	Lacedaemon
+1.20	ὅς	pronoun	tot	775	41.91	q	96	35.67	n	679	42.97	who
+1.20	ἕτερος	adjective	tot	170	9.19	q	21	7.80	n	149	9.43	the one; the other (of two)
+1.21	ἐπί	preposition	tot	1336	72.25	q	164	60.93	n	1172	74.17	on
+1.21	ἄλλος	adjective	tot	987	53.37	q	121	44.95	n	866	54.81	other
+1.21	Καμβύσης	proper	tot	130	7.03	q	16	5.94	n	114	7.21	Cambyses
+1.21	Πολυκράτης	proper	tot	57	3.08	q	7	2.60	n	50	3.16	Polycrates
+1.22	κέρας	noun	tot	41	2.21	q	5	1.85	n	36	2.27	the horn of an animal
+1.22	χρόνος	noun	tot	295	15.95	q	36	13.37	n	259	16.39	time
+1.23	εἴτε	adverb	tot	66	3.56	q	8	2.97	n	58	3.67	whether..or (regardless of whether A or B)
+1.23	κάθημαι	verb	tot	33	1.78	q	4	1.48	n	29	1.83	to be seated
+1.23	ἐπικρατέω	verb	tot	33	1.78	q	4	1.48	n	29	1.83	to rule over
+1.24	ὅμως	conjunction	tot	25	1.35	q	3	1.11	n	22	1.39	all the same
+1.24	χώρα	noun	tot	323	17.46	q	39	14.49	n	284	17.97	land
+1.24	παρά	preposition	tot	457	24.71	q	55	20.43	n	402	25.44	from the side of
+1.24	πίπτω	verb	tot	50	2.70	q	6	2.22	n	44	2.78	to fall
+1.24	ἀγγελία	noun	tot	25	1.35	q	3	1.11	n	22	1.39	a message
+1.24	ἐπιθυμέω	verb	tot	25	1.35	q	3	1.11	n	22	1.39	to set one's heart upon
+1.26	χράω	verb	tot	186	10.05	q	22	8.17	n	164	10.38	to fall upon
+1.26	Εὐρώπη	proper	tot	59	3.19	q	7	2.60	n	52	3.29	Europa
+1.27	ὑπέρ	preposition	tot	68	3.67	q	8	2.97	n	60	3.79	over
+1.27	ἔνθεν	adverb	tot	17	0.91	q	2	0.74	n	15	0.94	whence; thence
+1.27	διότι	conjunction	tot	17	0.91	q	2	0.74	n	15	0.94	for the reason that
+1.27	νόμος	noun	tot	119	6.43	q	14	5.20	n	105	6.64	usage
+1.27	ἀπάγω	verb	tot	51	2.75	q	6	2.22	n	45	2.84	to lead away
+1.27	ἀντίος	adjective	tot	17	0.91	q	2	0.74	n	15	0.94	set against
+1.27	δίαιτα	noun	tot	17	0.91	q	2	0.74	n	15	0.94	a way of living
+1.27	διαλύω	verb	tot	17	0.91	q	2	0.74	n	15	0.94	to loose one from another
+1.27	φυλακός	noun	tot	17	0.91	q	2	0.74	n	15	0.94	guard
+1.27	ὁπλίτης	noun	tot	17	0.91	q	2	0.74	n	15	0.94	heavy-armed
+1.27	Ἑλληνίς	proper	tot	17	0.91	q	2	0.74	n	15	0.94	Greek (fem. of Ἕλλην)
+1.27	καταβάλλω	verb	tot	17	0.91	q	2	0.74	n	15	0.94	to throw down
+1.29	οὗτος	pronoun	tot	4511	243.95	q	523	194.32	n	3988	252.41	this; that
+1.30	κρίνω	verb	tot	26	1.40	q	3	1.11	n	23	1.45	to pick out
+1.30	κοσμέω	verb	tot	26	1.40	q	3	1.11	n	23	1.45	to order
+1.30	λανθάνω	verb	tot	26	1.40	q	3	1.11	n	23	1.45	to escape notice
+1.31	Μίλητος	proper	tot	61	3.29	q	7	2.60	n	54	3.41	Miletus
+1.31	ναυμαχία	noun	tot	61	3.29	q	7	2.60	n	54	3.41	a sea-fight
+1.32	Μῆδος	proper	tot	70	3.78	q	8	2.97	n	62	3.92	a Mede
+1.32	φεύγω	verb	tot	140	7.57	q	16	5.94	n	124	7.84	to flee
+1.32	ἐρῆμος	adjective	tot	44	2.37	q	5	1.85	n	39	2.46	desolate
+1.32	ἰσχυρός	adjective	tot	44	2.37	q	5	1.85	n	39	2.46	strong
+1.32	Ἀττικός	adjective	tot	70	3.78	q	8	2.97	n	62	3.92	Attic
+1.32	Δωριεύς	proper	tot	35	1.89	q	4	1.48	n	31	1.96	a Dorian
+1.32	ἐπιτίθημι	verb	tot	35	1.89	q	4	1.48	n	31	1.96	to lay
+1.33	φημί	verb	tot	327	17.68	q	37	13.74	n	290	18.35	to say
+1.34	τάσσω	verb	tot	98	5.29	q	11	4.08	n	87	5.50	to arrange
+1.35	ὀπίσω	adverb	tot	125	6.76	q	14	5.20	n	111	7.02	backwards
+1.36	ἔξω	adverb	tot	45	2.43	q	5	1.85	n	40	2.53	out
+1.36	κατά	preposition	tot	757	40.93	q	84	31.21	n	673	42.59	down
+1.36	Ἀρκάς	proper	tot	18	0.97	q	2	0.74	n	16	1.01	Arcadian
+1.36	Σούσα	proper	tot	27	1.46	q	3	1.11	n	24	1.51	nodef
+1.36	χίλιοι	adjective	tot	54	2.92	q	6	2.22	n	48	3.03	a thousand
+1.36	ἕπομαι	verb	tot	81	4.38	q	9	3.34	n	72	4.55	follow
+1.36	Σαλαμίς	proper	tot	63	3.40	q	7	2.60	n	56	3.54	Salamis
+1.36	εἰσβαίνω	verb	tot	18	0.97	q	2	0.74	n	16	1.01	to go into
+1.36	ἐπιτάσσω	verb	tot	27	1.46	q	3	1.11	n	24	1.51	to put upon one as a duty
+1.36	ἀνευρίσκω	verb	tot	18	0.97	q	2	0.74	n	16	1.01	to find out
+1.36	τυραννεύω	verb	tot	27	1.46	q	3	1.11	n	24	1.51	to be a monarch
+1.38	ἔτι	adverb	tot	219	11.84	q	24	8.91	n	195	12.34	yet
+1.39	ὡς	conjunction	tot	1430	77.33	q	156	57.96	n	1274	80.63	as
+1.39	σῶμα	adjective	tot	46	2.48	q	5	1.85	n	41	2.59	the body
+1.39	αἰτέω	verb	tot	46	2.48	q	5	1.85	n	41	2.59	to ask
+1.40	λέγω	verb	tot	1092	59.05	q	118	43.84	n	974	61.64	to pick; to say
+1.40	ἔπειμι	verb	tot	83	4.48	q	9	3.34	n	74	4.68	be there (in addition
+1.40	καταλέγω	verb	tot	37	2.00	q	4	1.48	n	33	2.08	recount
+1.41	κάρτα	adverb	tot	93	5.02	q	10	3.71	n	83	5.25	very
+1.41	ἀπέχω	verb	tot	28	1.51	q	3	1.11	n	25	1.58	to keep off
+1.41	σιτίον	noun	tot	28	1.51	q	3	1.11	n	25	1.58	grain
+1.41	ἀναφέρω	verb	tot	28	1.51	q	3	1.11	n	25	1.58	to bring up
+1.41	παντοῖος	adjective	tot	28	1.51	q	3	1.11	n	25	1.58	of all sorts
+1.41	ἐπέρομαι	verb	tot	28	1.51	q	3	1.11	n	25	1.58	to ask besides
+1.41	ὑπολείπω	verb	tot	28	1.51	q	3	1.11	n	25	1.58	to leave remaining
+1.41	ἀπονοστέω	verb	tot	28	1.51	q	3	1.11	n	25	1.58	to return
+1.42	εἰς	preposition	tot	2733	147.80	q	292	108.49	n	2441	154.49	into
+1.42	βασιλεία	noun	tot	75	4.05	q	8	2.97	n	67	4.24	a kingdom
+1.42	καταλαμβάνω	verb	tot	75	4.05	q	8	2.97	n	67	4.24	to seize upon
+1.43	τότε	adverb	tot	207	11.19	q	22	8.17	n	185	11.70	at that time
+1.43	ἔπειτα	adverb	tot	85	4.59	q	9	3.34	n	76	4.81	then
+1.44	κώμη	noun	tot	19	1.02	q	2	0.74	n	17	1.07	country town
+1.44	παίω	verb	tot	19	1.02	q	2	0.74	n	17	1.07	to strike
+1.44	ἔξειμι	verb	tot	19	1.02	q	2	0.74	n	17	1.07	go out
+1.44	Ἀθήνευς	proper	tot	95	5.13	q	10	3.71	n	85	5.37	nodef
+1.44	Μασίστης	proper	tot	19	1.02	q	2	0.74	n	17	1.07	Masistes
+1.44	κατακαίω	verb	tot	19	1.02	q	2	0.74	n	17	1.07	to burn down
+1.45	Ἀθήναια	proper	tot	220	11.89	q	23	8.54	n	197	12.46	Panathenaia
+1.45	πρότερος	adjective	tot	610	32.98	q	64	23.78	n	546	34.55	before
+1.45	ἀπαλλάσσω	verb	tot	105	5.67	q	11	4.08	n	94	5.94	to set free
+1.46	ἀτρεκής	adjective	tot	48	2.59	q	5	1.85	n	43	2.72	real
+1.46	τάλαντον	noun	tot	67	3.62	q	7	2.60	n	60	3.79	a balance
+1.46	συμβάλλω	verb	tot	96	5.19	q	10	3.71	n	86	5.44	to throw together
+1.47	ἀγορά	noun	tot	29	1.56	q	3	1.11	n	26	1.64	an assembly of the people
+1.47	τέλος	noun	tot	58	3.13	q	6	2.22	n	52	3.29	the fulfilment
+1.47	Θρᾴκη	proper	tot	29	1.56	q	3	1.11	n	26	1.64	Thrace
+1.47	ἀργύριον	adjective	tot	29	1.56	q	3	1.11	n	26	1.64	a piece of silver
+1.48	ἐκ	preposition	tot	1154	62.40	q	119	44.21	n	1035	65.50	from out of
+1.49	ὁ	article	tot	23525	1272.25	q	2405	893.62	n	21120	1336.75	the
+1.49	πλέος	adjective	tot	88	4.75	q	9	3.34	n	79	5.00	full.
+1.49	θεάομαι	verb	tot	49	2.64	q	5	1.85	n	44	2.78	to look on
+1.49	συλλέγω	verb	tot	78	4.21	q	8	2.97	n	70	4.43	to collect
+1.50	θάπτω	verb	tot	59	3.19	q	6	2.22	n	53	3.35	to bury
+1.51	ὕστερος	adjective	tot	89	4.81	q	9	3.34	n	80	5.06	latter
+1.51	διαβαίνω	verb	tot	89	4.81	q	9	3.34	n	80	5.06	to cross (a river
+1.52	Ἴων	proper	tot	209	11.30	q	21	7.80	n	188	11.89	Ion
+1.53	αὖ	interjection	tot	10	0.54	q	1	0.37	n	9	0.56	again
+1.53	φήμη	noun	tot	10	0.54	q	1	0.37	n	9	0.56	a voice from heaven
+1.53	φάσμα	adjective	tot	10	0.54	q	1	0.37	n	9	0.56	an apparition
+1.53	φύλαξ	noun	tot	10	0.54	q	1	0.37	n	9	0.56	a watcher
+1.53	ἁλίζω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to gather together
+1.53	ὑπάγω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to lead
+1.53	θυμόω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to make angry
+1.53	τρίβω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to rub: to rub
+1.53	τρέχω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to run
+1.53	ῥίπτω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to throw
+1.53	τρέπω	verb	tot	100	5.40	q	10	3.71	n	90	5.69	to turn
+1.53	ζεῦγος	noun	tot	10	0.54	q	1	0.37	n	9	0.56	a yoke of beasts
+1.53	Ἰταλία	proper	tot	10	0.54	q	1	0.37	n	9	0.56	Italy
+1.53	Τάναις	proper	tot	10	0.54	q	1	0.37	n	9	0.56	nodef
+1.53	Εὔβοια	proper	tot	20	1.08	q	2	0.74	n	18	1.13	Euboea
+1.53	ὁμιλέω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to be in company with
+1.53	μετρέω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to measure in any way
+1.53	παρίζω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to sit beside
+1.53	δακρύω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to weep
+1.53	Μηδίζω	verb	tot	30	1.62	q	3	1.11	n	27	1.70	nodef
+1.53	Τόμυρις	proper	tot	10	0.54	q	1	0.37	n	9	0.56	Tomyris
+1.53	Ἅρπαγος	proper	tot	50	2.70	q	5	1.85	n	45	2.84	Harpagus
+1.53	διαφέρω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to carry through; be different from
+1.53	φρουρέω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to keep watch
+1.53	ἄγχιστος	adjective	tot	10	0.54	q	1	0.37	n	9	0.56	nearest
+1.53	ἀπόγονος	adjective	tot	20	1.08	q	2	0.74	n	18	1.13	born or descended from
+1.53	Ἄδρηστος	proper	tot	20	1.08	q	2	0.74	n	18	1.13	nodef
+1.53	καταινέω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to agree to
+1.53	ἐνίστημι	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to put
+1.53	αὐτόματος	adjective	tot	10	0.54	q	1	0.37	n	9	0.56	acting of one's own will
+1.53	περιχαρής	adverb	tot	10	0.54	q	1	0.37	n	9	0.56	exceeding joyous
+1.53	αὐτομολέω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to desert
+1.53	ἐντυγχάνω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to light upon
+1.53	ἐπιβατεύω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to set one foot upon
+1.53	ἀποστρέφω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to turn back
+1.53	ὑποστρέφω	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to turn round about
+1.53	συνίστημι	verb	tot	20	1.08	q	2	0.74	n	18	1.13	to set together
+1.53	ἐξευρίσκω	verb	tot	50	2.70	q	5	1.85	n	45	2.84	to find out
+1.53	στρατιώτης	adjective	tot	10	0.54	q	1	0.37	n	9	0.56	a citizen bound to military service;
+1.53	ἀγωνίζομαι	verb	tot	20	1.08	q	2	0.74	n	18	1.13	to contend for a prize
+1.53	προσγίγνομαι	verb	tot	10	0.54	q	1	0.37	n	9	0.56	to come in addition
+1.56	ἀριθμός	adjective	tot	51	2.75	q	5	1.85	n	46	2.91	number
+1.57	ὅπλον	noun	tot	41	2.21	q	4	1.48	n	37	2.34	a tool
+1.57	ἀναιρέω	verb	tot	41	2.21	q	4	1.48	n	37	2.34	to take up; to destroy
+1.58	ἐν	preposition	tot	1804	97.56	q	175	65.02	n	1629	103.10	in
+1.58	ἔσω	adjective	tot	31	1.67	q	3	1.11	n	28	1.77	to the interior
+1.58	ἡμέρα	noun	tot	279	15.08	q	27	10.03	n	252	15.94	day
+1.58	ἥμισυς	adjective	tot	31	1.67	q	3	1.11	n	28	1.77	half
+1.58	στενός	adjective	tot	31	1.67	q	3	1.11	n	28	1.77	narrow
+1.58	ἔξεστι	verb	tot	31	1.67	q	3	1.11	n	28	1.77	it is allowed
+1.60	ἄγω	verb	tot	240	12.97	q	23	8.54	n	217	13.73	to lead
+1.60	αἰτία	noun	tot	52	2.81	q	5	1.85	n	47	2.97	a charge
+1.61	ἀνέχω	verb	tot	21	1.13	q	2	0.74	n	19	1.20	to hold up; (mid.) endure
+1.61	αὐτίκα	adverb	tot	115	6.21	q	11	4.08	n	104	6.58	forthwith
+1.61	Μαραθών	proper	tot	21	1.13	q	2	0.74	n	19	1.20	Marathon
+1.61	εἴσειμι	verb	tot	21	1.13	q	2	0.74	n	19	1.20	to go into
+1.61	Θεσσαλός	proper	tot	42	2.27	q	4	1.48	n	38	2.40	Thessalian
+1.61	καθηγέομαι	verb	tot	21	1.13	q	2	0.74	n	19	1.20	to go before
+1.67	γένος	noun	tot	65	3.51	q	6	2.22	n	59	3.73	race
+1.68	δέ	particle	tot	8029	434.21	q	736	273.47	n	7293	461.59	but
+1.69	Σκύθης	proper	tot	230	12.43	q	21	7.80	n	209	13.22	a Scythian
+1.70	ὗς	noun	tot	22	1.18	q	2	0.74	n	20	1.26	wild swine
+1.70	πως	particle	tot	44	2.37	q	4	1.48	n	40	2.53	somehow
+1.70	θέω	verb	tot	11	0.59	q	1	0.37	n	10	0.63	to run
+1.70	φύω	verb	tot	33	1.78	q	3	1.11	n	30	1.89	to bring forth
+1.70	ζάω	verb	tot	33	1.78	q	3	1.11	n	30	1.89	to live
+1.70	φυγή	noun	tot	11	0.59	q	1	0.37	n	10	0.63	flight
+1.70	δόρυ	noun	tot	11	0.59	q	1	0.37	n	10	0.63	tree
+1.70	κύων	noun	tot	22	1.18	q	2	0.74	n	20	1.26	a dog
+1.70	φωνή	noun	tot	33	1.78	q	3	1.11	n	30	1.89	a sound
+1.70	βαθύς	adjective	tot	11	0.59	q	1	0.37	n	10	0.63	deep
+1.70	πάντῃ	adverb	tot	11	0.59	q	1	0.37	n	10	0.63	every way
+1.70	δωρεά	noun	tot	11	0.59	q	1	0.37	n	10	0.63	a gift
+1.70	ζώιον	noun	tot	11	0.59	q	1	0.37	n	10	0.63	nodef
+1.70	ἆθλον	noun	tot	11	0.59	q	1	0.37	n	10	0.63	the prize of contest
+1.70	βροντή	noun	tot	11	0.59	q	1	0.37	n	10	0.63	thunder
+1.70	Αἴγινα	proper	tot	33	1.78	q	3	1.11	n	30	1.89	Aegina
+1.70	ἄπλετος	adjective	tot	11	0.59	q	1	0.37	n	10	0.63	boundless
+1.70	ἐμφανής	adjective	tot	11	0.59	q	1	0.37	n	10	0.63	obvious
+1.70	χρυσίον	noun	tot	11	0.59	q	1	0.37	n	10	0.63	a piece of gold
+1.70	σίδηρον	noun	tot	11	0.59	q	1	0.37	n	10	0.63	nodef
+1.70	τόξευμα	noun	tot	11	0.59	q	1	0.37	n	10	0.63	that which is shot
+1.70	Φρύγιος	proper	tot	11	0.59	q	1	0.37	n	10	0.63	Phrygian
+1.70	Εὐήνιος	proper	tot	11	0.59	q	1	0.37	n	10	0.63	nodef
+1.70	δουλεύω	verb	tot	11	0.59	q	1	0.37	n	10	0.63	to be a slave
+1.70	καθαίρω	verb	tot	11	0.59	q	1	0.37	n	10	0.63	to make pure
+1.70	ἀθάνατος	adjective	tot	11	0.59	q	1	0.37	n	10	0.63	undying
+1.70	ἐπιπίπτω	verb	tot	11	0.59	q	1	0.37	n	10	0.63	to fall upon
+1.70	δωρέομαι	verb	tot	22	1.18	q	2	0.74	n	20	1.26	give
+1.70	Μεγάβυζος	proper	tot	11	0.59	q	1	0.37	n	10	0.63	Megabyzos
+1.70	εὐδοκιμέω	verb	tot	11	0.59	q	1	0.37	n	10	0.63	to be of good repute
+1.70	Κλεόμβροτος	proper	tot	11	0.59	q	1	0.37	n	10	0.63	Cleombrotus
+1.70	χρηστηριάζω	verb	tot	11	0.59	q	1	0.37	n	10	0.63	to give oracles
+1.70	παραδέχομαι	verb	tot	11	0.59	q	1	0.37	n	10	0.63	to receive from
+1.71	noentry	nopos	tot	1187	64.19	q	107	39.75	n	1080	68.35	nodef
+1.72	οἰκέω	verb	tot	200	10.81	q	18	6.68	n	182	11.51	to inhabit
+1.72	ἐντεῦθεν	adverb	tot	111	6.00	q	10	3.71	n	101	6.39	hence
+1.73	μυριάς	noun	tot	56	3.02	q	5	1.85	n	51	3.22	a number of ten thousand
+1.74	μαντεῖον	noun	tot	45	2.43	q	4	1.48	n	41	2.59	an oracle
+1.76	μυρίος	adjective	tot	34	1.83	q	3	1.11	n	31	1.96	numberless
+1.76	δεῖπνον	noun	tot	34	1.83	q	3	1.11	n	31	1.96	the principal meal
+1.76	ἀπολείπω	verb	tot	34	1.83	q	3	1.11	n	31	1.96	to leave over
+1.77	Ἱστιαῖος	proper	tot	57	3.08	q	5	1.85	n	52	3.29	Histiaeus
+1.78	εἷμα	noun	tot	23	1.24	q	2	0.74	n	21	1.32	a garment
+1.78	εἶπον	verb	tot	322	17.41	q	28	10.40	n	294	18.60	to speak
+1.78	μισθός	noun	tot	23	1.24	q	2	0.74	n	21	1.32	wages
+1.78	Ἀσσύριοι	proper	tot	23	1.24	q	2	0.74	n	21	1.32	the Assyrians
+1.78	ἐξανίστημι	verb	tot	23	1.24	q	2	0.74	n	21	1.32	to raise up: to make one rise
+1.80	δή	particle	tot	1365	73.82	q	118	43.84	n	1247	78.92	[interactional particle: S&H on same page]
+1.80	δύο	adjective	tot	151	8.16	q	13	4.83	n	138	8.73	two
+1.80	ἀπό	preposition	tot	650	35.15	q	56	20.80	n	594	37.59	from
+1.80	κῆρυξ	noun	tot	81	4.38	q	7	2.60	n	74	4.68	a herald
+1.81	ἐρωτάω	verb	tot	35	1.89	q	3	1.11	n	32	2.02	to ask
+1.83	κέω	verb	tot	47	2.54	q	4	1.48	n	43	2.72	nodef
+1.83	ὁρμάω	verb	tot	106	5.73	q	9	3.34	n	97	6.13	to set in motion
+1.83	καταλιμπάνω	verb	tot	47	2.54	q	4	1.48	n	43	2.72	nodef
+1.84	Ἑλλήσποντος	proper	tot	71	3.83	q	6	2.22	n	65	4.11	the Hellespont
+1.87	ὅταν	conjunction	tot	12	0.64	q	1	0.37	n	11	0.69	when
+1.87	διξός	adjective	tot	12	0.64	q	1	0.37	n	11	0.69	nodef
+1.87	εἰκών	noun	tot	12	0.64	q	1	0.37	n	11	0.69	a likeness
+1.87	ζημία	noun	tot	12	0.64	q	1	0.37	n	11	0.69	loss
+1.87	νῶτον	noun	tot	12	0.64	q	1	0.37	n	11	0.69	the back; surface (of the sea)
+1.87	ὄρνις	noun	tot	24	1.29	q	2	0.74	n	22	1.39	a bird
+1.87	κάμνω	verb	tot	12	0.64	q	1	0.37	n	11	0.69	to work
+1.87	ἐπέχω	verb	tot	36	1.94	q	3	1.11	n	33	2.08	to hold on; hold out; hold back; adjourn; occupy
+1.87	ἄρουρα	adjective	tot	12	0.64	q	1	0.37	n	11	0.69	tilled or arable land
+1.87	νεωστί	adverb	tot	12	0.64	q	1	0.37	n	11	0.69	lately
+1.87	σχεδία	noun	tot	12	0.64	q	1	0.37	n	11	0.69	a raft
+1.87	Ὀτάνης	proper	tot	36	1.94	q	3	1.11	n	33	2.08	pr.n.
+1.87	ἕζομαι	verb	tot	12	0.64	q	1	0.37	n	11	0.69	to seat oneself
+1.87	ὄμνυμι	verb	tot	12	0.64	q	1	0.37	n	11	0.69	to swear
+1.87	πρόειμι	verb	tot	12	0.64	q	1	0.37	n	11	0.69	go forward
+1.87	προσάγω	verb	tot	12	0.64	q	1	0.37	n	11	0.69	to bring to
+1.87	εὐνοῦχος	noun	tot	12	0.64	q	1	0.37	n	11	0.69	a eunuch
+1.87	ὁμολογία	noun	tot	12	0.64	q	1	0.37	n	11	0.69	agreement
+1.87	Μενέλαος	proper	tot	12	0.64	q	1	0.37	n	11	0.69	Menelaos
+1.87	ἐπελαύνω	verb	tot	12	0.64	q	1	0.37	n	11	0.69	to drive upon
+1.87	ἀναχωρέω	verb	tot	12	0.64	q	1	0.37	n	11	0.69	to go back
+1.87	μιμέομαι	verb	tot	12	0.64	q	1	0.37	n	11	0.69	to mimic
+1.87	ἐφέζομαι	verb	tot	12	0.64	q	1	0.37	n	11	0.69	to sit upon
+1.87	ἐπιτελέω	verb	tot	24	1.29	q	2	0.74	n	22	1.39	to complete
+1.87	ἐπικαλέω	verb	tot	36	1.94	q	3	1.11	n	33	2.08	to call upon
+1.87	συμβολεύς	noun	tot	12	0.64	q	1	0.37	n	11	0.69	twister
+1.87	Μεγακλέης	proper	tot	12	0.64	q	1	0.37	n	11	0.69	nodef
+1.87	προσπταίω	verb	tot	12	0.64	q	1	0.37	n	11	0.69	to strike against
+1.87	τετρακισχίλιοι	adjective	tot	12	0.64	q	1	0.37	n	11	0.69	four thousand
+1.90	οἴχομαι	verb	tot	61	3.29	q	5	1.85	n	56	3.54	to be gone
+1.90	ἀποθνήσκω	verb	tot	122	6.59	q	10	3.71	n	112	7.08	nodef
+1.91	τριάκοντα	noun	tot	49	2.64	q	4	1.48	n	45	2.84	thirty
+1.93	χωρίς	adverb	tot	37	2.00	q	3	1.11	n	34	2.15	separately
+1.93	νομάς	noun	tot	37	2.00	q	3	1.11	n	34	2.15	roaming about for pasture
+1.93	θαῦμα	noun	tot	37	2.00	q	3	1.11	n	34	2.15	whatever one regards with wonder
+1.93	Βοιωτός	proper	tot	37	2.00	q	3	1.11	n	34	2.15	a Boeotian
+1.94	πόλις	adjective	tot	435	23.52	q	35	13.00	n	400	25.31	a city
+1.94	Αἰθίοψ	proper	tot	62	3.35	q	5	1.85	n	57	3.60	burnt-face
+1.94	νομίζω	verb	tot	124	6.70	q	10	3.71	n	114	7.21	to have as a custom; to believe
+1.94	Μιλήσιος	proper	tot	87	4.70	q	7	2.60	n	80	5.06	Milesian
+1.95	ἄρχων	noun	tot	25	1.35	q	2	0.74	n	23	1.45	a ruler
+1.95	γενεά	noun	tot	25	1.35	q	2	0.74	n	23	1.45	race
+1.95	ἐνιαυτός	noun	tot	25	1.35	q	2	0.74	n	23	1.45	year
+1.95	ἀποδείκνυμι	verb	tot	75	4.05	q	6	2.22	n	69	4.36	display
+1.98	πεντήκοντα	verb	tot	38	2.05	q	3	1.11	n	35	2.21	fifty
+1.99	θάλασσα	noun	tot	229	12.38	q	18	6.68	n	211	13.35	the sea
+2.00	ἐξαιρέω	verb	tot	51	2.75	q	4	1.48	n	47	2.97	to take out of
+2.02	νῆσος	noun	tot	129	6.97	q	10	3.71	n	119	7.53	an island
+2.04	βοάω	verb	tot	13	0.70	q	1	0.37	n	12	0.75	to cry aloud
+2.04	τίσις	adjective	tot	13	0.70	q	1	0.37	n	12	0.75	payment by way of return
+2.04	παρέξ	preposition	tot	26	1.40	q	2	0.74	n	24	1.51	outside
+2.04	Σόλων	proper	tot	13	0.70	q	1	0.37	n	12	0.75	Solon
+2.04	Γέλων	proper	tot	26	1.40	q	2	0.74	n	24	1.51	Gelo
+2.04	Ἥραιον	proper	tot	13	0.70	q	1	0.37	n	12	0.75	sanctuary of Hera
+2.04	ὡσαύτως	adverb	tot	13	0.70	q	1	0.37	n	12	0.75	in like manner
+2.04	παλλακή	noun	tot	13	0.70	q	1	0.37	n	12	0.75	concubine
+2.04	Λέσβιος	proper	tot	13	0.70	q	1	0.37	n	12	0.75	Lesbian
+2.04	σίνομαι	verb	tot	13	0.70	q	1	0.37	n	12	0.75	to do
+2.04	δημόσιος	adjective	tot	13	0.70	q	1	0.37	n	12	0.75	belonging to the people
+2.04	Περσικός	adjective	tot	26	1.40	q	2	0.74	n	24	1.51	Persian
+2.04	ἀνέκαθεν	adverb	tot	13	0.70	q	1	0.37	n	12	0.75	from above
+2.04	θηριώδης	adverb	tot	13	0.70	q	1	0.37	n	12	0.75	full of wild beasts
+2.04	μέταλλον	noun	tot	13	0.70	q	1	0.37	n	12	0.75	a mine
+2.04	φυλακεύς	noun	tot	13	0.70	q	1	0.37	n	12	0.75	watching
+2.04	παρθένος	noun	tot	26	1.40	q	2	0.74	n	24	1.51	a maid
+2.04	Μεγαρεύς	proper	tot	13	0.70	q	1	0.37	n	12	0.75	a citizen of Megara
+2.04	Λεωνίδης	proper	tot	39	2.10	q	3	1.11	n	36	2.27	Leonidas
+2.04	ἀποφεύγω	verb	tot	13	0.70	q	1	0.37	n	12	0.75	to flee from
+2.04	καταπαύω	verb	tot	13	0.70	q	1	0.37	n	12	0.75	to lay to rest
+2.04	καταπλέω	verb	tot	13	0.70	q	1	0.37	n	12	0.75	to sail down
+2.04	προπέμπω	verb	tot	13	0.70	q	1	0.37	n	12	0.75	to send before
+2.04	διακρίνω	verb	tot	13	0.70	q	1	0.37	n	12	0.75	to separate one from another
+2.04	ἀποκλείω	verb	tot	13	0.70	q	1	0.37	n	12	0.75	to shut off from
+2.04	χρηστήριον	noun	tot	91	4.92	q	7	2.60	n	84	5.31	an oracle
+2.04	πεντεκαίδεκα	noun	tot	13	0.70	q	1	0.37	n	12	0.75	fifteen
+2.06	μέσος	adjective	tot	105	5.67	q	8	2.97	n	97	6.13	middle
+2.06	μέχρι	preposition	tot	118	6.38	q	9	3.34	n	109	6.89	until (prep. and conj. w. aor.)
+2.07	διά	preposition	tot	329	17.79	q	25	9.28	n	304	19.24	through c. gen.; because of c. acc.
+2.08	ἕ	pronoun	tot	1205	65.16	q	91	33.81	n	1114	70.50	nodef
+2.10	δεύτερος	adjective	tot	120	6.48	q	9	3.34	n	111	7.02	second
+2.12	διώκω	verb	tot	54	2.92	q	4	1.48	n	50	3.16	to pursue
+2.12	κύκλος	noun	tot	27	1.46	q	2	0.74	n	25	1.58	a ring
+2.12	ἑκάτερος	adjective	tot	54	2.92	q	4	1.48	n	50	3.16	each of two
+2.13	ναῦς	noun	tot	325	17.57	q	24	8.91	n	301	19.05	a ship
+2.14	νεκρός	noun	tot	68	3.67	q	5	1.85	n	63	3.98	a dead body
+2.14	Κροῖσος	proper	tot	190	10.27	q	14	5.20	n	176	11.13	Croesus
+2.15	οὐκέτι	adverb	tot	41	2.21	q	3	1.11	n	38	2.40	no more
+2.15	ἐπερωτάω	verb	tot	41	2.21	q	3	1.11	n	38	2.40	to inquire of
+2.17	μακρός	adjective	tot	55	2.97	q	4	1.48	n	51	3.22	long
+2.18	ἔθνος	adjective	tot	138	7.46	q	10	3.71	n	128	8.10	a number of people accustomed to live together
+2.18	στρατόπεδον	noun	tot	83	4.48	q	6	2.22	n	77	4.87	the ground on which soldiers are encamped
+2.19	Δαρεῖος	proper	tot	305	16.49	q	22	8.17	n	283	17.91	Darius
+2.21	ἕως	conjunction	tot	14	0.75	q	1	0.37	n	13	0.82	(w. aor or as prep.) until; (w. pres) as long as
+2.21	χῶμα	noun	tot	14	0.75	q	1	0.37	n	13	0.82	earth thrown up
+2.21	ψιλός	adjective	tot	14	0.75	q	1	0.37	n	13	0.82	bare
+2.21	Ἀχαία	proper	tot	14	0.75	q	1	0.37	n	13	0.82	epithet of Demeter
+2.21	Σάκαι	proper	tot	14	0.75	q	1	0.37	n	13	0.82	the Sacae
+2.21	κινέω	verb	tot	14	0.75	q	1	0.37	n	13	0.82	to set in motion
+2.21	καρπός	noun	tot	42	2.27	q	3	1.11	n	39	2.46	fruit
+2.21	Σκύλης	proper	tot	14	0.75	q	1	0.37	n	13	0.82	Scyles
+2.21	Φωκεύς	proper	tot	42	2.27	q	3	1.11	n	39	2.46	a Phocian
+2.21	ἀνίημι	verb	tot	14	0.75	q	1	0.37	n	13	0.82	to send up; let go
+2.21	εὐειδής	adverb	tot	14	0.75	q	1	0.37	n	13	0.82	well-shaped
+2.21	Περσεύς	proper	tot	14	0.75	q	1	0.37	n	13	0.82	Perseus
+2.21	ἐκπίτνω	verb	tot	14	0.75	q	1	0.37	n	13	0.82	nodef
+2.21	Θεσπίευς	proper	tot	14	0.75	q	1	0.37	n	13	0.82	nodef
+2.21	συμβαίνω	verb	tot	14	0.75	q	1	0.37	n	13	0.82	meet
+2.21	ἐπιβαίνω	verb	tot	14	0.75	q	1	0.37	n	13	0.82	to go upon
+2.21	περίοικος	adjective	tot	14	0.75	q	1	0.37	n	13	0.82	dwelling round
+2.21	Ἀρκεσίλευς	proper	tot	14	0.75	q	1	0.37	n	13	0.82	nodef
+2.21	Θερμοπύλαι	proper	tot	28	1.51	q	2	0.74	n	26	1.64	Thermopylae
+2.21	Κροτωνιήτης	proper	tot	14	0.75	q	1	0.37	n	13	0.82	nodef
+2.22	μετά	preposition	tot	407	22.01	q	29	10.77	n	378	23.92	(w gen) with
+2.27	ἵζω	verb	tot	43	2.32	q	3	1.11	n	40	2.53	to make to sit
+2.27	ἕκαστος	adjective	tot	258	13.95	q	18	6.68	n	240	15.19	every
+2.28	ταύτῃ	adverb	tot	72	3.89	q	5	1.85	n	67	4.24	in this way.
+2.30	στρατηγός	noun	tot	131	7.08	q	9	3.34	n	122	7.72	the leader
+2.31	νύξ	adjective	tot	102	5.51	q	7	2.60	n	95	6.01	the night
+2.32	πούς	noun	tot	44	2.37	q	3	1.11	n	41	2.59	a foot
+2.32	ἐξελαύνω	verb	tot	44	2.37	q	3	1.11	n	41	2.59	to drive out from
+2.32	ἐπέρχομαι	verb	tot	44	2.37	q	3	1.11	n	41	2.59	come near; come upon; attack
+2.36	σφεῖς	pronoun	tot	1146	61.97	q	77	28.61	n	1069	67.66	personal and (ind.) reflexive pronoun
+2.38	γόνυ	noun	tot	15	0.81	q	1	0.37	n	14	0.88	the knee
+2.38	Νάξος	proper	tot	15	0.81	q	1	0.37	n	14	0.88	Naxos
+2.38	δρόμος	noun	tot	15	0.81	q	1	0.37	n	14	0.88	a course
+2.38	πίστις	noun	tot	15	0.81	q	1	0.37	n	14	0.88	trust
+2.38	οἴκημα	noun	tot	45	2.43	q	3	1.11	n	42	2.65	any inhabited place
+2.38	Ὑδάρνης	proper	tot	15	0.81	q	1	0.37	n	14	0.88	nodef
+2.38	καταδέω	verb	tot	15	0.81	q	1	0.37	n	14	0.88	to bind
+2.38	τέσσαρες	noun	tot	60	3.24	q	4	1.48	n	56	3.54	four
+2.38	πολιορκέω	verb	tot	60	3.24	q	4	1.48	n	56	3.54	to hem in a city
+2.38	Λευτυχίδης	proper	tot	30	1.62	q	2	0.74	n	28	1.77	Leutychides
+2.38	κατέρχομαι	verb	tot	15	0.81	q	1	0.37	n	14	0.88	to go down from; return from exile
+2.38	ἀπολαμβάνω	verb	tot	15	0.81	q	1	0.37	n	14	0.88	to take away
+2.40	Σάρδεις	proper	tot	121	6.54	q	8	2.97	n	113	7.15	Sardes
+2.41	ἄστυ	noun	tot	91	4.92	q	6	2.22	n	85	5.37	a city
+2.41	ἑαυτοῦ	pronoun	tot	532	28.77	q	35	13.00	n	497	31.45	himself
+2.42	τρίτος	adjective	tot	61	3.29	q	4	1.48	n	57	3.60	the third
+2.42	παρασκευάζω	verb	tot	61	3.29	q	4	1.48	n	57	3.60	to get ready
+2.44	κεφαλή	noun	tot	123	6.65	q	8	2.97	n	115	7.27	the head
+2.45	μιν	pronoun	tot	324	17.52	q	21	7.80	n	303	19.17	him
+2.46	ἔτης	noun	tot	93	5.02	q	6	2.22	n	87	5.50	clansmen
+2.46	κάτος	adjective	tot	31	1.67	q	2	0.74	n	29	1.83	nodef
+2.46	πόλιον	noun	tot	31	1.67	q	2	0.74	n	29	1.83	hulwort
+2.46	Τεγεάτης	proper	tot	31	1.67	q	2	0.74	n	29	1.83	of Tegea
+2.46	συντίθημι	verb	tot	31	1.67	q	2	0.74	n	29	1.83	to put together
+2.49	Θεσσαλία	proper	tot	47	2.54	q	3	1.11	n	44	2.78	Thessaly
+2.51	οἰκία	noun	tot	63	3.40	q	4	1.48	n	59	3.73	a building
+2.55	νόσος	noun	tot	32	1.73	q	2	0.74	n	30	1.89	sickness
+2.55	πέριξ	preposition	tot	16	0.86	q	1	0.37	n	15	0.94	round about
+2.55	τέμνω	verb	tot	16	0.86	q	1	0.37	n	15	0.94	to cut
+2.55	ἔφορος	noun	tot	16	0.86	q	1	0.37	n	15	0.94	an overseer
+2.55	ἑκατόν	noun	tot	64	3.46	q	4	1.48	n	60	3.79	a hundred
+2.55	δέκατος	adjective	tot	16	0.86	q	1	0.37	n	15	0.94	tenth
+2.55	λόγιμος	adjective	tot	16	0.86	q	1	0.37	n	15	0.94	worth mention
+2.55	θεράπων	noun	tot	16	0.86	q	1	0.37	n	15	0.94	a waiting-man
+2.55	τράπεζα	noun	tot	16	0.86	q	1	0.37	n	15	0.94	four-legged a table
+2.55	χρησμός	noun	tot	32	1.73	q	2	0.74	n	30	1.89	the answer of an oracle
+2.55	Βαβυλών	proper	tot	32	1.73	q	2	0.74	n	30	1.89	Babylon
+2.55	ἐπιφέρω	verb	tot	16	0.86	q	1	0.37	n	15	0.94	to bring
+2.55	προερέω	verb	tot	16	0.86	q	1	0.37	n	15	0.94	to say beforehand
+2.55	ἑκάστοτε	adverb	tot	16	0.86	q	1	0.37	n	15	0.94	each time
+2.55	Βόσπορος	proper	tot	16	0.86	q	1	0.37	n	15	0.94	Bosporus
+2.55	δείκνυμι	verb	tot	16	0.86	q	1	0.37	n	15	0.94	to show
+2.55	Ἀρτεμισίη	proper	tot	16	0.86	q	1	0.37	n	15	0.94	nodef
+2.55	μετεξέτεροι	adjective	tot	16	0.86	q	1	0.37	n	15	0.94	some among many
+2.55	ἐγχειρίδιον	noun	tot	16	0.86	q	1	0.37	n	15	0.94	dagger; (later) handle
+2.59	πέντε	adverb	tot	65	3.51	q	4	1.48	n	61	3.86	five
+2.61	χωρίον	noun	tot	49	2.64	q	3	1.11	n	46	2.91	a particular place
+2.61	Ἴστρος	proper	tot	49	2.64	q	3	1.11	n	46	2.91	Ister
+2.64	ἄγαλμα	noun	tot	66	3.56	q	4	1.48	n	62	3.92	a glory
+2.69	ἥλιος	noun	tot	84	4.54	q	5	1.85	n	79	5.00	the sun
+2.72	λέων	noun	tot	17	0.91	q	1	0.37	n	16	1.01	a lion
+2.72	ἀμφί	preposition	tot	34	1.83	q	2	0.74	n	32	2.02	on both sides
+2.72	σκευή	noun	tot	17	0.91	q	1	0.37	n	16	1.01	equipment
+2.72	ἵππος	noun	tot	204	11.03	q	12	4.45	n	192	12.15	a horse
+2.72	κείρω	verb	tot	17	0.91	q	1	0.37	n	16	1.01	to cut
+2.72	λίθινος	adjective	tot	17	0.91	q	1	0.37	n	16	1.01	of stone
+2.72	πέμπτος	adjective	tot	17	0.91	q	1	0.37	n	16	1.01	the fifth
+2.72	προσέχω	verb	tot	17	0.91	q	1	0.37	n	16	1.01	to hold to
+2.72	μίγνυμι	verb	tot	34	1.83	q	2	0.74	n	32	2.02	nodef
+2.72	στρατεία	adjective	tot	17	0.91	q	1	0.37	n	16	1.01	an expedition
+2.72	διατάσσω	verb	tot	17	0.91	q	1	0.37	n	16	1.01	to appoint
+2.72	διαφεύγω	verb	tot	17	0.91	q	1	0.37	n	16	1.01	to flee through
+2.72	Χαλκιδεῖς	proper	tot	17	0.91	q	1	0.37	n	16	1.01	nodef
+2.72	στρατηγέω	verb	tot	34	1.83	q	2	0.74	n	32	2.02	to be general
+2.72	θεοπρόπιον	noun	tot	17	0.91	q	1	0.37	n	16	1.01	a prophecy
+2.74	ναός	noun	tot	137	7.40	q	8	2.97	n	129	8.16	the dwelling of a god
+2.78	κεῖμαι	verb	tot	52	2.81	q	3	1.11	n	49	3.10	to lie; to have been set/put (as perf. pass. of τίθημι)
+2.79	Ἄσιος	proper	tot	122	6.59	q	7	2.60	n	115	7.27	(adj.) of Asia; (n.) Asius
+2.81	ἐκφέρω	verb	tot	35	1.89	q	2	0.74	n	33	2.08	to carry out of
+2.81	Βαβυλώνιοι	proper	tot	35	1.89	q	2	0.74	n	33	2.08	nodef
+2.81	τεσσαράκοντα	adjective	tot	35	1.89	q	2	0.74	n	33	2.08	forty
+2.83	ὁδός	adjective	tot	159	8.59	q	9	3.34	n	150	9.49	a way
+2.85	ἀνά	preposition	tot	71	3.83	q	4	1.48	n	67	4.24	up
+2.89	αἰνέω	verb	tot	18	0.97	q	1	0.37	n	17	1.07	(to tell;) to praise
+2.89	τραῦμα	noun	tot	18	0.97	q	1	0.37	n	17	1.07	a wound
+2.89	χαλκός	noun	tot	18	0.97	q	1	0.37	n	17	1.07	copper
+2.89	κρύπτω	verb	tot	18	0.97	q	1	0.37	n	17	1.07	to hide
+2.89	ἐκτίνω	verb	tot	18	0.97	q	1	0.37	n	17	1.07	to pay off
+2.89	περιπλέω	verb	tot	18	0.97	q	1	0.37	n	17	1.07	to sail
+2.89	ἐπιβάλλω	verb	tot	18	0.97	q	1	0.37	n	17	1.07	to throw
+2.89	μαντεύομαι	verb	tot	18	0.97	q	1	0.37	n	17	1.07	to divine
+2.89	Καρχηδόνιος	proper	tot	18	0.97	q	1	0.37	n	17	1.07	Carthaginian
+2.89	ἐπιμιμνήσκομαι	verb	tot	18	0.97	q	1	0.37	n	17	1.07	to remember
+2.92	ἐνταῦθα	adverb	tot	182	9.84	q	10	3.71	n	172	10.88	here
+2.96	χῶρος	noun	tot	129	6.97	q	7	2.60	n	122	7.72	a piece of ground
+2.98	πύθω	verb	tot	148	8.00	q	8	2.97	n	140	8.86	to make rot
+2.98	ἄνεμος	noun	tot	74	4.00	q	4	1.48	n	70	4.43	wind
+2.98	ἀποστέλλω	verb	tot	37	2.00	q	2	0.74	n	35	2.21	to send off
+3.02	ἔτος	noun	tot	75	4.05	q	4	1.48	n	71	4.49	a year
+3.05	ἀφικνέομαι	verb	tot	512	27.68	q	27	10.03	n	485	30.69	to come to
+3.06	παράπαν	adverb	tot	19	1.02	q	1	0.37	n	18	1.13	altogether
+3.06	ἐκφεύγω	verb	tot	19	1.02	q	1	0.37	n	18	1.13	to flee out
+3.06	ἀργύρεος	adjective	tot	19	1.02	q	1	0.37	n	18	1.13	silver
+3.06	θησαυρός	noun	tot	19	1.02	q	1	0.37	n	18	1.13	a store laid up
+3.06	τελευταῖος	adjective	tot	19	1.02	q	1	0.37	n	18	1.13	last
+3.06	Ἀρισταγόρης	proper	tot	57	3.08	q	3	1.11	n	54	3.41	nodef
+3.06	Ἀναξανδρίδης	proper	tot	19	1.02	q	1	0.37	n	18	1.13	nodef
+3.12	ἱδρύω	verb	tot	58	3.13	q	3	1.11	n	55	3.48	to make to sit down
+3.13	βασιλεύω	verb	tot	97	5.24	q	5	1.85	n	92	5.82	to be king
+3.15	ἕλκω	verb	tot	39	2.10	q	2	0.74	n	37	2.34	to draw
+3.15	πρόσω	adverb	tot	39	2.10	q	2	0.74	n	37	2.34	forwards
+3.15	ὀνομάζω	verb	tot	39	2.10	q	2	0.74	n	37	2.34	to name
+3.23	ἕξ	adjective	tot	40	2.16	q	2	0.74	n	38	2.40	six
+3.23	ἐνδύω	verb	tot	20	1.08	q	1	0.37	n	19	1.20	to go into
+3.23	ὄρυγμα	noun	tot	20	1.08	q	1	0.37	n	19	1.20	a trench
+3.23	Κυρήνη	proper	tot	20	1.08	q	1	0.37	n	19	1.20	Cyrene
+3.23	πληρόω	verb	tot	20	1.08	q	1	0.37	n	19	1.20	to make full
+3.23	σπείρω	verb	tot	20	1.08	q	1	0.37	n	19	1.20	to sow
+3.23	ἄγγελος	noun	tot	100	5.40	q	5	1.85	n	95	6.01	a messenger
+3.23	πρόφασις	noun	tot	20	1.08	q	1	0.37	n	19	1.20	that which is alleged as the cause
+3.23	ἐπιτέλλω	verb	tot	20	1.08	q	1	0.37	n	19	1.20	to lay upon
+3.23	ὑποζύγιον	noun	tot	20	1.08	q	1	0.37	n	19	1.20	a beast for the yoke
+3.23	ἐπίκουρος	noun	tot	20	1.08	q	1	0.37	n	19	1.20	an assister
+3.23	Ἀρτάβαζος	proper	tot	20	1.08	q	1	0.37	n	19	1.20	Artabazus
+3.23	μεταβάλλω	verb	tot	20	1.08	q	1	0.37	n	19	1.20	to throw into a different position
+3.26	ποταμός	noun	tot	323	17.46	q	16	5.94	n	307	19.43	a river
+3.40	θήκη	noun	tot	21	1.13	q	1	0.37	n	20	1.26	a case to put anything in
+3.40	τέρας	noun	tot	21	1.13	q	1	0.37	n	20	1.26	a sign
+3.40	Ἰνδός	proper	tot	21	1.13	q	1	0.37	n	20	1.26	an Indian
+3.40	Ἀσωπός	proper	tot	21	1.13	q	1	0.37	n	20	1.26	Asopus
+3.40	Ἀπρίης	proper	tot	21	1.13	q	1	0.37	n	20	1.26	nodef
+3.40	πέλαγος	noun	tot	21	1.13	q	1	0.37	n	20	1.26	the sea
+3.40	ἀποπλέω	verb	tot	42	2.27	q	2	0.74	n	40	2.53	to sail away
+3.40	τέταρτος	adjective	tot	21	1.13	q	1	0.37	n	20	1.26	fourth
+3.53	Αἰγινήτης	proper	tot	87	4.70	q	4	1.48	n	83	5.25	an Aeginetan (Αἴγινα)
+3.57	ἠώς	noun	tot	44	2.37	q	2	0.74	n	42	2.65	the morning red
+3.57	καίω	verb	tot	22	1.18	q	1	0.37	n	21	1.32	to light
+3.57	ἀγχοῦ	adverb	tot	22	1.18	q	1	0.37	n	21	1.32	near
+3.57	Ἄργος	proper	tot	22	1.18	q	1	0.37	n	21	1.32	Argos
+3.57	Φοῖνιξ	proper	tot	88	4.75	q	4	1.48	n	84	5.31	a Phoenician
+3.57	εἰσβολή	noun	tot	22	1.18	q	1	0.37	n	21	1.32	an inroad
+3.57	ὕπαρχος	noun	tot	22	1.18	q	1	0.37	n	21	1.32	commanding under
+3.57	ῥεῖθρον	noun	tot	22	1.18	q	1	0.37	n	21	1.32	that which flows
+3.57	Ἐρέτρια	proper	tot	22	1.18	q	1	0.37	n	21	1.32	Eretria
+3.57	κατάσκοπος	noun	tot	22	1.18	q	1	0.37	n	21	1.32	one who keeps a look out
+3.74	ὄρος	adjective	tot	115	6.21	q	5	1.85	n	110	6.96	a mountain
+3.74	φόρον	noun	tot	23	1.24	q	1	0.37	n	22	1.39	forum
+3.74	κτίζω	verb	tot	23	1.24	q	1	0.37	n	22	1.39	to found
+3.74	συχνός	adjective	tot	46	2.48	q	2	0.74	n	44	2.78	long
+3.74	εἰσβάλλω	verb	tot	69	3.73	q	3	1.11	n	66	4.17	to throw into
+3.74	ὑπολαμβάνω	verb	tot	23	1.24	q	1	0.37	n	22	1.39	take up; understand
+3.74	πεντακόσιοι	adjective	tot	23	1.24	q	1	0.37	n	22	1.39	five hundred
+3.77	ἱερός	adjective	tot	301	16.27	q	13	4.83	n	288	18.22	super-human
+3.78	ὕδωρ	noun	tot	116	6.27	q	5	1.85	n	111	7.02	water
+3.79	Ξέρξης	proper	tot	256	13.84	q	11	4.08	n	245	15.50	Xerxes
+3.83	νομός	noun	tot	47	2.54	q	2	0.74	n	45	2.84	place of pasture; district (nome)
+3.91	ἅπτω	verb	tot	24	1.29	q	1	0.37	n	23	1.45	to fasten
+3.91	κρατήρ	noun	tot	24	1.29	q	1	0.37	n	23	1.45	a mixing vessel
+3.91	ἁρπάζω	verb	tot	24	1.29	q	1	0.37	n	23	1.45	to snatch away
+3.97	ἑπτά	noun	tot	73	3.94	q	3	1.11	n	70	4.43	seven
+4.00	Ἑλληνικός	adjective	tot	49	2.64	q	2	0.74	n	47	2.97	Hellenic
+4.04	ἔρομαι	verb	tot	99	5.35	q	4	1.48	n	95	6.01	to ask
+4.08	ἐντός	adverb	tot	25	1.35	q	1	0.37	n	24	1.51	within
+4.08	εἶδος	noun	tot	25	1.35	q	1	0.37	n	24	1.51	that which is seen
+4.08	ἀμείβω	verb	tot	75	4.05	q	3	1.11	n	72	4.55	change
+4.08	πυραμίς	noun	tot	25	1.35	q	1	0.37	n	24	1.51	a pyramid
+4.08	διέξειμι	verb	tot	25	1.35	q	1	0.37	n	24	1.51	go through
+4.08	ἀναβαίνω	verb	tot	50	2.70	q	2	0.74	n	48	3.03	to go up
+4.08	καθύπερθε	adverb	tot	50	2.70	q	2	0.74	n	48	3.03	from above
+4.08	Ἀλέξανδρος	proper	tot	50	2.70	q	2	0.74	n	48	3.03	Alexander
+4.08	Θεμιστοκλέης	proper	tot	50	2.70	q	2	0.74	n	48	3.03	nodef
+4.20	κομίζω	verb	tot	77	4.16	q	3	1.11	n	74	4.68	to take care of
+4.25	ἄνω	adverb	tot	52	2.81	q	2	0.74	n	50	3.16	to accomplish
+4.25	ἐξάγω	verb	tot	26	1.40	q	1	0.37	n	25	1.58	to lead out
+4.25	σιτέομαι	verb	tot	26	1.40	q	1	0.37	n	25	1.58	to take food
+4.25	περιβάλλω	verb	tot	26	1.40	q	1	0.37	n	25	1.58	to throw round
+4.36	καλέω	verb	tot	346	18.71	q	13	4.83	n	333	21.07	to call
+4.42	ἀείδω	verb	tot	27	1.46	q	1	0.37	n	26	1.64	to sing
+4.42	ὅρκιον	noun	tot	27	1.46	q	1	0.37	n	26	1.64	an oath
+4.42	μάντις	noun	tot	27	1.46	q	1	0.37	n	26	1.64	one who divines
+4.42	βασίλη	noun	tot	27	1.46	q	1	0.37	n	26	1.64	queen
+4.42	φοιτάω	verb	tot	27	1.46	q	1	0.37	n	26	1.64	to go to and fro
+4.42	καταβαίνω	verb	tot	27	1.46	q	1	0.37	n	26	1.64	to step down
+4.51	Δελφοί	proper	tot	110	5.94	q	4	1.48	n	106	6.70	Delphi; Delphians
+4.59	ἐτάζω	verb	tot	28	1.51	q	1	0.37	n	27	1.70	to examine
+4.59	τρέφω	verb	tot	28	1.51	q	1	0.37	n	27	1.70	to nourish
+4.59	τεῖχος	noun	tot	140	7.57	q	5	1.85	n	135	8.54	a wall
+4.59	τριήρης	noun	tot	28	1.51	q	1	0.37	n	27	1.70	trireme
+4.59	Σικελία	proper	tot	28	1.51	q	1	0.37	n	27	1.70	Sicily
+4.59	Θηβαῖος	proper	tot	56	3.02	q	2	0.74	n	54	3.41	Theban
+4.59	βασίλειον	noun	tot	28	1.51	q	1	0.37	n	27	1.70	a kingly dwelling
+4.59	στρατοπεδεύω	verb	tot	28	1.51	q	1	0.37	n	27	1.70	to encamp
+4.76	ὄνος	noun	tot	29	1.56	q	1	0.37	n	28	1.77	an ass
+4.76	ἰχθύς	noun	tot	29	1.56	q	1	0.37	n	28	1.77	a fish
+4.76	Σάμος	proper	tot	58	3.13	q	2	0.74	n	56	3.54	Samos
+4.76	ταυτός	adjective	tot	29	1.56	q	1	0.37	n	28	1.77	nodef
+4.76	ὄπισθεν	adverb	tot	29	1.56	q	1	0.37	n	28	1.77	behind
+4.76	πρόβατον	noun	tot	29	1.56	q	1	0.37	n	28	1.77	sheep; small cattle
+4.76	παραπλήσιος	adjective	tot	29	1.56	q	1	0.37	n	28	1.77	coming near
+4.93	ἀποφέρω	verb	tot	30	1.62	q	1	0.37	n	29	1.83	to carry off
+5.02	τριακόσιοι	adjective	tot	61	3.29	q	2	0.74	n	59	3.73	three hundred
+5.05	ὄνομα	adjective	tot	276	14.92	q	9	3.34	n	267	16.89	name
+5.11	πίνω	verb	tot	31	1.67	q	1	0.37	n	30	1.89	to drink
+5.11	μῆκος	adjective	tot	31	1.67	q	1	0.37	n	30	1.89	length
+5.11	ἄρσην	noun	tot	31	1.67	q	1	0.37	n	30	1.89	male
+5.11	Σάμιος	proper	tot	93	5.02	q	3	1.11	n	90	5.69	of Samos
+5.11	εἴκοσι	verb	tot	62	3.35	q	2	0.74	n	60	3.79	twenty
+5.11	μέγαθος	noun	tot	62	3.35	q	2	0.74	n	60	3.79	nodef
+5.11	ἑξήκοντα	adjective	tot	31	1.67	q	1	0.37	n	30	1.89	sixty
+5.11	δένδρεον	noun	tot	31	1.67	q	1	0.37	n	30	1.89	a tree
+5.16	πλήν	preposition	tot	94	5.08	q	3	1.11	n	91	5.75	except
+5.22	θύω	verb	tot	95	5.13	q	3	1.11	n	92	5.82	to sacrifice
+5.28	ἅτε	adverb	tot	64	3.46	q	2	0.74	n	62	3.92	just as (both pre-and postposed); w. part.: because
+5.28	θηρίον	noun	tot	32	1.73	q	1	0.37	n	31	1.96	a wild animal
+5.28	Ἀπόλλων	proper	tot	32	1.73	q	1	0.37	n	31	1.96	Apollo
+5.28	ὑποκρίνομαι	verb	tot	32	1.73	q	1	0.37	n	31	1.96	nodef
+5.45	ἀφίημι	verb	tot	33	1.78	q	1	0.37	n	32	2.02	to send forth
+5.62	ἀσπίς	noun	tot	34	1.83	q	1	0.37	n	33	2.08	a round shield; asp
+5.62	Παίων	proper	tot	34	1.83	q	1	0.37	n	33	2.08	Paeonian
+5.62	Αἰολεύς	proper	tot	34	1.83	q	1	0.37	n	33	2.08	Aeolian
+5.62	ἐπωνυμία	noun	tot	34	1.83	q	1	0.37	n	33	2.08	name
+5.79	φορέω	verb	tot	35	1.89	q	1	0.37	n	34	2.15	to bear
+5.79	πεδίον	noun	tot	35	1.89	q	1	0.37	n	34	2.15	a plain
+5.79	Σύριος	proper	tot	35	1.89	q	1	0.37	n	34	2.15	Syrian
+5.79	σκευάζω	verb	tot	35	1.89	q	1	0.37	n	34	2.15	to prepare
+5.79	ἀποτέμνω	verb	tot	35	1.89	q	1	0.37	n	34	2.15	to cut off
+5.79	ἐκδίδωμι	verb	tot	70	3.78	q	2	0.74	n	68	4.30	to give up
+5.96	θυσία	noun	tot	36	1.94	q	1	0.37	n	35	2.21	burnt offering
+6.38	Ἄμασις	proper	tot	77	4.16	q	2	0.74	n	75	4.74	Amasis
+6.47	Κάρ	proper	tot	39	2.10	q	1	0.37	n	38	2.40	a Carian
+6.64	βοῦς	noun	tot	40	2.16	q	1	0.37	n	39	2.46	cow
+6.64	ξύλον	adjective	tot	40	2.16	q	1	0.37	n	39	2.46	wood
+6.64	ἀκρόπολις	noun	tot	40	2.16	q	1	0.37	n	39	2.46	the upper city
+6.81	δόκιμος	adjective	tot	41	2.21	q	1	0.37	n	40	2.53	assayed
+6.81	Πεισίστρατος	proper	tot	41	2.21	q	1	0.37	n	40	2.53	Peisistratus
+6.98	ὀκτώ	adverb	tot	42	2.27	q	1	0.37	n	41	2.59	eight
+6.98	στόμα	noun	tot	42	2.27	q	1	0.37	n	41	2.59	the mouth
+7.15	Θρᾷξ	proper	tot	43	2.32	q	1	0.37	n	42	2.65	a Thracian;
+7.15	πλέω	verb	tot	129	6.97	q	3	1.11	n	126	7.97	to sail
+7.15	ῥέομαι	verb	tot	43	2.32	q	1	0.37	n	42	2.65	nodef
+7.32	Παυσανίης	proper	tot	44	2.37	q	1	0.37	n	43	2.72	nodef
+7.66	χειμών	noun	tot	46	2.48	q	1	0.37	n	45	2.84	winter; storm
+7.83	ἀνάγω	verb	tot	47	2.54	q	1	0.37	n	46	2.91	to lead up; mid. set sail
+8.00	Σκυθικός	adjective	tot	48	2.59	q	1	0.37	n	47	2.97	Scythian
+8.09	λίμνη	noun	tot	97	5.24	q	2	0.74	n	95	6.01	a pool of standing water; a lake
+8.17	ἑσπέρα	noun	tot	49	2.64	q	1	0.37	n	48	3.03	evening
+8.17	ἐπιχώριος	adjective	tot	49	2.64	q	1	0.37	n	48	3.03	in or of the country
+8.27	Αἴγυπτος	proper	tot	248	13.41	q	5	1.85	n	243	15.38	Egypt (f.); king Aegyptus (m.)
+8.85	Βορέας	proper	tot	53	2.86	q	1	0.37	n	52	3.29	North wind
+8.85	ὀρύσσω	verb	tot	53	2.86	q	1	0.37	n	52	3.29	to dig
+9.19	τρέω	verb	tot	55	2.97	q	1	0.37	n	54	3.41	to flee from fear
+9.77	Αἰγύπτιος	proper	tot	292	15.79	q	5	1.85	n	287	18.16	Egyptian
+10.05	χρύσεος	adjective	tot	60	3.24	q	1	0.37	n	59	3.73	golden
+10.22	σφέτερος	adjective	tot	61	3.29	q	1	0.37	n	60	3.79	their own
+11.07	πλοῖον	noun	tot	66	3.56	q	1	0.37	n	65	4.11	a floating vessel
+11.75	Πύθιος	proper	tot	70	3.78	q	1	0.37	n	69	4.36	Pythian
+13.62	Κλεομένης	proper	tot	81	4.38	q	1	0.37	n	80	5.06	Cleomenes
+14.13	στάδιον	noun	tot	84	4.54	q	1	0.37	n	83	5.25	a stade
+17.54	Λιβύη	proper	tot	104	5.62	q	1	0.37	n	103	6.51	Libya
+1000	πη	particle	tot	26	1.40	q	0	0	n	26	1.64	[Dor. in some way
+1000	ὕω	verb	tot	21	1.13	q	0	0	n	21	1.32	to send rain
+1000	ἅλς	adjective	tot	15	0.81	q	0	0	n	15	0.94	a lump of salt
+1000	δίς	adverb	tot	14	0.75	q	0	0	n	14	0.88	twice
+1000	φώρ	noun	tot	10	0.54	q	0	0	n	10	0.63	a thief
+1000	βόα	noun	tot	11	0.59	q	0	0	n	11	0.69	fish
+1000	πῦρ	noun	tot	38	2.05	q	0	0	n	38	2.40	fire
+1000	Ἰάς	proper	tot	11	0.59	q	0	0	n	11	0.69	Ionian
+1000	Πάν	proper	tot	13	0.70	q	0	0	n	13	0.82	Pan
+1000	ῥέω	verb	tot	74	4.00	q	0	0	n	74	4.68	to flow
+1000	χιών	adjective	tot	10	0.54	q	0	0	n	10	0.63	snow
+1000	σῆμα	adjective	tot	12	0.64	q	0	0	n	12	0.75	a sign
+1000	ὀξύς	adjective	tot	14	0.75	q	0	0	n	14	0.88	wood sorrel
+1000	τρίς	adverb	tot	10	0.54	q	0	0	n	10	0.63	thrice
+1000	τέως	adverb	tot	16	0.86	q	0	0	n	16	1.01	so long
+1000	οὐρά	noun	tot	10	0.54	q	0	0	n	10	0.63	the tail
+1000	ταφή	noun	tot	11	0.59	q	0	0	n	11	0.69	burial
+1000	λεία	noun	tot	11	0.59	q	0	0	n	11	0.69	tool for smoothing stone
+1000	φυλή	noun	tot	14	0.75	q	0	0	n	14	0.88	a race
+1000	θρίξ	noun	tot	14	0.75	q	0	0	n	14	0.88	the hair of the head
+1000	ὕψος	noun	tot	16	0.86	q	0	0	n	16	1.01	height
+1000	ἀκτή	noun	tot	17	0.91	q	0	0	n	17	1.07	headland
+1000	ἕλος	noun	tot	17	0.91	q	0	0	n	17	1.07	low ground by rivers
+1000	ἅρμα	noun	tot	19	1.02	q	0	0	n	19	1.20	a chariot
+1000	ὄφις	noun	tot	25	1.35	q	0	0	n	25	1.58	a serpent
+1000	Ἅλυς	proper	tot	10	0.54	q	0	0	n	10	0.63	Halys
+1000	Ἆπις	proper	tot	12	0.64	q	0	0	n	12	0.75	Apis bull; pr.n. of king of Argos; a town in Egypt
+1000	Σάις	proper	tot	12	0.64	q	0	0	n	12	0.75	Sais
+1000	Κρής	proper	tot	12	0.64	q	0	0	n	12	0.75	a Cretan
+1000	Ἰνδή	proper	tot	13	0.70	q	0	0	n	13	0.82	nodef
+1000	Ἄθως	proper	tot	15	0.81	q	0	0	n	15	0.94	mount Athos
+1000	Χῖος	proper	tot	17	0.91	q	0	0	n	17	1.07	Chian (inhabitant of Chios)
+1000	Θήρα	proper	tot	19	1.02	q	0	0	n	19	1.20	Thera
+1000	Χίος	proper	tot	32	1.73	q	0	0	n	32	2.02	Chios (island)
+1000	ἄρδω	verb	tot	10	0.54	q	0	0	n	10	0.63	to water
+1000	ἵημι	verb	tot	11	0.59	q	0	0	n	11	0.69	to set a going
+1000	ἕκτος	adjective	tot	10	0.54	q	0	0	n	10	0.63	sixth
+1000	παχύς	adjective	tot	10	0.54	q	0	0	n	10	0.63	thick
+1000	μέλας	adjective	tot	15	0.81	q	0	0	n	15	0.94	black
+1000	εὐρύς	adjective	tot	17	0.91	q	0	0	n	17	1.07	wide
+1000	ἄκρος	adjective	tot	19	1.02	q	0	0	n	19	1.20	at the furthest point
+1000	θῆλυς	adjective	tot	31	1.67	q	0	0	n	31	1.96	female
+1000	λίθος	adjective	tot	68	3.67	q	0	0	n	68	4.30	a stone
+1000	μόγις	adverb	tot	10	0.54	q	0	0	n	10	0.63	(with toil and pain); barely
+1000	δῆθεν	adverb	tot	13	0.70	q	0	0	n	13	0.82	really
+1000	πάγχυ	adverb	tot	14	0.75	q	0	0	n	14	0.88	quite
+1000	κυνέα	noun	tot	10	0.54	q	0	0	n	10	0.63	nodef
+1000	κλίνη	noun	tot	11	0.59	q	0	0	n	11	0.69	that on which one lies
+1000	ἑστία	noun	tot	11	0.59	q	0	0	n	11	0.69	the hearth of a house
+1000	ἄκρις	noun	tot	12	0.64	q	0	0	n	12	0.75	a hill-top
+1000	ὅρκος	noun	tot	12	0.64	q	0	0	n	12	0.75	the object by which one swears
+1000	ξενία	noun	tot	12	0.64	q	0	0	n	12	0.75	the rights of a guest
+1000	αὐχήν	noun	tot	13	0.70	q	0	0	n	13	0.82	the neck
+1000	οὖρος	noun	tot	14	0.75	q	0	0	n	14	0.88	a fair wind
+1000	ἐλαία	noun	tot	14	0.75	q	0	0	n	14	0.88	the olive-tree
+1000	θώραξ	noun	tot	15	0.81	q	0	0	n	15	0.94	a breastplate
+1000	τέχνη	noun	tot	15	0.81	q	0	0	n	15	0.94	art
+1000	φιάλη	noun	tot	16	0.86	q	0	0	n	16	1.01	a broad
+1000	μνήμη	noun	tot	16	0.86	q	0	0	n	16	1.01	a remembrance
+1000	μηρός	noun	tot	16	0.86	q	0	0	n	16	1.01	the thigh
+1000	δέρμα	noun	tot	17	0.91	q	0	0	n	17	1.07	the skin
+1000	νέκυς	noun	tot	18	0.97	q	0	0	n	18	1.13	a dead body
+1000	κρήνη	noun	tot	20	1.08	q	0	0	n	20	1.26	a well
+1000	εὖρος	noun	tot	23	1.24	q	0	0	n	23	1.45	breadth
+1000	θέρος	noun	tot	23	1.24	q	0	0	n	23	1.45	summer
+1000	πλόος	noun	tot	25	1.35	q	0	0	n	25	1.58	a sailing
+1000	νότος	noun	tot	26	1.40	q	0	0	n	26	1.64	the south
+1000	στήλη	noun	tot	28	1.51	q	0	0	n	28	1.77	a block of stone
+1000	βωμός	noun	tot	28	1.51	q	0	0	n	28	1.77	any raised platform
+1000	κρέας	noun	tot	29	1.56	q	0	0	n	29	1.83	flesh
+1000	πῆχυς	noun	tot	29	1.56	q	0	0	n	29	1.83	the fore-arm
+1000	Θάσος	proper	tot	10	0.54	q	0	0	n	10	0.63	Thasos
+1000	Νίνος	proper	tot	11	0.59	q	0	0	n	11	0.69	(fem.) the city Ninus
+1000	Εἵλως	proper	tot	12	0.64	q	0	0	n	12	0.75	a Helot
+1000	Θέρμη	proper	tot	12	0.64	q	0	0	n	12	0.75	nodef
+1000	Κίμων	proper	tot	13	0.70	q	0	0	n	13	0.82	Cimon
+1000	Σοῦσα	proper	tot	13	0.70	q	0	0	n	13	0.82	Susa
+1000	Τεγέα	proper	tot	13	0.70	q	0	0	n	13	0.82	Tegea
+1000	Βουτώ	proper	tot	13	0.70	q	0	0	n	13	0.82	nodef
+1000	Σιδών	proper	tot	14	0.75	q	0	0	n	14	0.88	Sidon; Sidonian
+1000	Δέλτη	proper	tot	14	0.75	q	0	0	n	14	0.88	nodef
+1000	Ἥλιος	proper	tot	14	0.75	q	0	0	n	14	0.88	nodef
+1000	Μυσός	proper	tot	15	0.81	q	0	0	n	15	0.94	a Mysian
+1000	Κρήτη	proper	tot	16	0.86	q	0	0	n	16	1.01	Crete
+1000	Δῆλος	proper	tot	23	1.24	q	0	0	n	23	1.45	Delos
+1000	Ἀργᾶς	proper	tot	24	1.29	q	0	0	n	24	1.51	nodef
+1000	Θῆβαι	proper	tot	25	1.35	q	0	0	n	25	1.58	Thebes (usu. plural)
+1000	Ἑλένη	proper	tot	27	1.46	q	0	0	n	27	1.70	Helen
+1000	Ἀθήνη	proper	tot	50	2.70	q	0	0	n	50	3.16	Athena
+1000	Λίβυς	proper	tot	56	3.02	q	0	0	n	56	3.54	a Libyan
+1000	ἀφήκω	verb	tot	10	0.54	q	0	0	n	10	0.63	to arrive at
+1000	συλάω	verb	tot	10	0.54	q	0	0	n	10	0.63	to strip off
+1000	τύπτω	verb	tot	11	0.59	q	0	0	n	11	0.69	to beat
+1000	ὁρίζω	verb	tot	11	0.59	q	0	0	n	11	0.69	to divide
+1000	κέλλω	verb	tot	11	0.59	q	0	0	n	11	0.69	to drive on
+1000	ὑπέχω	verb	tot	11	0.59	q	0	0	n	11	0.69	to hold under
+1000	σφάζω	verb	tot	12	0.64	q	0	0	n	12	0.75	to slay
+1000	κόπτω	verb	tot	12	0.64	q	0	0	n	12	0.75	to strike
+1000	σχίζω	verb	tot	13	0.70	q	0	0	n	13	0.82	to split
+1000	ἐπαύω	verb	tot	19	1.02	q	0	0	n	19	1.20	to shout over
+1000	σχέθω	verb	tot	26	1.40	q	0	0	n	26	1.64	to hold
+1000	γράφω	verb	tot	33	1.78	q	0	0	n	33	2.08	to scratch
+1000	κράνος	adjective	tot	11	0.59	q	0	0	n	11	0.69	a helmet
+1000	τυφλός	adjective	tot	11	0.59	q	0	0	n	11	0.69	blind
+1000	λίνεος	adjective	tot	12	0.64	q	0	0	n	12	0.75	of flax
+1000	θερμός	adjective	tot	13	0.70	q	0	0	n	13	0.82	hot
+1000	ὀιστός	adjective	tot	14	0.75	q	0	0	n	14	0.88	nodef
+1000	ἄγριος	adjective	tot	16	0.86	q	0	0	n	16	1.01	(living in the fields) wild
+1000	λευκός	adjective	tot	18	0.97	q	0	0	n	18	1.13	light
+1000	ὄργυια	adjective	tot	18	0.97	q	0	0	n	18	1.13	the length of the outstretched arms
+1000	ὑψηλός	adjective	tot	24	1.29	q	0	0	n	24	1.51	high
+1000	δεξιός	adjective	tot	32	1.73	q	0	0	n	32	2.02	on the right hand
+1000	ἱερεύς	adjective	tot	57	3.08	q	0	0	n	57	3.60	a priest
+1000	ἐφεξῆς	adverb	tot	10	0.54	q	0	0	n	10	0.63	in order
+1000	ὁπόθεν	adverb	tot	11	0.59	q	0	0	n	11	0.69	whence
+1000	ἔξωθεν	adverb	tot	13	0.70	q	0	0	n	13	0.82	from without
+1000	πλήρης	adverb	tot	14	0.75	q	0	0	n	14	0.88	filled
+1000	αὐτόθι	adverb	tot	34	1.83	q	0	0	n	34	2.15	on the spot
+1000	μεταξύ	adverb	tot	36	1.94	q	0	0	n	36	2.27	betwixt
+1000	τάφρος	noun	tot	10	0.54	q	0	0	n	10	0.63	a ditch
+1000	πτερόν	noun	tot	10	0.54	q	0	0	n	10	0.63	feathers
+1000	μέτρον	noun	tot	11	0.59	q	0	0	n	11	0.69	that by which anything is measured
+1000	σκέλος	noun	tot	11	0.59	q	0	0	n	11	0.69	the leg
+1000	τοῖχος	noun	tot	11	0.59	q	0	0	n	11	0.69	the wall of a house
+1000	φοῖνιξ	noun	tot	13	0.70	q	0	0	n	13	0.82	a purple-red
+1000	χεῖλος	noun	tot	13	0.70	q	0	0	n	13	0.82	lip
+1000	ἰατρός	noun	tot	13	0.70	q	0	0	n	13	0.82	one who heals
+1000	γαστήρ	noun	tot	13	0.70	q	0	0	n	13	0.82	the paunch
+1000	ἁρπαγή	noun	tot	14	0.75	q	0	0	n	14	0.88	seizure
+1000	ἕνδεκα	noun	tot	17	0.91	q	0	0	n	17	1.07	eleven; the Eleven
+1000	ὀστέον	noun	tot	18	0.97	q	0	0	n	18	1.13	bone
+1000	πόντος	noun	tot	18	0.97	q	0	0	n	18	1.13	the sea
+1000	πύργος	noun	tot	19	1.02	q	0	0	n	19	1.20	a tower
+1000	ψάμμος	noun	tot	20	1.08	q	0	0	n	20	1.26	sand
+1000	πέδιον	noun	tot	21	1.13	q	0	0	n	21	1.32	nodef
+1000	κτῆνος	noun	tot	28	1.51	q	0	0	n	28	1.77	flocks and herds
+1000	ἱππεύς	noun	tot	30	1.62	q	0	0	n	30	1.89	a horseman
+1000	διῶρυξ	noun	tot	33	1.78	q	0	0	n	33	2.08	a trench
+1000	γράμμα	noun	tot	34	1.83	q	0	0	n	34	2.15	(drawing
+1000	κόλπος	noun	tot	41	2.21	q	0	0	n	41	2.59	bosom; gulf
+1000	γλῶσσα	noun	tot	52	2.81	q	0	0	n	52	3.29	the tongue
+1000	Δώριος	proper	tot	10	0.54	q	0	0	n	10	0.63	Dorian
+1000	Λέσβος	proper	tot	10	0.54	q	0	0	n	10	0.63	Lesbos
+1000	Κάριος	proper	tot	11	0.59	q	0	0	n	11	0.69	Carian
+1000	Ἔφεσος	proper	tot	11	0.59	q	0	0	n	11	0.69	Ephesus (f.
+1000	Μίνυος	proper	tot	11	0.59	q	0	0	n	11	0.69	nodef
+1000	Λύδιος	proper	tot	11	0.59	q	0	0	n	11	0.69	of Lydia
+1000	Αἰάκης	proper	tot	12	0.64	q	0	0	n	12	0.75	nodef
+1000	Ὕπανις	proper	tot	12	0.64	q	0	0	n	12	0.75	nodef
+1000	Δήλιος	proper	tot	13	0.70	q	0	0	n	13	0.82	Delian
+1000	Ἀμαζών	proper	tot	13	0.70	q	0	0	n	13	0.82	the Amazons
+1000	Λύκιοι	proper	tot	13	0.70	q	0	0	n	13	0.82	the Lycians
+1000	Ἄβυδος	proper	tot	14	0.75	q	0	0	n	14	0.88	Abydos
+1000	Λῆμνος	proper	tot	15	0.81	q	0	0	n	15	0.94	Lemnos
+1000	Μυκάλη	proper	tot	15	0.81	q	0	0	n	15	0.94	Mycale
+1000	Τραχίς	proper	tot	18	0.97	q	0	0	n	18	1.13	Trachis
+1000	Πάριος	proper	tot	18	0.97	q	0	0	n	18	1.13	from the island of Paros
+1000	Βάττος	proper	tot	20	1.08	q	0	0	n	20	1.26	Battus
+1000	Κόλχος	proper	tot	21	1.13	q	0	0	n	21	1.32	a Colchian
+1000	Ἠλεῖος	proper	tot	22	1.18	q	0	0	n	22	1.39	from Elis
+1000	Σικυών	proper	tot	25	1.35	q	0	0	n	25	1.58	Sicyon
+1000	Πόντος	proper	tot	26	1.40	q	0	0	n	26	1.64	Pontus
+1000	Μέμφις	proper	tot	40	2.16	q	0	0	n	40	2.53	Memphis
+1000	Νεῖλος	proper	tot	64	3.46	q	0	0	n	64	4.05	the Nile
+1000	ἀφοράω	verb	tot	10	0.54	q	0	0	n	10	0.63	to look away from
+1000	ἀγινέω	verb	tot	12	0.64	q	0	0	n	12	0.75	to lead
+1000	ἐφοράω	verb	tot	13	0.70	q	0	0	n	13	0.82	to oversee
+1000	δικάζω	verb	tot	15	0.81	q	0	0	n	15	0.94	to judge
+1000	ζωγρέω	verb	tot	17	0.91	q	0	0	n	17	1.07	to take alive
+1000	στέλλω	verb	tot	27	1.46	q	0	0	n	27	1.70	to set in order
+1000	ἄποικος	adjective	tot	11	0.59	q	0	0	n	11	0.69	away from home
+1000	ἀτραπός	adjective	tot	11	0.59	q	0	0	n	11	0.69	short cut
+1000	ἄνυδρος	adjective	tot	12	0.64	q	0	0	n	12	0.75	wanting water
+1000	τρίπους	adjective	tot	14	0.75	q	0	0	n	14	0.88	three-footed
+1000	μάχιμος	adjective	tot	15	0.81	q	0	0	n	15	0.94	fit for battle
+1000	ὕστατος	adjective	tot	16	0.86	q	0	0	n	16	1.01	nodef
+1000	καθαρός	adjective	tot	20	1.08	q	0	0	n	20	1.26	clear of dirt
+1000	φανερός	adjective	tot	21	1.13	q	0	0	n	21	1.32	open to sight
+1000	ξύλινος	adjective	tot	29	1.56	q	0	0	n	29	1.83	of wood
+1000	χάλκεος	adjective	tot	33	1.78	q	0	0	n	33	2.08	of copper
+1000	Μηδικός	adjective	tot	36	1.94	q	0	0	n	36	2.27	Median
+1000	δυώδεκα	adjective	tot	39	2.10	q	0	0	n	39	2.46	twelve
+1000	σταθμός	noun	tot	10	0.54	q	0	0	n	10	0.63	a standing place
+1000	μέγαρον	noun	tot	11	0.59	q	0	0	n	11	0.69	a large room
+1000	φορτίον	noun	tot	11	0.59	q	0	0	n	11	0.69	a load
+1000	ἀποικία	noun	tot	11	0.59	q	0	0	n	11	0.69	a settlement far from home
+1000	ἀδίκημα	noun	tot	11	0.59	q	0	0	n	11	0.69	a wrong done
+1000	παίδιον	noun	tot	11	0.59	q	0	0	n	11	0.69	nodef
+1000	σταθμόν	noun	tot	11	0.59	q	0	0	n	11	0.69	weight
+1000	μάχαιρα	noun	tot	12	0.64	q	0	0	n	12	0.75	a large knife
+1000	ἱερεῖον	noun	tot	12	0.64	q	0	0	n	12	0.75	a victim
+1000	σχοῖνος	noun	tot	13	0.70	q	0	0	n	13	0.82	a rush
+1000	ἀνδριάς	noun	tot	13	0.70	q	0	0	n	13	0.82	the image of a man
+1000	ἱππότης	noun	tot	15	0.81	q	0	0	n	15	0.94	a driver
+1000	κολωνός	noun	tot	15	0.81	q	0	0	n	15	0.94	a hill
+1000	αἰδοῖον	noun	tot	15	0.81	q	0	0	n	15	0.94	the genitals
+1000	βιβλίον	noun	tot	21	1.13	q	0	0	n	21	1.32	a paper
+1000	κάμηλος	noun	tot	22	1.18	q	0	0	n	22	1.39	a camel
+1000	ἀνάθημα	noun	tot	23	1.24	q	0	0	n	23	1.45	a votive offering set up
+1000	τέμενος	noun	tot	32	1.73	q	0	0	n	32	2.02	a piece of land cut off
+1000	Κάσπιος	proper	tot	10	0.54	q	0	0	n	10	0.63	Caspian; see also entries for Caspium [mare]
+1000	Πηνειός	proper	tot	10	0.54	q	0	0	n	10	0.63	Peneüs
+1000	Θήραιον	proper	tot	10	0.54	q	0	0	n	10	0.63	nodef
+1000	Ἀρκαδία	proper	tot	11	0.59	q	0	0	n	11	0.69	Arcadia
+1000	Γελωνός	proper	tot	11	0.59	q	0	0	n	11	0.69	nodef
+1000	Συλοσών	proper	tot	11	0.59	q	0	0	n	11	0.69	nodef
+1000	Πακτύης	proper	tot	12	0.64	q	0	0	n	12	0.75	Pactyes
+1000	Φάληρον	proper	tot	12	0.64	q	0	0	n	12	0.75	Phaleron
+1000	Πρωτεύς	proper	tot	12	0.64	q	0	0	n	12	0.75	Proteus
+1000	Μαιῆτις	proper	tot	13	0.70	q	0	0	n	13	0.82	Maeotian (lake)
+1000	Ἄρτεμις	proper	tot	15	0.81	q	0	0	n	15	0.94	Artemis
+1000	Κέρκυρα	proper	tot	15	0.81	q	0	0	n	15	0.94	Corcyra
+1000	Πλάταια	proper	tot	15	0.81	q	0	0	n	15	0.94	Plataea
+1000	Ζώπυρος	proper	tot	15	0.81	q	0	0	n	15	0.94	nodef
+1000	Φοινίκη	proper	tot	17	0.91	q	0	0	n	17	1.07	Phoenicia
+1000	Στρυμών	proper	tot	18	0.97	q	0	0	n	18	1.13	the Strymon
+1000	Ἀμύντης	proper	tot	21	1.13	q	0	0	n	21	1.32	nodef
+1000	Δημήτηρ	proper	tot	22	1.18	q	0	0	n	22	1.39	Demeter
+1000	Ἡράκλεα	proper	tot	22	1.18	q	0	0	n	22	1.39	nodef
+1000	Ἐρυθραί	proper	tot	26	1.40	q	0	0	n	26	1.64	Erythrae
+1000	Ἀράβιος	proper	tot	60	3.24	q	0	0	n	60	3.79	Arabian
+1000	ἐκχωρέω	verb	tot	10	0.54	q	0	0	n	10	0.63	to go out and away
+1000	περιάγω	verb	tot	10	0.54	q	0	0	n	10	0.63	to lead
+1000	διαλέγω	verb	tot	10	0.54	q	0	0	n	10	0.63	to pick out one from another
+1000	ἀναπλέω	verb	tot	11	0.59	q	0	0	n	11	0.69	to sail up
+1000	εἰσφέρω	verb	tot	12	0.64	q	0	0	n	12	0.75	to bring in
+1000	καθίημι	verb	tot	12	0.64	q	0	0	n	12	0.75	to send down
+1000	ταράσσω	verb	tot	12	0.64	q	0	0	n	12	0.75	to stir
+1000	πιστεύω	verb	tot	12	0.64	q	0	0	n	12	0.75	to trust
+1000	ἱστορέω	verb	tot	15	0.81	q	0	0	n	15	0.94	to inquire into
+1000	ἀφανίζω	verb	tot	15	0.81	q	0	0	n	15	0.94	to make unseen
+1000	σέβομαι	verb	tot	17	0.91	q	0	0	n	17	1.07	to feel awe
+1000	ἐπιπλέω	verb	tot	19	1.02	q	0	0	n	19	1.20	to sail upon
+1000	ἐφορεύω	verb	tot	30	1.62	q	0	0	n	30	1.89	to be ephor
+1000	διάφορος	adjective	tot	10	0.54	q	0	0	n	10	0.63	different
+1000	μεσόγεως	adjective	tot	18	0.97	q	0	0	n	18	1.13	nodef
+1000	προσεχής	adverb	tot	12	0.64	q	0	0	n	12	0.75	next to
+1000	ἀγχοτάτω	adverb	tot	13	0.70	q	0	0	n	13	0.82	nearest
+1000	δάκτυλος	noun	tot	10	0.54	q	0	0	n	10	0.63	a finger
+1000	ἀκινάκης	noun	tot	10	0.54	q	0	0	n	10	0.63	a short straight sword
+1000	κολοσσός	noun	tot	12	0.64	q	0	0	n	12	0.75	a colossus
+1000	ἀκόντιον	noun	tot	12	0.64	q	0	0	n	12	0.75	javelin
+1000	περίοδος	noun	tot	13	0.70	q	0	0	n	13	0.82	one who goes the rounds
+1000	αἰγιαλός	noun	tot	16	0.86	q	0	0	n	16	1.01	the sea-shore
+1000	συμμαχία	noun	tot	26	1.40	q	0	0	n	26	1.64	an alliance offensive and defensive
+1000	Κιθαιρών	proper	tot	10	0.54	q	0	0	n	10	0.63	Mount Cithaeron
+1000	Ἐπιάλτης	proper	tot	10	0.54	q	0	0	n	10	0.63	nodef
+1000	Ἵππαρχος	proper	tot	11	0.59	q	0	0	n	11	0.69	Hipparchus
+1000	Εὔξεινος	proper	tot	11	0.59	q	0	0	n	11	0.69	nodef
+1000	Φερετίμη	proper	tot	12	0.64	q	0	0	n	12	0.75	nodef
+1000	Ἀφροδίτη	proper	tot	13	0.70	q	0	0	n	13	0.82	Aphrodite
+1000	Ἀρίστεας	proper	tot	13	0.70	q	0	0	n	13	0.82	nodef
+1000	Κυαξάρης	proper	tot	14	0.75	q	0	0	n	14	0.88	Cyaxares
+1000	Ἀμμώνιος	proper	tot	15	0.81	q	0	0	n	15	0.94	Ammonian
+1000	Βάκτριος	proper	tot	15	0.81	q	0	0	n	15	0.94	Bactrian
+1000	Ὀνήσιλος	proper	tot	15	0.81	q	0	0	n	15	0.94	Onesilus
+1000	Φωκαιεύς	proper	tot	16	0.86	q	0	0	n	16	1.01	Phocaean
+1000	Ἥφαιστος	proper	tot	18	0.97	q	0	0	n	18	1.13	Hephaestus
+1000	Ποσειδῶν	proper	tot	18	0.97	q	0	0	n	18	1.13	Poseidon
+1000	Πλαταιός	proper	tot	20	1.08	q	0	0	n	20	1.26	nodef
+1000	Ἀλυάττης	proper	tot	24	1.29	q	0	0	n	24	1.51	Alyattes
+1000	Διόνυσος	proper	tot	34	1.83	q	0	0	n	34	2.15	Dionysus
+1000	Πελασγός	proper	tot	37	2.00	q	0	0	n	37	2.34	a Pelasgian;
+1000	ἀριστεύω	verb	tot	10	0.54	q	0	0	n	10	0.63	to be best
+1000	συγκαλέω	verb	tot	10	0.54	q	0	0	n	10	0.63	to call to council
+1000	ἀποπνίγω	verb	tot	10	0.54	q	0	0	n	10	0.63	to choke
+1000	καθαγίζω	verb	tot	10	0.54	q	0	0	n	10	0.63	to devote
+1000	δατέομαι	verb	tot	10	0.54	q	0	0	n	10	0.63	to divide among themselves
+1000	ἐπιδιώκω	verb	tot	10	0.54	q	0	0	n	10	0.63	to pursue after
+1000	ἐπιλείπω	verb	tot	11	0.59	q	0	0	n	11	0.69	to leave behind; to run out
+1000	κατειλέω	verb	tot	12	0.64	q	0	0	n	12	0.75	to force into a narrow space
+1000	διαπέμπω	verb	tot	14	0.75	q	0	0	n	14	0.88	to send off in different directions
+1000	ταριχεύω	verb	tot	15	0.81	q	0	0	n	15	0.94	to preserve the body by artificial means
+1000	εἰσπίπτω	verb	tot	18	0.97	q	0	0	n	18	1.13	to fall into
+1000	συμπίτνω	verb	tot	20	1.08	q	0	0	n	20	1.26	fall
+1000	πρόσειμι	verb	tot	27	1.46	q	0	0	n	27	1.70	be there (in addition)
+1000	πίμπλημι	verb	tot	28	1.51	q	0	0	n	28	1.77	to fill full of
+1000	αὐτόμολος	adjective	tot	10	0.54	q	0	0	n	10	0.63	going of oneself
+1000	τριφάσιος	adjective	tot	10	0.54	q	0	0	n	10	0.63	threefold
+1000	ἐπίλοιπος	adjective	tot	12	0.64	q	0	0	n	12	0.75	still left
+1000	ὑστεραῖος	adjective	tot	17	0.91	q	0	0	n	17	1.07	on the day after
+1000	ὀνομαστός	adjective	tot	18	0.97	q	0	0	n	18	1.13	named
+1000	ἑξακόσιοι	adjective	tot	18	0.97	q	0	0	n	18	1.13	six hundred
+1000	θεοπρόπος	adjective	tot	19	1.02	q	0	0	n	19	1.20	foretelling things by a spirit of prophecy
+1000	ἀριστερός	adjective	tot	24	1.29	q	0	0	n	24	1.51	left
+1000	τηνικαῦτα	adverb	tot	19	1.02	q	0	0	n	19	1.20	at that time
+1000	ἔμπροσθεν	adverb	tot	19	1.02	q	0	0	n	19	1.20	before
+1000	νεανίσκος	noun	tot	10	0.54	q	0	0	n	10	0.63	a youth
+1000	μεσημβρία	noun	tot	25	1.35	q	0	0	n	25	1.58	mid-day
+1000	Ἀνάχαρσις	proper	tot	10	0.54	q	0	0	n	10	0.63	Anacharsis
+1000	Πανιώνιον	proper	tot	10	0.54	q	0	0	n	10	0.63	Panionium
+1000	Ἐρετριεύς	proper	tot	10	0.54	q	0	0	n	10	0.63	citizen of Eretria
+1000	Αἰθιόπιος	proper	tot	11	0.59	q	0	0	n	11	0.69	nodef
+1000	Ἀγάθυρσος	proper	tot	11	0.59	q	0	0	n	11	0.69	nodef
+1000	Σέσωστρις	proper	tot	12	0.64	q	0	0	n	12	0.75	nodef
+1000	Μαίανδρος	proper	tot	14	0.75	q	0	0	n	14	0.88	Maeander
+1000	Βυζάντιος	proper	tot	14	0.75	q	0	0	n	14	0.88	inhabitant of Byzantium (no LSJ entry)
+1000	Δημοκήδης	proper	tot	19	1.02	q	0	0	n	19	1.20	Democedes
+1000	Πλαταιεῖς	proper	tot	19	1.02	q	0	0	n	19	1.20	nodef
+1000	Μεγάβαζος	proper	tot	24	1.29	q	0	0	n	24	1.51	Megabazus
+1000	Κυρηναῖος	proper	tot	39	2.10	q	0	0	n	39	2.46	of Cyrene
+1000	Μιλτιάδης	proper	tot	52	2.81	q	0	0	n	52	3.29	Miltiades
+1000	παρέξειμι	verb	tot	10	0.54	q	0	0	n	10	0.63	pass by
+1000	κατοικίζω	verb	tot	11	0.59	q	0	0	n	11	0.69	settle
+1000	ἀπέργνυμι	verb	tot	12	0.64	q	0	0	n	12	0.75	nodef
+1000	σύγκειμαι	verb	tot	12	0.64	q	0	0	n	12	0.75	to lie together
+1000	προσστάζω	verb	tot	13	0.70	q	0	0	n	13	0.82	to drop on
+1000	προστάσσω	verb	tot	13	0.70	q	0	0	n	13	0.82	to order
+1000	ὑπερβαίνω	verb	tot	14	0.75	q	0	0	n	14	0.88	to step over
+1000	ἀναισιμόω	verb	tot	14	0.75	q	0	0	n	14	0.88	to use up
+1000	καταφεύγω	verb	tot	18	0.97	q	0	0	n	18	1.13	to flee for refuge
+1000	παραμείβω	verb	tot	19	1.02	q	0	0	n	19	1.20	to leave on one side
+1000	οἰκοδομέω	verb	tot	26	1.40	q	0	0	n	26	1.64	to build a house
+1000	ἐκδέχομαι	verb	tot	26	1.40	q	0	0	n	26	1.64	to take
+1000	ἀνατίθημι	verb	tot	44	2.37	q	0	0	n	44	2.78	dedicate
+1000	ὀκτακόσιοι	adjective	tot	10	0.54	q	0	0	n	10	0.63	eight hundred
+1000	ἀξιοθέατος	adjective	tot	10	0.54	q	0	0	n	10	0.63	well worth seeing
+1000	τετράγωνος	adjective	tot	10	0.54	q	0	0	n	10	0.63	with four equal angles
+1000	προπύλαιος	adjective	tot	12	0.64	q	0	0	n	12	0.75	before the gate
+1000	προάστειον	adjective	tot	15	0.81	q	0	0	n	15	0.94	the space immediately in front of or round a town
+1000	τρισχίλιοι	adjective	tot	16	0.86	q	0	0	n	16	1.01	three thousand
+1000	Κιμμερικός	adjective	tot	19	1.02	q	0	0	n	19	1.20	Cimmerian
+1000	παρασάγγης	noun	tot	12	0.64	q	0	0	n	12	0.75	a parasang
+1000	ὀγδοήκοντα	noun	tot	16	0.86	q	0	0	n	16	1.01	eighty
+1000	Σαλαμίνιος	proper	tot	10	0.54	q	0	0	n	10	0.63	Salaminian
+1000	Ὑπερβόρεοι	proper	tot	12	0.64	q	0	0	n	12	0.75	Hyperboreans; as adj.: more than mortal fortune
+1000	Σαυρομάτης	proper	tot	12	0.64	q	0	0	n	12	0.75	a Sarmatian
+1000	Βαβυλώνιος	proper	tot	13	0.70	q	0	0	n	13	0.82	Babylonian
+1000	Τροιζήνιος	proper	tot	13	0.70	q	0	0	n	13	0.82	of Troezen
+1000	Ἱπποκράτης	proper	tot	14	0.75	q	0	0	n	14	0.88	Hippocrates
+1000	Ἐλεφαντίνη	proper	tot	16	0.86	q	0	0	n	16	1.01	Elephantine
+1000	Ἐπιδαύριος	proper	tot	17	0.91	q	0	0	n	17	1.07	of Epidaurus
+1000	Μαιάνδριος	proper	tot	18	0.97	q	0	0	n	18	1.13	Maeander
+1000	Βορυσθένης	proper	tot	18	0.97	q	0	0	n	18	1.13	the Borysthenes
+1000	Ψαμμήτιχος	proper	tot	26	1.40	q	0	0	n	26	1.64	Psammetichus
+1000	Χερσόνησος	proper	tot	30	1.62	q	0	0	n	30	1.89	the (Thracian) Chersonese; the Crimea
+1000	Κλεισθένης	proper	tot	32	1.73	q	0	0	n	32	2.02	Clisthenes
+1000	Ἀρτεμίσιον	proper	tot	40	2.16	q	0	0	n	40	2.53	a temple of Artemis; Artemisium on Euboea
+1000	παραγγέλλω	verb	tot	10	0.54	q	0	0	n	10	0.63	to transmit as a message; give orders
+1000	συνέρχομαι	verb	tot	19	1.02	q	0	0	n	19	1.20	come together
+1000	κροκόδειλος	noun	tot	14	0.75	q	0	0	n	14	0.88	a lizard (see -διλος)
+1000	Μυτιληναῖοι	proper	tot	10	0.54	q	0	0	n	10	0.63	nodef
+1000	Ἀμομφάρετος	proper	tot	12	0.64	q	0	0	n	12	0.75	Amompharetus
+1000	Ἀριστόδημος	proper	tot	19	1.02	q	0	0	n	19	1.20	Aristodemus
+1000	κατασκευάζω	verb	tot	11	0.59	q	0	0	n	11	0.69	to equip
+1000	ἀποδιδράσκω	verb	tot	12	0.64	q	0	0	n	12	0.75	to run away
+1000	παραιτέομαι	verb	tot	14	0.75	q	0	0	n	14	0.88	to beg from
+1000	Ἀλκμαιωνίδαι	proper	tot	13	0.70	q	0	0	n	13	0.82	nodef
+1000	παραθαλάσσιος	adjective	tot	12	0.64	q	0	0	n	12	0.75	beside the sea
+1000	πεντηκόντερος	noun	tot	20	1.08	q	0	0	n	20	1.26	ship with fifty oars
+1000	ἀνακρεμάννυμι	verb	tot	10	0.54	q	0	0	n	10	0.63	to hang up on
+1000	Ἑλλησποντιακός	adjective	tot	11	0.59	q	0	0	n	11	0.69	of the Hellespont
+1000	Πεισιστρατίδης	proper	tot	22	1.18	q	0	0	n	22	1.39	Peisistratid

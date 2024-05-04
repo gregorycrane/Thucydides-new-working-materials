@@ -1,0 +1,203 @@
+
+__label__thuc__ Θουκυδίδης Ἀθηναῖος ξυνέγραψε τὸν πόλεμον τῶν Πελοποννησίων καὶ Ἀθηναίων punct ὡς ἐπολέμησαν πρὸς ἀλλήλους punct ἀρξάμενος εὐθὺς καθισταμένου καὶ ἐλπίσας μέγαν τε ἔσεσθαι καὶ ἀξιολογώτατον τῶν punct punct punct ὅτι ἀκμάζοντές τε ᾖσαν ἐς αὐτὸν ἀμφότεροι παρασκευῇ τῇ πάσῃ καὶ τὸ ἄλλο Ἑλληνικὸν ὁρῶν ξυνιστάμενον πρὸς ἑκατέρους punct τὸ μὲν εὐθύς punct τὸ δὲ καὶ διανοούμενον 
+__label__thuc__ punct γὰρ αὕτη μεγίστη δὴ τοῖς Ἕλλησιν ἐγένετο καὶ μέρει τινὶ τῶν βαρβάρων punct ὡς δὲ εἰπεῖν καὶ ἐπὶ πλεῖστον ἀνθρώπων 
+__label__thuc__ τὰ γὰρ πρὸ αὐτῶν καὶ τὰ ἔτι παλαίτερα σαφῶς μὲν εὑρεῖν διὰ χρόνου πλῆθος ἀδύνατα ἦν punct ἐκ δὲ τεκμηρίων ὧν ἐπὶ μακρότατον σκοποῦντί μοι πιστεῦσαι ξυμβαίνει οὐ μεγάλα νομίζω γενέσθαι οὔτε κατὰ τοὺς πολέμους οὔτε ἐς τὰ ἄλλα 
+__label__thuc__ φαίνεται γὰρ ἡ νῦν Ἑλλὰς καλουμένη οὐ πάλαι βεβαίως οἰκουμένη punct ἀλλὰ μεταναστάσεις τε οὖσαι τὰ πρότερα καὶ ῥᾳδίως ἕκαστοι τὴν ἑαυτῶν ἀπολείποντες punct ὑπό τινων αἰεὶ πλειόνων 
+__label__thuc__ τῆς γὰρ punct οὐκ οὔσης punct οὐδ’ ἐπιμειγνύντες ἀδεῶς ἀλλήλοις οὔτε κατὰ γῆν οὔτε διὰ θαλάσσης punct νεμόμενοί τε τὰ αὑτῶν ἕκαστοι ὅσον punct καὶ περιουσίαν χρημάτων οὐκ ἔχοντες οὐδὲ γῆν punct punct ἄδηλον ὂν ὁπότε τις ἐπελθὼν καὶ ἀτειχίστων ἅμα ὄντων ἄλλος ἀφαιρήσεται punct τῆς τε καθ’ ἡμέραν ἀναγκαίου punct πανταχοῦ ἂν ἡγούμενοι ἐπικρατεῖν punct οὐ χαλεπῶς ἀπανίσταντο punct καὶ δῐ αὐτὸ οὔτε μεγέθει πόλεων ἴσχυον οὔτε τῇ ἄλλῃ παρασκευῇ 
+__label__thuc__ μάλιστα δὲ τῆς γῆς ἡ ἀρίστη αἰεὶ τὰς μεταβολὰς τῶν οἰκητόρων εἶχεν punct ἥ τε νῦν punct καλουμένη καὶ Βοιωτία Πελοποννήσου τε τὰ πολλὰ πλὴν punct punct τῆς τε ἄλλης ὅσα ἦν κράτιστα 
+__label__thuc__ διὰ γὰρ ἀρετὴν γῆς αἵ τε δυνάμεις τισὶ μείζους ἐγγιγνόμεναι στάσεις ἐνεποίουν ἐξ ὧν ἐφθείροντο punct καὶ ἅμα ὑπὸ punct μᾶλλον ἐπεβουλεύοντο 
+__label__thuc__ τὴν γοῦν Ἀττικὴν ἐκ τοῦ ἐπὶ πλεῖστον διὰ τὸ punct punct οὖσαν ἄνθρωποι ᾤκουν οἱ αὐτοὶ αἰεί 
+__label__thuc__ καὶ παράδειγμα τόδε τοῦ λόγου οὐκ ἐλάχιστόν ἐστι διὰ τὰς punct ἐς τὰ ἄλλα μὴ ὁμοίως punct 
+__label__thuc__ ἐκ γὰρ τῆς ἄλλης Ἑλλάδος οἱ πολέμῳ ἢ στάσει ἐκπίπτοντες παρ’ Ἀθηναίους οἱ δυνατώτατοι ὡς βέβαιον ὂν ἀνεχώρουν punct καὶ πολῖται γιγνόμενοι εὐθὺς ἀπὸ παλαιοῦ μείζω ἔτι ἐποίησαν πλήθει ἀνθρώπων τὴν πόλιν punct ὥστε καὶ ἐς punct ὕστερον ὡς οὐχ ἱκανῆς οὔσης τῆς Ἀττικῆς punct ἐξέπεμψαν 
+__label__thuc__ δηλοῖ δέ μοι καὶ τόδε τῶν παλαιῶν ἀσθένειαν οὐχ ἥκιστα 
+__label__thuc__ πρὸ γὰρ τῶν Τρωικῶν οὐδὲν φαίνεται πρότερον κοινῇ ἐργασαμένη ἡ Ἑλλάς 
+__label__thuc__ δοκεῖ δέ μοι punct οὐδὲ τοὔνομα τοῦτο ξύμπασά πω εἶχεν punct ἀλλὰ τὰ μὲν πρὸ Ἕλληνος τοῦ punct καὶ πάνυ οὐδὲ εἶναι ἡ punct αὕτη punct κατὰ ἔθνη δὲ ἄλλα τε καὶ τὸ punct ἐπὶ πλεῖστον ἀφ’ ἑαυτῶν τὴν ἐπωνυμίαν παρέχεσθαι punct Ἕλληνος δὲ καὶ τῶν παίδων αὐτοῦ ἐν τῇ punct ἰσχυσάντων punct καὶ ἐπαγομένων αὐτοὺς ἐπ’ ὠφελίᾳ ἐς τὰς ἄλλας πόλεις punct καθ’ ἑκάστους μὲν ἤδη τῇ punct μᾶλλον καλεῖσθαι Ἕλληνας punct οὐ μέντοι πολλοῦ γε χρόνου ἐδύνατο καὶ ἅπασιν punct 
+__label__thuc__ punct δὲ μάλιστα Ὅμηρος 
+__label__thuc__ πολλῷ γὰρ ὕστερον ἔτι καὶ τῶν Τρωικῶν γενόμενος οὐδαμοῦ τοὺς ξύμπαντας ὠνόμασεν punct οὐδ’ ἄλλους ἢ τοὺς μετ’ punct ἐκ τῆς punct punct οἵπερ καὶ πρῶτοι Ἕλληνες ἦσαν punct punct δὲ ἐν τοῖς ἔπεσι καὶ Ἀργείους καὶ Ἀχαιοὺς punct 
+__label__thuc__ οὐ μὴν οὐδὲ βαρβάρους εἴρηκε διὰ τὸ μηδὲ Ἕλληνάς πω punct ὡς ἐμοὶ δοκεῖ punct ἀντίπαλον ἐς ἓν ὄνομα ἀποκεκρίσθαι 
+__label__thuc__ οἱ δ’ οὖν ὡς ἕκαστοι Ἕλληνες κατὰ πόλεις τε ὅσοι ἀλλήλων punct καὶ ξύμπαντες ὕστερον κληθέντες οὐδὲν πρὸ τῶν Τρωικῶν δῐ ἀσθένειαν καὶ punct ἀλλήλων ἁθρόοι ἔπραξαν 
+__label__thuc__ ἀλλὰ καὶ ταύτην τὴν στρατείαν θαλάσσῃ ἤδη πλείω χρώμενοι punct 
+__label__thuc__ punct γὰρ παλαίτατος ὧν ἀκοῇ ἴσμεν ναυτικὸν ἐκτήσατο καὶ τῆς νῦν Ἑλληνικῆς θαλάσσης ἐπὶ πλεῖστον ἐκράτησε καὶ τῶν Κυκλάδων νήσων ἦρξέ τε καὶ punct πρῶτος τῶν πλείστων ἐγένετο punct Κᾶρας ἐξελάσας καὶ τοὺς ἑαυτοῦ παῖδας ἡγεμόνας punct 
+__label__thuc__ τό τε λῃστικόν punct ὡς εἰκός punct καθῄρει ἐκ τῆς θαλάσσης ἐφ’ ὅσον ἐδύνατο punct τοῦ τὰς προσόδους μᾶλλον ἰέναι αὐτῷ 
+__label__thuc__ οἱ γὰρ Ἕλληνες τὸ πάλαι καὶ τῶν βαρβάρων οἵ τε ἐν τῇ ἠπείρῳ παραθαλάσσιοι καὶ ὅσοι νήσους εἶχον punct ἐπειδὴ ἤρξαντο μᾶλλον περαιοῦσθαι ναυσὶν ἐπ’ ἀλλήλους punct ἐτράποντο πρὸς punct punct ἡγουμένων ἀνδρῶν οὐ τῶν ἀδυνατωτάτων κέρδους τοῦ σφετέρου αὐτῶν ἕνεκα καὶ τοῖς ἀσθενέσι punct punct καὶ προσπίπτοντες πόλεσιν ἀτειχίστοις καὶ κατὰ κώμας οἰκουμέναις punct καὶ τὸν πλεῖστον τοῦ βίου ἐντεῦθεν ἐποιοῦντο punct οὐκ ἔχοντός πω αἰσχύνην τούτου τοῦ ἔργου punct φέροντος δέ τι καὶ δόξης μᾶλλον 
+__label__thuc__ δηλοῦσι δὲ τῶν τε ἠπειρωτῶν τινὲς ἔτι καὶ νῦν punct οἷς κόσμος καλῶς τοῦτο δρᾶν punct καὶ οἱ παλαιοὶ τῶν ποιητῶν τὰς punct τῶν καταπλεόντων πανταχοῦ ὁμοίως punct εἰ λῃσταί εἰσιν punct ὡς οὔτε ὧν πυνθάνονται punct τὸ ἔργον punct οἷς τε punct εἴη εἰδέναι οὐκ punct 
+__label__thuc__ punct δὲ καὶ κατ’ ἤπειρον ἀλλήλους 
+__label__thuc__ καὶ μέχρι τοῦδε πολλὰ τῆς Ἑλλάδος τῷ παλαιῷ τρόπῳ νέμεται περί τε Λοκροὺς τοὺς punct καὶ punct καὶ Ἀκαρνᾶνας καὶ τὴν ταύτῃ ἤπειρον 
+__label__thuc__ τό τε punct τούτοις τοῖς ἠπειρώταις ἀπὸ τῆς παλαιᾶς punct ἐμμεμένηκεν 
+__label__thuc__ πᾶσα γὰρ ἡ Ἑλλὰς punct διὰ τὰς punct τε οἰκήσεις καὶ οὐκ ἀσφαλεῖς παρ’ ἀλλήλους ἐφόδους punct καὶ punct τὴν δίαιταν μεθ’ ὅπλων ἐποιήσαντο ὥσπερ οἱ βάρβαροι 
+__label__thuc__ σημεῖον δ’ ἐστὶ ταῦτα τῆς Ἑλλάδος ἔτι οὕτω νεμόμενα τῶν ποτὲ καὶ ἐς πάντας ὁμοίων punct 
+__label__thuc__ ἐν τοῖς πρῶτοι δὲ Ἀθηναῖοι τόν τε punct punct καὶ ἀνειμένῃ τῇ διαίτῃ ἐς τὸ punct μετέστησαν 
+__label__thuc__ καὶ οἱ πρεσβύτεροι αὐτοῖς τῶν εὐδαιμόνων διὰ τὸ punct οὐ πολὺς χρόνος ἐπειδὴ punct τε punct ἐπαύσαντο φοροῦντες καὶ punct punct punct punct ἀναδούμενοι τῶν ἐν τῇ κεφαλῇ punct 
+__label__thuc__ ἀφ’ οὗ καὶ Ἰώνων τοὺς πρεσβυτέρους κατὰ τὸ punct ἐπὶ πολὺ αὕτη ἡ punct κατέσχεν 
+__label__thuc__ μετρίᾳ δ’ αὖ punct καὶ ἐς τὸν νῦν τρόπον πρῶτοι Λακεδαιμόνιοι ἐχρήσαντο καὶ ἐς τὰ ἄλλα πρὸς τοὺς πολλοὺς οἱ τὰ μείζω κεκτημένοι punct μάλιστα κατέστησαν 
+__label__thuc__ punct τε πρῶτοι καὶ ἐς τὸ φανερὸν punct punct μετὰ τοῦ punct punct 
+__label__thuc__ τὸ δὲ πάλαι καὶ ἐν τῷ punct ἀγῶνι punct ἔχοντες περὶ τὰ αἰδοῖα οἱ punct ἠγωνίζοντο punct καὶ οὐ πολλὰ ἔτη ἐπειδὴ πέπαυται 
+__label__thuc__ ἔτι δὲ καὶ ἐν τοῖς βαρβάροις ἔστιν οἷς νῦν punct καὶ μάλιστα τοῖς punct punct punct καὶ punct ἆθλα τίθεται punct καὶ punct τοῦτο δρῶσιν 
+__label__thuc__ πολλὰ δ’ ἂν καὶ ἄλλα τις ἀποδείξειε τὸ παλαιὸν Ἑλληνικὸν punct τῷ νῦν punct διαιτώμενον 
+__label__thuc__ τῶν δὲ πόλεων ὅσαι μὲν νεώτατα ᾠκίσθησαν καὶ ἤδη πλωιμωτέρων ὄντων punct περιουσίας μᾶλλον ἔχουσαι χρημάτων ἐπ’ αὐτοῖς τοῖς punct τείχεσιν ἐκτίζοντο καὶ τοὺς punct ἀπελάμβανον punct τε ἕνεκα καὶ τῆς πρὸς τοὺς προσοίκους ἕκαστοι ἰσχύος 
+__label__thuc__ αἱ δὲ παλαιαὶ διὰ τὴν punct ἐπὶ πολὺ punct ἀπὸ θαλάσσης μᾶλλον ᾠκίσθησαν punct αἵ τε ἐν ταῖς νήσοις καὶ ἐν ταῖς ἠπείροις ἔφερον γὰρ ἀλλήλους τε καὶ τῶν ἄλλων ὅσοι ὄντες οὐ punct κάτω ᾤκουν punct καὶ μέχρι τοῦδε ἔτι punct εἰσίν 
+__label__thuc__ καὶ οὐχ ἧσσον λῃσταὶ ἦσαν οἱ punct punct Κᾶρές τε ὄντες καὶ punct 
+__label__thuc__ οὗτοι γὰρ δὴ τὰς πλείστας τῶν νήσων ᾤκησαν 
+__label__thuc__ punct δέ 
+__label__thuc__ Δήλου γὰρ punct ὑπὸ Ἀθηναίων ἐν τῷδε τῷ πολέμῳ καὶ τῶν θηκῶν ἀναιρεθεισῶν ὅσαι ἦσαν τῶν τεθνεώτων ἐν τῇ νήσῳ punct ὑπὲρ ἥμισυ Κᾶρες ἐφάνησαν punct γνωσθέντες τῇ τε punct τῶν ὅπλων punct καὶ τῷ τρόπῳ ᾧ νῦν ἔτι θάπτουσιν 
+__label__thuc__ καταστάντος δὲ τοῦ punct ναυτικοῦ πλωιμώτερα ἐγένετο παρ’ ἀλλήλους οἱ γὰρ ἐκ τῶν νήσων punct ἀνέστησαν ὑπ’ αὐτοῦ punct ὅτεπερ καὶ τὰς πολλὰς αὐτῶν κατῴκιζε punct καὶ οἱ παρὰ θάλασσαν ἄνθρωποι μᾶλλον ἤδη τὴν punct τῶν χρημάτων ποιούμενοι βεβαιότερον ᾤκουν punct καί τινες καὶ τείχη περιεβάλλοντο ὡς punct ἑαυτῶν γιγνόμενοι 
+__label__thuc__ ἐφιέμενοι γὰρ τῶν κερδῶν οἵ τε ἥσσους ὑπέμενον τὴν τῶν κρεισσόνων δουλείαν punct οἵ τε δυνατώτεροι περιουσίας ἔχοντες προσεποιοῦντο ὑπηκόους τὰς ἐλάσσους πόλεις 
+__label__thuc__ καὶ ἐν τούτῳ τῷ τρόπῳ μᾶλλον ἤδη ὄντες ὕστερον χρόνῳ ἐπὶ punct ἐστράτευσαν 
+__label__thuc__ punct τέ μοι δοκεῖ τῶν τότε δυνάμει προύχων καὶ οὐ τοσοῦτον τοῖς punct ὅρκοις κατειλημμένους τοὺς punct punct ἄγων τὸν punct ἀγεῖραι 
+__label__thuc__ λέγουσι δὲ καὶ οἱ τὰ σαφέστατα Πελοποννησίων μνήμῃ παρὰ τῶν πρότερον δεδεγμένοι punct τε πρῶτον πλήθει χρημάτων punct ἃ ἦλθεν ἐκ τῆς Ἀσίας ἔχων ἐς ἀνθρώπους ἀπόρους punct δύναμιν περιποιησάμενον τὴν ἐπωνυμίαν τῆς χώρας punct ὄντα ὅμως σχεῖν punct καὶ ὕστερον τοῖς punct ἔτι μείζω ξυνενεχθῆναι punct punct μὲν ἐν τῇ Ἀττικῇ ὑπὸ punct ἀποθανόντος punct punct δὲ μητρὸς ἀδελφοῦ ὄντος αὐτῷ punct καὶ ἐπιτρέψαντος punct punct ὅτ’ ἐστράτευε punct punct τε καὶ τὴν ἀρχὴν κατὰ τὸ οἰκεῖον punct τυγχάνειν δὲ αὐτὸν φεύγοντα τὸν πατέρα διὰ τὸν punct θάνατον punct καὶ ὡς οὐκέτι ἀνεχώρησεν punct punct βουλομένων καὶ τῶν punct φόβῳ τῶν punct καὶ ἅμα δυνατὸν δοκοῦντα εἶναι καὶ τὸ πλῆθος τεθεραπευκότα τῶν punct τε καὶ ὅσων punct ἦρχε τὴν βασιλείαν punct παραλαβεῖν punct καὶ τῶν punct τοὺς punct μείζους καταστῆναι 
+__label__thuc__ ἅ μοι δοκεῖ punct παραλαβὼν καὶ ναυτικῷ τε ἅμα ἐπὶ πλέον τῶν ἄλλων ἰσχύσας punct τὴν στρατείαν οὐ χάριτι τὸ πλέον ἢ φόβῳ ξυναγαγὼν ποιήσασθαι 
+__label__thuc__ φαίνεται γὰρ ναυσί τε πλείσταις αὐτὸς ἀφικόμενος καὶ punct punct punct ὡς Ὅμηρος τοῦτο δεδήλωκεν punct εἴ τῳ ἱκανὸς punct 
+__label__thuc__ καὶ ἐν τοῦ punct ἅμα τῇ punct εἴρηκεν αὐτὸν punct νήσοισι καὶ Ἄργεϊ παντὶ punct 
+__label__thuc__ οὐκ ἂν οὖν νήσων ἔξω τῶν περιοικίδων αὗται δὲ οὐκ ἂν πολλαὶ εἶεν ἠπειρώτης ὢν ἐκράτει punct εἰ μή τι καὶ ναυτικὸν εἶχεν 
+__label__thuc__ εἰκάζειν δὲ χρὴ καὶ ταύτῃ τῇ στρατείᾳ οἷα ἦν τὰ πρὸ αὐτῆς 
+__label__thuc__ καὶ ὅτι μὲν punct μικρὸν ἦν punct ἢ εἴ τι τῶν τότε πόλισμα νῦν μὴ punct δοκεῖ εἶναι punct οὐκ punct ἄν τις σημείῳ χρώμενος ἀπιστοίη μὴ γενέσθαι τὸν punct τοσοῦτον ὅσον οἵ τε ποιηταὶ εἰρήκασι καὶ ὁ λόγος κατέχει 
+__label__thuc__ Λακεδαιμονίων γὰρ εἰ ἡ πόλις ἐρημωθείη punct λειφθείη δὲ τά τε ἱερὰ καὶ τῆς κατασκευῆς τὰ punct punct πολλὴν ἂν οἶμαι punct τῆς δυνάμεως προελθόντος πολλοῦ χρόνου τοῖς ἔπειτα πρὸς τὸ κλέος αὐτῶν εἶναι καίτοι Πελοποννήσου τῶν πέντε τὰς δύο μοίρας νέμονται punct τῆς τε ξυμπάσης ἡγοῦνται καὶ τῶν ἔξω ξυμμάχων πολλῶν 
+__label__thuc__ ὅμως δὲ οὔτε ξυνοικισθείσης πόλεως οὔτε punct καὶ κατασκευαῖς πολυτελέσι χρησαμένης punct κατὰ κώμας δὲ τῷ παλαιῷ τῆς Ἑλλάδος τρόπῳ οἰκισθείσης punct φαίνοιτ’ ἂν ὑποδεεστέρα punct Ἀθηναίων δὲ τὸ αὐτὸ τοῦτο παθόντων διπλασίαν ἂν τὴν δύναμιν εἰκάζεσθαι ἀπὸ τῆς φανερᾶς ὄψεως τῆς πόλεως ἢ ἔστιν 
+__label__thuc__ οὔκουν ἀπιστεῖν εἰκός punct οὐδὲ τὰς ὄψεις τῶν πόλεων μᾶλλον σκοπεῖν ἢ τὰς δυνάμεις punct νομίζειν δὲ τὴν στρατείαν ἐκείνην μεγίστην μὲν γενέσθαι τῶν πρὸ αὑτῆς punct λειπομένην δὲ τῶν νῦν punct τῇ Ὁμήρου αὖ punct εἴ τι χρὴ κἀνταῦθα πιστεύειν punct ἣν εἰκὸς ἐπὶ τὸ μεῖζον μὲν ποιητὴν ὄντα κοσμῆσαι punct ὅμως δὲ φαίνεται καὶ οὕτως ἐνδεεστέρα 
+__label__thuc__ πεποίηκε γὰρ χιλίων καὶ διακοσίων νεῶν τὰς μὲν Βοιωτῶν εἴκοσι καὶ ἑκατὸν ἀνδρῶν punct τὰς δὲ punct πεντήκοντα punct δηλῶν punct ὡς ἐμοὶ δοκεῖ punct τὰς μεγίστας καὶ ἐλαχίστας 
+__label__thuc__ ἄλλων γοῦν μεγέθους πέρι ἐν νεῶν punct οὐκ ἐμνήσθη 
+__label__thuc__ punct δὲ ὅτι ἦσαν καὶ μάχιμοι πάντες punct ἐν ταῖς punct ναυσὶ δεδήλωκεν 
+__label__thuc__ τοξότας γὰρ πάντας πεποίηκε τοὺς punct 
+__label__thuc__ punct δὲ οὐκ εἰκὸς πολλοὺς ξυμπλεῖν ἔξω τῶν βασιλέων καὶ τῶν μάλιστα ἐν τέλει punct ἄλλως τε καὶ μέλλοντας πέλαγος περαιώσεσθαι μετὰ σκευῶν πολεμικῶν punct οὐδ’ αὖ τὰ πλοῖα punct ἔχοντας punct ἀλλὰ τῷ παλαιῷ τρόπῳ λῃστικώτερον παρεσκευασμένα 
+__label__thuc__ πρὸς τὰς μεγίστας δ’ οὖν καὶ ἐλαχίστας ναῦς τὸ μέσον σκοποῦντι οὐ πολλοὶ φαίνονται ἐλθόντες punct ὡς ἀπὸ πάσης τῆς Ἑλλάδος κοινῇ πεμπόμενοι 
+__label__thuc__ αἴτιον δ’ ἦν οὐχ ἡ punct τοσοῦτον ὅσον ἡ punct 
+__label__thuc__ τῆς γὰρ punct ἀπορίᾳ τόν τε στρατὸν ἐλάσσω ἤγαγον καὶ ὅσον ἤλπιζον αὐτόθεν πολεμοῦντα punct punct ἐπειδὴ δὲ ἀφικόμενοι μάχῃ ἐκράτησαν punct δέ 
+__label__thuc__ τὸ γὰρ punct τῷ στρατοπέδῳ οὐκ ἂν ἐτειχίσαντο punct φαίνονται δ’ οὐδ’ ἐνταῦθα πάσῃ τῇ δυνάμει χρησάμενοι punct ἀλλὰ πρὸς punct τῆς punct τραπόμενοι καὶ punct τῆς punct ἀπορίᾳ 
+__label__thuc__ ᾗ καὶ μᾶλλον οἱ punct αὐτῶν punct τὰ δέκα ἔτη ἀντεῖχον punct punct τοῖς αἰεὶ punct ἀντίπαλοι ὄντες 
+__label__thuc__ περιουσίαν δὲ εἰ ἦλθον ἔχοντες punct καὶ ὄντες ἁθρόοι ἄνευ punct καὶ punct ξυνεχῶς τὸν πόλεμον διέφερον punct ῥᾳδίως ἂν μάχῃ κρατοῦντες εἷλον punct οἵ γε καὶ οὐχ ἁθρόοι punct ἀλλὰ μέρει τῷ αἰεὶ παρόντι ἀντεῖχον punct πολιορκίᾳ δ’ ἂν punct ἐν ἐλάσσονί τε χρόνῳ καὶ ἀπονώτερον τὴν punct εἷλον 
+__label__thuc__ ἀλλὰ δῐ punct τά τε πρὸ τούτων ἀσθενῆ ἦν καὶ αὐτά γε δὴ ταῦτα punct punct τῶν πρὶν γενόμενα punct δηλοῦται τοῖς ἔργοις ὑποδεέστερα ὄντα τῆς punct καὶ τοῦ νῦν περὶ αὐτῶν διὰ τοὺς ποιητὰς λόγου κατεσχηκότος 
+__label__thuc__ ἐπεὶ καὶ μετὰ τὰ Τρωικὰ ἡ Ἑλλὰς ἔτι punct τε καὶ κατῳκίζετο punct ὥστε μὴ ἡσυχάσασαν punct 
+__label__thuc__ ἥ τε γὰρ ἀναχώρησις τῶν Ἑλλήνων ἐξ punct punct γενομένη πολλὰ punct punct καὶ στάσεις ἐν ταῖς πόλεσιν ὡς ἐπὶ πολὺ ἐγίγνοντο punct ἀφ’ ὧν ἐκπίπτοντες τὰς πόλεις ἔκτιζον 
+__label__thuc__ Βοιωτοί τε γὰρ οἱ νῦν punct ἔτει μετὰ punct ἅλωσιν ἐξ punct ἀναστάντες ὑπὸ Θεσσαλῶν τὴν νῦν μὲν Βοιωτίαν punct πρότερον δὲ punct γῆν καλουμένην ᾤκισαν ἦν δὲ αὐτῶν καὶ punct πρότερον ἐν τῇ γῇ ταύτῃ punct ἀφ’ ὧν καὶ ἐς punct ἐστράτευσαν punct Δωριῆς τε ὀγδοηκοστῷ ἔτει ξὺν punct Πελοπόννησον ἔσχον 
+__label__thuc__ μόλις τε ἐν πολλῷ χρόνῳ ἡσυχάσασα ἡ Ἑλλὰς βεβαίως καὶ οὐκέτι ἀνισταμένη punct ἐξέπεμψε punct καὶ Ἴωνας μὲν Ἀθηναῖοι καὶ punct τοὺς πολλοὺς ᾤκισαν punct Ἰταλίας δὲ καὶ Σικελίας τὸ πλεῖστον Πελοποννήσιοι τῆς τε ἄλλης Ἑλλάδος ἔστιν ἃ χωρία 
+__label__thuc__ πάντα δὲ ταῦτα ὕστερον τῶν Τρωικῶν ἐκτίσθη 
+__label__thuc__ δυνατωτέρας δὲ γιγνομένης τῆς Ἑλλάδος καὶ τῶν χρημάτων τὴν punct ἔτι μᾶλλον ἢ πρότερον ποιουμένης τὰ πολλὰ τυραννίδες ἐν ταῖς πόλεσι καθίσταντο punct τῶν προσόδων μειζόνων γιγνομένων πρότερον δὲ ἦσαν ἐπὶ ῥητοῖς punct punct βασιλεῖαι punct ναυτικά τε ἐξηρτύετο ἡ Ἑλλάς punct καὶ τῆς θαλάσσης μᾶλλον ἀντείχοντο 
+__label__thuc__ πρῶτοι δὲ Κορίνθιοι λέγονται ἐγγύτατα τοῦ νῦν τρόπου punct τὰ περὶ τὰς ναῦς punct καὶ τριήρεις ἐν Κορίνθῳ πρῶτον τῆς Ἑλλάδος punct 
+__label__thuc__ φαίνεται δὲ καὶ punct punct Κορίνθιος punct ναῦς ποιήσας τέσσαρας 
+__label__thuc__ ἔτη δ’ ἐστὶ μάλιστα τριακόσια ἐς τὴν τελευτὴν τοῦδε τοῦ πολέμου ὅτε punct punct ἦλθεν 
+__label__thuc__ ναυμαχία τε παλαιτάτη ὧν ἴσμεν γίγνεται Κορινθίων πρὸς Κερκυραίους 
+__label__thuc__ ἔτη δὲ μάλιστα καὶ ταύτῃ ἑξήκοντα καὶ διακόσιά ἐστι μέχρι τοῦ αὐτοῦ χρόνου 
+__label__thuc__ οἰκοῦντες γὰρ τὴν πόλιν οἱ Κορίνθιοι ἐπὶ τοῦ Ἰσθμοῦ αἰεὶ δή ποτε punct εἶχον punct τῶν Ἑλλήνων τὸ πάλαι κατὰ γῆν τὰ πλείω ἢ κατὰ θάλασσαν punct τῶν τε ἐντὸς Πελοποννήσου καὶ τῶν ἔξω punct διὰ τῆς ἐκείνων παρ’ ἀλλήλους ἐπιμισγόντων punct χρήμασί τε δυνατοὶ ἦσαν punct ὡς καὶ τοῖς παλαιοῖς ποιηταῖς δεδήλωται 
+__label__thuc__ punct γὰρ ἐπωνόμασαν τὸ χωρίον 
+__label__thuc__ ἐπειδή τε οἱ Ἕλληνες μᾶλλον punct punct τὰς ναῦς κτησάμενοι τὸ λῃστικὸν καθῄρουν punct καὶ punct παρέχοντες ἀμφότερα δυνατὴν ἔσχον χρημάτων προσόδῳ τὴν πόλιν 
+__label__thuc__ καὶ Ἴωσιν ὕστερον πολὺ γίγνεται ναυτικὸν ἐπὶ punct Περσῶν πρώτου βασιλεύοντος καὶ punct τοῦ υἱέος αὐτοῦ punct τῆς τε καθ’ ἑαυτοὺς θαλάσσης Κύρῳ πολεμοῦντες ἐκράτησάν τινα χρόνον 
+__label__thuc__ καὶ punct punct τυραννῶν ἐπὶ punct ναυτικῷ ἰσχύων ἄλλας τε τῶν νήσων ὑπηκόους ἐποιήσατο καὶ punct ἑλὼν ἀνέθηκε τῷ Ἀπόλλωνι τῷ punct 
+__label__thuc__ punct τε punct οἰκίζοντες punct ἐνίκων ναυμαχοῦντες 
+__label__thuc__ δυνατώτατα γὰρ ταῦτα τῶν ναυτικῶν ἦν 
+__label__thuc__ φαίνεται δὲ καὶ ταῦτα πολλαῖς γενεαῖς ὕστερα γενόμενα τῶν Τρωικῶν τριήρεσι μὲν ὀλίγαις χρώμενα punct punct δ’ ἔτι καὶ πλοίοις μακροῖς ἐξηρτυμένα ὥσπερ ἐκεῖνα 
+__label__thuc__ ὀλίγον τε πρὸ τῶν Μηδικῶν καὶ τοῦ punct θανάτου punct ὃς μετὰ punct Περσῶν ἐβασίλευσε punct τριήρεις περί τε Σικελίαν τοῖς τυράννοις ἐς πλῆθος ἐγένοντο καὶ Κερκυραίοις 
+__label__thuc__ ταῦτα γὰρ τελευταῖα πρὸ τῆς punct στρατείας ναυτικὰ ἀξιόλογα ἐν τῇ Ἑλλάδι κατέστη 
+__label__thuc__ Αἰγινῆται γὰρ καὶ Ἀθηναῖοι punct καὶ εἴ τινες ἄλλοι punct βραχέα ἐκέκτηντο punct καὶ τούτων τὰ πολλὰ punct 
+__label__thuc__ punct τε ἀφ’ οὗ Ἀθηναίους punct ἔπεισεν Αἰγινήταις πολεμοῦντας punct καὶ ἅμα τοῦ βαρβάρου punct ὄντος punct τὰς ναῦς ποιήσασθαι αἷσπερ καὶ ἐναυμάχησαν 
+__label__thuc__ καὶ αὗται οὔπω εἶχον διὰ πάσης καταστρώματα 
+__label__thuc__ τὰ μὲν οὖν ναυτικὰ τῶν Ἑλλήνων τοιαῦτα ἦν punct τά τε παλαιὰ καὶ τὰ ὕστερον γενόμενα 
+__label__thuc__ ἰσχὺν δὲ περιεποιήσαντο ὅμως οὐκ ἐλαχίστην οἱ προσσχόντες αὐτοῖς χρημάτων τε προσόδῳ καὶ ἄλλων ἀρχῇ 
+__label__thuc__ ἐπιπλέοντες γὰρ τὰς νήσους κατεστρέφοντο punct καὶ μάλιστα ὅσοι μὴ punct εἶχον χώραν 
+__label__thuc__ κατὰ γῆν δὲ πόλεμος punct ὅθεν τις καὶ δύναμις παρεγένετο punct οὐδεὶς ξυνέστη 
+__label__thuc__ πάντες δὲ ἦσαν punct ὅσοι καὶ ἐγένοντο punct πρὸς ὁμόρους τοὺς σφετέρους ἑκάστοις punct καὶ ἐκδήμους στρατείας πολὺ ἀπὸ τῆς ἑαυτῶν ἐπ’ ἄλλων καταστροφῇ οὐκ ἐξῇσαν οἱ Ἕλληνες 
+__label__thuc__ οὐ γὰρ ξυνειστήκεσαν πρὸς τὰς μεγίστας πόλεις ὑπήκοοι punct οὐδ’ αὖ αὐτοὶ ἀπὸ τῆς ἴσης κοινὰς στρατείας ἐποιοῦντο punct κατ’ ἀλλήλους δὲ μᾶλλον ὡς ἕκαστοι οἱ punct ἐπολέμουν 
+__label__thuc__ μάλιστα δὲ ἐς τὸν πάλαι ποτὲ γενόμενον πόλεμον Χαλκιδέων καὶ punct καὶ τὸ ἄλλο Ἑλληνικὸν ἐς ξυμμαχίαν ἑκατέρων punct 
+__label__thuc__ ἐπεγένετο δὲ ἄλλοις τε punct punct μὴ punct punct καὶ Ἴωσι προχωρησάντων ἐπὶ μέγα τῶν πραγμάτων Κῦρος καὶ ἡ punct βασιλεία punct καθελοῦσα καὶ ὅσα ἐντὸς punct ποταμοῦ πρὸς θάλασσαν ἐπεστράτευσε καὶ τὰς ἐν τῇ ἠπείρῳ πόλεις ἐδούλωσε punct punct τε ὕστερον τῷ punct ναυτικῷ κρατῶν καὶ τὰς νήσους 
+__label__thuc__ τύραννοί τε ὅσοι ἦσαν ἐν ταῖς Ἑλληνικαῖς πόλεσι punct τὸ ἐφ’ ἑαυτῶν μόνον punct ἔς τε τὸ σῶμα καὶ ἐς τὸ τὸν ἴδιον οἶκον punct δῐ ἀσφαλείας ὅσον ἐδύναντο μάλιστα τὰς πόλεις ᾤκουν punct ἐπράχθη δὲ οὐδὲν ἀπ’ αὐτῶν ἔργον ἀξιόλογον punct εἰ μὴ εἴ τι πρὸς punct τοὺς αὐτῶν ἑκάστοις 
+
+__label__hdt__ *(hrodo/tou *(alikarnhsse/os i(stori/hs a)po/decis h(/de w(s mh/te ta\ geno/mena e)c a)nqrw/pwn tw=| xro/nw| e)ci/thla ge/nhtai mh/te e)/rga mega/la te kai\ qwmasta/ ta\ me\n *(/ellhsi ta\ de\ barba/roisi a)podexqe/nta a)klea= ge/nhtai ta/ te a)/lla kai\ di' h(\n ai)ti/hn e)pole/mhsan a)llh/loisi 
+__label__hdt__ *perse/wn me/n nun oi( lo/gioi *foi/nikas ai)ti/ous fasi\ gene/sqai th=s diaforh=s 
+__label__hdt__ tou/tous ga\r a)po\ th=s *)eruqrh=s kaleome/nhs qala/sshs a)pikome/nous e)pi\ th/nde th\n qa/lassan kai\ oi)kh/santas tou=ton to\n xw=ron to\n kai\ nu=n oi)ke/ousi au)ti/ka nautili/h|si makrh=|si e)piqe/sqai a)pagine/ontas de\ forti/a *ai)gu/ptia/ te kai\ *)assu/ria th=| te a)/llh| e)sapikne/esqai kai\ dh\ kai\ e)s *)/argos 
+__label__hdt__ to\ de\ *)/argos tou=ton to\n xro/non proei=xe a(/pasi tw=n e)n th=| nu=n *(ella/di kaleome/nh| xwrh=| 
+__label__hdt__ a)pikome/nous de\ tou/s *foi/nikas e)s dh\ to\ *)/argos tou=to diati/qesqai to\n fo/rton 
+__label__hdt__ pe/mpth| de\ h)\ e(/kth| h(me/rh| a)p' h(=s a)pi/konto e)cempolhme/nwn sfi sxedo/n pa/ntwn e)lqei=n e)pi\ th\n qa/lassan gunai=kas a)/llas te polla/s kai\ dh\ kai\ tou= basile/os qugate/ra 
+__label__hdt__ to\ de/ oi( ou)/noma ei)=nai kata\ tw)uto\ to\ kai\ *(/ellhne/s le/gousi *)iou=n th\n *)ina/xou 
+__label__hdt__ tau/tas sta/sas kata/ pru/mnhn th=s neo\s w)ne/esqai tw=n forti/wn tw=n sfi h)=n qumo/s ma/lista 
+__label__hdt__ kai\ tou\s *foi/nikas diakeleusame/nous o(rmh=sai e)p' au)ta/s 
+__label__hdt__ ta\s me\n dh\ pleu=nas tw=n gunaikw=n a)pofugei=n th\n de\ *)iou=n su\n a)/llh|si a(rpasqh=nai 
+__label__hdt__ e)sbalome/nous de\ e)s th\n ne/a oi)/xesqai a)pople/ontas e)p' *ai)gu/ptou 
+__label__hdt__ ou(/tw me\n *)iou=n e)s *ai)/gupton a)pike/sqai le/gousi *pe/rsai ou)k w(s *(/ellhne/s kai\ tw=n a)dikhma/twn prw=ton tou=to a)/rcai 
+__label__hdt__ meta\ de\ tau=ta *(ellh/nwn tina/s ou) ga\r e)/xousi tou)/noma a)phgh/sasqai fasi\ th=s *foini/khs e)s *tu/ron prossxo/ntas a(rpa/sai tou= basile/os th\n qugate/ra *eu)rw/phn 
+__label__hdt__ ei)/hsan d' a)/n ou(=toi *krh=tes 
+__label__hdt__ tau=ta me\n dh\ i)/sa pro\s i)/sa sfi gene/sqai meta\ de\ tau=ta *(/ellhnas ai)ti/ous th=s deute/rhs a)diki/hs gene/sqai 
+__label__hdt__ kataplw/santas ga\r makrh=| nhi/ e)s *ai)=an te th\n *kolxi/da kai\ e)pi\ *fa=sin potamo/n e)nqeu=ten diaprhcame/nous kai\ ta)/lla tw=n ei(/neken a)pi/kato a(rpa/sai tou= basile/os th\n qugate/ra *mhdei/hn 
+__label__hdt__ pe/myanta/ de\ to\n *ko/lxwn basile/a e)s th\n *(ella/da kh/ruka ai)te/ein te di/kas th=s a(rpagh=s kai\ a)paite/ein th\n qugate/ra 
+__label__hdt__ tou\s de\ u(pokri/nasqai w(s ou)de\ e)kei=noi *)iou=s th=s *)argei/hs e)/dosa/n sfi di/kas th=s a(rpagh=s 
+__label__hdt__ ou)de\ w)/n au)toi\ dw/sein e)kei/noisi 
+__label__hdt__ deute/rh| de\ le/gousi geneh=| meta\ tau=ta *)ale/candron to\n *pria/mou a)khkoo/ta tau=ta e)qelh=sai/ oi( e)k th=s *(ella/dos di' a(rpagh=s gene/sqai gunai=ka e)pista/menon pa/ntws o(/ti ou) dw/sei di/kas 
+__label__hdt__ ou)de\ ga\r e)kei/nous dido/nai 
+__label__hdt__ ou(/tw dh\ a(rpa/santos au)tou= *(ele/nhn toi=si *(/ellhsi do/cai prw=to\n pe/myantas a)gge/lous a)paite/ein te *(ele/nhn kai\ di/kas th=s a(rpagh=s ai)te/ein 
+__label__hdt__ tou\s de/ proi+sxome/nwn tau=ta profe/rein sfi *mhdei/hs th\n a(rpagh/n w(s ou) do/ntes au)toi\ di/kas ou)de\ e)kdo/ntes a)paiteo/ntwn bouloi/ato/ sfi par' a)/llwn di/kas gi/nesqai 
+__label__hdt__ me/xri me\n w)/n tou/tou a(rpaga/s mou/nas ei)=nai par' a)llh/lwn to\ de\ a)po\ tou/tou *(/ellhnas dh\ mega/lws ai)ti/ous gene/sqai 
+__label__hdt__ prote/rous ga\r a)/rcai strateu/esqai e)s th\n *)asi/hn h)\ sfe/as e)s th\n *eu)rw/phn 
+__label__hdt__ to\ me/n nun a(rpa/zein gunai=kas a)ndrw=n a)di/kwn nomi/zein e)/rgon ei)=nai to\ de\ a(rpasqeise/wn spoudh/n poih/sasqai timwre/ein a)noh/twn to\ de\ mhdemi/an w)/rhn e)/xein a(rpasqeise/wn swfro/nwn 
+__label__hdt__ dh=la ga\r dh\ o(/ti ei) mh\ au)tai\ e)bou/lonto ou)k a)\n h(rpa/zonto 
+__label__hdt__ sfe/as me\n dh\ tou\s e)k th=s *)asi/hs le/gousi *pe/rsai a(rpazomene/wn tw=n gunaikw=n lo/gon ou)de/na poih/sasqai *(/ellhnas de\ *lakedaimoni/hs ei(/neken gunaiko\s sto/lon me/gan sunagei=rai kai\ e)/peita e)lqo/ntas e)s th\n *)asi/hn th\n *pria/mou du/namin katelei=n 
+__label__hdt__ a)po\ tou/tou ai)ei\ h(gh/sasqai to\ *(ellhniko\n sfi/si ei)=nai pole/mion 
+__label__hdt__ th\n ga\r *)asi/hn kai\ ta\ e)noike/onta e)/qnea ba/rbara oi)khieu=ntai oi( *pe/rsai th\n de\ *eu)rw/phn kai\ to\ *(ellhniko/n h(/ghntai kexwri/sqai 
+__label__hdt__ ou(/tw me\n *pe/rsai le/gousi gene/sqai kai\ dia\ th\n *)ili/ou a(/lwsin eu(ri/skousi sfi/si e)ou=san th\n a)rxh/n th=s e)/xqrhs th=s e)s tou\s *(/ellhnas 
+__label__hdt__ peri\ de\ th=s *)iou=s ou)k o(mologe/ousi *pe/rsh|si ou(/tw *foi/nikes 
+__label__hdt__ ou) ga\r a(rpagh=| sfe/as xrhsame/nous le/gousi a)gagei=n au)th/n e)s *ai)/gupton a)ll' w(s e)n tw=| *)/argei+ e)mi/sgeto tw=| nauklh/rw| th=s ne/os 
+__label__hdt__ e)pei\ d' e)/maqe e)/gkuos e)ou=sa ai)deome/nh tou\s toke/as ou(/tw dh\ e)qelonth/n au)th/n toi=si *foi/nici sunekplw=sai w(s a)\n mh\ kata/dhlos ge/nhtai 
+__label__hdt__ tau=ta me/n nun *pe/rsai te kai\ *foi/nikes le/gousi 
+__label__hdt__ e)gw\ de\ peri\ me\n tou/twn ou)k e)/rxomai e)re/wn w(s ou(/tw h)\ a)/llws kws tau=ta e)ge/neto to\n de\ oi)=da au)to\s prw=ton u(pa/rcanta a)di/kwn e)/rgwn e)s tou\s *(/ellhnas tou=ton shmh/nas probh/somai e)s to\ pro/sw tou= lo/gou o(moi/ws smikra\ kai\ mega/la a)/stea a)nqrw/pwn e)peciw/n 
+__label__hdt__ ta\ ga\r to\ pa/lai mega/la h)=n ta\ polla\ smikra\ au)tw=n ge/gone 
+__label__hdt__ ta\ de\ e)p' e)meu= h)=n mega/la pro/teron h)=n smikra/ 
+__label__hdt__ th\n a)nqrwphi/hn w)/n e)pista/menos eu)daimoni/hn ou)dama\ e)n tw)utw=| me/nousan e)pimnh/somai a)mfote/rwn o(moi/ws 
+__label__hdt__ *kroi=sos h)=n *ludo\s me\n ge/nos pai=s de\ *)alua/ttew tu/rannos de\ e)qne/wn tw=n e)nto/s *(/aluos potamou= o(\s r(e/wn a)po\ mesambri/hs metacu\ *suri/wn te kai\ *paflago/nwn e)ciei= pro\s bore/hn a)/nemon e)s to\n *eu)/ceinon kaleo/menon po/nton 
+__label__hdt__ ou(=tos o( *kroi=sos barba/rwn prw=tos tw=n h(mei=s i)/dmen tou\s me\n katestre/yato *(ellh/nwn e)s fo/rou a)pagwgh/n tou\s de\ fi/lous prosepoih/sato 
+__label__hdt__ katestre/yato me\n *)/iwna/s te kai\ *ai)ole/as kai\ *dwrie/as tou\s e)n th=| *)asi/h| fi/lous de\ prosepoih/sato *lakedaimoni/ous 
+__label__hdt__ pro\ de\ th=s *kroi/sou a)rxh=s pa/ntes *(/ellhnes h)=san e)leu/qeroi 
+__label__hdt__ to\ ga\r *kimmeri/wn stra/teuma to\ e)pi\ th\n *)iwni/hn a)piko/menon *kroi/sou e)o\n presbu/teron ou) katastrofh\ e)ge/neto tw=n poli/wn a)ll' e)c e)pidromh=s a(rpagh/ 
+__label__hdt__ h( de\ h(gemoni/h ou(/tw perih=lqe e)ou=sa *(hrakleide/wn e)s to\ ge/nos to\ *kroi/sou kaleome/nous de\ *mermna/das 
+__label__hdt__ h)=n *kandau/lhs to\n oi( *(/ellhne/s *mursi/lon o)noma/zousi tu/rannos *sardi/wn a)po/gonos de\ *)alkai/ou tou= *(hrakle/os 
+__label__hdt__ *)/agrwn me\n ga\r o( *ni/nou tou= *bh/lou tou= *)alkai/ou prw=tos *(hrakleide/wn basileu\s e)ge/neto *sardi/wn *kandau/lhs de\ o( *mu/rsou u(/statos 
+__label__hdt__ oi( de\ pro/teron *)/agrwnos basileu/santes tau/ths th=s xw/rhs h)=san a)po/gonoi\ *ludou= tou= *)/atuos a)p' o(/teu o( dh=mos *lu/dios e)klh/qh o( pa=s ou(=tos pro/teron *mhi/wn kaleo/menos 
+__label__hdt__ para\ tou/twn *(hraklei=dai e)pitrafqe/ntes e)/sxon th\n a)rxh/n e)k qeopropi/ou e)k dou/lhs te th=s *)iarda/nou gegono/tes kai\ *(hrakle/os a)/rcantes me\n e)pi\ du/o te kai\ ei)/kosi genea=s a)ndrw=n e)/tea pe/nte te kai\ pentako/sia pai=s para\ patro\s e)kdeko/menos th\n a)rxh/n me/xri *kandau/lew tou= *mu/rsou 
+__label__hdt__ ou(=tos dh\ w)=n o( *kandau/lhs h)ra/sqh th=s e(wutou= gunaiko/s e)rasqei\s de\ e)no/mize/ oi( ei)=nai gunai=ka pollo\n pase/wn kalli/sthn 
+__label__hdt__ w(/ste de\ tau=ta nomi/zwn h)=n ga/r oi( tw=n ai)xmofo/rwn *gu/ghs o( *dasku/lou a)resko/menos ma/lista tou/tw| tw=| *gu/gh| kai\ ta\ spoudaie/stera tw=n prhgma/twn u(pereti/qeto o( *kandau/lhs kai\ dh\ kai\ to\ ei)=dos th=s gunaiko\s u(perepaine/wn 
+__label__hdt__ xro/nou de\ ou) pollou= dielqo/ntos 'xrh=n ga\r *kandau/lh| gene/sqai kakw=s e)/lege pro\s to\n *gu/ghn toia/de 
+__label__hdt__ *gu/gh ou) ga\r se doke/w pei/qesqai moi le/gonti peri\ tou= ei)/deos th=s gunaiko/s 'w)=ta ga\r tugxa/nei a)nqrw/poisi e)o/nta a)pisto/tera o)fqalmw=n poi/ee o(/kws e)kei/nhn qeh/seai gumnh/n 
+__label__hdt__ o(\ d' a)mbw/sas ei)=pe de/spota ti/na le/geis lo/gon ou)k u(gie/a keleu/wn me de/spoinan th\n e)mh\n qeh/sasqai gumnh/n 
+__label__hdt__ a(/ma de\ kiqw=ni e)kduome/nw| sunekdu/etai kai\ th\n ai)dw= gunh/ 
+__label__hdt__ pa/lai de\ ta\ kala\ a)nqrw/poisi e)ceu/rhtai e)k tw=n manqa/nein dei= 
+__label__hdt__ e)n toi=si e(\n to/de e)sti/ skope/ein tina\ ta\ e(wutou= 
+__label__hdt__ e)gw\ de\ pei/qomai e)kei/nhn ei)=nai pase/wn gunaikw=n kalli/sthn kai\ se/o de/omai mh\ de/esqai a)no/mwn 
+__label__hdt__ o(\ me\n dh\ le/gwn toiau=ta a)pema/xeto a)rrwde/wn mh\ ti/ oi( e)c au)tw=n ge/nhtai kako/n o(\ d' a)mei/beto toi=side 
+__label__hdt__ qa/rsee *gu/gh kai\ mh\ fobeu= mh/te e)me/ w(s se/o peirw/menos le/gw lo/gon to/nde mh/te gunai=ka th\n e)mh/n mh\ ti\ toi e)c au)th=s ge/nhtai bla/bos 
+__label__hdt__ a)rxh/n ga\r e)gw\ mhxanh/somai ou(/tw w(/ste mhde/ maqei=n min o)fqei=san u(po\ seu= 
+__label__hdt__ e)gw\ ga/r se e)s to\ oi)/khma e)n tw=| koimw/meqa o)/pisqe th=s a)noigome/nhs qu/rhs sth/sw 
+__label__hdt__ meta\ d' e)me\ e)selqo/nta pare/stai kai\ h( gunh\ h( e)mh\ e)s koi=ton 
+__label__hdt__ kei=tai de\ a)gxou= th=s e)so/dou qro/nos 
+__label__hdt__ e)pi\ tou=ton tw=n i(mati/wn kata\ e(/n e(/kaston e)kdu/nousa qh/sei kai\ kat' h(suxi/hn pollh\n pare/cei toi qeh/sasqai 
+__label__hdt__ e)pea\n de/ a)po\ tou= qro/nou stei/xh| e)pi\ th\n eu)nh/n kata\ nw/tou te au)th=s ge/nh| soi\ mele/tw to\ e)nqeu=ten o(/kws mh\ se o)/yetai i)o/nta dia\ qure/wn 
+__label__hdt__ o(\ me\n dh\ w(s ou)k e)du/nato diafugei=n h)=n e(/toimos 
+__label__hdt__ o( de\ *kandau/lhs e)pei\ e)do/kee w(/rh th=s koi/ths ei)=nai h)/gage to\n *gu/gea e)s to\ oi)/khma 
+__label__hdt__ kai\ meta\ tau=ta au)ti/ka parh=n kai\ h( gunh/ 
+__label__hdt__ e)selqou=san de\ kai\ tiqei=san ta\ ei(/mata e)qhei=to o( *gu/ghs 
+__label__hdt__ w(s de\ kata\ nw/tou e)ge/neto i)ou/shs th=s gunaiko/s e)s th\n koi/thn u(pekdu\s e)xw/ree e)/cw kai\ h( gunh\ e)pora=| min e)cio/nta 
+__label__hdt__ maqou=sa\ de\ to\ poihqe/n e)k tou= a)ndro\s ou)/te a)ne/bwse ai)sxunqei=sa ou)/te e)/doce maqei=n e)n now= e)/xousa ti/sesqai to\n *kandau/lea 
+__label__hdt__ para\ ga\r toi=si *ludoi=si sxedo\n de\ kai\ para\ toi=si a)/lloisi barba/roisi kai\ a)/ndra o)fqh=nai gumno/n e)s ai)sxu/nhn mega/lhn fe/rei 
+__label__hdt__ to/te me\n dh\ ou(/tw ou)de/n dhlw/sasa h(suxi/hn ei)=xe 
+__label__hdt__ w(s de\ h(me/rh ta/xista e)gego/nee tw=n oi)kete/wn tou\s ma/lista w(/ra pistou\s e)o/ntas e(wuth=| e(toi/mous poihsame/nh e)ka/lee to\n *gu/gea 
+__label__hdt__ o( de\ ou)de\n doke/wn au)th/n tw=n prhxqe/ntwn e)pi/stasqai h)=lqe kaleo/menos 
+__label__hdt__ e)w/qee ga\r kai\ pro/sqe o(/kws h( basi/leia kale/oi foita=n 
+__label__hdt__ w(s de\ o( *gu/ghs a)pi/keto e)/lege h( gunh\ ta/de 
+__label__hdt__ nu=n toi/ duw=n o(dw=n pareouse/wn *gu/gh di/dwmi/ ai(/resin o(kote/rhn bou/leai trape/sqai 
+__label__hdt__ h)\ ga\r *kandau/lea a)poktei/nas e)me/ te kai\ th\n basilhi/hn e)/xe th\n *ludw=n h)\ au)to/n se au)ti/ka ou(/tw a)poqnh/skein dei= w(s a)\n mh\ pa/nta peiqo/menos *kandau/lh| tou= loipou= i)/dh|s ta\ mh\ se dei= 
+__label__hdt__ a)ll' h)/toi kei=no/n ge to\n tau=ta bouleu/santa dei= a)po/llusqai h)\ se to\n e)me\ gumnh/n qehsa/menon kai\ poih/santa ou) nomizo/mena 
+__label__hdt__ o( de\ *gu/ghs te/ws me\n a)peqw/maze ta\ lego/mena meta\ de\ i(ke/teue mh\ min a)nagkai/h| e)nde/ein diakri=nai toiau/thn ai(/resin 
+__label__hdt__ ou)/kwn dh\ e)/peiqe a)ll' w(/ra a)nagkai/hn a)lhqe/ws prokeime/nhn h)\ to\n despo/tea a)pollu/nai h)\ au)to\n u(p' a)/llwn a)po/llusqai 
+__label__hdt__ ai(re/etai au)to\s periei=nai 
+__label__hdt__ e)peirw/ta dh\ le/gwn ta/de 
+__label__hdt__ e)pei/ me a)nagka/zeis despo/tea to\n e)mo\n ktei/nein ou)k e)qe/lonta fe/re a)kou/sw te/w| kai\ tro/pw| e)pixeirh/somen au)tw=| 
+__label__hdt__ h(\ de\ u(polabou=sa e)/fh e)k tou= au)tou= me\n xwri/ou h( o(rmh/ e)/stai o(/qen per kai\ e)kei=nos e)me/ e)pede/cato gumnh/n u(pnwme/nw| de\ h( e)pixei/rhsis e)/stai 
+__label__hdt__ w(s de\ h)/rtusan th\n e)piboulh/n nukto\s genome/nhs ou) ga\r e)meti/eto o( *gu/ghs ou)de/ oi( h)=n a)pallagh\ ou)demi/a a)ll' e)/dee h)/ au)to\n a)polwle/nai h)\ *kandau/lea ei(/peto e)s to\n qa/lamon th=| gunaiki/ kai/ min e)kei/nh e)gxeiri/dion dou=sa katakru/ptei u(po\ th\n au)th\n qu/rhn 
+__label__hdt__ kai\ meta\ tau=ta a)napauome/nou *kandau/lew u(pekdu/s te kai\ a)poktei/nas au)to\n e)/sxe kai\ th\n gunai=ka kai\ th\n basilhi/hn *gu/ghs tou= kai\ *)arxi/loxos o( *pa/rios kata\ to\n au)to\n xro/non geno/menos e)n i)a/mbw| trime/trw| e)pemnh/sqh 
+__label__hdt__ e)/sxe de\ th\n basilhi/hn kai\ e)kratu/nqh e)k tou= e)n *delfoi=si xrhsthri/ou 
+__label__hdt__ w(s ga\r dh\ oi( *ludoi\ deino/n e)poieu=nto to\ *kandau/lew pa/qos kai\ e)n o(/ploisi h)=san sune/bhsan e)s tw)uto\ oi(\ te tou= *gu/gew stasiw=tai kai/ oi( loipoi\ *ludoi/ h)/n me\n to\ xrhsth/rion a)ne/lh| min basile/a ei)=nai *ludw=n to/n de\ basileu/ein h)/n de\ mh/ a)podou=nai o)pi/sw e)s *(hraklei/das th\n a)rxh/n 
+__label__hdt__ a)nei=le/ te dh\ to\ xrhsth/rion kai\ e)basi/leuse ou(/tw *gu/ghs 
+__label__hdt__ toso/nde me/ntoi ei)=pe h( *puqi/h w(s *(hraklei/dh|si ti/sis h(/cei e)s to\n pe/mpton a)po/gonon *gu/gew 
+__label__hdt__ tou/tou tou= e)/peos *ludoi/ te kai/ oi( basile/es au)tw=n lo/gon ou)de/na e)poieu=nto pri\n dh\ e)petele/sqh 
+__label__hdt__ th\n me\n dh\ turanni/da ou(/tw e)/sxon oi( *mermna/dai tou\s *(hraklei/das a)pelo/menoi *gu/ghs de\ turanneu/sas a)pe/pemye a)naqh/mata e)s *delfou\s ou)k o)li/ga a)ll' o(/sa me\n a)rgu/rou a)naqh/mata e)/sti oi( plei=sta e)n *delfoi=si pa/rec de\ tou= a)rgu/rou xruso\n a)/pleton a)ne/qhke a)/llon te kai\ tou= ma/lista mnh/mhn a)/cion e)/xein e)sti/ krhth=res oi( a)riqmo\n e(\c xru/seoi a)nake/atai 
+__label__hdt__ e(sta=si de\ ou(=toi e)n tw=| *korinqi/wn qhsaurw=| staqmo\n e)/xontes trih/konta ta/lanta 
+__label__hdt__ a)lhqe/i de\ lo/gw| xrewme/nw| ou) *korinqi/wn tou= dhmosi/ou e)sti\ o( qhsauro/s a)lla\ *kuye/lou tou= *)heti/wnos 
+__label__hdt__ ou(=tos de\ o( *gu/ghs prw=tos barba/rwn tw=n h(mei=s i)/dmen e)s *delfou\s a)ne/qhke a)naqh/mata meta\ *mi/dhn to\n *gordi/ew *frugi/hs basile/a 
+__label__hdt__ a)ne/qhke ga\r dh\ kai\ *mi/dhs to\n basilh/ion qro/non e)s to\n prokati/zwn e)di/kaze e)o/nta a)cioqe/hton 
+__label__hdt__ kei=tai de\ o( qro/nos ou(=tos e)/nqa per oi( tou= *gu/gew krhth=res 
+__label__hdt__ 

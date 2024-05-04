@@ -1,0 +1,241 @@
+5	18	40	ἐνέμειναν	ἐμμένω	2.002.1-007	to abide in	<NL>V e)mme/nw  aor ind act 3rd pl			aor1</NL>
+123	835	995	ἐγένοντο	γίγνομαι	2.002.1-012	become	<NL>V gi/gnomai  aor ind mid 3rd pl			aor2</NL>
+1	33	8	δέοντα	δέω2	2.002.1-030	to lack	<NL>P de/w2  pres part act neut acc pl			evw_pr,ev_stem</NL>
+1	1	8	ἱερωμένης	ἱεράομαι	2.002.1-032	to be a priest	<NL>P i(era/omai  pres part mp fem gen sg	attic epic ionic	contr	aw_pr,aw_denom</NL>
+28	208	226	ἀρχομένῳ	ἄρχω	2.002.1-056	(to be first) to rule	<NL>P a)/rxw  pres part mp neut dat sg			w_stem,reg_conj</NL>
+21	128	169	ἡγοῦντο	ἡγέομαι	2.002.1-062	to lead; to consider	<NL>V h(ge/omai  imperf ind mid 3rd pl	attic epic doric	contr	ew_pr,ew_denom</NL>
+1	1	8	βοιωταρχοῦντες	Βοιωταρχέω	2.002.1-065	to be a Boeotarch	<NL>P *boiwtarxe/w  pres part act masc nom pl	attic epic doric	contr	ew_pr,ew_denom</NL>
+10	34	80	ἐσῆλθον	εἰσέρχομαι	2.002.1-074	to go in	<NL>V ei)se/rxomai  aor ind act 3rd pl		short_eis	aor2</NL>
+298	2373	2412	οὖσαν	εἰμί	2.002.1-084	to be	<NL>P ei)mi/  pres part act fem acc sg	attic epic doric ionic		irreg_mi</NL>
+4	43	32	ἐπηγάγοντο	ἐπάγω	2.002.2-001	to bring on	<NL>V e)pa/gw  aor ind mid 3rd pl	attic epic ionic	redupl	aor2</NL>
+3	16	24	ἀνέῳξαν	ἀνοίγνυμι	2.002.2-004	to open	<NL>V a)noi/gnumi  aor ind act 3rd pl		syll_augment	aor1,reg_conj</NL>
+40	369	323	βουλόμενοι	βούλομαι	2.002.2-017	to will	<NL>P bou/lomai  pres part mp masc nom pl			w_stem,nw</NL>
+24	152	194	διαφθεῖραι	διαφθείρω	2.002.2-028	to destroy	<NL>V diafqei/rw  aor inf act			aor1,eirw</NL>
+5	17	40	προσποιῆσαι	προσποιέω	2.002.2-033	to make over to; mid. procure	<NL>V prospoie/w  aor inf act			aor1,ew_denom</NL>
+13	191	105	ἔπραξαν	πράσσω	2.002.3-001	do	<NL>V e)/pra_can,pra/ssw  aor ind act 3rd pl			aor1,ss</NL>
+1	10	8	προϊδόντες	προεῖδον	2.002.3-012	to see beforehand	<NL>P pro+ido/ntes,proei=don  aor part act masc nom pl		raw_preverb	aor2</NL>
+298	2373	2412	ἔσοιτο	εἰμί	2.002.3-017	to be	<NL>V ei)mi/  fut opt mid 3rd sg	epic		reg_fut</NL>
+40	369	323	ἐβούλοντο	βούλομαι	2.002.3-020	to will	<NL>V bou/lomai  imperf ind mp 3rd pl			w_stem,nw</NL>
+298	2373	2412	οὖσαν	εἰμί	2.002.3-026	to be	<NL>P ei)mi/  pres part act fem acc sg	attic epic doric ionic		irreg_mi</NL>
+30	264	242	καθεστῶτος	καθίστημι	2.002.3-036	to set down	<NL>P kaqi/sthmi  perf part act masc gen sg			perf2_act</NL>
+1	17	8	προκαταλαβεῖν	προκαταλαμβάνω	2.002.3-037	to seize beforehand	<NL>V prokatalamba/nw  aor inf act	attic epic doric	contr	aor2,anw</NL>
+5	60	40	ἔλαθον	λανθάνω	2.002.3-041	to escape notice	<NL>V lanqa/nw  aor ind act 3rd pl			aor2,anw</NL>
+10	34	80	ἐσελθόντες	εἰσέρχομαι	2.002.3-042	to go in	<NL>P ei)se/rxomai  aor part act masc nom pl		short_eis	aor2</NL>
+1	1	8	προκαθεστηκυίας	προκαθίστημι	2.002.3-046	to set before;	<NL>P prokaqesthkui_/a_s,prokaqi/sthmi  perf part act fem gen sg	attic doric aeolic		perf_act</NL>
+5	39	40	θέμενοι	τίθημι	2.002.4-001	to set	<NL>P ti/qhmi  aor part mid masc nom pl			emi_aor</NL>
+4	43	32	ἐπαγαγομένοις	ἐπάγω	2.002.4-010	to bring on	<NL>P e)pa/gw  aor part mid neut dat pl		redupl	aor2</NL>
+22	212	178	ἐπείθοντο	πείθω	2.002.4-012	to prevail upon	<NL>V pei/qw  imperf ind mp 3rd pl			w_stem,reg_conj</NL>
+90	771	728	ἔχεσθαι	ἔχω	2.002.4-016	to have	<NL>V e)/xw  pres inf mp			w_stem,reg_conj</NL>
+10	116	80	ἰέναι	εἶμι	2.002.4-018	come	<NL>V ei)=mi  pres inf act			irreg_mi</NL>
+69	533	558	ἐποιοῦντο	ποιέω	2.002.4-027	to make	<NL>V poie/w  imperf ind mp 3rd pl	attic epic doric	contr	ew_pr,ew_denom</NL>
+26	143	210	χρήσασθαι	χράω2	2.002.4-030	proclaim an oracle	<NL>V xra/w2  aor inf mid			aor1,a_stem</NL>
+11	109	89	ἀγαγεῖν	ἄγω	2.002.4-040	to lead	<NL>V a)/gw  aor inf act	attic epic doric	contr redupl	aor2</NL>
+1	2	8	ἀνεῖπεν	ἀνειπεῖν	2.002.4-042	to say aloud	<NL>V a)neipei=n  aor ind act 3rd sg		nu_movable	aor2</NL>
+40	369	323	βούλεται	βούλομαι	2.002.4-048	to will	<NL>V bou/lomai  pres ind mp 3rd sg			w_stem,nw</NL>
+2	15	16	ξυμμαχεῖν	συμμαχέω	2.002.4-055	to be an ally	<NL>V summaxe/w  pres inf act	attic epic doric	comp_only contr sig_to_ci	ew_pr,ew_denom</NL>
+5	39	40	τίθεσθαι	τίθημι	2.002.4-057	to set	<NL>V ti/qhmi  pres inf mp			emi_pr</NL>
+27	281	218	νομίζοντες	νομίζω	2.002.4-063	to have as a custom; to believe	<NL>P nomi/zw  pres part act masc nom pl			w_stem,izw</NL>
+4	44	32	προσχωρήσειν	προσχωρέω	2.002.4-069	to go to	<NL>V prosxwre/w  fut inf act	attic epic	contr	reg_fut,ew_denom</NL>
+13	121	105	ᾔσθοντο	αἰσθάνομαι	2.003.1-005	to perceive	<NL>V ai)sqa/nomai  aor ind mid 3rd pl			aor2,anw</NL>
+298	2373	2412	ὄντας	εἰμί	2.003.1-008	to be	<NL>P ei)mi/  pres part act masc acc pl			irreg_mi</NL>
+10	66	80	κατειλημμένην	καταλαμβάνω	2.003.1-013	to seize upon	<NL>P katalamba/nw  perf part mp fem acc sg	attic epic ionic		perfp_p</NL>
+2	3	16	καταδείσαντες	καταδείδω	2.003.1-017	to fear greatly	<NL>P katadei/dw  aor part act masc nom pl			aor1,reg_conj</NL>
+27	281	218	νομίσαντες	νομίζω	2.003.1-019	to have as a custom; to believe	<NL>P nomi/zw  aor part act masc nom pl			aor1,izw</NL>
+10	34	80	ἐσεληλυθέναι	εἰσέρχομαι	2.003.1-022	to go in	<NL>V ei)se/rxomai  perf inf act		attic_redupl short_eis	perf_act</NL>
+30	155	242	ἑώρων	ὁράω	2.003.1-025	to see	<NL>V o(ra/w  imperf ind act 3rd pl		syll_augment contr	aw_pr,a_stem</NL>
+14	124	113	ἐχώρησαν	χωρέω	2.003.1-031	give way	<NL>V xwre/w  aor ind act 3rd pl			aor1,ew_denom</NL>
+8	110	64	δεξάμενοι	δέχομαι	2.003.1-035	to take	<NL>P de/xomai  aor part mid masc nom pl			aor1,reg_conj</NL>
+6	87	48	ἡσύχαζον	ἡσυχάζω	2.003.1-036	to be still	<NL>V h(suxa/zw  imperf ind act 3rd pl			w_stem,azw</NL>
+2	23	16	ἐνεωτέριζον	νεωτερίζω	2.003.1-045	to attempt anything new	<NL>V newteri/zw  imperf ind act 3rd pl			w_stem,izw</NL>
+13	191	105	πράσσοντες	πράσσω	2.003.2-001	do	<NL>P pra_/ssontes,pra/ssw  pres part act masc nom pl			w_stem,ss</NL>
+2	6	16	κατενόησαν	κατανοέω	2.003.2-005	to observe well	<NL>V katanoe/w  aor ind act 3rd pl			aor1,ew_denom</NL>
+298	2373	2412	ὄντας	εἰμί	2.003.2-010	to be	<NL>P ei)mi/  pres part act masc acc pl			irreg_mi</NL>
+27	281	218	ἐνόμισαν	νομίζω	2.003.2-012	to have as a custom; to believe	<NL>V nomi/zw  aor ind act 3rd pl			aor1,izw</NL>
+6	40	48	ἐπιθέμενοι	ἐπιτίθημι	2.003.2-013	to lay	<NL>P e)piti/qhmi  aor part mid masc nom pl			emi_aor</NL>
+15	174	121	κρατήσειν	κρατέω	2.003.2-015	to be strong	<NL>V krate/w  fut inf act	attic epic	contr	reg_fut,ew_denom</NL>
+40	369	323	βουλομένῳ	βούλομαι	2.003.2-022	to will	<NL>P bou/lomai  pres part mp neut dat sg			w_stem,nw</NL>
+298	2373	2412	ἦν	εἰμί	2.003.2-023	to be	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+4	150	32	ἀφίστασθαι	ἀφίστημι	2.003.2-026	to put away	<NL>V a)fi/sthmi  pres inf mp		causal pres_redupl	ami_pr</NL>
+33	308	267	ἐδόκει	δοκέω	2.003.3-001	seem	<NL>V doke/w  imperf ind act 3rd sg	attic epic	contr	ew_pr,ew_denom</NL>
+298	2373	2412	εἶναι	εἰμί	2.003.3-004	to be	<NL>V ei)mi/  pres inf act			irreg_mi</NL>
+4	27	32	ξυνελέγοντο	συλλέγω	2.003.3-007	to collect	<NL>V sulle/gw  imperf ind mp 3rd pl		sig_to_ci	w_stem,reg_conj</NL>
+1	1	8	διορύσσοντες	διορύσσω	2.003.3-008	to dig through	<NL>P dioru_/ssontes,dioru/ssw  pres part act masc nom pl			w_stem,ss</NL>
+298	2373	2412	ὦσιν	εἰμί	2.003.3-021	to be	<NL>V ei)mi/  pres subj act 3rd pl	attic epic doric	contr nu_movable	irreg_mi</NL>
+10	116	80	ἰόντες	εἶμι	2.003.3-022	come	<NL>P ei)=mi  pres part act masc nom pl			irreg_mi</NL>
+30	264	242	καθίστασαν	καθίστημι	2.003.3-032	to set down	<NL>V kaqi_/stasan,kaqi/sthmi  imperf ind act 3rd pl		causal pres_redupl	ami_pr</NL>
+298	2373	2412	ᾖ	εἰμί	2.003.3-037	to be	<NL>V ei)mi/  pres subj act 3rd sg		contr	irreg_mi</NL>
+4	16	32	ἐξήρτυον	ἐξαρτύω	2.003.3-041	to get ready	<NL>V e)cartu/w  imperf ind act 3rd pl	attic epic ionic		w_stem,reg_conj</NL>
+13	100	105	ἐφαίνετο	φαίνω	2.003.3-044	to bring to light	<NL>V fai/nw  imperf ind mp 3rd sg			w_stem,ainw</NL>
+31	272	250	παρόντα	πάρειμι1	2.003.3-047	be present	<NL>P pa/reimi1  pres part act neut acc pl			irreg_mi</NL>
+298	2373	2412	ἔσεσθαι	εἰμί	2.003.3-049	to be	<NL>V ei)mi/  fut inf mid			reg_fut</NL>
+298	2373	2412	ἦν	εἰμί	2.003.4-008	to be	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+8	57	64	φυλάξαντες	φυλάσσω	2.003.4-010	to keep watch and ward	<NL>P fula/ssw  aor part act masc nom pl			aor1,ss</NL>
+14	124	113	ἐχώρουν	χωρέω	2.003.4-017	give way	<NL>V xwre/w  imperf ind act 3rd pl	attic epic doric	contr	ew_pr,ew_denom</NL>
+298	2373	2412	οὖσι	εἰμί	2.003.4-029	to be	<NL>P ei)mi/  pres part act neut dat pl	attic epic doric ionic		irreg_mi</NL>
+5	20	40	προσφέροιντο	προσφέρω	2.003.4-030	to bring to	<NL>V prosfe/rw  pres opt mp 3rd pl			w_stem</NL>
+123	835	995	γίγνωνται	γίγνομαι	2.003.4-036	become	<NL>V gi/gnomai  pres subj mp 3rd pl		pres_redupl	w_stem,reg_conj</NL>
+298	2373	2412	ὄντες	εἰμί	2.003.4-042	to be	<NL>P ei)mi/  pres part act masc nom pl			irreg_mi</NL>
+298	2373	2412	ὦσι	εἰμί	2.003.4-044	to be	<NL>V ei)mi/  pres subj act 3rd pl	attic epic doric	contr	irreg_mi</NL>
+8	68	64	προσέβαλόν	προσβάλλω	2.003.4-052	to strike	<NL>V prose/balon,prosba/llw  aor ind act 3rd pl			aor2</NL>
+10	116	80	ᾖσαν	εἶμι	2.003.4-058	come	<NL>V ei)=mi  imperf ind act 3rd pl			irreg_mi</NL>
+15	129	121	ἔγνωσαν	γιγνώσκω	2.004.1-004	to learn to know	<NL>V gignw/skw  aor ind act 3rd pl			ath_w_aor,o_stem</NL>
+1	5	8	ἐξηπατημένοι	ἐξαπατάω	2.004.1-005	to deceive	<NL>P e)capata/w  perf part mp masc nom pl	attic ionic	redupl	perfp_vow,aw_denom</NL>
+2	10	16	ξυνεστρέφοντό	συστρέφω	2.004.1-007	to twist up into a ball	<NL>V cunestre/fonto,sustre/fw  imperf ind mp 3rd pl		sig_to_ci	w_stem,reg_conj</NL>
+10	52	80	προσπίπτοιεν	προσπίτνω	2.004.1-016	to fall upon	<NL>V prospi_/ptoien,prospi/tnw  pres opt act 3rd pl		pres_redupl	w_stem</NL>
+2	17	16	ἀπεωθοῦντο	ἀπωθέω	2.004.1-017	to thrust away	<NL>V a)pwqe/w  imperf ind mp 3rd pl	attic epic doric	syll_augment contr	ew_pr,ew_denom</NL>
+1	5	8	ἀπεκρούσαντο	ἀποκρούω	2.004.2-006	to beat off from	<NL>V a)pokrou/w  aor ind mid 3rd pl			aor1,reg_conj</NL>
+8	68	64	προσβαλόντων	προσβάλλω	2.004.2-013	to strike	<NL>P prosba/llw  aor part act neut gen pl			aor2</NL>
+26	143	210	χρωμένων	χράω2	2.004.2-028	proclaim an oracle	<NL>P xra/w2  pres part mp fem gen pl	attic	contr	ajw_pr,a_stem</NL>
+2	23	16	βαλλόντων	βάλλω	2.004.2-033	to throw	<NL>P ba/llw  pres part act neut gen pl			w_stem,allw</NL>
+13	73	105	ἐπιγενομένου	ἐπιγίγνομαι	2.004.2-041	to be born after	<NL>P e)pigi/gnomai  aor part mid neut gen sg			aor2</NL>
+17	108	137	ἐφοβήθησαν	φοβέω	2.004.2-043	to put to flight	<NL>V fobe/w  aor ind pass 3rd pl			aor_pass,ew_denom</NL>
+12	105	97	τραπόμενοι	τρέπω	2.004.2-045	to turn	<NL>P tre/pw  aor part mid masc nom pl			aor2</NL>
+6	59	48	ἔφευγον	φεύγω	2.004.2-046	to flee	<NL>V feu/gw  imperf ind act 3rd pl			w_stem,reg_conj</NL>
+298	2373	2412	ὄντες	εἰμί	2.004.2-053	to be	<NL>P ei)mi/  pres part act masc nom pl			irreg_mi</NL>
+13	115	105	χρὴ	χρή	2.004.2-063	it is fated	<NL>V xrh/,xrh/  pres ind act 3rd sg		impersonal	ath_primary</NL>
+4	54	32	σωθῆναι	σώζω	2.004.2-064	to save	<NL>V sw/zw  aor inf pass			aor_pass,o_stem</NL>
+13	90	105	τελευτῶντος	τελευτάω	2.004.2-067	to complete	<NL>P teleuta/w  pres part act masc gen sg		contr	aw_pr,aw_denom</NL>
+123	835	995	γιγνόμενα	γίγνομαι	2.004.2-071	become	<NL>P gi/gnomai  pres part mp neut acc pl		pres_redupl	w_stem,reg_conj</NL>
+298	2373	2412	ἦν	εἰμί	2.004.2-072	to be	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+90	771	728	ἔχοντες	ἔχω	2.004.2-076	to have	<NL>P e)/xw  pres part act masc nom pl			w_stem,reg_conj</NL>
+7	24	56	διώκοντας	διώκω	2.004.2-078	to pursue	<NL>P diw/kw  pres part act masc acc pl			w_stem,reg_conj</NL>
+1	1	8	ἐκφεύγειν	ἐκφεύγω	2.004.2-081	to flee out	<NL>V e)kfeu/gw  pres inf act	attic epic	contr	w_stem,reg_conj</NL>
+24	152	194	διεφθείροντο	διαφθείρω	2.004.2-084	to destroy	<NL>V diafqei/rw  imperf ind mp 3rd pl			w_stem,eirw</NL>
+10	34	80	ἐσῆλθον	εἰσέρχομαι	2.004.3-008	to go in	<NL>V ei)se/rxomai  aor ind act 3rd pl		short_eis	aor2</NL>
+298	2373	2412	ἦσαν	εἰμί	2.004.3-011	to be	<NL>V ei)mi/  imperf ind act 3rd pl			irreg_mi</NL>
+3	16	24	ἀνεῳγμέναι	ἀνοίγνυμι	2.004.3-013	to open	<NL>P a)noi/gnumi  perf part mp fem nom pl			perfp_g,reg_conj</NL>
+1	5	8	ἔκλῃσε	κλείω1	2.004.3-014	to shut	<NL>V klei/w1  aor ind act 3rd sg	attic	early	aor1,reg_conj</NL>
+26	143	210	χρησάμενος	χράω2	2.004.3-019	proclaim an oracle	<NL>P xra/w2  aor part mid masc nom sg			aor1,a_stem</NL>
+298	2373	2412	εἶναι	εἰμί	2.004.3-029	to be	<NL>V ei)mi/  pres inf act			irreg_mi</NL>
+7	24	56	διωκόμενοι	διώκω	2.004.4-001	to pursue	<NL>P diw/kw  pres part mp masc nom pl			w_stem,reg_conj</NL>
+2	26	16	ἀναβάντες	ἀναβαίνω	2.004.4-013	to go up	<NL>P a)nabai/nw  aor part act masc nom pl			ath_h_aor</NL>
+2	3	16	ἔρριψαν	ῥίπτω	2.004.4-014	to throw	<NL>V e)/rri_yan,r(i/ptw  aor ind act 3rd pl			aor1,ptw</NL>
+24	152	194	διεφθάρησαν	διαφθείρω	2.004.4-021	to destroy	<NL>V diafqei/rw  aor ind pass 3rd pl			aor2_pass</NL>
+13	113	105	δούσης	δίδωμι	2.004.4-031	to give	<NL>P di/dwmi  aor part act fem gen sg	attic epic ionic		omi_aor</NL>
+5	60	40	λαθόντες	λανθάνω	2.004.4-033	to escape notice	<NL>P lanqa/nw  aor part act masc nom pl			aor2,anw</NL>
+1	2	8	διακόψαντες	διακόπτω	2.004.4-035	to cut in two	<NL>P diako/ptw  aor part act masc nom pl			aor1,ptw</NL>
+6	45	48	ἐξῆλθον	ἐξέρχομαι	2.004.4-038	to go out	<NL>V e)ce/rxomai  aor ind act 3rd pl			aor2</NL>
+13	73	105	ἐπεγένετο	ἐπιγίγνομαι	2.004.4-044	to be born after	<NL>V e)pigi/gnomai  aor ind mid 3rd sg			aor2</NL>
+7	41	56	ἀπώλλυντο	ἀπόλλυμι	2.004.4-052	to destroy	<NL>V a)po/llumi  imperf ind mp 3rd pl			umi_pr</NL>
+298	2373	2412	ἦν	εἰμί	2.004.5-007	to be	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+2	10	16	ξυνεστραμμένον	συστρέφω	2.004.5-008	to twist up into a ball	<NL>P sustre/fw  perf part mp neut acc sg		sig_to_ci	perfp_p,reg_conj</NL>
+4	16	32	ἐσπίπτουσιν	εἰσπίπτω	2.004.5-009	to fall into	<NL>V e)spi_/ptousin,ei)spi/ptw  pres ind act 3rd pl	attic epic doric ionic	nu_movable pres_redupl short_eis	w_stem</NL>
+298	2373	2412	ἦν	εἰμί	2.004.5-015	to be	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+3	16	24	ἀνεῳγμέναι	ἀνοίγνυμι	2.004.5-021	to open	<NL>P a)noi/gnumi  perf part mp fem nom pl			perfp_g,reg_conj</NL>
+15	137	121	ἔτυχον	τυγχάνω	2.004.5-022	(with gen.) to hit the mark	<NL>V tugxa/nw  aor ind act 3rd pl			aor2,anw</NL>
+12	89	97	οἰόμενοι	οἴομαι	2.004.5-025	to suppose	<NL>P oi)/omai  pres part mp masc nom pl			w_stem</NL>
+298	2373	2412	εἶναι	εἰμί	2.004.5-031	to be	<NL>V ei)mi/  pres inf act			irreg_mi</NL>
+30	155	242	ὁρῶντες	ὁράω	2.004.6-001	to see	<NL>P o(ra/w  pres part act masc nom pl	epic	contr	aw_pr,a_stem</NL>
+2	28	16	ἀπειλημμένους	ἀπολαμβάνω	2.004.6-006	to take away	<NL>P a)polamba/nw  perf part mp masc acc pl			perfp_p</NL>
+9	110	72	ἐβουλεύοντο	βουλεύω	2.004.6-007	to take counsel	<NL>V bouleu/w  imperf ind mp 3rd pl			w_stem,euw</NL>
+1	12	8	κατακαύσωσιν	κατακαίω	2.004.6-009	to burn down	<NL>V katakai/w  aor subj act 3rd pl		nu_movable	aor1,av_stem</NL>
+90	771	728	ἔχουσιν	ἔχω	2.004.6-011	to have	<NL>V e)/xw  pres ind act 3rd pl	attic epic doric ionic	nu_movable	w_stem,reg_conj</NL>
+1	15	8	ἐμπρήσαντες	ἐμπίμπρημι	2.004.6-013	to kindle	<NL>P e)mpi/mprhmi  aor part act masc nom pl			aor1,a_stem</NL>
+26	143	210	χρήσωνται	χράω2	2.004.6-020	proclaim an oracle	<NL>V xra/w2  aor subj mid 3rd pl			aor1,a_stem</NL>
+5	25	40	περιῆσαν	περίειμι1	2.004.7-010	be superior	<NL>V peri+h=san,peri/eimi1  imperf ind act 3rd pl		raw_preverb	irreg_mi</NL>
+2	6	16	πλανώμενοι	πλανάω	2.004.7-014	to make to wander	<NL>P plana/w  pres part mp masc nom pl		contr	aw_pr,aw_denom</NL>
+15	126	121	ξυνέβησαν	συμβαίνω	2.004.7-016	meet	<NL>V sumbai/nw  aor ind act 3rd pl		causal sig_to_ci	aor1,a_stem</NL>
+8	83	64	παραδοῦναι	παραδίδωμι	2.004.7-019	to hand over	<NL>V paradi/dwmi  aor inf act			omi_aor</NL>
+26	143	210	χρήσασθαι	χράω2	2.004.7-026	proclaim an oracle	<NL>V xra/w2  aor inf mid			aor1,a_stem</NL>
+40	369	323	βούλωνται	βούλομαι	2.004.7-029	to will	<NL>V bou/lomai  pres subj mp 3rd pl			w_stem,nw</NL>
+13	191	105	ἐπεπράγεσαν	πράσσω	2.004.8-008	do	<NL>V e)pepra_/gesan,pra/ssw  plup ind act 3rd pl			perf_act</NL>
+14	117	113	ἔδει	δεῖ	2.005.1-007	it is necessary	<NL>V dei=  imperf ind act 3rd sg	attic epic ionic	contr	ew_pr,ev_stem</NL>
+8	44	64	παραγενέσθαι	παραγίγνομαι	2.005.1-011	to come near	<NL>V paragi/gnomai  aor inf mid			aor2</NL>
+7	38	56	προχωροίη	προχωρέω	2.005.1-018	to go forward	<NL>V proxwre/w  pres opt act 3rd sg			ew_pr,ew_denom</NL>
+10	34	80	ἐσεληλυθόσι	εἰσέρχομαι	2.005.1-020	to go in	<NL>P ei)se/rxomai  perf part act neut dat pl		attic_redupl short_eis	perf_act</NL>
+7	78	56	ῥηθείσης	ἐρῶ	2.005.1-028	[I will say]	<NL>P e)rw=  aor part pass fem gen sg	attic epic ionic		aor_pass,e_stem</NL>
+123	835	995	γεγενημένων	γίγνομαι	2.005.1-031	become	<NL>P gi/gnomai  perf part mp neut gen pl			perfp_vow,e_stem</NL>
+4	27	32	ἐπεβοήθουν	ἐπιβοηθέω	2.005.1-032	to come to aid	<NL>V e)pibohqe/w  imperf ind act 3rd pl	attic epic doric	contr	ew_pr,ew_denom</NL>
+5	49	40	ἀπέχει	ἀπέχω	2.005.2-001	to keep off	<NL>V a)pe/xw  pres ind act 3rd sg			w_stem,reg_conj</NL>
+123	835	995	γενόμενον	γίγνομαι	2.005.2-014	become	<NL>P gi/gnomai  aor part mid neut acc sg			aor2</NL>
+69	533	558	ἐποίησε	ποιέω	2.005.2-017	to make	<NL>V poie/w  aor ind act 3rd sg			aor1,ew_denom</NL>
+26	271	210	ἐλθεῖν	ἔρχομαι	2.005.2-020	to come	<NL>V e)/rxomai  aor inf act	attic epic doric	contr	aor2</NL>
+4	8	32	ἐρρύη	ῥέω	2.005.2-025	to flow	<NL>V r(e/w  aor ind pass 3rd sg			aor2_pass,e_stem</NL>
+298	2373	2412	ἦν	εἰμί	2.005.2-031	to be	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+9	47	72	πορευόμενοί	πορεύω	2.005.3-001	to make to go	<NL>P poreuo/menoi,poreu/w  pres part mp masc nom pl			w_stem,euw</NL>
+2	34	16	διαβάντες	διαβαίνω	2.005.3-009	to cross (a river	<NL>P diabai/nw  aor part act masc nom pl			ath_h_aor</NL>
+8	44	64	παρεγένοντο	παραγίγνομαι	2.005.3-011	to come near	<NL>V paragi/gnomai  aor ind mid 3rd pl			aor2</NL>
+24	152	194	διεφθαρμένων	διαφθείρω	2.005.3-018	to destroy	<NL>P diafqei/rw  perf part mp masc gen pl			perfp_r,reg_conj</NL>
+4	20	32	ζώντων	ζάω	2.005.3-022	to live	<NL>P za/w  pres part act neut gen pl		contr	ajw_pr,a_stem</NL>
+90	771	728	ἐχομένων	ἔχω	2.005.3-023	to have	<NL>P e)/xw  pres part mp neut gen pl			w_stem,reg_conj</NL>
+13	121	105	ᾔσθοντο	αἰσθάνομαι	2.005.4-003	to perceive	<NL>V ai)sqa/nomai  aor ind mid 3rd pl			aor2,anw</NL>
+123	835	995	γεγενημένον	γίγνομαι	2.005.4-007	become	<NL>P gi/gnomai  perf part mp neut acc sg			perfp_vow,e_stem</NL>
+1	34	8	ἐπεβούλευον	ἐπιβουλεύω	2.005.4-009	to plot against	<NL>V e)pibouleu/w  imperf ind act 3rd pl			w_stem,euw</NL>
+298	2373	2412	ἦσαν	εἰμί	2.005.4-016	to be	<NL>V ei)mi/  imperf ind act 3rd pl			irreg_mi</NL>
+123	835	995	γενομένου	γίγνομαι	2.005.4-031	become	<NL>P gi/gnomai  aor part mid neut gen sg			aor2</NL>
+40	369	323	ἐβούλοντο	βούλομαι	2.005.4-032	to will	<NL>V bou/lomai  imperf ind mp 3rd pl			w_stem,nw</NL>
+27	205	218	λάβοιεν	λαμβάνω	2.005.4-038	to take	<NL>V lamba/nw  aor opt act 3rd pl			aor2,anw</NL>
+20	94	161	ὑπάρχειν	ὑπάρχω	2.005.4-040	to begin; to exist	<NL>V u(pa/rxw  pres inf act	attic epic	contr	w_stem,reg_conj</NL>
+15	137	121	τύχωσί	τυγχάνω	2.005.4-047	(with gen.) to hit the mark	<NL>V tu/xwsi,tugxa/nw  aor subj act 3rd pl			aor2,anw</NL>
+2	10	16	ἐζωγρημένοι	ζωγρέω	2.005.4-049	to take alive	<NL>P zwgre/w  perf part mp masc nom pl		redupl	perfp_vow,ew_denom</NL>
+4	59	32	διενοοῦντο	διανοέομαι	2.005.4-054	to be minded	<NL>V dianoe/omai  imperf ind mp 3rd pl	attic epic doric	contr	ew_pr,ew_denom</NL>
+1	2	8	διαβουλευομένων	διαβουλεύομαι	2.005.5-005	complete its term	<NL>P diabouleu/w  pres part mp neut gen pl			w_stem,euw</NL>
+2	7	16	ὑποτοπήσαντες	ὑποτοπέω	2.005.5-007	to suspect	<NL>P u(potope/w  aor part act masc nom pl			aor1,ew_denom</NL>
+298	2373	2412	ἔσεσθαι	εἰμί	2.005.5-010	to be	<NL>V ei)mi/  fut inf mid			reg_fut</NL>
+14	110	113	δείσαντες	δείδω	2.005.5-012	to fear	<NL>P dei/dw  aor part act masc nom pl			aor1,reg_conj</NL>
+5	42	40	ἐξέπεμψαν	ἐκπέμπω	2.005.5-017	to send out	<NL>V e)kpe/mpw  aor ind act 3rd pl			aor1,reg_conj</NL>
+42	259	339	λέγοντες	λέγω2	2.005.5-022	to pick; to say	<NL>P le/gw2  pres part act masc nom pl			w_stem,reg_conj</NL>
+69	533	558	πεποιημένα	ποιέω	2.005.5-026	to make	<NL>P poie/w  perf part mp neut acc pl		redupl	perfp_vow,ew_denom</NL>
+13	85	105	δράσειαν	δράω	2.005.5-028	to do	<NL>V dra_/seian,dra/w  aor opt act 3rd pl	attic epic doric aeolic		aor1,a_stem</NL>
+11	86	89	πειράσαντες	πειράω	2.005.5-032	to attempt	<NL>P peira_/santes,peira/w  aor part act masc nom pl	attic	r_e_i_alpha	aor1,aw_denom</NL>
+10	66	80	καταλαβεῖν	καταλαμβάνω	2.005.5-033	to seize upon	<NL>V katalamba/nw  aor inf act	attic epic doric	contr	aor2,anw</NL>
+42	259	339	ἔλεγον	λέγω2	2.005.5-040	to pick; to say	<NL>V le/gw2  imperf ind act 3rd pl			w_stem,reg_conj</NL>
+7	120	56	ἀδικεῖν	ἀδικέω	2.005.5-043	to do wrong	<NL>V a)dike/w  pres inf act	attic epic doric	contr	ew_pr,ew_denom</NL>
+11	131	89	ἔφασαν	φημί	2.005.5-050	to say	<NL>V fhmi/  imperf ind act 3rd pl			ath_primary</NL>
+6	68	48	ἀποκτενεῖν	ἀποκτείνω	2.005.5-054	to kill	<NL>V a)poktei/nw  fut inf act	attic epic doric	contr	ew_fut,einw</NL>
+90	771	728	ἔχουσι	ἔχω	2.005.5-056	to have	<NL>V e)/xw  pres ind act 3rd pl	attic epic doric ionic		w_stem,reg_conj</NL>
+4	20	32	ζῶντας	ζάω	2.005.5-057	to live	<NL>P za/w  pres part act masc acc pl		contr	ajw_pr,a_stem</NL>
+24	135	194	ἀναχωρησάντων	ἀναχωρέω	2.005.5-058	to go back	<NL>P a)naxwre/w  aor part act masc gen pl			aor1,ew_denom</NL>
+9	81	72	ἀποδώσειν	ἀποδίδωμι	2.005.5-064	to give back	<NL>V a)podi/dwmi  fut inf act	attic epic	contr	reg_fut,o_stem</NL>
+42	259	339	λέγουσι	λέγω2	2.005.6-004	to pick; to say	<NL>V le/gw2  pres ind act 3rd pl	attic epic doric ionic		w_stem,reg_conj</NL>
+2	3	16	ἐπομόσαι	ἐπόμνυμι	2.005.6-006	to swear after	<NL>V e)po/mnumi  aor inf act			aor1,o_stem</NL>
+11	131	89	φασὶν	φημί	2.005.6-007	to say	<NL>V fa_sin,fhmi/  pres ind act 3rd pl		enclitic nu_movable	ath_primary</NL>
+5	17	40	ὁμολογοῦσι	ὁμολογέω	2.005.6-012	agree	<NL>V o(mologe/w  pres ind act 3rd pl	attic epic doric	contr	ew_pr,ew_denom</NL>
+3	25	24	ὑποσχέσθαι	ὑπισχνέομαι	2.005.6-016	to promise	<NL>V u(pisxne/omai  aor inf mid		comp_only	aor2</NL>
+9	81	72	ἀποδώσειν	ἀποδίδωμι	2.005.6-017	to give back	<NL>V a)podi/dwmi  fut inf act	attic epic	contr	reg_fut,o_stem</NL>
+123	835	995	γενομένων	γίγνομαι	2.005.6-022	become	<NL>P gi/gnomai  aor part mid masc gen pl			aor2</NL>
+15	126	121	ξυμβαίνωσι	συμβαίνω	2.005.6-025	meet	<NL>V sumbai/nw  pres subj act 3rd pl		sig_to_ci	w_stem,ainw</NL>
+2	3	16	ἐπομόσαι	ἐπόμνυμι	2.005.6-028	to swear after	<NL>V e)po/mnumi  aor inf act			aor1,o_stem</NL>
+11	131	89	φασιν	φημί	2.005.6-030	to say	<NL>V fa_sin,fhmi/  pres ind act 3rd pl		enclitic nu_movable	ath_primary</NL>
+24	135	194	ἀνεχώρησαν	ἀναχωρέω	2.005.7-006	to go back	<NL>V a)naxwre/w  aor ind act 3rd pl			aor1,ew_denom</NL>
+7	120	56	ἀδικήσαντες	ἀδικέω	2.005.7-010	to do wrong	<NL>P a)dike/w  aor part act masc nom pl			aor1,ew_denom</NL>
+5	13	40	ἐσεκομίσαντο	εἰσκομίζω	2.005.7-021	to carry into	<NL>V ei)skomi/zw  aor ind mid 3rd pl		short_eis	aor1,izw</NL>
+6	68	48	ἀπέκτειναν	ἀποκτείνω	2.005.7-023	to kill	<NL>V a)poktei/nw  aor ind act 3rd pl			aor1,einw</NL>
+298	2373	2412	ἦσαν	εἰμί	2.005.7-027	to be	<NL>V ei)mi/  imperf ind act 3rd pl			irreg_mi</NL>
+27	205	218	ληφθέντες	λαμβάνω	2.005.7-033	to take	<NL>P lamba/nw  aor part pass masc nom pl			aor_pass,reg_conj</NL>
+298	2373	2412	ἦν	εἰμί	2.005.7-039	to be	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+13	191	105	ἔπραξαν	πράσσω	2.005.7-043	do	<NL>V e)/pra_can,pra/ssw  aor ind act 3rd pl			aor1,ss</NL>
+2	31	16	προδιδόντες	προδίδωμι	2.005.7-045	to give beforehand	<NL>P prodi/dwmi  pres part act masc nom pl		pres_redupl	omi_pr,o_stem</NL>
+69	533	558	ποιήσαντες	ποιέω	2.006.1-003	to make	<NL>P poie/w  aor part act masc nom pl			aor1,ew_denom</NL>
+18	204	145	ἔπεμπον	πέμπω	2.006.1-009	to send	<NL>V pe/mpw  imperf ind act 3rd pl			w_stem,reg_conj</NL>
+9	81	72	ἀπέδοσαν	ἀποδίδωμι	2.006.1-014	to give back	<NL>V a)podi/dwmi  aor ind act 3rd pl			omi_aor</NL>
+30	264	242	καθίσταντο	καθίστημι	2.006.1-023	to set down	<NL>V kaqi_/stanto,kaqi/sthmi  imperf ind mp 3rd pl		causal pres_redupl	ami_pr</NL>
+31	272	250	παρόντα	πάρειμι1	2.006.1-026	be present	<NL>P pa/reimi1  pres part act neut acc pl			irreg_mi</NL>
+33	308	267	ἐδόκει	δοκέω	2.006.1-028	seem	<NL>V doke/w  imperf ind act 3rd sg	attic epic	contr	ew_pr,ew_denom</NL>
+3	43	24	ἠγγέλθη	ἀγγέλλω	2.006.2-004	to bear a message	<NL>V a)gge/llw  aor ind pass 3rd sg	attic epic ionic		aor_pass,ellw</NL>
+123	835	995	γεγενημένα	γίγνομαι	2.006.2-010	become	<NL>P gi/gnomai  perf part mp neut acc pl			perfp_vow,e_stem</NL>
+4	27	32	ξυνέλαβον	συλλαμβάνω	2.006.2-016	to collect	<NL>V sullamba/nw  aor ind act 3rd pl		sig_to_ci	aor2,anw</NL>
+298	2373	2412	ἦσαν	εἰμί	2.006.2-018	to be	<NL>V ei)mi/  imperf ind act 3rd pl			irreg_mi</NL>
+18	204	145	ἔπεμψαν	πέμπω	2.006.2-026	to send	<NL>V pe/mpw  aor ind act 3rd pl			aor1,reg_conj</NL>
+10	138	80	κελεύοντες	κελεύω	2.006.2-029	to urge	<NL>P keleu/w  pres part act masc nom pl			w_stem,euw</NL>
+12	145	97	εἰπεῖν	εἶπον	2.006.2-030	to speak	<NL>V ei)=pon  aor inf act	attic epic doric	contr	aor2</NL>
+69	533	558	ποιεῖν	ποιέω	2.006.2-033	to make	<NL>V poie/w  pres inf act	attic epic doric	contr	ew_pr,ew_denom</NL>
+90	771	728	ἔχουσι	ἔχω	2.006.2-038	to have	<NL>V e)/xw  pres ind act 3rd pl	attic epic doric ionic		w_stem,reg_conj</NL>
+9	110	72	βουλεύσωσι	βουλεύω	2.006.2-046	to take counsel	<NL>V bouleu/w  aor subj act 3rd pl			aor1,euw</NL>
+3	43	24	ἠγγέλθη	ἀγγέλλω	2.006.3-003	to bear a message	<NL>V a)gge/llw  aor ind pass 3rd sg	attic epic ionic		aor_pass,ellw</NL>
+8	32	64	τεθνηκότες	θνήσκω	2.006.3-006	to die; see also ἀποθνῄσκω	<NL>P qnh/skw  perf part act masc nom pl		syncope	perf_act,a_stem</NL>
+298	2373	2412	εἶεν	εἰμί	2.006.3-007	to be	<NL>V ei)mi/  pres opt act 3rd pl			irreg_mi</NL>
+123	835	995	γιγνομένῃ	γίγνομαι	2.006.3-012	become	<NL>P gi/gnomai  pres part mp fem dat sg	attic epic ionic	pres_redupl	w_stem,reg_conj</NL>
+1	15	8	ἐξῄει	ἔξειμι1	2.006.3-018	go out	<NL>V e)/ceimi1  imperf ind act 3rd sg			irreg_mi</NL>
+15	109	121	νενικημένων	νικάω	2.006.3-024	to conquer	<NL>P neni_khme/nwn,nika/w  perf part mp neut gen pl	attic ionic	redupl	perfp_vow,aw_denom</NL>
+4	27	32	ξυνειλημμένων	συλλαμβάνω	2.006.3-027	to collect	<NL>P sullamba/nw  perf part mp neut gen pl		sig_to_ci	perfp_p</NL>
+9	123	72	ᾔδεσαν	οἶδα	2.006.3-032	to know	<NL>V oi)=da  plup ind act 3rd pl	attic		perf_act</NL>
+9	123	72	εἰδότες	οἶδα	2.006.3-036	to know	<NL>P oi)=da  perf part act masc nom pl			perf_act</NL>
+1	15	8	ἐπέστελλον	ἐπιστέλλω	2.006.3-039	to send to	<NL>V e)piste/llw  imperf ind act 3rd pl			w_stem,ellw</NL>
+26	191	210	ἀφικόμενος	ἀφικνέομαι	2.006.3-043	to come to	<NL>P a)fikne/omai  aor part mid masc nom sg			aor2</NL>
+4	43	32	ηὗρε	εὑρίσκω	2.006.3-044	to find	<NL>V eu(ri/skw  aor ind act 3rd sg			aor2</NL>
+24	152	194	διεφθαρμένους	διαφθείρω	2.006.3-047	to destroy	<NL>P diafqei/rw  perf part mp masc acc pl			perfp_r,reg_conj</NL>
+19	109	153	στρατεύσαντες	στρατεύω	2.006.4-006	to serve in war	<NL>P strateu/w  aor part act masc nom pl			aor1,euw</NL>
+1	13	8	ἐσήγαγον	εἰσάγω	2.006.4-011	to lead in	<NL>V ei)sa/gw  aor ind act 3rd pl	attic epic ionic	redupl short_eis	aor2</NL>
+3	11	24	ἐγκατέλιπον	ἐγκαταλείπω	2.006.4-014	to leave behind	<NL>V e)gkatalei/pw  aor ind act 3rd pl			aor2</NL>
+2	4	16	ἐξεκόμισαν	ἐκκομίζω	2.006.4-025	to carry out	<NL>V e)kkomi/zw  aor ind act 3rd pl			aor1,izw</NL>

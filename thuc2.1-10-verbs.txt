@@ -1,0 +1,168 @@
+verbs in thuc. 2.1-10
+freq. in Thuc.	freq. in Thuc. 2	short def	lexeme
+115	2	to perceive	αἰσθάνομαι
+146	1	to take	αἱρέω
+22	1	to throw	βάλλω
+1	1	to be a Boeotarch	βοιωταρχέω
+78	2	to take counsel	βουλεύω
+353	7	to will	βούλομαι
+689	13	become	γίγνομαι
+119	1	to learn to know	γιγνώσκω
+19	1	to scratch	γράφω
+84	2	to take	δέχομαι
+32	1	to lack	δέω2
+86	1	to give	δίδωμι
+103	1	to fear	δείδω
+117	1	it is necessary	δεῖ
+33	1	to cross (a river	διαβαίνω
+2	1	complete its term	διαβουλεύομαι
+2	1	to cut in two	διακόπτω
+59	1	to be minded	διανοέομαι
+128	4	to destroy	διαφθείρω
+1	1	to dig through	διορύσσω
+24	2	to pursue	διώκω
+308	4	seem	δοκέω
+85	1	to do	δράω
+139	1	to be able	δύναμαι
+98	1	like truth	εἰκός
+1859	32	to be	εἰμί
+13	1	to lead in	εἰσάγω
+33	4	to go in	εἰσέρχομαι
+66	1	to throw into	εἰσβάλλω
+12	1	to carry into	εἰσκομίζω
+16	1	to fall into	εἰσπίπτω
+67	2	come	εἶμι
+145	1	to speak	εἶπον
+41	1	to find	εὑρίσκω
+20	2	to live	ζάω
+10	1	to take alive	ζωγρέω
+32	1	to die; see also ἀποθνῄσκω	θνήσκω
+256	5	to set down	καθίστημι
+3	1	to fear greatly	καταδείδω
+11	1	to burn down	κατακαίω
+63	2	to seize upon	καταλαμβάνω
+6	1	to observe well	κατανοέω
+5	1	to war down	καταπολεμέω
+138	1	to urge	κελεύω
+23	1	to set in motion	κινέω
+5	1	to shut	κλείω1
+162	1	to be strong	κρατέω
+252	5	to pick; to say	λέγω2
+202	2	to take	λαμβάνω
+60	2	to escape notice	λανθάνω
+31	1	to loose	λύω
+181	3	to think of doing	μέλλω
+15	1	to remind	μιμνήσκω
+21	1	to attempt anything new	νεωτερίζω
+109	1	to conquer	νικάω
+271	3	to have as a custom; to believe	νομίζω
+80	1	to suppose	οἴομαι
+99	2	to know	οἶδα
+262	3	be present	πάρειμι1
+188	3	to send	πέμπω
+125	3	to furnish	παρέχω
+36	1	to come near	παραγίγνομαι
+40	1	to exhort	παραινέω
+150	3	to get ready	παρασκευάζω
+193	1	to prevail upon	πείθω
+86	1	to attempt	πειράω
+16	1	be superior	περίειμι1
+9	1	to announce by messages sent round	περιαγγέλλω
+6	1	to make to wander	πλανάω
+486	8	to make	ποιέω
+103	3	to be at war	πολεμέω
+40	1	to make to go	πορεύω
+176	4	do	πράσσω
+17	1	to be the elder; to be an ambassador	πρεσβεύω
+21	1	to give beforehand	προδίδωμι
+10	1	to see beforehand	προεῖδον
+20	1	to tell	προεῖπον
+1	1	to set before;	προκαθίστημι
+17	1	to seize beforehand	προκαταλαμβάνω
+68	2	to strike	προσβάλλω
+52	1	to fall upon	προσπίτνω
+19	1	to bring to	προσφέρω
+39	1	to go to	προσχωρέω
+38	1	to go forward	προχωρέω
+2	1	to shake	σείω
+102	1	to serve in war	στρατεύω
+12	1	to call to council	συγκαλέω
+26	2	to collect	συλλέγω
+21	2	to collect	συλλαμβάνω
+108	3	meet	συμβαίνω
+15	1	to be an ally	συμμαχέω
+16	1	to join in war	συμπολεμέω
+4	1	take part with	συνεπιλαμβάνομαι
+10	2	to twist up into a ball	συστρέφω
+9	2	come together	σύνειμι2
+27	1	to set	τίθημι
+90	1	to complete	τελευτάω
+91	1	to turn	τρέπω
+134	2	(with gen.) to hit the mark	τυγχάνω
+78	1	to bring to light	φαίνω
+59	1	to flee	φεύγω
+131	3	to say	φημί
+106	2	to put to flight	φοβέω
+53	1	to keep watch and ward	φυλάσσω
+126	3	proclaim an oracle	χράω2
+88	1	it is fated	χρή
+114	2	give way	χωρέω
+42	2	to bear a message	ἀγγέλλω
+114	2	to do wrong	ἀδικέω
+4	1	to sing	ἀείδω
+13	1	to hold up; (mid.) endure	ἀνέχω
+24	1	to go up	ἀναβαίνω
+2	1	to examine into	ἀναζητέω
+133	2	to go back	ἀναχωρέω
+2	1	to say aloud	ἀνειπεῖν
+15	3	to open	ἀνοίγνυμι
+11	1	to receive instead of	ἀντιλαμβάνω
+48	1	to keep off	ἀπέχω
+56	3	to give back	ἀποδίδωμι
+5	1	to beat off from	ἀποκρούω
+57	2	to kill	ἀποκτείνω
+25	1	to take away	ἀπολαμβάνω
+16	1	to thrust away	ἀπωθέω
+37	1	to destroy	ἀπόλλυμι
+139	1	to put away	ἀφίστημι
+181	1	to come to	ἀφικνέομαι
+108	1	to lead	ἄγω
+198	4	(to be first) to rule	ἄρχω
+15	1	to fasten	ἅπτω
+11	1	to leave behind	ἐγκαταλείπω
+4	1	to carry out	ἐκκομίζω
+41	1	to send out	ἐκπέμπω
+1	1	to flee out	ἐκφεύγω
+30	1	to free	ἐλευθερόω
+53	1	to hope for	ἐλπίζω
+17	1	to abide in	ἐμμένω
+13	1	to kindle	ἐμπίμπρημι
+45	1	to go out	ἐξέρχομαι
+5	1	to deceive	ἐξαπατάω
+14	1	to get ready	ἐξαρτύω
+3	1	to examine well	ἐξετάζω
+40	2	to bring on	ἐπάγω
+23	1	to come to aid	ἐπιβοηθέω
+32	1	to plot against	ἐπιβουλεύω
+71	2	to be born after	ἐπιγίγνομαι
+6	1	have intercourse	ἐπιμίσγω
+14	1	to think on	ἐπινοέω
+15	1	to send to	ἐπιστέλλω
+11	1	to put upon one as a duty	ἐπιτάσσω
+29	1	to lay	ἐπιτίθημι
+78	2	[I will say]	ἐρῶ
+14	1	to make ready	ἑτοιμάζω
+15	1	go out	ἔξειμι1
+271	1	to come	ἔρχομαι
+769	8	to have	ἔχω
+127	2	to lead; to consider	ἡγέομαι
+87	2	to be still	ἡσυχάζω
+1	1	to be a priest	ἱεράομαι
+16	1	agree	ὁμολογέω
+155	3	to see	ὁράω
+98	1	to set in motion, urge	ὁρμάω
+94	3	to begin; to exist	ὑπάρχω
+6	1	to suspect	ὑποτοπέω
+7	1	to flow	ῥέω
+3	1	to throw	ῥίπτω
+6	2	to strengthen	ῥώννυμι

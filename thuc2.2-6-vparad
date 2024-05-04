@@ -1,0 +1,162 @@
+   3 298	2373	2412	εἰμί	to be	reg_fut</NL>
+  25 298	2373	2412	εἰμί	to be	irreg_mi</NL>
+   3 123	835	995	γίγνομαι	become	w_stem,reg_conj</NL>
+   3 123	835	995	γίγνομαι	become	perfp_vow,e_stem</NL>
+   4 123	835	995	γίγνομαι	become	aor2</NL>
+   6 90	771	728	ἔχω	to have	w_stem,reg_conj</NL>
+   1 69	533	558	ποιέω	to make	perfp_vow,ew_denom</NL>
+   2 69	533	558	ποιέω	to make	ew_pr,ew_denom</NL>
+   2 69	533	558	ποιέω	to make	aor1,ew_denom</NL>
+   3 42	259	339	λέγω2	to pick; to say	w_stem,reg_conj</NL>
+   6 40	369	323	βούλομαι	to will	w_stem,nw</NL>
+   2 33	308	267	δοκέω	seem	ew_pr,ew_denom</NL>
+   2 31	272	250	πάρειμι1	be present	irreg_mi</NL>
+   1 30	264	242	καθίστημι	to set down	perf2_act</NL>
+   2 30	264	242	καθίστημι	to set down	ami_pr</NL>
+   2 30	155	242	ὁράω	to see	aw_pr,a_stem</NL>
+   1 28	208	226	ἄρχω	(to be first) to rule	w_stem,reg_conj</NL>
+   1 27	281	218	νομίζω	to have as a custom; to believe	w_stem,izw</NL>
+   2 27	281	218	νομίζω	to have as a custom; to believe	aor1,izw</NL>
+   1 27	205	218	λαμβάνω	to take	aor_pass,reg_conj</NL>
+   1 27	205	218	λαμβάνω	to take	aor2,anw</NL>
+   1 26	271	210	ἔρχομαι	to come	aor2</NL>
+   1 26	191	210	ἀφικνέομαι	to come to	aor2</NL>
+   4 26	143	210	χράω2	proclaim an oracle	aor1,a_stem</NL>
+   1 26	143	210	χράω2	proclaim an oracle	ajw_pr,a_stem</NL>
+   1 24	152	194	διαφθείρω	to destroy	w_stem,eirw</NL>
+   2 24	152	194	διαφθείρω	to destroy	perfp_r,reg_conj</NL>
+   1 24	152	194	διαφθείρω	to destroy	aor2_pass</NL>
+   1 24	152	194	διαφθείρω	to destroy	aor1,eirw</NL>
+   2 24	135	194	ἀναχωρέω	to go back	aor1,ew_denom</NL>
+   1 22	212	178	πείθω	to prevail upon	w_stem,reg_conj</NL>
+   1 21	128	169	ἡγέομαι	to lead; to consider	ew_pr,ew_denom</NL>
+   1 20	94	161	ὑπάρχω	to begin; to exist	w_stem,reg_conj</NL>
+   1 19	109	153	στρατεύω	to serve in war	aor1,euw</NL>
+   1 18	204	145	πέμπω	to send	w_stem,reg_conj</NL>
+   1 18	204	145	πέμπω	to send	aor1,reg_conj</NL>
+   1 17	108	137	φοβέω	to put to flight	aor_pass,ew_denom</NL>
+   1 15	174	121	κρατέω	to be strong	reg_fut,ew_denom</NL>
+   2 15	137	121	τυγχάνω	(with gen.) to hit the mark	aor2,anw</NL>
+   1 15	129	121	γιγνώσκω	to learn to know	ath_w_aor,o_stem</NL>
+   1 15	126	121	συμβαίνω	meet	w_stem,ainw</NL>
+   1 15	126	121	συμβαίνω	meet	aor1,a_stem</NL>
+   1 15	109	121	νικάω	to conquer	perfp_vow,aw_denom</NL>
+   1 14	124	113	χωρέω	give way	ew_pr,ew_denom</NL>
+   1 14	124	113	χωρέω	give way	aor1,ew_denom</NL>
+   1 14	117	113	δεῖ	it is necessary	ew_pr,ev_stem</NL>
+   1 14	110	113	δείδω	to fear	aor1,reg_conj</NL>
+   1 13	90	105	τελευτάω	to complete	aw_pr,aw_denom</NL>
+   1 13	85	105	δράω	to do	aor1,a_stem</NL>
+   2 13	73	105	ἐπιγίγνομαι	to be born after	aor2</NL>
+   1 13	191	105	πράσσω	do	w_stem,ss</NL>
+   1 13	191	105	πράσσω	do	perf_act</NL>
+   2 13	191	105	πράσσω	do	aor1,ss</NL>
+   2 13	121	105	αἰσθάνομαι	to perceive	aor2,anw</NL>
+   1 13	115	105	χρή	it is fated	ath_primary</NL>
+   1 13	113	105	δίδωμι	to give	omi_aor</NL>
+   1 13	100	105	φαίνω	to bring to light	w_stem,ainw</NL>
+   1 12	89	97	οἴομαι	to suppose	w_stem</NL>
+   1 12	145	97	εἶπον	to speak	aor2</NL>
+   1 12	105	97	τρέπω	to turn	aor2</NL>
+   1 11	86	89	πειράω	to attempt	aor1,aw_denom</NL>
+   3 11	131	89	φημί	to say	ath_primary</NL>
+   1 11	109	89	ἄγω	to lead	aor2</NL>
+   1 10	66	80	καταλαμβάνω	to seize upon	perfp_p</NL>
+   1 10	66	80	καταλαμβάνω	to seize upon	aor2,anw</NL>
+   1 10	52	80	προσπίτνω	to fall upon	w_stem</NL>
+   2 10	34	80	εἰσέρχομαι	to go in	perf_act</NL>
+   3 10	34	80	εἰσέρχομαι	to go in	aor2</NL>
+   1 10	138	80	κελεύω	to urge	w_stem,euw</NL>
+   3 10	116	80	εἶμι	come	irreg_mi</NL>
+   2 9	81	72	ἀποδίδωμι	to give back	reg_fut,o_stem</NL>
+   1 9	81	72	ἀποδίδωμι	to give back	omi_aor</NL>
+   1 9	47	72	πορεύω	to make to go	w_stem,euw</NL>
+   2 9	123	72	οἶδα	to know	perf_act</NL>
+   1 9	110	72	βουλεύω	to take counsel	w_stem,euw</NL>
+   1 9	110	72	βουλεύω	to take counsel	aor1,euw</NL>
+   1 8	83	64	παραδίδωμι	to hand over	omi_aor</NL>
+   2 8	68	64	προσβάλλω	to strike	aor2</NL>
+   1 8	57	64	φυλάσσω	to keep watch and ward	aor1,ss</NL>
+   2 8	44	64	παραγίγνομαι	to come near	aor2</NL>
+   1 8	32	64	θνήσκω	to die; see also ἀποθνῄσκω	perf_act,a_stem</NL>
+   1 8	110	64	δέχομαι	to take	aor1,reg_conj</NL>
+   1 7	78	56	ἐρῶ	[I will say]	aor_pass,e_stem</NL>
+   1 7	41	56	ἀπόλλυμι	to destroy	umi_pr</NL>
+   1 7	38	56	προχωρέω	to go forward	ew_pr,ew_denom</NL>
+   2 7	24	56	διώκω	to pursue	w_stem,reg_conj</NL>
+   1 7	120	56	ἀδικέω	to do wrong	ew_pr,ew_denom</NL>
+   1 7	120	56	ἀδικέω	to do wrong	aor1,ew_denom</NL>
+   1 6	87	48	ἡσυχάζω	to be still	w_stem,azw</NL>
+   1 6	68	48	ἀποκτείνω	to kill	ew_fut,einw</NL>
+   1 6	68	48	ἀποκτείνω	to kill	aor1,einw</NL>
+   1 6	59	48	φεύγω	to flee	w_stem,reg_conj</NL>
+   1 6	45	48	ἐξέρχομαι	to go out	aor2</NL>
+   1 6	40	48	ἐπιτίθημι	to lay	emi_aor</NL>
+   2 5	60	40	λανθάνω	to escape notice	aor2,anw</NL>
+   1 5	49	40	ἀπέχω	to keep off	w_stem,reg_conj</NL>
+   1 5	42	40	ἐκπέμπω	to send out	aor1,reg_conj</NL>
+   1 5	39	40	τίθημι	to set	emi_pr</NL>
+   1 5	39	40	τίθημι	to set	emi_aor</NL>
+   1 5	25	40	περίειμι1	be superior	irreg_mi</NL>
+   1 5	20	40	προσφέρω	to bring to	w_stem</NL>
+   1 5	18	40	ἐμμένω	to abide in	aor1</NL>
+   1 5	17	40	προσποιέω	to make over to; mid. procure	aor1,ew_denom</NL>
+   1 5	17	40	ὁμολογέω	agree	ew_pr,ew_denom</NL>
+   1 5	13	40	εἰσκομίζω	to carry into	aor1,izw</NL>
+   1 4	8	32	ῥέω	to flow	aor2_pass,e_stem</NL>
+   1 4	59	32	διανοέομαι	to be minded	ew_pr,ew_denom</NL>
+   1 4	54	32	σώζω	to save	aor_pass,o_stem</NL>
+   1 4	44	32	προσχωρέω	to go to	reg_fut,ew_denom</NL>
+   1 4	43	32	εὑρίσκω	to find	aor2</NL>
+   2 4	43	32	ἐπάγω	to bring on	aor2</NL>
+   1 4	27	32	συλλαμβάνω	to collect	perfp_p</NL>
+   1 4	27	32	συλλαμβάνω	to collect	aor2,anw</NL>
+   1 4	27	32	ἐπιβοηθέω	to come to aid	ew_pr,ew_denom</NL>
+   1 4	27	32	συλλέγω	to collect	w_stem,reg_conj</NL>
+   2 4	20	32	ζάω	to live	ajw_pr,a_stem</NL>
+   1 4	16	32	εἰσπίπτω	to fall into	w_stem</NL>
+   1 4	16	32	ἐξαρτύω	to get ready	w_stem,reg_conj</NL>
+   1 4	150	32	ἀφίστημι	to put away	ami_pr</NL>
+   2 3	43	24	ἀγγέλλω	to bear a message	aor_pass,ellw</NL>
+   1 3	25	24	ὑπισχνέομαι	to promise	aor2</NL>
+   2 3	16	24	ἀνοίγνυμι	to open	perfp_g,reg_conj</NL>
+   1 3	16	24	ἀνοίγνυμι	to open	aor1,reg_conj</NL>
+   1 3	11	24	ἐγκαταλείπω	to leave behind	aor2</NL>
+   1 2	7	16	ὑποτοπέω	to suspect	aor1,ew_denom</NL>
+   1 2	6	16	κατανοέω	to observe well	aor1,ew_denom</NL>
+   1 2	6	16	πλανάω	to make to wander	aw_pr,aw_denom</NL>
+   1 2	4	16	ἐκκομίζω	to carry out	aor1,izw</NL>
+   1 2	34	16	διαβαίνω	to cross (a river	ath_h_aor</NL>
+   1 2	31	16	προδίδωμι	to give beforehand	omi_pr,o_stem</NL>
+   1 2	3	16	καταδείδω	to fear greatly	aor1,reg_conj</NL>
+   2 2	3	16	ἐπόμνυμι	to swear after	aor1,o_stem</NL>
+   1 2	3	16	ῥίπτω	to throw	aor1,ptw</NL>
+   1 2	28	16	ἀπολαμβάνω	to take away	perfp_p</NL>
+   1 2	26	16	ἀναβαίνω	to go up	ath_h_aor</NL>
+   1 2	23	16	νεωτερίζω	to attempt anything new	w_stem,izw</NL>
+   1 2	23	16	βάλλω	to throw	w_stem,allw</NL>
+   1 2	17	16	ἀπωθέω	to thrust away	ew_pr,ew_denom</NL>
+   1 2	15	16	συμμαχέω	to be an ally	ew_pr,ew_denom</NL>
+   1 2	10	16	συστρέφω	to twist up into a ball	w_stem,reg_conj</NL>
+   1 2	10	16	συστρέφω	to twist up into a ball	perfp_p,reg_conj</NL>
+   1 2	10	16	ζωγρέω	to take alive	perfp_vow,ew_denom</NL>
+   1 1	5	8	ἐξαπατάω	to deceive	perfp_vow,aw_denom</NL>
+   1 1	5	8	ἀποκρούω	to beat off from	aor1,reg_conj</NL>
+   1 1	5	8	κλείω1	to shut	aor1,reg_conj</NL>
+   1 1	34	8	ἐπιβουλεύω	to plot against	w_stem,euw</NL>
+   1 1	33	8	δέω2	to lack	evw_pr,ev_stem</NL>
+   1 1	2	8	διαβουλεύομαι	complete its term	w_stem,euw</NL>
+   1 1	2	8	ἀνειπεῖν	to say aloud	aor2</NL>
+   1 1	2	8	διακόπτω	to cut in two	aor1,ptw</NL>
+   1 1	17	8	προκαταλαμβάνω	to seize beforehand	aor2,anw</NL>
+   1 1	15	8	ἐμπίμπρημι	to kindle	aor1,a_stem</NL>
+   1 1	15	8	ἐπιστέλλω	to send to	w_stem,ellw</NL>
+   1 1	15	8	ἔξειμι1	go out	irreg_mi</NL>
+   1 1	13	8	εἰσάγω	to lead in	aor2</NL>
+   1 1	12	8	κατακαίω	to burn down	aor1,av_stem</NL>
+   1 1	10	8	προεῖδον	to see beforehand	aor2</NL>
+   1 1	1	8	προκαθίστημι	to set before;	perf_act</NL>
+   1 1	1	8	Βοιωταρχέω	to be a Boeotarch	ew_pr,ew_denom</NL>
+   1 1	1	8	διορύσσω	to dig through	w_stem,ss</NL>
+   1 1	1	8	ἱεράομαι	to be a priest	aw_pr,aw_denom</NL>
+   1 1	1	8	ἐκφεύγω	to flee out	w_stem,reg_conj</NL>

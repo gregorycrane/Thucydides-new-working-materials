@@ -1,0 +1,1567 @@
+τοιόσδε	τοιόσδε	2.047.1-001	case1	<NL>N toio/sde  masc nom sg		indeclform	demonstr</NL>
+μὲν	μέν	2.047.1-002	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+ὁ	ὁ	2.047.1-003	case1	<NL>N o(  masc nom sg		proclitic indeclform	article</NL>
+τάφος	τάφος1	2.047.1-004	case1	<NL>N ta/fos1  masc nom sg			os_ou</NL>
+ἐγένετο	γίγνομαι	2.047.1-005	case1	<NL>V gi/gnomai  aor ind mid 3rd sg			aor2</NL>
+ἐν	ἐν	2.047.1-006	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+τῷ	ὁ	2.047.1-007	case1	<NL>N o(  masc dat sg		indeclform	article</NL><NL>N o(  neut dat sg		indeclform	article</NL>
+χειμῶνι	χειμών	2.047.1-008	case1	<NL>N xeimw/n  masc dat sg			n_nos</NL>
+τούτῳ	οὗτος	2.047.1-009	case1	<NL>N ou(=tos  masc dat sg		indeclform	pron_adj1</NL>
+:	syntacticbreak	1264
+καὶ	καί	2.047.1-010	case4	<NL>N kai/ 		indeclform	conj</NL>
+διελθόντος	διέρχομαι	2.047.1-011	case1	<NL>P die/rxomai  aor part act masc gen sg			aor2</NL><NL>P die/rxomai  aor part act neut gen sg			aor2</NL>
+αὐτοῦ	αὐτός,αὐτοῦ	2.047.1-012	case2c	<NL>N au)to/s  neut gen sg			art_adj</NL><NL>N au)to/s  masc gen sg			art_adj</NL><NL>N au)tou= 		indeclform	adverb</NL>
+πρῶτον	πρότερος	2.047.1-013	case1	<NL>N pro/teros  neut nom sg			os_h_on</NL><NL>N pro/teros  neut acc sg			os_h_on</NL>
+ἔτος	ἔτος	2.047.1-014	case1	<NL>N e)/tos  neut nom sg			hs_eos</NL><NL>N e)/tos  neut acc sg			hs_eos</NL>
+τοῦ	ὁ	2.047.1-015	case1	<NL>N o(  masc gen sg		indeclform	article</NL>
+πολέμου	πόλεμος	2.047.1-016	case1	<NL>N po/lemos  masc gen sg			os_ou</NL>
+τοῦδε	ὅδε	2.047.1-017	case1	<NL>N o(/de  masc gen sg		indeclform	demonstr</NL>
+ἐτελεύτα	τελευτάω	2.047.1-018	case1	<NL>V e)teleu/ta_,teleuta/w  imperf ind act 3rd sg		contr	aw_pr,aw_denom</NL>
+.	syntacticbreak	1265
+τοῦ	ὁ	2.047.2-001	case1	<NL>N o(  neut gen sg		indeclform	article</NL>
+δὲ	δέ	2.047.2-002	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+θέρους	θέρος	2.047.2-003	case1	<NL>N qe/ros  neut gen sg	attic epic doric ionic	contr	hs_eos</NL>
+εὐθὺς	εὐθύς	2.047.2-004	case1	<NL>N eu)qu/s,eu)qu/s 		indeclform	adverb</NL>
+ἀρχομένου	ἄρχω	2.047.2-005	case1	<NL>P a)/rxw  pres part mp neut gen sg			w_stem,reg_conj</NL>
+Πελοποννήσιοι	Πελοποννήσιος	2.047.2-006	case1	<NL>N *peloponnh/sios  masc nom pl			os_h_on</NL>
+καὶ	καί	2.047.2-007	case4	<NL>N kai/ 		indeclform	conj</NL>
+οἱ	ὁ	2.047.2-008	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+ξύμμαχοι	σύμμαχος	2.047.2-009	case1	<NL>N su/mmaxos  masc nom pl			os_on</NL>
+τὰ	ὁ	2.047.2-010	case1	<NL>N ta/,o(  neut acc pl		indeclform	article</NL>
+δύο	δύο	2.047.2-011	case1	<NL>N du/o 		indeclform	numeral</NL>
+μέρη	μέρος	2.047.2-012	case1	<NL>N me/ros  neut acc pl	attic epic doric	contr	hs_eos</NL>
+ὥσπερ	ὥσπερ	2.047.2-013	case1	<NL>N w(/sper 		indeclform	adverb</NL>
+καὶ	καί	2.047.2-014	case4	<NL>N kai/ 		indeclform	conj</NL>
+τὸ	ὁ	2.047.2-015	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+πρῶτον	πρότερος	2.047.2-016	case1	<NL>N pro/teros  neut acc sg			os_h_on</NL>
+ἐσέβαλον	εἰσβάλλω	2.047.2-017	case1	<NL>V ei)sba/llw  aor ind act 3rd pl		short_eis	aor2</NL>
+ἐς	εἰς	2.047.2-018	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+τὴν	ὁ	2.047.2-019	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+Ἀττικήν	Ἀττική	2.047.2-020	case1	<NL>N *)attikh/  fem acc sg	attic epic ionic		h_hs</NL>
+ἡγεῖτο	ἡγέομαι	2.047.2-021	case1	<NL>V h(ge/omai  imperf ind mid 3rd sg	attic epic	contr	ew_pr,ew_denom</NL><NL>V h(_gei=to,h(ge/omai  imperf ind mid 3rd sg	attic epic doric ionic	contr	ew_pr,ew_denom</NL>
+δὲ	δέ	2.047.2-022	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+Ἀρχίδαμος	Ἀρχίδαμος	2.047.2-023	case4	<NL>N *)arxi/da_mos,*)arxi/damos  masc nom sg			os_ou</NL>
+ὁ	ὁ	2.047.2-024	case1	<NL>N o(  masc nom sg		proclitic indeclform	article</NL>
+Ζευξιδάμου	Ζευξίδαμος	2.047.2-025	case4	<NL>N *zeucida_/mou,*zeuci/damos  masc gen sg			os_ou</NL>
+Λακεδαιμονίων	Λακεδαιμόνιος	2.047.2-026	case4	<NL>N *lakedaimo/nios  fem gen pl			os_h_on</NL><NL>N *lakedaimo/nios  masc gen pl			os_h_on</NL><NL>N *lakedaimo/nios  neut gen pl			os_h_on</NL>
+βασιλεύς	βασιλεύς	2.047.2-027	case1	<NL>N basileu/s  masc nom sg			eus_ews</NL>
+,	comma	2.047.2-028	punct
+καὶ	καί	2.047.2-029	case4	<NL>N kai/ 		indeclform	conj</NL>
+καθεζόμενοι	καθέζομαι	2.047.2-030	case1	<NL>P kaqe/zomai  pres part mp masc nom pl	epic		w_stem,reg_conj</NL>
+ἐδῄουν	δηιόω	2.047.2-031	case1	<NL>V dhio/w  imperf ind act 3rd pl	attic epic	contr	ow_pr,ow_denom</NL>
+τὴν	ὁ	2.047.2-032	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+γῆν	γῆ	2.047.2-033	case1	<NL>N gh=  fem acc sg	attic epic ionic	contr	eh_ehs</NL>
+.	syntacticbreak	1266
+καὶ	καί	2.047.3-001	case4	<NL>N kai/ 		indeclform	conj</NL>
+ὄντων	εἰμί	2.047.3-002	case4	<NL>P ei)mi/  pres part act masc gen pl			irreg_mi</NL><NL>P ei)mi/  pres part act neut gen pl			irreg_mi</NL>
+αὐτῶν	αὐτός	2.047.3-003	case1	<NL>N au)to/s  neut gen pl			art_adj</NL><NL>N au)to/s  masc gen pl			art_adj</NL>
+οὐ	οὐ	2.047.3-004	case4	<NL>N ou) 		proclitic indeclform	adverb</NL>
+πολλάς	πολύς	2.047.3-005	case1	<NL>N polla_/s,polu/s  fem acc pl			os_h_on</NL>
+πω	πω	2.047.3-006	case1	<NL>N pw 		enclitic indeclform	particle</NL>
+ἡμέρας	ἡμέρα	2.047.3-007	case1	<NL>N h(me/ra_s,h(me/ra  fem acc pl			h_hs</NL>
+ἐν	ἐν	2.047.3-008	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+τῇ	ὁ	2.047.3-009	case1	<NL>N o(  fem dat sg	attic epic ionic	indeclform	article</NL>
+Ἀττικῇ	Ἀττική	2.047.3-010	case1	<NL>N *)attikh/  fem dat sg	attic epic ionic		h_hs</NL>
+ἡ	ὁ	2.047.3-011	case1	<NL>N o(  fem nom sg		proclitic indeclform	article</NL>
+νόσος	νόσος	2.047.3-012	case1	<NL>N no/sos  fem nom sg			os_ou</NL>
+πρῶτον	πρότερος	2.047.3-013	case1	<NL>N pro/teros  masc acc sg			os_h_on</NL><NL>N pro/teros  neut acc sg			os_h_on</NL>
+ἤρξατο	ἄρχω	2.047.3-014	case1	<NL>V a)/rxw  aor ind mid 3rd sg	attic epic ionic		aor1,reg_conj</NL>
+γενέσθαι	γίγνομαι	2.047.3-015	case1	<NL>V gi/gnomai  aor inf mid			aor2</NL>
+τοῖς	ὁ	2.047.3-016	case1	<NL>N o(  masc dat pl		indeclform	article</NL><NL>N o(  neut dat pl		indeclform	article</NL>
+Ἀθηναίοις	Ἀθηναῖος	2.047.3-017	case1	<NL>N *)aqhnai_/ois,*)aqhnai=os  masc dat pl			os_h_on</NL><NL>N *)aqhnai_/ois,*)aqhnai=os  neut dat pl			os_h_on</NL>
+,	comma	2.047.3-018	punct
+λεγόμενον	λέγω2	2.047.3-019	case1	<NL>P le/gw2  pres part mp masc acc sg			w_stem,reg_conj</NL><NL>P le/gw2  pres part mp neut acc sg			w_stem,reg_conj</NL>
+μὲν	μέν	2.047.3-020	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+καὶ	καί	2.047.3-021	case4	<NL>N kai/ 		indeclform	conj</NL>
+πρότερον	πρότερος	2.047.3-022	case1	<NL>N pro/teros  masc acc sg		irreg_comp	os_h_on</NL><NL>N pro/teros  neut acc sg		irreg_comp	os_h_on</NL>
+πολλαχόσε	πολλαχόσε	2.047.3-023	case1	<NL>N pollaxo/se 		indeclform	adverb</NL>
+ἐγκατασκῆψαι	ἐγκατασκήπτω	2.047.3-024	case1	<NL>V e)gkataskh/ptw  aor inf act			aor1,ptw</NL>
+καὶ	καί	2.047.3-025	case4	<NL>N kai/ 		indeclform	conj</NL>
+περὶ	περί	2.047.3-026	case1	<NL>N peri/,peri/ 		indeclform	prep</NL>
+Λῆμνον	Λῆμνος	2.047.3-027	case4	<NL>N *lh=mnos  fem acc sg			os_ou</NL>
+καὶ	καί	2.047.3-028	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἐν	ἐν	2.047.3-029	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+ἄλλοις	ἄλλος	2.047.3-030	case1	<NL>N a)/llos  neut dat pl			art_adj</NL><NL>N a)/llos  masc dat pl			art_adj</NL>
+χωρίοις	χωρίον	2.047.3-031	case2b	<NL>N xwri/on  neut dat pl		diminutive	os_ou</NL>
+,	comma	2.047.3-032	punct
+οὐ	οὐ	2.047.3-033	case4	<NL>N ou) 		proclitic indeclform	adverb</NL>
+μέντοι	μέντοι	2.047.3-034	case4	<NL>N me/ntoi 		indeclform	particle</NL>
+τοσοῦτός	τοσοῦτος	2.047.3-035	case1	<NL>N tosou=tos,tosou=tos  masc nom sg			art_adj</NL>
+γε	γε	2.047.3-036	case1	<NL>N ge 		enclitic indeclform	particle</NL>
+λοιμὸς	λοιμός	2.047.3-037	case1	<NL>N loimo/s,loimo/s  masc nom sg			os_ou</NL>
+οὐδὲ	οὐδέ	2.047.3-038	case1	<NL>N ou)de/,ou)de/ 		indeclform	particle</NL>
+φθορὰ	φθορά	2.047.3-039	case1	<NL>N fqora_/,fqora/  fem nom sg	attic doric aeolic		h_hs</NL>
+οὕτως	οὕτως	2.047.3-040	case1	<NL>N ou(/tws 		indeclform	adverb</NL>
+ἀνθρώπων	ἄνθρωπος	2.047.3-041	case1	<NL>N a)/nqrwpos  masc gen pl			os_ou</NL>
+οὐδαμοῦ	οὐδαμοῦ	2.047.3-042	case1	<NL>N ou)damou= 		indeclform	adverb</NL>
+ἐμνημονεύετο	μνημονεύω	2.047.3-043	case1	<NL>V mnhmoneu/w  imperf ind mp 3rd sg			w_stem,euw</NL>
+γενέσθαι	γίγνομαι	2.047.3-044	case1	<NL>V gi/gnomai  aor inf mid			aor2</NL>
+.	syntacticbreak	1267
+οὔτε	οὔτε	2.047.4-001	case1	<NL>N ou)/te 		indeclform	adverb</NL>
+γὰρ	γάρ	2.047.4-002	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+ἰατροὶ	ἰατρός	2.047.4-003	case1	<NL>N i)a_troi/,i)atro/s  masc nom pl			os_ou</NL>
+ἤρκουν	ἀρκέω	2.047.4-004	case1	<NL>V a)rke/w  imperf ind act 3rd pl	attic epic doric ionic	contr	ew_pr,e_stem</NL>
+τὸ	ὁ	2.047.4-005	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+πρῶτον	πρότερος	2.047.4-006	case1	<NL>N pro/teros  neut acc sg			os_h_on</NL>
+θεραπεύοντες	θεραπεύω	2.047.4-007	case1	<NL>P qerapeu/w  pres part act masc nom pl			w_stem,euw</NL>
+ἀγνοίᾳ	ἄγνοια	2.047.4-008	case1	<NL>N a)gnoi/a_|,a)/gnoia  fem dat sg	attic doric aeolic		a_hs</NL><NL>N a)gnoi/a_|,a)/gnoia  fem dat sg	attic doric aeolic	poetic	h_hs</NL>
+,	comma	2.047.4-009	punct
+ἀλλ’	ἀλλά	2.047.4-010	case1	<NL>N a)lla/,a)lla/ 		indeclform	adverb</NL>
+αὐτοὶ	αὐτός	2.047.4-011	case1	<NL>N au)toi/,au)to/s  masc nom pl			art_adj</NL>
+μάλιστα	μάλιστα	2.047.4-012	case1	<NL>N ma/lista 		indeclform	adverb</NL>
+ἔθνῃσκον	θνήσκω	2.047.4-013	case1	<NL>V qnh/skw  imperf ind act 3rd pl		syncope	w_stem,a_stem</NL>
+ὅσῳ	ὅσος	2.047.4-014	case1	<NL>N o(/sos  masc dat sg			os_h_on</NL><NL>N o(/sos  neut dat sg			os_h_on</NL>
+καὶ	καί	2.047.4-015	case4	<NL>N kai/ 		indeclform	conj</NL>
+μάλιστα	μάλιστα	2.047.4-016	case1	<NL>N ma/lista 		indeclform	adverb</NL>
+προσῇσαν	πρόσειμι2	2.047.4-017	case1	<NL>V pro/seimi2  imperf ind act 3rd pl			irreg_mi</NL>
+,	comma	2.047.4-018	punct
+οὔτε	οὔτε	2.047.4-019	case1	<NL>N ou)/te 		indeclform	adverb</NL>
+ἄλλη	ἄλλος	2.047.4-020	case1	<NL>N a)/llos  fem nom sg	attic epic ionic		art_adj</NL>
+ἀνθρωπεία	ἀνθρώπειος	2.047.4-021	case1	<NL>N a)nqrwpei/a_,a)nqrw/peios  fem nom sg	attic doric aeolic		os_h_on</NL>
+τέχνη	τέχνη	2.047.4-022	case1	<NL>N te/xnh  fem nom sg	attic epic ionic		h_hs</NL>
+οὐδεμία	οὐδείς	2.047.4-023	case1	<NL>N ou)dei/s  fem nom sg		indeclform	pron_adj1</NL><NL>N ou)demi/a_,ou)dei/s  fem nom sg	attic doric aeolic		os_h_on</NL>
+:	syntacticbreak	1268
+ὅσα	ὅσος	2.047.4-024	case1	<NL>N o(/sos  neut acc pl			os_h_on</NL>
+τε	τε	2.047.4-025	case1	<NL>N te 		enclitic indeclform	particle</NL>
+πρὸς	πρός	2.047.4-026	case1	<NL>N pro/s,pro/s 		indeclform	prep</NL>
+ἱεροῖς	ἱερόν	2.047.4-027	case2b	<NL>N i(ero/n  neut dat pl			os_ou</NL>
+ἱκέτευσαν	ἱκετεύω	2.047.4-028	case1	<NL>V i_(ke/teusan,i(keteu/w  aor ind act 3rd pl			aor1,euw</NL>
+ἢ	ἤ1	2.047.4-029	case1	<NL>N h)/,h)/1 		indeclform	conj</NL>
+μαντείοις	μαντεῖον	2.047.4-030	case1	<NL>N mantei_/ois,mantei=on  neut dat pl			os_ou</NL>
+καὶ	καί	2.047.4-031	case4	<NL>N kai/ 		indeclform	conj</NL>
+τοῖς	ὁ	2.047.4-032	case1	<NL>N o(  masc dat pl		indeclform	article</NL><NL>N o(  neut dat pl		indeclform	article</NL>
+τοιούτοις	τοιοῦτος	2.047.4-033	case1	<NL>N toiou=tos  masc dat pl			art_adj</NL><NL>N toiou=tos  neut dat pl			art_adj</NL>
+ἐχρήσαντο	χράω2	2.047.4-034	case1	<NL>V xra/w2  aor ind mid 3rd pl			aor1,a_stem</NL>
+,	comma	2.047.4-035	punct
+πάντα	πᾶς	2.047.4-036	case1	<NL>N pa=s  masc acc sg		indeclform	irreg_adj3</NL><NL>N pa=s  neut acc pl		indeclform	irreg_adj3</NL>
+ἀνωφελῆ	ἀνωφελής	2.047.4-037	case1	<NL>N a)nwfelh/s  neut acc pl	attic epic doric	contr	hs_es</NL><NL>N a)nwfelh/s  masc acc sg	attic epic doric	contr	hs_es</NL>
+ἦν	εἰμί	2.047.4-038	case1	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+,	comma	2.047.4-039	punct
+τελευτῶντές	τελευτάω	2.047.4-040	case1	<NL>P teleutw=ntes,teleuta/w  pres part act masc nom pl		contr	aw_pr,aw_denom</NL>
+τε	τε	2.047.4-041	case1	<NL>N te 		enclitic indeclform	particle</NL>
+αὐτῶν	αὐτός	2.047.4-042	case1	<NL>N au)to/s  neut gen pl			art_adj</NL><NL>N au)to/s  fem gen pl			art_adj</NL><NL>N au)to/s  masc gen pl			art_adj</NL>
+ἀπέστησαν	ἀφίστημι	2.047.4-043	case1	<NL>V a)fi/sthmi  aor ind act 3rd pl			ami_aor</NL><NL>V a)fi/sthmi  aor ind act 3rd pl		causal	aor1,a_stem</NL>
+ὑπὸ	ὑπό	2.047.4-044	case1	<NL>N u(po/,u(po/ 		indeclform	prep</NL>
+τοῦ	ὁ	2.047.4-045	case1	<NL>N o(  masc gen sg		indeclform	article</NL><NL>N o(  neut gen sg		indeclform	article</NL>
+κακοῦ	κακός	2.047.4-046	case2b	<NL>N kako/s  masc gen sg			os_h_on</NL><NL>N kako/s  neut gen sg			os_h_on</NL>
+νικώμενοι	νικάω	2.047.4-047	case1	<NL>P ni_kw/menoi,nika/w  pres part mp masc nom pl		contr	aw_pr,aw_denom</NL>
+.	syntacticbreak	1269
+ἤρξατο	ἄρχω	2.048.1-001	case1	<NL>V a)/rxw  aor ind mid 3rd sg	attic epic ionic		aor1,reg_conj</NL>
+δὲ	δέ	2.048.1-002	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+τὸ	ὁ	2.048.1-003	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+μὲν	μέν	2.048.1-004	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+πρῶτον	πρότερος	2.048.1-005	case1	<NL>N pro/teros  neut acc sg			os_h_on</NL>
+,	comma	2.048.1-006	punct
+ὡς	ὡς	2.048.1-007	case1	<NL>N w(s 		proclitic indeclform	conj</NL>
+λέγεται	λέγω2	2.048.1-008	case1	<NL>V le/gw2  pres ind mp 3rd sg			w_stem,reg_conj</NL>
+,	comma	2.048.1-009	punct
+ἐξ	ἐκ	2.048.1-010	case1	<NL>N e)k 		proclitic indeclform	prep</NL>
+Αἰθιοπίας	Αἰθιόπιος,Αἰθιοπία	2.048.1-011	case4	<NL>N *ai)qiopi/a_s,*ai)qio/pios  fem gen sg	attic doric aeolic		os_h_on</NL><NL>N *ai)qiopi/a_s,*ai)qiopi/a  fem gen sg	attic doric aeolic		h_hs</NL>
+τῆς	ὁ	2.048.1-012	case1	<NL>N o(  fem gen sg	attic epic ionic	indeclform	article</NL>
+ὑπὲρ	ὑπέρ	2.048.1-013	case1	<NL>N u(pe/r,u(pe/r 		indeclform	prep</NL>
+Αἰγύπτου	Αἴγυπτος	2.048.1-014	case4	<NL>N *ai)/guptos  fem gen sg			os_ou</NL><NL>N *ai)/guptos  masc gen sg			os_ou</NL>
+,	comma	2.048.1-015	punct
+ἔπειτα	ἔπειτα	2.048.1-016	case1	<NL>N e)/peita 		indeclform	adverb</NL>
+δὲ	δέ	2.048.1-017	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+καὶ	καί	2.048.1-018	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἐς	εἰς	2.048.1-019	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+Αἴγυπτον	Αἴγυπτος	2.048.1-020	case4	<NL>N *ai)/guptos  fem acc sg			os_ou</NL><NL>N *ai)/guptos  masc acc sg			os_ou</NL>
+καὶ	καί	2.048.1-021	case4	<NL>N kai/ 		indeclform	conj</NL>
+Λιβύην	Λιβύη	2.048.1-022	case4	<NL>N *libu/h  fem acc sg	attic epic ionic		h_hs</NL>
+κατέβη	καταβαίνω	2.048.1-023	case1	<NL>V katabai/nw  aor ind act 3rd sg			ath_h_aor</NL>
+καὶ	καί	2.048.1-024	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἐς	εἰς	2.048.1-025	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+τὴν	ὁ	2.048.1-026	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+βασιλέως	βασιλεύς	2.048.1-027	case1	<NL>N basile/w^s,basileu/s  masc gen sg	attic ionic		eus_ews</NL><NL>N basileu/s  masc nom sg	attic epic ionic		eus_ews</NL>
+γῆν	γῆ	2.048.1-028	case1	<NL>N gh=  fem acc sg	attic epic ionic	contr	eh_ehs</NL>
+τὴν	ὁ	2.048.1-029	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+πολλήν	πολύς	2.048.1-030	case1	<NL>N polu/s  fem acc sg	attic epic ionic		os_h_on</NL>
+.	syntacticbreak	1270
+ἐς	εἰς	2.048.2-001	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+δὲ	δέ	2.048.2-002	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+τὴν	ὁ	2.048.2-003	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+Ἀθηναίων	Ἀθηναῖος	2.048.2-004	case1	<NL>N *)aqhnai_/wn,*)aqhnai=os  fem gen pl			os_h_on</NL><NL>N *)aqhnai_/wn,*)aqhnai=os  masc gen pl			os_h_on</NL><NL>N *)aqhnai_/wn,*)aqhnai=os  neut gen pl			os_h_on</NL>
+πόλιν	πόλις	2.048.2-005	case1	<NL>N po/lis  fem acc sg			is_ews</NL>
+ἐξαπιναίως	ἐξαπίναιος	2.048.2-006	case1	<NL>N e)capi/naios  adverbial			os_h_on</NL><NL>N e)capi/naios  adverbial			os_on</NL>
+ἐσέπεσε	εἰσπίπτω	2.048.2-007	case1	<NL>V ei)spi/ptw  aor ind act 3rd sg		short_eis	aor2</NL>
+,	comma	2.048.2-008	punct
+καὶ	καί	2.048.2-009	case4	<NL>N kai/ 		indeclform	conj</NL>
+τὸ	ὁ	2.048.2-010	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+πρῶτον	πρότερος	2.048.2-011	case1	<NL>N pro/teros  neut acc sg			os_h_on</NL>
+ἐν	ἐν	2.048.2-012	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+τῷ	ὁ	2.048.2-013	case1	<NL>N o(  masc dat sg		indeclform	article</NL><NL>N o(  neut dat sg		indeclform	article</NL>
+Πειραιεῖ	Πειραιεύς	2.048.2-014	case1	<NL>N *peiraieu/s  masc dat sg			eus_ews</NL>
+ἥψατο	ἅπτω	2.048.2-015	case1	<NL>V a(/ptw  aor ind mid 3rd sg	attic epic ionic		aor1,ptw</NL>
+τῶν	ὁ	2.048.2-016	case1	<NL>N o(  masc gen pl		indeclform	article</NL>
+ἀνθρώπων	ἄνθρωπος	2.048.2-017	case1	<NL>N a)/nqrwpos  masc gen pl			os_ou</NL>
+,	comma	2.048.2-018	punct
+ὥστε	ὥστε	2.048.2-019	case1	<NL>N w(/ste 		indeclform	adverb</NL>
+καὶ	καί	2.048.2-020	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἐλέχθη	λέγω2	2.048.2-021	case1	<NL>V le/gw2  aor ind pass 3rd sg			aor_pass,reg_conj</NL>
+ὑπ’	ὑπό	2.048.2-022	case1	<NL>N u(po/,u(po/ 		indeclform	prep</NL>
+αὐτῶν	αὐτός	2.048.2-023	case1	<NL>N au)to/s  neut gen pl			art_adj</NL><NL>N au)to/s  fem gen pl			art_adj</NL><NL>N au)to/s  masc gen pl			art_adj</NL>
+ὡς	ὡς	2.048.2-024	case1	<NL>N w(s 		proclitic indeclform	conj</NL>
+οἱ	ὁ	2.048.2-025	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+Πελοποννήσιοι	Πελοποννήσιος	2.048.2-026	case1	<NL>N *peloponnh/sios  masc nom pl			os_h_on</NL>
+φάρμακα	φάρμακον	2.048.2-027	case1	<NL>N fa/rmakon  neut acc pl			os_ou</NL>
+ἐσβεβλήκοιεν	εἰσβάλλω	2.048.2-028	case1	<NL>V ei)sba/llw  perf opt act 3rd pl		short_eis	perf_act,e_stem</NL>
+ἐς	εἰς	2.048.2-029	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+τὰ	ὁ	2.048.2-030	case1	<NL>N ta/,o(  neut acc pl		indeclform	article</NL>
+φρέατα	φρέαρ	2.048.2-031	case1	<NL>N fre/ar  neut acc pl			ar_atos</NL>
+:	syntacticbreak	1271
+κρῆναι	κρήνη	2.048.2-032	case1	<NL>N krh/nh  fem nom pl			h_hs</NL>
+γὰρ	γάρ	2.048.2-033	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+οὔπω	οὔπω	2.048.2-034	case1	<NL>N ou)/pw 		indeclform	adverb</NL>
+ἦσαν	εἰμί	2.048.2-035	case4	<NL>V ei)mi/  imperf ind act 3rd pl			irreg_mi</NL>
+αὐτόθι	αὐτόθι	2.048.2-036	case1	<NL>N au)to/qi 		indeclform	adverb</NL>
+.	syntacticbreak	1272
+ὕστερον	ὕστερος	2.048.2-037	case1	<NL>N u(/steros  masc acc sg		irreg_comp	os_h_on</NL><NL>N u(/steros  neut acc sg		irreg_comp	os_h_on</NL>
+δὲ	δέ	2.048.2-038	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+καὶ	καί	2.048.2-039	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἐς	εἰς	2.048.2-040	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+τὴν	ὁ	2.048.2-041	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+ἄνω	ἄνω2	2.048.2-042	case1	<NL>N a)/nw2 		indeclform	adverb</NL>
+πόλιν	πόλις	2.048.2-043	case1	<NL>N po/lis  fem acc sg			is_ews</NL>
+ἀφίκετο	ἀφικνέομαι	2.048.2-044	case1	<NL>V a)fi_/keto,a)fikne/omai  aor ind mid 3rd sg			aor2</NL>
+,	comma	2.048.2-045	punct
+καὶ	καί	2.048.2-046	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἔθνῃσκον	θνήσκω	2.048.2-047	case1	<NL>V qnh/skw  imperf ind act 3rd pl		syncope	w_stem,a_stem</NL>
+πολλῷ	πολύς	2.048.2-048	case1	<NL>N polu/s  masc dat sg			os_h_on</NL><NL>N polu/s  neut dat sg			os_h_on</NL>
+μᾶλλον	μᾶλλον	2.048.2-049	case1	<NL>N ma=llon 		indeclform	adverb</NL>
+ἤδη	ἤδη	2.048.2-050	case1	<NL>N h)/dh 		indeclform	adverb</NL>
+.	syntacticbreak	1273
+λεγέτω	λέγω2	2.048.3-001	case1	<NL>V le/gw2  pres imperat act 3rd sg			w_stem,reg_conj</NL>
+μὲν	μέν	2.048.3-002	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+οὖν	οὖν	2.048.3-003	case1	<NL>N ou)=n 		indeclform	particle</NL>
+περὶ	περί	2.048.3-004	case1	<NL>N peri/,peri/ 		indeclform	prep</NL>
+αὐτοῦ	αὐτός	2.048.3-005	case2c	<NL>N au)to/s  neut gen sg			art_adj</NL><NL>N au)to/s  masc gen sg			art_adj</NL>
+ὡς	ὡς	2.048.3-006	case1	<NL>N w(s 		proclitic indeclform	conj</NL>
+ἕκαστος	ἕκαστος	2.048.3-007	case1	<NL>N e(/kastos  masc nom sg			os_h_on</NL>
+γιγνώσκει	γιγνώσκω	2.048.3-008	case1	<NL>V gignw/skw  pres ind act 3rd sg		pres_redupl	w_stem,o_stem</NL>
+καὶ	καί	2.048.3-009	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἰατρὸς	ἰατρός	2.048.3-010	case1	<NL>N i)a_tro/s,i)atro/s  masc nom sg			os_ou</NL>
+καὶ	καί	2.048.3-011	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἰδιώτης	ἰδιώτης	2.048.3-012	case1	<NL>N i)diw/ths  masc nom sg			hs_ou</NL>
+,	comma	2.048.3-013	punct
+ἀφ’	ἀπό	2.048.3-014	case1	<NL>N a)po/,a)po/ 		indeclform	prep</NL><NL>N a)pai/,a)po/ 		poetic indeclform	prep</NL>
+ὅτου	ὅστις	2.048.3-015	case1	<NL>N o(/stis  masc gen sg		indeclform	relative</NL><NL>N o(/stis  neut gen sg		indeclform	relative</NL>
+εἰκὸς	εἰκός	2.048.3-016	case1	<NL>P ei)ko/s,ei)ko/s  perf part act neut acc sg			perf_act</NL>
+ἦν	εἰμί	2.048.3-017	case1	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+γενέσθαι	γίγνομαι	2.048.3-018	case1	<NL>V gi/gnomai  aor inf mid			aor2</NL>
+αὐτό	αὐτός	2.048.3-019	case1	<NL>N au)to/s  neut acc sg			art_adj</NL>
+,	comma	2.048.3-020	punct
+καὶ	καί	2.048.3-021	case4	<NL>N kai/ 		indeclform	conj</NL>
+τὰς	ὁ	2.048.3-022	case1	<NL>N ta_/s,o(  fem acc pl		indeclform	article</NL>
+αἰτίας	αἰτία	2.048.3-023	case1	<NL>N ai)ti/a_s,ai)ti/a  fem acc pl			h_hs</NL>
+ἅστινας	ὅστις	2.048.3-024	case1	<NL>N o(/stis  fem acc pl		indeclform	relative</NL>
+νομίζει	νομίζω	2.048.3-025	case1	<NL>V nomi/zw  pres ind act 3rd sg			w_stem,izw</NL>
+τοσαύτης	τοσοῦτος	2.048.3-026	case1	<NL>N tosou=tos  fem gen sg	attic epic ionic		art_adj</NL>
+μεταβολῆς	μεταβολή	2.048.3-027	case1	<NL>N metabolh/  fem gen sg	attic epic ionic		h_hs</NL>
+ἱκανὰς	ἱκανός	2.048.3-028	case1	<NL>N i(kana_/s,i(kano/s  fem acc pl			os_h_on</NL>
+εἶναι	εἰμί	2.048.3-029	case4	<NL>V ei)mi/  pres inf act			irreg_mi</NL>
+δύναμιν	δύναμις	2.048.3-030	case1	<NL>N du/namis  fem acc sg			is_ews</NL>
+ἐς	εἰς	2.048.3-031	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+τὸ	ὁ	2.048.3-032	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+μεταστῆσαι	μεθίστημι	2.048.3-033	case1	<NL>V meqi/sthmi  aor inf act		causal	aor1,a_stem</NL>
+σχεῖν	ἔχω	2.048.3-034	case1	<NL>V e)/xw  aor inf act	attic epic doric	contr	aor2</NL>
+:	syntacticbreak	1274
+ἐγὼ	ἐγώ	2.048.3-035	case1	<NL>N e)gw/,e)gw/  masc nom 1st sg		indeclform	pron1</NL><NL>N e)gw/,e)gw/  fem nom 1st sg		indeclform	pron1</NL>
+δὲ	δέ	2.048.3-036	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+οἷόν	οἷος	2.048.3-037	case1	<NL>N oi(=on,oi(=os  masc acc sg			os_h_on</NL><NL>N oi(=on,oi(=os  neut acc sg			os_h_on</NL>
+τε	τε	2.048.3-038	case1	<NL>N te 		enclitic indeclform	particle</NL>
+ἐγίγνετο	γίγνομαι	2.048.3-039	case1	<NL>V gi/gnomai  imperf ind mp 3rd sg		pres_redupl	w_stem,reg_conj</NL>
+λέξω	λέγω2	2.048.3-040	case1	<NL>V le/gw2  fut ind act 1st sg			reg_fut,reg_conj</NL><NL>V le/gw2  aor subj act 1st sg			aor1,reg_conj</NL>
+,	comma	2.048.3-041	punct
+καὶ	καί	2.048.3-042	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἀφ’	ἀπό	2.048.3-043	case1	<NL>N a)po/,a)po/ 		indeclform	prep</NL><NL>N a)pai/,a)po/ 		poetic indeclform	prep</NL>
+ὧν	ὅς	2.048.3-044	case4	<NL>N o(/s  fem gen pl		indeclform	relative</NL><NL>N o(/s  masc gen pl		indeclform	relative</NL><NL>N o(/s  neut gen pl		indeclform	relative</NL>
+ἄν	ἄν1	2.048.3-045	case1	<NL>N a)/n1 		indeclform	particle</NL>
+τις	τις	2.048.3-046	case1	<NL>N tis  masc nom sg		enclitic indeclform	indef</NL>
+σκοπῶν	σκοπέω	2.048.3-047	case2b	<NL>P skope/w  pres part act masc nom sg	attic epic doric	contr	ew_pr,ew_denom</NL>
+,	comma	2.048.3-048	punct
+εἴ	εἰ	2.048.3-049	case4	<NL>N ei) 		proclitic indeclform	conj</NL>
+ποτε	ποτέ	2.048.3-050	case1	<NL>N pote/ 		enclitic indeclform	particle</NL>
+καὶ	καί	2.048.3-051	case4	<NL>N kai/ 		indeclform	conj</NL>
+αὖθις	αὖθις	2.048.3-052	case1	<NL>N au)=qis 		indeclform	adverb</NL>
+ἐπιπέσοι	ἐπιπίπτω	2.048.3-053	case1	<NL>V e)pipe/soi_,e)pipi/ptw  aor opt act 3rd sg			aor2</NL>
+,	comma	2.048.3-054	punct
+μάλιστ’	μάλιστα	2.048.3-055	case1	<NL>N ma/lista,ma/lista 		indeclform	adverb</NL>
+ἂν	ἄν1	2.048.3-056	case1	<NL>N a)/n,a)/n1 		indeclform	particle</NL>
+ἔχοι	ἔχω	2.048.3-057	case1	<NL>V e)/xoi_,e)/xw  pres opt act 3rd sg			w_stem,reg_conj</NL>
+τι	τις	2.048.3-058	case1	<NL>N tis  neut acc sg		enclitic indeclform	indef</NL>
+προειδὼς	πρόοιδα	2.048.3-059	case1	<NL>P pro+eidw/s,pro/oida  perf part act masc nom sg		raw_preverb	perf_act</NL>
+μὴ	μή	2.048.3-060	case4	<NL>N mh/,mh/ 		indeclform	conj</NL>
+ἀγνοεῖν	ἀγνοέω	2.048.3-061	case1	<NL>V a)gnoe/w  pres inf act	attic epic doric	contr	ew_pr,ew_denom</NL>
+,	comma	2.048.3-062	punct
+ταῦτα	οὗτος	2.048.3-063	case1	<NL>N ou(=tos  neut acc pl		indeclform	pron_adj1</NL>
+δηλώσω	δηλόω	2.048.3-064	case1	<NL>V dhlo/w  aor subj act 1st sg			aor1,ow_denom</NL><NL>V dhlo/w  fut ind act 1st sg			reg_fut,ow_denom</NL>
+αὐτός	αὐτός	2.048.3-065	case1	<NL>N au)to/s  masc nom sg			art_adj</NL>
+τε	τε	2.048.3-066	case1	<NL>N te 		enclitic indeclform	particle</NL>
+νοσήσας	νοσέω	2.048.3-067	case1	<NL>P nosh/sa_s,nose/w  aor part act masc nom sg	attic epic ionic		aor1,ew_denom</NL>
+καὶ	καί	2.048.3-068	case4	<NL>N kai/ 		indeclform	conj</NL>
+αὐτὸς	αὐτός	2.048.3-069	case1	<NL>N au)to/s,au)to/s  masc nom sg			art_adj</NL>
+ἰδὼν	εἶδον	2.048.3-070	case4	<NL>P i)dw/n,ei)=don  aor part act masc nom sg			aor2</NL>
+ἄλλους	ἄλλος	2.048.3-071	case1	<NL>N a)/llos  masc acc pl			art_adj</NL>
+πάσχοντας	πάσχω	2.048.3-072	case1	<NL>P pa/sxw  pres part act masc acc pl			w_stem,skw</NL>
+.	syntacticbreak	1275
+τὸ	ὁ	2.049.1-001	case1	<NL>N to/,o(  neut nom sg		indeclform	article</NL><NL>N to/,o(  neut acc sg		indeclform	article</NL>
+μὲν	μέν	2.049.1-002	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+γὰρ	γάρ	2.049.1-003	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+ἔτος	ἔτος	2.049.1-004	case1	<NL>N e)/tos  neut nom sg			hs_eos</NL><NL>N e)/tos  neut acc sg			hs_eos</NL>
+,	comma	2.049.1-005	punct
+ὡς	ὡς	2.049.1-006	case1	<NL>N w(s 		proclitic indeclform	conj</NL>
+ὡμολογεῖτο	ὁμολογέω	2.049.1-007	case1	<NL>V o(mologe/w  imperf ind mp 3rd sg	attic epic	contr	ew_pr,ew_denom</NL>
+,	comma	2.049.1-008	punct
+ἐκ	ἐκ	2.049.1-009	case1	<NL>N e)k 		proclitic indeclform	prep</NL>
+πάντων	πᾶς	2.049.1-010	case1	<NL>N pa=s  masc gen pl		indeclform	irreg_adj3</NL><NL>N pa=s  neut gen pl		indeclform	irreg_adj3</NL>
+μάλιστα	μάλιστα	2.049.1-011	case1	<NL>N ma/lista 		indeclform	adverb</NL>
+δὴ	δή	2.049.1-012	case4	<NL>N dh/,dh/ 		indeclform	particle</NL>
+ἐκεῖνο	ἐκεῖνος	2.049.1-013	case1	<NL>N e)kei=nos  neut nom sg			art_adj</NL><NL>N e)kei=nos  neut acc sg			art_adj</NL>
+ἄνοσον	ἄνοσος	2.049.1-014	case1	<NL>N a)/nosos  neut nom sg			os_on</NL><NL>N a)/nosos  neut acc sg			os_on</NL>
+ἐς	εἰς	2.049.1-015	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+τὰς	ὁ	2.049.1-016	case1	<NL>N ta_/s,o(  fem acc pl		indeclform	article</NL>
+ἄλλας	ἄλλος	2.049.1-017	case1	<NL>N a)/lla_s,a)/llos  fem acc pl			art_adj</NL>
+ἀσθενείας	ἀσθένεια	2.049.1-018	case1	<NL>N a)sqenei/a_s,a)sqe/neia  fem acc pl			a_hs</NL>
+ἐτύγχανεν	τυγχάνω	2.049.1-019	case1	<NL>V tugxa/nw  imperf ind act 3rd sg		nu_movable n_infix	w_stem,anw</NL>
+ὄν	εἰμί	2.049.1-020	case4	<NL>P ei)mi/  pres part act neut nom sg			irreg_mi</NL><NL>P ei)mi/  pres part act neut acc sg			irreg_mi</NL>
+:	syntacticbreak	1276
+εἰ	εἰ	2.049.1-021	case4	<NL>N ei) 		proclitic indeclform	conj</NL>
+δέ	δέ	2.049.1-022	case4	<NL>N de/ 		indeclform	particle</NL>
+τις	τις	2.049.1-023	case1	<NL>N tis  masc nom sg		enclitic indeclform	indef</NL><NL>N tis  fem nom sg		enclitic indeclform	indef</NL>
+καὶ	καί	2.049.1-024	case4	<NL>N kai/ 		indeclform	conj</NL>
+προύκαμνέ	προκάμνω	2.049.1-025	case1	<NL>V pro+e/kamne,proka/mnw  imperf ind act 3rd sg		raw_preverb	w_stem,nw</NL>
+τι	τις	2.049.1-026	case1	<NL>N tis  neut acc sg		enclitic indeclform	indef</NL>
+,	comma	2.049.1-027	punct
+ἐς	εἰς	2.049.1-028	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+τοῦτο	οὗτος	2.049.1-029	case1	<NL>N ou(=tos  neut acc sg		indeclform	pron_adj1</NL>
+πάντα	πᾶς	2.049.1-030	case1	<NL>N pa=s  masc acc sg		indeclform	irreg_adj3</NL><NL>N pa=s  neut acc pl		indeclform	irreg_adj3</NL>
+ἀπεκρίθη	ἀποκρίνω	2.049.1-031	case1	<NL>V a)pekri^/qh,a)pokri/nw  aor ind pass 3rd sg			aor_pass,inw</NL>
+.	syntacticbreak	1277
+τοὺς	ὁ	2.049.2-001	case1	<NL>N tou/s,o(  masc acc pl		indeclform	article</NL>
+δὲ	δέ	2.049.2-002	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+ἄλλους	ἄλλος	2.049.2-003	case1	<NL>N a)/llos  masc acc pl			art_adj</NL>
+ἀπ’	ἀπό	2.049.2-004	case1	<NL>N a)po/,a)po/ 		indeclform	prep</NL><NL>N a)pai/,a)po/ 		poetic indeclform	prep</NL>
+οὐδεμιᾶς	οὐδείς	2.049.2-005	case1	<NL>N ou)dei/s  fem gen sg	attic doric aeolic	indeclform	pron_adj1</NL>
+προφάσεως	πρόφασις	2.049.2-006	case1	<NL>N profa/sew^s,pro/fasis  fem gen sg	attic ionic		is_ews</NL>
+,	comma	2.049.2-007	punct
+ἀλλ’	ἀλλά	2.049.2-008	case1	<NL>N a)lla/,a)lla/ 		indeclform	adverb</NL>
+ἐξαίφνης	ἐξαίφνης	2.049.2-009	case1	<NL>N e)cai/fnhs 		indeclform	adverb</NL>
+ὑγιεῖς	ὑγιής	2.049.2-010	case1	<NL>N u(gih/s  masc acc pl		contr	hs_es</NL>
+ὄντας	εἰμί	2.049.2-011	case4	<NL>P ei)mi/  pres part act masc acc pl			irreg_mi</NL>
+πρῶτον	πρότερος	2.049.2-012	case1	<NL>N pro/teros  masc acc sg			os_h_on</NL><NL>N pro/teros  neut acc sg			os_h_on</NL>
+μὲν	μέν	2.049.2-013	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+τῆς	ὁ	2.049.2-014	case1	<NL>N o(  fem gen sg	attic epic ionic	indeclform	article</NL>
+κεφαλῆς	κεφαλή	2.049.2-015	case1	<NL>N kefalh/  fem gen sg	attic epic ionic		h_hs</NL>
+θέρμαι	θέρμη	2.049.2-016	case1	<NL>N qe/rmh  fem nom pl			h_hs</NL>
+ἰσχυραὶ	ἰσχυρός	2.049.2-017	case1	<NL>N i)sxu_rai/,i)sxuro/s  fem nom pl			os_h_on</NL>
+καὶ	καί	2.049.2-018	case4	<NL>N kai/ 		indeclform	conj</NL>
+τῶν	ὁ	2.049.2-019	case1	<NL>N o(  masc gen pl		indeclform	article</NL>
+ὀφθαλμῶν	ὀφθαλμός	2.049.2-020	case1	<NL>N o)fqalmo/s  masc gen pl			os_ou</NL>
+ἐρυθήματα	ἐρύθημα	2.049.2-021	case1	<NL>N e)ru/qhma  neut acc pl			ma_matos</NL>
+καὶ	καί	2.049.2-022	case4	<NL>N kai/ 		indeclform	conj</NL>
+φλόγωσις	φλόγωσις	2.049.2-023	case1	<NL>N flo/gwsis  fem nom sg			is_ews</NL>
+ἐλάμβανε	λαμβάνω	2.049.2-024	case1	<NL>V lamba/nw  imperf ind act 3rd sg		n_infix	w_stem,anw</NL>
+,	comma	2.049.2-025	punct
+καὶ	καί	2.049.2-026	case4	<NL>N kai/ 		indeclform	conj</NL>
+τὰ	ὁ	2.049.2-027	case1	<NL>N ta/,o(  neut acc pl		indeclform	article</NL>
+ἐντός	ἐντός	2.049.2-028	case1	<NL>N e)nto/s 		indeclform	adverb</NL><NL>N e)nto/s 		indeclform	prep</NL>
+,	comma	2.049.2-029	punct
+ἥ	ὁ,ὅς	2.049.2-030	case2c	<NL>N o(  fem nom sg		proclitic indeclform	article</NL><NL>N o(/s  fem nom sg	attic homeric ionic	indeclform	relative</NL>
+τε	τε	2.049.2-031	case1	<NL>N te 		enclitic indeclform	particle</NL>
+φάρυγξ	φάρυγξ	2.049.2-032	case1	<NL>N fa/rugc  fem nom sg			gc_gos</NL>
+καὶ	καί	2.049.2-033	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἡ	ὁ	2.049.2-034	case1	<NL>N o(  fem nom sg		proclitic indeclform	article</NL>
+γλῶσσα	γλῶσσα	2.049.2-035	case1	<NL>N glw=ssa  fem nom sg			a_hs</NL>
+,	comma	2.049.2-036	punct
+εὐθὺς	εὐθύς	2.049.2-037	case1	<NL>N eu)qu/s,eu)qu/s 		indeclform	adverb</NL>
+αἱματώδη	αἱματώδης	2.049.2-038	case1	<NL>N ai(matw/dhs  neut acc pl	attic epic doric	contr	hs_es</NL><NL>N ai(matw/dhs  masc acc sg	attic epic doric	contr	hs_es</NL><NL>N ai(matw/dhs  fem acc sg	attic epic doric	contr	hs_es</NL>
+ἦν	εἰμί	2.049.2-039	case1	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+καὶ	καί	2.049.2-040	case4	<NL>N kai/ 		indeclform	conj</NL>
+πνεῦμα	πνεῦμα	2.049.2-041	case1	<NL>N pneu=ma  neut acc sg			ma_matos</NL>
+ἄτοπον	ἄτοπος	2.049.2-042	case1	<NL>N a)/topos  neut acc sg			os_on</NL>
+καὶ	καί	2.049.2-043	case4	<NL>N kai/ 		indeclform	conj</NL>
+δυσῶδες	δυσώδης	2.049.2-044	case1	<NL>N dusw/dhs  neut acc sg			hs_es</NL>
+ἠφίει	ἀφίημι	2.049.2-045	case1	<NL>V a)fi/hmi  pres imperat act 2nd sg		prevb_aug	irreg_mi</NL><NL>V h)fi_/ei,a)fi/hmi  imperf ind act 3rd sg	attic epic	contr prevb_aug	ew_pr</NL>
+:	syntacticbreak	1278
+ἔπειτα	ἔπειτα	2.049.3-001	case1	<NL>N e)/peita 		indeclform	adverb</NL>
+ἐξ	ἐκ	2.049.3-002	case1	<NL>N e)k 		proclitic indeclform	prep</NL>
+αὐτῶν	αὐτός	2.049.3-003	case1	<NL>N au)to/s  neut gen pl			art_adj</NL><NL>N au)to/s  fem gen pl			art_adj</NL><NL>N au)to/s  masc gen pl			art_adj</NL>
+πταρμὸς	πταρμός	2.049.3-004	case1	<NL>N ptarmo/s,ptarmo/s  masc nom sg			os_ou</NL>
+καὶ	καί	2.049.3-005	case4	<NL>N kai/ 		indeclform	conj</NL>
+βράγχος	βράγχος	2.049.3-006	case1	<NL>N bra/gxos  masc nom sg			os_ou</NL>
+ἐπεγίγνετο	ἐπιγίγνομαι	2.049.3-007	case1	<NL>V e)pigi/gnomai  imperf ind mp 3rd sg		pres_redupl	w_stem,reg_conj</NL>
+,	comma	2.049.3-008	punct
+καὶ	καί	2.049.3-009	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἐν	ἐν	2.049.3-010	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+οὐ	οὐ	2.049.3-011	case4	<NL>N ou) 		proclitic indeclform	adverb</NL>
+πολλῷ	πολύς	2.049.3-012	case1	<NL>N polu/s  masc dat sg			os_h_on</NL><NL>N polu/s  neut dat sg			os_h_on</NL>
+χρόνῳ	χρόνος	2.049.3-013	case1	<NL>N xro/nos  masc dat sg			os_ou</NL>
+κατέβαινεν	καταβαίνω	2.049.3-014	case1	<NL>V katabai/nw  imperf ind act 3rd sg		nu_movable	w_stem,ainw</NL>
+ἐς	εἰς	2.049.3-015	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+τὰ	ὁ	2.049.3-016	case1	<NL>N ta/,o(  neut acc pl		indeclform	article</NL>
+στήθη	στῆθος	2.049.3-017	case1	<NL>N sth_/qh,sth=qos  neut acc pl	attic epic doric	contr	hs_eos</NL>
+ὁ	ὁ	2.049.3-018	case1	<NL>N o(  masc nom sg		proclitic indeclform	article</NL>
+πόνος	πόνος	2.049.3-019	case1	<NL>N po/nos  masc nom sg			os_ou</NL>
+μετὰ	μετά	2.049.3-020	case1	<NL>N meta/,meta/ 		indeclform	prep</NL>
+βηχὸς	βήξ	2.049.3-021	case1	<NL>N bhxo/s,bh/c  masc gen sg			c_xos</NL><NL>N bhxo/s,bh/c  fem gen sg			c_xos</NL>
+ἰσχυροῦ	ἰσχυρός	2.049.3-022	case1	<NL>N i)sxu_rou=,i)sxuro/s  masc gen sg			os_h_on</NL>
+:	syntacticbreak	1279
+καὶ	καί	2.049.3-023	case4	<NL>N kai/ 		indeclform	conj</NL>
+ὁπότε	ὁπότε	2.049.3-024	case1	<NL>N o(po/te 		indeclform	adverb</NL>
+ἐς	εἰς	2.049.3-025	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+τὴν	ὁ	2.049.3-026	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+καρδίαν	καρδία	2.049.3-027	case1	<NL>N kardi/a_n,kardi/a  fem acc sg	attic doric ionic aeolic		h_hs</NL>
+στηρίξειεν	στηρίζω	2.049.3-028	case1	<NL>V sthri/zw  aor opt act 3rd sg			aor1,izw</NL>
+,	comma	2.049.3-029	punct
+ἀνέστρεφέ	ἀναστρέφω	2.049.3-030	case1	<NL>V a)ne/strefe,a)nastre/fw  imperf ind act 3rd sg			w_stem,reg_conj</NL>
+τε	τε	2.049.3-031	case1	<NL>N te 		enclitic indeclform	particle</NL>
+αὐτὴν	αὐτός	2.049.3-032	case1	<NL>N au)th/n,au)to/s  fem acc sg	attic epic ionic		art_adj</NL>
+καὶ	καί	2.049.3-033	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἀποκαθάρσεις	ἀποκάθαρσις	2.049.3-034	case1	<NL>N a)poka/qarsis  fem nom pl	attic epic	contr	is_ews</NL><NL>N a)poka/qarsis  fem acc pl	attic		is_ews</NL>
+χολῆς	χολή	2.049.3-035	case1	<NL>N xolh/  fem gen sg	attic epic ionic		h_hs</NL>
+πᾶσαι	πᾶς	2.049.3-036	case1	<NL>N pa=s  fem nom pl	attic epic ionic	indeclform	irreg_adj3</NL>
+ὅσαι	ὅσος	2.049.3-037	case1	<NL>N o(/sos  fem nom pl			os_h_on</NL>
+ὑπὸ	ὑπό	2.049.3-038	case1	<NL>N u(po/,u(po/ 		indeclform	prep</NL>
+ἰατρῶν	ἰατρός	2.049.3-039	case1	<NL>N i)a_trw=n,i)atro/s  masc gen pl			os_ou</NL>
+ὠνομασμέναι	ὀνομάζω	2.049.3-040	case1	<NL>P o)noma/zw  perf part mp fem nom pl		redupl	perfp_d,azw</NL>
+εἰσὶν	εἰμί	2.049.3-041	case4	<NL>V ei)sin,ei)mi/  pres ind act 3rd pl		enclitic nu_movable	irreg_mi</NL>
+ἐπῇσαν	ἔπειμι2	2.049.3-042	case1	<NL>V e)/peimi2  imperf ind act 3rd pl			irreg_mi</NL>
+,	comma	2.049.3-043	punct
+καὶ	καί	2.049.3-044	case4	<NL>N kai/ 		indeclform	conj</NL>
+αὗται	οὗτος	2.049.3-045	case1	<NL>N ou(=tos  fem nom pl		indeclform	pron_adj1</NL>
+μετὰ	μετά	2.049.3-046	case1	<NL>N meta/,meta/ 		indeclform	prep</NL>
+ταλαιπωρίας	ταλαιπωρία	2.049.3-047	case1	<NL>N talaipwri/a_s,talaipwri/a  fem acc pl			h_hs</NL><NL>N talaipwri/a_s,talaipwri/a  fem gen sg	attic doric aeolic		h_hs</NL>
+μεγάλης	μέγας	2.049.3-048	case1	<NL>N me/gas  fem gen sg	attic epic ionic		os_h_on</NL>
+.	syntacticbreak	1280
+λύγξ	λύγξ2	2.049.4-001	case1	<NL>N lu/gc2  fem nom sg			c_gos</NL>
+τε	τε	2.049.4-002	case1	<NL>N te 		enclitic indeclform	particle</NL>
+τοῖς	ὁ	2.049.4-003	case1	<NL>N o(  masc dat pl		indeclform	article</NL><NL>N o(  neut dat pl		indeclform	article</NL>
+πλέοσιν	πλείων	2.049.4-004	case1	<NL>N plei/wn  masc dat pl comp		nu_movable	wn_on_comp</NL><NL>N plei/wn  neut dat pl comp		nu_movable	wn_on_comp</NL>
+ἐνέπιπτε	ἐμπίπτω	2.049.4-005	case1	<NL>V e)ne/pi_pte,e)mpi/ptw  imperf ind act 3rd sg		pres_redupl	w_stem</NL>
+κενή	κενός	2.049.4-006	case1	<NL>N keno/s  fem nom sg	attic epic ionic		os_h_on</NL>
+,	comma	2.049.4-007	punct
+σπασμὸν	σπασμός	2.049.4-008	case1	<NL>N spasmo/n,spasmo/s  masc acc sg			os_ou</NL>
+ἐνδιδοῦσα	ἐνδίδωμι	2.049.4-009	case1	<NL>P e)ndi/dwmi  pres part act fem nom sg		pres_redupl	omi_pr,o_stem</NL>
+ἰσχυρόν	ἰσχυρός	2.049.4-010	case1	<NL>N i)sxu_ro/n,i)sxuro/s  masc acc sg			os_h_on</NL><NL>N i)sxu_ro/n,i)sxuro/s  neut acc sg			os_h_on</NL>
+,	comma	2.049.4-011	punct
+τοῖς	ὁ	2.049.4-012	case1	<NL>N o(  masc dat pl		indeclform	article</NL><NL>N o(  neut dat pl		indeclform	article</NL>
+μὲν	μέν	2.049.4-013	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+μετὰ	μετά	2.049.4-014	case1	<NL>N meta/,meta/ 		indeclform	prep</NL>
+ταῦτα	οὗτος	2.049.4-015	case1	<NL>N ou(=tos  neut acc pl		indeclform	pron_adj1</NL>
+λωφήσαντα	λωφάω	2.049.4-016	case1	<NL>P lwfa/w  aor part act neut acc pl	attic ionic		aor1,aw_denom</NL>
+,	comma	2.049.4-017	punct
+τοῖς	ὁ	2.049.4-018	case1	<NL>N o(  masc dat pl		indeclform	article</NL><NL>N o(  neut dat pl		indeclform	article</NL>
+δὲ	δέ	2.049.4-019	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+καὶ	καί	2.049.4-020	case4	<NL>N kai/ 		indeclform	conj</NL>
+πολλῷ	πολύς	2.049.4-021	case1	<NL>N polu/s  masc dat sg			os_h_on</NL><NL>N polu/s  neut dat sg			os_h_on</NL>
+ὕστερον	ὕστερος	2.049.4-022	case1	<NL>N u(/steros  masc acc sg		irreg_comp	os_h_on</NL><NL>N u(/steros  neut acc sg		irreg_comp	os_h_on</NL>
+.	syntacticbreak	1281
+καὶ	καί	2.049.5-001	case4	<NL>N kai/ 		indeclform	conj</NL>
+τὸ	ὁ	2.049.5-002	case1	<NL>N to/,o(  neut nom sg		indeclform	article</NL><NL>N to/,o(  neut acc sg		indeclform	article</NL>
+μὲν	μέν	2.049.5-003	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+ἔξωθεν	ἔξωθεν	2.049.5-004	case1	<NL>N e)/cwqen 		indeclform	adverb</NL>
+ἁπτομένῳ	ἅπτω	2.049.5-005	case1	<NL>P a(/ptw  pres part mp masc dat sg			w_stem,ptw</NL><NL>P a(/ptw  pres part mp neut dat sg			w_stem,ptw</NL>
+σῶμα	σῶμα	2.049.5-006	case1	<NL>N sw=ma  neut nom sg			ma_matos</NL><NL>N sw=ma  neut acc sg			ma_matos</NL>
+οὔτ’	οὔτε	2.049.5-007	case1	<NL>N ou)/te,ou)/te 		indeclform	adverb</NL>
+ἄγαν	ἄγαν	2.049.5-008	case1	<NL>N a)/gan 		indeclform	adverb</NL>
+θερμὸν	θερμός	2.049.5-009	case1	<NL>N qermo/n,qermo/s  neut nom sg			os_h_on</NL><NL>N qermo/n,qermo/s  neut acc sg			os_h_on</NL><NL>N qermo/n,qermo/s  neut nom sg			os_on</NL><NL>N qermo/n,qermo/s  neut acc sg			os_on</NL>
+ἦν	εἰμί	2.049.5-010	case1	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+οὔτε	οὔτε	2.049.5-011	case1	<NL>N ou)/te 		indeclform	adverb</NL>
+χλωρόν	χλωρός	2.049.5-012	case1	<NL>N xlwro/s  masc acc sg			os_h_on</NL><NL>N xlwro/s  neut nom sg			os_h_on</NL><NL>N xlwro/s  neut acc sg			os_h_on</NL>
+,	comma	2.049.5-013	punct
+ἀλλ’	ἀλλά	2.049.5-014	case1	<NL>N a)lla/,a)lla/ 		indeclform	adverb</NL>
+ὑπέρυθρον	ὑπέρυθρος	2.049.5-015	case1	<NL>N u(pe/ruqros  masc acc sg			os_on</NL><NL>N u(pe/ruqros  fem acc sg			os_on</NL><NL>N u(pe/ruqros  neut nom sg			os_on</NL><NL>N u(pe/ruqros  neut acc sg			os_on</NL>
+,	comma	2.049.5-016	punct
+πελιτνόν	πελιδνός	2.049.5-017	case1	<NL>N pelidno/s  masc acc sg			os_h_on</NL><NL>N pelidno/s  neut nom sg			os_h_on</NL><NL>N pelidno/s  neut acc sg			os_h_on</NL>
+,	comma	2.049.5-018	punct
+φλυκταίναις	φλύκταινα	2.049.5-019	case1	<NL>N flu/ktaina  fem dat pl			a_hs</NL>
+μικραῖς	μικρός	2.049.5-020	case2b	<NL>N mi_krai=s,mikro/s  fem dat pl			os_h_on</NL>
+καὶ	καί	2.049.5-021	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἕλκεσιν	ἕλκος	2.049.5-022	case1	<NL>N e(/lkos  neut dat pl		nu_movable	hs_eos</NL>
+ἐξηνθηκός	ἐξανθέω	2.049.5-023	case1	<NL>P e)canqe/w  perf part act neut nom sg	attic epic doric ionic aeolic	redupl	perf_act,ew_denom</NL><NL>P e)canqe/w  perf part act neut acc sg	attic epic doric ionic aeolic	redupl	perf_act,ew_denom</NL>
+:	syntacticbreak	1282
+τὰ	ὁ	2.049.5-024	case1	<NL>N ta/,o(  neut acc pl		indeclform	article</NL>
+δὲ	δέ	2.049.5-025	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+ἐντὸς	ἐντός	2.049.5-026	case1	<NL>N e)nto/s,e)nto/s 		indeclform	adverb</NL><NL>N e)nto/s,e)nto/s 		indeclform	prep</NL>
+οὕτως	οὕτως	2.049.5-027	case1	<NL>N ou(/tws 		indeclform	adverb</NL>
+ἐκάετο	καίω	2.049.5-028	case1	<NL>V e)ka_/eto,kai/w  imperf ind mp 3rd sg	attic		w_stem,av_stem</NL>
+ὥστε	ὥστε	2.049.5-029	case1	<NL>N w(/ste 		indeclform	adverb</NL>
+μήτε	μήτε	2.049.5-030	case4	<NL>N mh/te 		indeclform	particle</NL>
+τῶν	ὁ	2.049.5-031	case1	<NL>N o(  neut gen pl		indeclform	article</NL>
+πάνυ	πάνυ	2.049.5-032	case1	<NL>N pa/nu 		indeclform	adverb</NL>
+λεπτῶν	λεπτός	2.049.5-033	case1	<NL>N lepto/s  neut gen pl			os_h_on</NL>
+ἱματίων	ἱμάτιον	2.049.5-034	case1	<NL>N i(_mati/wn,i(ma/tion  neut gen pl		diminutive	os_ou</NL>
+καὶ	καί	2.049.5-035	case4	<NL>N kai/ 		indeclform	conj</NL>
+σινδόνων	σινδών	2.049.5-036	case1	<NL>N sindw/n  fem gen pl			wn_onos</NL>
+τὰς	ὁ	2.049.5-037	case1	<NL>N ta_/s,o(  fem acc pl		indeclform	article</NL>
+ἐπιβολὰς	ἐπιβολή	2.049.5-038	case1	<NL>N e)pibola_/s,e)pibolh/  fem acc pl			h_hs</NL>
+μηδ’	μηδέ	2.049.5-039	case1	<NL>N mhde/,mhde/ 		indeclform	particle</NL>
+ἄλλο	ἄλλος	2.049.5-040	case1	<NL>N a)/llos  neut acc sg			art_adj</NL>
+τι	τις	2.049.5-041	case1	<NL>N tis  neut acc sg		enclitic indeclform	indef</NL>
+ἢ	ἤ1	2.049.5-042	case1	<NL>N h)/,h)/1 		indeclform	conj</NL>
+γυμνοὶ	γυμνός	2.049.5-043	case2b	<NL>N gumnoi/,gumno/s  masc nom pl			os_h_on</NL>
+ἀνέχεσθαι	ἀνέχω	2.049.5-044	case1	<NL>V a)ne/xw  pres inf mp			w_stem,reg_conj</NL>
+,	comma	2.049.5-045	punct
+ἥδιστά	ἡδύς	2.049.5-046	case1	<NL>N h(/dista,h(du/s  neut acc pl		irreg_superl	os_h_on</NL>
+τε	τε	2.049.5-047	case1	<NL>N te 		enclitic indeclform	particle</NL>
+ἂν	ἄν1	2.049.5-048	case1	<NL>N a)/n,a)/n1 		indeclform	particle</NL>
+ἐς	εἰς	2.049.5-049	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+ὕδωρ	ὕδωρ	2.049.5-050	case1	<NL>N u(/dwr  neut acc sg		indeclform	irreg_decl3</NL>
+ψυχρὸν	ψυχρός	2.049.5-051	case1	<NL>N yu_xro/n,yuxro/s  neut acc sg			os_h_on</NL>
+σφᾶς	σφεῖς	2.049.5-052	case1	<NL>N sfei=s  masc acc pl		enclitic indeclform	pron3</NL>
+αὐτοὺς	αὐτός	2.049.5-053	case1	<NL>N au)tou/s,au)to/s  masc acc pl			art_adj</NL>
+ῥίπτειν	ῥίπτω	2.049.5-054	case1	<NL>V r(i_/ptein,r(i/ptw  pres inf act	attic epic	contr	w_stem,ptw</NL>
+.	syntacticbreak	1283
+καὶ	καί	2.049.5-055	case4	<NL>N kai/ 		indeclform	conj</NL>
+πολλοὶ	πολύς	2.049.5-056	case1	<NL>N polloi/,polu/s  masc nom pl			os_h_on</NL>
+τοῦτο	οὗτος	2.049.5-057	case1	<NL>N ou(=tos  neut acc sg		indeclform	pron_adj1</NL>
+τῶν	ὁ	2.049.5-058	case1	<NL>N o(  masc gen pl		indeclform	article</NL>
+ἠμελημένων	ἀμελέω	2.049.5-059	case1	<NL>P a)mele/w  perf part mp masc gen pl	attic epic doric ionic aeolic	redupl	perfp_vow,ew_denom</NL>
+ἀνθρώπων	ἄνθρωπος	2.049.5-060	case1	<NL>N a)/nqrwpos  masc gen pl			os_ou</NL>
+καὶ	καί	2.049.5-061	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἔδρασαν	δράω	2.049.5-062	case1	<NL>V e)/dra_san,dra/w  aor ind act 3rd pl	attic epic doric aeolic		aor1,a_stem</NL>
+ἐς	εἰς	2.049.5-063	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+φρέατα	φρέαρ	2.049.5-064	case1	<NL>N fre/ar  neut acc pl			ar_atos</NL>
+,	comma	2.049.5-065	punct
+τῇ	ὁ	2.049.5-066	case1	<NL>N o(  fem dat sg	attic epic ionic	indeclform	article</NL>
+δίψῃ	δίψα	2.049.5-067	case1	<NL>N di/ya  fem dat sg	attic epic ionic		a_hs</NL>
+ἀπαύστῳ	ἄπαυστος	2.049.5-068	case1	<NL>N a)/paustos  fem dat sg			os_on</NL>
+ξυνεχόμενοι	συνόχωκα	2.049.5-069	case1	<NL>P suno/xwka  pres part mp masc nom pl		sig_to_ci	w_stem,reg_conj</NL>
+:	syntacticbreak	1284
+καὶ	καί	2.049.5-070	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἐν	ἐν	2.049.5-071	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+τῷ	ὁ	2.049.5-072	case1	<NL>N o(  masc dat sg		indeclform	article</NL><NL>N o(  neut dat sg		indeclform	article</NL>
+ὁμοίῳ	ὅμοιος	2.049.5-073	case1	<NL>N o(/moios  masc dat sg	attic epic ionic		os_h_on</NL><NL>N o(/moios  neut dat sg	attic epic ionic		os_h_on</NL><NL>N o(/moios  masc dat sg			os_on</NL><NL>N o(/moios  neut dat sg			os_on</NL>
+καθειστήκει	καθίστημι	2.049.5-074	case1	<NL>V kaqi/sthmi  plup ind act 3rd sg	attic epic	contr	perf_act</NL>
+τό	ὁ	2.049.5-075	case1	<NL>N o(  neut nom sg		indeclform	article</NL><NL>N o(  neut acc sg		indeclform	article</NL>
+τε	τε	2.049.5-076	case1	<NL>N te 		enclitic indeclform	particle</NL>
+πλέον	πλείων	2.049.5-077	case1	<NL>N plei/wn  neut nom comp sg			wn_on_comp</NL><NL>N plei/wn  neut acc comp sg			wn_on_comp</NL>
+καὶ	καί	2.049.5-078	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἔλασσον	ἐλάσσων	2.049.5-079	case1	<NL>N e)la/sswn  neut nom comp sg			wn_on_comp</NL><NL>N e)la/sswn  neut acc comp sg			wn_on_comp</NL>
+ποτόν	ποτός	2.049.5-080	case1	<NL>N poto/s  neut nom sg			os_h_on</NL><NL>N poto/s  neut acc sg			os_h_on</NL>
+.	syntacticbreak	1285
+καὶ	καί	2.049.6-001	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἡ	ὁ	2.049.6-002	case1	<NL>N o(  fem nom sg		proclitic indeclform	article</NL>
+ἀπορία	ἀπορία	2.049.6-003	case1	<NL>N a)pori/a_,a)pori/a  fem nom sg	attic doric ionic aeolic		h_hs</NL>
+τοῦ	ὁ	2.049.6-004	case1	<NL>N o(  neut gen sg		indeclform	article</NL>
+μὴ	μή	2.049.6-005	case4	<NL>N mh/,mh/ 		indeclform	conj</NL>
+ἡσυχάζειν	ἡσυχάζω	2.049.6-006	case1	<NL>V h(suxa/zw  pres inf act	attic epic	contr	w_stem,azw</NL>
+καὶ	καί	2.049.6-007	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἡ	ὁ	2.049.6-008	case1	<NL>N o(  fem nom sg		proclitic indeclform	article</NL>
+ἀγρυπνία	ἀγρυπνία	2.049.6-009	case1	<NL>N a)grupni/a_,a)grupni/a  fem nom sg	attic doric aeolic		h_hs</NL>
+ἐπέκειτο	ἐπίκειμαι	2.049.6-010	case1	<NL>V e)pi/keimai  imperf ind mp 3rd sg			ath_primary</NL>
+διὰ	διά	2.049.6-011	case1	<NL>N dia/,dia/ 		indeclform	prep</NL>
+παντός	πᾶς	2.049.6-012	case1	<NL>N pa=s  masc gen sg		indeclform	irreg_adj3</NL><NL>N pa=s  neut gen sg		indeclform	irreg_adj3</NL>
+.	syntacticbreak	1286
+καὶ	καί	2.049.6-013	case4	<NL>N kai/ 		indeclform	conj</NL>
+τὸ	ὁ	2.049.6-014	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+σῶμα	σῶμα	2.049.6-015	case1	<NL>N sw=ma  neut acc sg			ma_matos</NL>
+,	comma	2.049.6-016	punct
+ὅσονπερ	ὅσος	2.049.6-017	case1	<NL>N o(/son,o(/sos  neut acc sg			os_h_on</NL>
+χρόνον	χρόνος	2.049.6-018	case1	<NL>N xro/nos  masc acc sg			os_ou</NL>
+καὶ	καί	2.049.6-019	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἡ	ὁ	2.049.6-020	case1	<NL>N o(  fem nom sg		proclitic indeclform	article</NL>
+νόσος	νόσος	2.049.6-021	case1	<NL>N no/sos  fem nom sg			os_ou</NL>
+ἀκμάζοι	ἀκμάζω	2.049.6-022	case1	<NL>V a)kma/zoi_,a)kma/zw  pres opt act 3rd sg			w_stem,azw</NL>
+,	comma	2.049.6-023	punct
+οὐκ	οὐ	2.049.6-024	case4	<NL>N ou) 		proclitic indeclform	adverb</NL>
+ἐμαραίνετο	μαραίνω	2.049.6-025	case1	<NL>V marai/nw  imperf ind mp 3rd sg			w_stem,ainw</NL>
+,	comma	2.049.6-026	punct
+ἀλλ’	ἀλλά	2.049.6-027	case1	<NL>N a)lla/,a)lla/ 		indeclform	adverb</NL>
+ἀντεῖχε	ἀντέχω	2.049.6-028	case1	<NL>V a)nte/xw  imperf ind act 3rd sg		syll_augment elide_preverb	w_stem,reg_conj</NL>
+παρὰ	παρά	2.049.6-029	case1	<NL>N para/,para/ 		indeclform	prep</NL>
+δόξαν	δόξα	2.049.6-030	case1	<NL>N do/ca  fem acc sg			a_hs</NL>
+τῇ	ὁ	2.049.6-031	case1	<NL>N o(  fem dat sg	attic epic ionic	indeclform	article</NL>
+ταλαιπωρίᾳ	ταλαιπωρία	2.049.6-032	case1	<NL>N talaipwri/a_|,talaipwri/a  fem dat sg	attic doric aeolic		h_hs</NL>
+,	comma	2.049.6-033	punct
+ὥστε	ὥστε	2.049.6-034	case1	<NL>N w(/ste 		indeclform	adverb</NL>
+ἢ	ἤ1	2.049.6-035	case1	<NL>N h)/,h)/1 		indeclform	conj</NL>
+διεφθείροντο	διαφθείρω	2.049.6-036	case1	<NL>V diafqei/rw  imperf ind mp 3rd pl			w_stem,eirw</NL>
+οἱ	ὁ	2.049.6-037	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+πλεῖστοι	πλεῖστος	2.049.6-038	case1	<NL>N plei=stos  masc nom pl		irreg_superl	os_h_on</NL>
+ἐναταῖοι	ἐναταῖος	2.049.6-039	case1	<NL>N e)natai=os  masc nom pl			os_h_on</NL>
+καὶ	καί	2.049.6-040	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἑβδομαῖοι	ἑβδομαῖος	2.049.6-041	case1	<NL>N e(bdomai=os  masc nom pl			os_h_on</NL>
+ὑπὸ	ὑπό	2.049.6-042	case1	<NL>N u(po/,u(po/ 		indeclform	prep</NL>
+τοῦ	ὁ	2.049.6-043	case1	<NL>N o(  masc gen sg		indeclform	article</NL><NL>N o(  neut gen sg		indeclform	article</NL>
+ἐντὸς	ἐντός	2.049.6-044	case1	<NL>N e)nto/s,e)nto/s 		indeclform	adverb</NL><NL>N e)nto/s,e)nto/s 		indeclform	prep</NL>
+καύματος	καῦμα	2.049.6-045	case1	<NL>N kau_/matos,kau=ma  neut gen sg			ma_matos</NL>
+,	comma	2.049.6-046	punct
+ἔτι	ἔτι	2.049.6-047	case1	<NL>N e)/ti 		indeclform	adverb</NL>
+ἔχοντές	ἔχω	2.049.6-048	case1	<NL>P e)/xontes,e)/xw  pres part act masc nom pl			w_stem,reg_conj</NL>
+τι	τις	2.049.6-049	case1	<NL>N tis  neut acc sg		enclitic indeclform	indef</NL>
+δυνάμεως	δύναμις	2.049.6-050	case1	<NL>N duna/mew^s,du/namis  fem gen sg	attic		is_ews</NL>
+,	comma	2.049.6-051	punct
+ἢ	ἤ1	2.049.6-052	case1	<NL>N h)/,h)/1 		indeclform	conj</NL>
+εἰ	εἰ	2.049.6-053	case4	<NL>N ei) 		proclitic indeclform	conj</NL>
+διαφύγοιεν	διαφεύγω	2.049.6-054	case1	<NL>V diafeu/gw  aor opt act 3rd pl			aor2</NL>
+,	comma	2.049.6-055	punct
+ἐπικατιόντος	ἐπικάτειμι	2.049.6-056	case1	<NL>P e)pika/teimi  pres part act neut gen sg			irreg_mi</NL>
+τοῦ	ὁ	2.049.6-057	case1	<NL>N o(  neut gen sg		indeclform	article</NL>
+νοσήματος	νόσημα	2.049.6-058	case1	<NL>N no/shma  neut gen sg			ma_matos</NL>
+ἐς	εἰς	2.049.6-059	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+τὴν	ὁ	2.049.6-060	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+κοιλίαν	κοιλία	2.049.6-061	case1	<NL>N koili/a_n,koili/a  fem acc sg	attic doric aeolic		h_hs</NL>
+καὶ	καί	2.049.6-062	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἑλκώσεώς	ἕλκωσις	2.049.6-063	case1	<NL>N e(lkw/sew^s,e(/lkwsis  fem gen sg	attic		is_ews</NL>
+τε	τε	2.049.6-064	case1	<NL>N te 		enclitic indeclform	particle</NL>
+αὐτῇ	αὐτός	2.049.6-065	case1	<NL>N au)to/s  fem dat sg	attic epic ionic		art_adj</NL>
+ἰσχυρᾶς	ἰσχυρός	2.049.6-066	case1	<NL>N i)sxu_ra=s,i)sxuro/s  fem gen sg	attic doric aeolic		os_h_on</NL>
+ἐγγιγνομένης	ἐγγίγνομαι	2.049.6-067	case1	<NL>P e)ggi/gnomai  pres part mp fem gen sg	attic epic ionic	pres_redupl	w_stem,reg_conj</NL>
+καὶ	καί	2.049.6-068	case4	<NL>N kai/ 		indeclform	conj</NL>
+διαρροίας	διάρροια	2.049.6-069	case1	<NL>N diarroi/a_s,dia/rroia  fem gen sg	attic doric aeolic		a_hs</NL>
+ἅμα	ἅμα	2.049.6-070	case1	<NL>N a(/ma 		indeclform	adverb</NL>
+ἀκράτου	ἄκρατος	2.049.6-071	case1	<NL>N a)kra_/tou,a)/kratos  fem gen sg			os_on</NL>
+ἐπιπιπτούσης	ἐπιπίπτω	2.049.6-072	case1	<NL>P e)pipi_ptou/shs,e)pipi/ptw  pres part act fem gen sg	attic epic ionic	pres_redupl	w_stem</NL>
+οἱ	ὁ	2.049.6-073	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+πολλοὶ	πολύς	2.049.6-074	case1	<NL>N polloi/,polu/s  masc nom pl			os_h_on</NL>
+ὕστερον	ὕστερος	2.049.6-075	case1	<NL>N u(/steros  masc acc sg		irreg_comp	os_h_on</NL><NL>N u(/steros  neut acc sg		irreg_comp	os_h_on</NL>
+δῐ	διά	2.049.6-076	case1	<NL>N dia/,dia/ 		indeclform	prep</NL><NL>N diai/,dia/ 		poetic indeclform	prep</NL>
+αὐτὴν	αὐτός	2.049.6-077	case1	<NL>N au)th/n,au)to/s  fem acc sg	attic epic ionic		art_adj</NL>
+ἀσθενείᾳ	ἀσθένεια	2.049.6-078	case1	<NL>N a)sqenei/a_|,a)sqe/neia  fem dat sg	attic doric ionic aeolic		a_hs</NL>
+διεφθείροντο	διαφθείρω	2.049.6-079	case1	<NL>V diafqei/rw  imperf ind mp 3rd pl			w_stem,eirw</NL>
+.	syntacticbreak	1287
+διεξῄει	διέξειμι	2.049.7-001	case1	<NL>V die/ceimi  imperf ind act 3rd sg			irreg_mi</NL>
+γὰρ	γάρ	2.049.7-002	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+διὰ	διά	2.049.7-003	case1	<NL>N dia/,dia/ 		indeclform	prep</NL>
+παντὸς	πᾶς	2.049.7-004	case1	<NL>N panto/s,pa=s  masc gen sg		indeclform	irreg_adj3</NL><NL>N panto/s,pa=s  neut gen sg		indeclform	irreg_adj3</NL>
+τοῦ	ὁ	2.049.7-005	case1	<NL>N o(  neut gen sg		indeclform	article</NL>
+σώματος	σῶμα	2.049.7-006	case1	<NL>N sw_/matos,sw=ma  neut gen sg			ma_matos</NL>
+ἄνωθεν	ἄνωθεν	2.049.7-007	case1	<NL>N a)/nwqen 		indeclform	adverb</NL>
+ἀρξάμενον	ἄρχω	2.049.7-008	case1	<NL>P a)/rxw  aor part mid masc acc sg			aor1,reg_conj</NL><NL>P a)/rxw  aor part mid neut acc sg			aor1,reg_conj</NL>
+τὸ	ὁ	2.049.7-009	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+ἐν	ἐν	2.049.7-010	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+τῇ	ὁ	2.049.7-011	case1	<NL>N o(  fem dat sg	attic epic ionic	indeclform	article</NL>
+κεφαλῇ	κεφαλή	2.049.7-012	case1	<NL>N kefalh/  fem dat sg	attic epic ionic		h_hs</NL>
+πρῶτον	πρότερος	2.049.7-013	case1	<NL>N pro/teros  neut acc sg			os_h_on</NL>
+ἱδρυθὲν	ἱδρύω	2.049.7-014	case1	<NL>P i(dru_qe/n,i(dru/w  aor part pass neut acc sg			aor_pass,reg_conj</NL>
+κακόν	κακός	2.049.7-015	case1	<NL>N kako/s  masc acc sg			os_h_on</NL><NL>N kako/s  neut acc sg			os_h_on</NL>
+,	comma	2.049.7-016	punct
+καὶ	καί	2.049.7-017	case4	<NL>N kai/ 		indeclform	conj</NL>
+εἴ	εἰ	2.049.7-018	case4	<NL>N ei) 		proclitic indeclform	conj</NL>
+τις	τις	2.049.7-019	case1	<NL>N tis  masc nom sg		enclitic indeclform	indef</NL><NL>N tis  fem nom sg		enclitic indeclform	indef</NL>
+ἐκ	ἐκ	2.049.7-020	case1	<NL>N e)k 		proclitic indeclform	prep</NL>
+τῶν	ὁ	2.049.7-021	case1	<NL>N o(  fem gen pl		indeclform	article</NL><NL>N o(  masc gen pl		indeclform	article</NL><NL>N o(  neut gen pl		indeclform	article</NL>
+μεγίστων	μέγας	2.049.7-022	case1	<NL>N me/gas  fem gen pl		irreg_superl	os_h_on</NL><NL>N me/gas  masc gen pl		irreg_superl	os_h_on</NL><NL>N me/gas  neut gen pl		irreg_superl	os_h_on</NL>
+περιγένοιτο	περιγίγνομαι	2.049.7-023	case1	<NL>V perigi/gnomai  aor opt mid 3rd sg			aor2</NL>
+,	comma	2.049.7-024	punct
+τῶν	ὁ	2.049.7-025	case1	<NL>N o(  neut gen pl		indeclform	article</NL>
+γε	γε	2.049.7-026	case1	<NL>N ge 		enclitic indeclform	particle</NL>
+ἀκρωτηρίων	ἀκρωτήριον	2.049.7-027	case1	<NL>N a)krwth/rion  neut gen pl			os_ou</NL>
+ἀντίληψις	ἀντίληψις	2.049.7-028	case1	<NL>N a)nti/lhyis  fem nom sg			is_ews</NL>
+αὐτοῦ	αὐτός,αὐτοῦ	2.049.7-029	case2c	<NL>N au)to/s  neut gen sg			art_adj</NL><NL>N au)to/s  masc gen sg			art_adj</NL><NL>N au)tou= 		indeclform	adverb</NL>
+ἐπεσήμαινεν	ἐπισημαίνω	2.049.7-030	case1	<NL>V e)pishmai/nw  imperf ind act 3rd sg		nu_movable	w_stem,ainw</NL>
+.	syntacticbreak	1288
+κατέσκηπτε	κατασκήπτω	2.049.8-001	case1	<NL>V kataskh/ptw  imperf ind act 3rd sg			w_stem,ptw</NL>
+γὰρ	γάρ	2.049.8-002	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+ἐς	εἰς	2.049.8-003	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+αἰδοῖα	αἰδοῖον	2.049.8-004	case1	<NL>N ai)doi=on  neut acc pl			os_ou</NL>
+καὶ	καί	2.049.8-005	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἐς	εἰς	2.049.8-006	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+ἄκρας	ἄκρος	2.049.8-007	case2b	<NL>N a)/kra_s,a)/kros  fem acc pl			os_h_on</NL>
+χεῖρας	χείρ	2.049.8-008	case1	<NL>N xei/r  fem acc pl		indeclform	irreg_decl3</NL>
+καὶ	καί	2.049.8-009	case4	<NL>N kai/ 		indeclform	conj</NL>
+πόδας	πούς	2.049.8-010	case1	<NL>N pou/s  masc acc pl		indeclform	irreg_decl3</NL>
+,	comma	2.049.8-011	punct
+καὶ	καί	2.049.8-012	case4	<NL>N kai/ 		indeclform	conj</NL>
+πολλοὶ	πολύς	2.049.8-013	case1	<NL>N polloi/,polu/s  masc nom pl			os_h_on</NL>
+στερισκόμενοι	στερίσκω	2.049.8-014	case1	<NL>P steri/skw  pres part mp masc nom pl			w_stem,iskw</NL>
+τούτων	οὗτος	2.049.8-015	case1	<NL>N ou(=tos  masc gen pl		indeclform	pron_adj1</NL><NL>N ou(=tos  fem gen pl		indeclform	pron_adj1</NL><NL>N ou(=tos  neut gen pl		indeclform	pron_adj1</NL>
+διέφευγον	διαφεύγω	2.049.8-016	case1	<NL>V diafeu/gw  imperf ind act 3rd pl			w_stem,reg_conj</NL>
+,	comma	2.049.8-017	punct
+εἰσὶ	εἰμί	2.049.8-018	case4	<NL>V ei)si,ei)mi/  pres ind act 3rd pl		enclitic	irreg_mi</NL>
+δ’	δέ	2.049.8-019	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+οἳ	ὅς	2.049.8-020	case1	<NL>N oi(/,o(/s  masc nom pl		indeclform	relative</NL>
+καὶ	καί	2.049.8-021	case4	<NL>N kai/ 		indeclform	conj</NL>
+τῶν	ὁ	2.049.8-022	case1	<NL>N o(  masc gen pl		indeclform	article</NL>
+ὀφθαλμῶν	ὀφθαλμός	2.049.8-023	case1	<NL>N o)fqalmo/s  masc gen pl			os_ou</NL>
+.	syntacticbreak	1289
+τοὺς	ὁ	2.049.8-024	case1	<NL>N tou/s,o(  masc acc pl		indeclform	article</NL>
+δὲ	δέ	2.049.8-025	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+καὶ	καί	2.049.8-026	case4	<NL>N kai/ 		indeclform	conj</NL>
+λήθη	λήθη	2.049.8-027	case1	<NL>N lh/qh  fem nom sg	attic epic ionic		h_hs</NL>
+ἐλάμβανε	λαμβάνω	2.049.8-028	case1	<NL>V lamba/nw  imperf ind act 3rd sg		n_infix	w_stem,anw</NL>
+παραυτίκα	παραυτίκα	2.049.8-029	case1	<NL>N parauti/ka 		indeclform	adverb</NL>
+ἀναστάντας	ἀνίστημι	2.049.8-030	case1	<NL>P a)ni/sthmi  aor part act masc acc pl			ami_aor</NL>
+τῶν	ὁ	2.049.8-031	case1	<NL>N o(  masc gen pl		indeclform	article</NL><NL>N o(  neut gen pl		indeclform	article</NL>
+πάντων	πᾶς	2.049.8-032	case1	<NL>N pa=s  masc gen pl		indeclform	irreg_adj3</NL><NL>N pa=s  neut gen pl		indeclform	irreg_adj3</NL>
+ὁμοίως	ὅμοιος	2.049.8-033	case1	<NL>N o(/moios  masc acc pl	attic epic doric ionic		os_h_on</NL><NL>N o(/moios  adverbial			os_on</NL><NL>N o(/moios  adverbial	attic epic ionic		os_h_on</NL>
+,	comma	2.049.8-034	punct
+καὶ	καί	2.049.8-035	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἠγνόησαν	ἀγνοέω	2.049.8-036	case1	<NL>V a)gnoe/w  aor ind act 3rd pl	attic epic ionic		aor1,ew_denom</NL>
+σφᾶς	σφεῖς	2.049.8-037	case1	<NL>N sfei=s  masc acc pl		enclitic indeclform	pron3</NL>
+τε	τε	2.049.8-038	case1	<NL>N te 		enclitic indeclform	particle</NL>
+αὐτοὺς	αὐτός	2.049.8-039	case1	<NL>N au)tou/s,au)to/s  masc acc pl			art_adj</NL>
+καὶ	καί	2.049.8-040	case4	<NL>N kai/ 		indeclform	conj</NL>
+τοὺς	ὁ	2.049.8-041	case1	<NL>N tou/s,o(  masc acc pl		indeclform	article</NL>
+ἐπιτηδείους	ἐπιτήδειος	2.049.8-042	case1	<NL>N e)pith/deios  masc acc pl			os_h_on</NL>
+.	syntacticbreak	1290
+γενόμενον	γίγνομαι	2.050.1-001	case1	<NL>P gi/gnomai  aor part mid neut nom sg			aor2</NL><NL>P gi/gnomai  aor part mid neut acc sg			aor2</NL>
+γὰρ	γάρ	2.050.1-002	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+κρεῖσσον	κρείσσων	2.050.1-003	case1	<NL>N krei/sswn  neut nom comp sg	attic epic		wn_on_comp</NL><NL>N krei/sswn  neut acc comp sg	attic epic		wn_on_comp</NL>
+λόγου	λόγος	2.050.1-004	case1	<NL>N lo/gos  masc gen sg			os_ou</NL>
+τὸ	ὁ	2.050.1-005	case1	<NL>N to/,o(  neut nom sg		indeclform	article</NL><NL>N to/,o(  neut acc sg		indeclform	article</NL>
+εἶδος	εἶδος	2.050.1-006	case1	<NL>N ei)=dos  neut nom sg			hs_eos</NL><NL>N ei)=dos  neut acc sg			hs_eos</NL>
+τῆς	ὁ	2.050.1-007	case1	<NL>N o(  fem gen sg	attic epic ionic	indeclform	article</NL>
+νόσου	νόσος	2.050.1-008	case1	<NL>N no/sos  fem gen sg			os_ou</NL>
+τά	ὁ	2.050.1-009	case1	<NL>N o(  neut acc pl		indeclform	article</NL><NL>N o(  neut nom pl		indeclform	article</NL>
+τε	τε	2.050.1-010	case1	<NL>N te 		enclitic indeclform	particle</NL>
+ἄλλα	ἄλλος	2.050.1-011	case1	<NL>N a)/llos  neut nom pl			art_adj</NL><NL>N a)/llos  neut acc pl			art_adj</NL>
+χαλεπωτέρως	χαλεπός	2.050.1-012	case1	<NL>N xalepo/s  masc acc comp pl	doric		os_h_on</NL>
+ἢ	ἤ1	2.050.1-013	case1	<NL>N h)/,h)/1 		indeclform	conj</NL>
+κατὰ	κατά	2.050.1-014	case4	<NL>N kata/,kata/ 		indeclform	prep</NL>
+τὴν	ὁ	2.050.1-015	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+ἀνθρωπείαν	ἀνθρώπειος	2.050.1-016	case1	<NL>N a)nqrwpei/a_n,a)nqrw/peios  fem acc sg	attic doric aeolic		os_h_on</NL>
+φύσιν	φύσις	2.050.1-017	case2b	<NL>N fu/sis  fem acc sg			is_ews</NL>
+προσέπιπτεν	προσπίτνω	2.050.1-018	case1	<NL>V prose/pi_pten,prospi/tnw  imperf ind act 3rd sg		nu_movable pres_redupl	w_stem</NL>
+ἑκάστῳ	ἕκαστος	2.050.1-019	case1	<NL>N e(/kastos  masc dat sg			os_h_on</NL><NL>N e(/kastos  neut dat sg			os_h_on</NL>
+καὶ	καί	2.050.1-020	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἐν	ἐν	2.050.1-021	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+τῷδε	ὅδε	2.050.1-022	case1	<NL>N o(/de  masc dat sg		indeclform	demonstr</NL><NL>N o(/de  neut dat sg		indeclform	demonstr</NL>
+ἐδήλωσε	δηλόω	2.050.1-023	case1	<NL>V dhlo/w  aor ind act 3rd sg			aor1,ow_denom</NL>
+μάλιστα	μάλιστα	2.050.1-024	case1	<NL>N ma/lista 		indeclform	adverb</NL>
+ἄλλο	ἄλλος	2.050.1-025	case1	<NL>N a)/llos  neut nom sg			art_adj</NL><NL>N a)/llos  neut acc sg			art_adj</NL>
+τι	τις	2.050.1-026	case1	<NL>N tis  neut nom sg		enclitic indeclform	indef</NL><NL>N tis  neut acc sg		enclitic indeclform	indef</NL>
+ὂν	εἰμί	2.050.1-027	case4	<NL>P o)/n,ei)mi/  pres part act neut nom sg			irreg_mi</NL><NL>P o)/n,ei)mi/  pres part act neut acc sg			irreg_mi</NL>
+ἢ	ἤ1	2.050.1-028	case1	<NL>N h)/,h)/1 		indeclform	conj</NL>
+τῶν	ὁ	2.050.1-029	case1	<NL>N o(  fem gen pl		indeclform	article</NL><NL>N o(  masc gen pl		indeclform	article</NL><NL>N o(  neut gen pl		indeclform	article</NL>
+ξυντρόφων	σύντροφος	2.050.1-030	case1	<NL>N suntro/fwn,su/ntrofos  masc gen pl			os_on</NL><NL>N suntro/fwn,su/ntrofos  fem gen pl			os_on</NL><NL>N suntro/fwn,su/ntrofos  neut gen pl			os_on</NL>
+τι	τις	2.050.1-031	case1	<NL>N tis  neut nom sg		enclitic indeclform	indef</NL><NL>N tis  neut acc sg		enclitic indeclform	indef</NL>
+:	syntacticbreak	1291
+τὰ	ὁ	2.050.1-032	case1	<NL>N ta/,o(  neut acc pl		indeclform	article</NL><NL>N ta/,o(  neut nom pl		indeclform	article</NL>
+γὰρ	γάρ	2.050.1-033	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+ὄρνεα	ὄρνεον	2.050.1-034	case2b	<NL>N o)/rneon  neut nom pl			os_ou</NL><NL>N o)/rneon  neut acc pl			os_ou</NL>
+καὶ	καί	2.050.1-035	case4	<NL>N kai/ 		indeclform	conj</NL>
+τετράποδα	τετράπους	2.050.1-036	case1	<NL>N tetra/pous  neut nom pl			pous_podos</NL><NL>N tetra/pous  neut acc pl			pous_podos</NL>
+ὅσα	ὅσος	2.050.1-037	case1	<NL>N o(/sos  neut nom pl			os_h_on</NL><NL>N o(/sos  neut acc pl			os_h_on</NL>
+ἀνθρώπων	ἄνθρωπος	2.050.1-038	case1	<NL>N a)/nqrwpos  masc gen pl			os_ou</NL>
+ἅπτεται	ἅπτω	2.050.1-039	case1	<NL>V a(/ptw  pres ind mp 3rd sg			w_stem,ptw</NL>
+,	comma	2.050.1-040	punct
+πολλῶν	πολύς	2.050.1-041	case1	<NL>N polu/s  masc gen pl			os_h_on</NL>
+ἀτάφων	ἄταφος	2.050.1-042	case1	<NL>N a)/tafos  masc gen pl			os_on</NL><NL>N a)/tafos  fem gen pl			os_on</NL><NL>N a)/tafos  neut gen pl			os_on</NL>
+γιγνομένων	γίγνομαι	2.050.1-043	case1	<NL>P gi/gnomai  pres part mp fem gen pl		pres_redupl	w_stem,reg_conj</NL><NL>P gi/gnomai  pres part mp masc gen pl		pres_redupl	w_stem,reg_conj</NL><NL>P gi/gnomai  pres part mp neut gen pl		pres_redupl	w_stem,reg_conj</NL>
+ἢ	ἤ1	2.050.1-044	case1	<NL>N h)/,h)/1 		indeclform	conj</NL>
+οὐ	οὐ	2.050.1-045	case4	<NL>N ou) 		proclitic indeclform	adverb</NL>
+προσῄει	πρόσειμι2	2.050.1-046	case1	<NL>V pro/seimi2  imperf ind act 3rd sg			irreg_mi</NL>
+ἢ	ἤ1	2.050.1-047	case1	<NL>N h)/,h)/1 		indeclform	conj</NL>
+γευσάμενα	γεύω	2.050.1-048	case1	<NL>P geu/w  aor part mid neut nom pl			aor1,reg_conj</NL><NL>P geu/w  aor part mid neut acc pl			aor1,reg_conj</NL>
+διεφθείρετο	διαφθείρω	2.050.1-049	case1	<NL>V diafqei/rw  imperf ind mp 3rd sg			w_stem,eirw</NL>
+.	syntacticbreak	1292
+τεκμήριον	τεκμήριον	2.050.2-001	case1	<NL>N tekmh/rion  neut nom sg			os_ou</NL><NL>N tekmh/rion  neut acc sg			os_ou</NL>
+δέ	δέ	2.050.2-002	case4	<NL>N de/ 		indeclform	particle</NL>
+:	syntacticbreak	1293
+τῶν	ὁ	2.050.2-003	case1	<NL>N o(  masc gen pl		indeclform	article</NL>
+μὲν	μέν	2.050.2-004	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+τοιούτων	τοιοῦτος	2.050.2-005	case1	<NL>N toiou=tos  masc gen pl			art_adj</NL>
+ὀρνίθων	ὄρνις	2.050.2-006	case1	<NL>N o)/rnis  masc gen pl			s_qos</NL>
+ἐπίλειψις	ἐπίλειψις	2.050.2-007	case1	<NL>N e)pi/leiyis  fem nom sg			is_ews</NL>
+σαφὴς	σαφής	2.050.2-008	case1	<NL>N safh/s,safh/s  fem nom sg			hs_es</NL>
+ἐγένετο	γίγνομαι	2.050.2-009	case1	<NL>V gi/gnomai  aor ind mid 3rd sg			aor2</NL>
+,	comma	2.050.2-010	punct
+καὶ	καί	2.050.2-011	case4	<NL>N kai/ 		indeclform	conj</NL>
+οὐχ	οὐ	2.050.2-012	case4	<NL>N ou) 		proclitic indeclform	adverb</NL>
+ἑωρῶντο	ὁράω	2.050.2-013	case1	<NL>V o(ra/w  imperf ind mid 3rd pl		syll_augment contr	aw_pr,a_stem</NL><NL>V o(ra/w  imperf ind mp 3rd pl		syll_augment contr	aw_pr,a_stem</NL>
+οὔτε	οὔτε	2.050.2-014	case1	<NL>N ou)/te 		indeclform	adverb</NL>
+ἄλλως	ἄλλως	2.050.2-015	case1	<NL>N a)/llws 		indeclform	adverb</NL>
+οὔτε	οὔτε	2.050.2-016	case1	<NL>N ou)/te 		indeclform	adverb</NL>
+περὶ	περί	2.050.2-017	case1	<NL>N peri/,peri/ 		indeclform	prep</NL>
+τοιοῦτον	τοιοῦτος	2.050.2-018	case1	<NL>N toiou=tos  masc acc sg			art_adj</NL>
+οὐδέν	οὐδείς	2.050.2-019	case1	<NL>N ou)dei/s  neut acc sg		indeclform	pron_adj3</NL>
+:	syntacticbreak	1294
+οἱ	ὁ	2.050.2-020	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+δὲ	δέ	2.050.2-021	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+κύνες	κύων	2.050.2-022	case1	<NL>N ku/wn  masc nom pl		indeclform	irreg_decl3</NL>
+μᾶλλον	μᾶλλον	2.050.2-023	case1	<NL>N ma=llon 		indeclform	adverb</NL>
+αἴσθησιν	αἴσθησις	2.050.2-024	case2b	<NL>N ai)/sqhsis  fem acc sg			is_ews</NL>
+παρεῖχον	παρέχω	2.050.2-025	case1	<NL>V pare/xw  imperf ind act 3rd pl		syll_augment	w_stem,reg_conj</NL>
+τοῦ	ὁ	2.050.2-026	case1	<NL>N o(  masc gen sg		indeclform	article</NL><NL>N o(  neut gen sg		indeclform	article</NL>
+ἀποβαίνοντος	ἀποβαίνω	2.050.2-027	case1	<NL>P a)pobai/nw  pres part act masc gen sg			w_stem,ainw</NL><NL>P a)pobai/nw  pres part act neut gen sg			w_stem,ainw</NL>
+διὰ	διά	2.050.2-028	case1	<NL>N dia/,dia/ 		indeclform	prep</NL>
+τὸ	ὁ	2.050.2-029	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+ξυνδιαιτᾶσθαι	συνδιαιτάομαι	2.050.2-030	case1	<NL>V sundiaita/omai  pres inf mp		contr sig_to_ci	aw_pr,aw_denom</NL>
+.	syntacticbreak	1295
+τὸ	ὁ	2.051.1-001	case1	<NL>N to/,o(  neut nom sg		indeclform	article</NL><NL>N to/,o(  neut acc sg		indeclform	article</NL>
+μὲν	μέν	2.051.1-002	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+οὖν	οὖν	2.051.1-003	case1	<NL>N ou)=n 		indeclform	particle</NL>
+νόσημα	νόσημα	2.051.1-004	case1	<NL>N no/shma  neut nom sg			ma_matos</NL><NL>N no/shma  neut acc sg			ma_matos</NL>
+,	comma	2.051.1-005	punct
+πολλὰ	πολύς	2.051.1-006	case1	<NL>N polla/,polu/s  neut nom pl			os_h_on</NL><NL>N polla/,polu/s  neut acc pl			os_h_on</NL>
+καὶ	καί	2.051.1-007	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἄλλα	ἄλλος	2.051.1-008	case1	<NL>N a)/llos  neut nom pl			art_adj</NL><NL>N a)/llos  neut acc pl			art_adj</NL>
+παραλιπόντι	παραλείπω	2.051.1-009	case1	<NL>P paralei/pw  aor part act masc dat sg			aor2</NL><NL>P paralei/pw  aor part act neut dat sg			aor2</NL>
+ἀτοπίας	ἀτοπία	2.051.1-010	case1	<NL>N a)topi/a_s,a)topi/a  fem acc pl			h_hs</NL><NL>N a)topi/a_s,a)topi/a  fem gen sg	attic doric aeolic		h_hs</NL>
+,	comma	2.051.1-011	punct
+ὡς	ὡς	2.051.1-012	case1	<NL>N w(s 		proclitic indeclform	conj</NL>
+ἑκάστῳ	ἕκαστος	2.051.1-013	case1	<NL>N e(/kastos  masc dat sg			os_h_on</NL><NL>N e(/kastos  neut dat sg			os_h_on</NL>
+ἐτύγχανέ	τυγχάνω	2.051.1-014	case1	<NL>V e)tu/gxane,tugxa/nw  imperf ind act 3rd sg		n_infix	w_stem,anw</NL>
+τι	τις	2.051.1-015	case1	<NL>N tis  neut nom sg		enclitic indeclform	indef</NL><NL>N tis  neut acc sg		enclitic indeclform	indef</NL>
+διαφερόντως	διαφερόντως	2.051.1-016	case1	<NL>N diafero/ntws 		indeclform	adverb</NL>
+ἑτέρῳ	ἕτερος	2.051.1-017	case1	<NL>N e(/teros  masc dat sg			os_h_on</NL><NL>N e(/teros  neut dat sg			os_h_on</NL>
+πρὸς	πρός	2.051.1-018	case1	<NL>N pro/s,pro/s 		indeclform	prep</NL>
+ἕτερον	ἕτερος	2.051.1-019	case1	<NL>N e(/teros  masc acc sg			os_h_on</NL><NL>N e(/teros  neut acc sg			os_h_on</NL>
+γιγνόμενον	γίγνομαι	2.051.1-020	case1	<NL>P gi/gnomai  pres part mp masc acc sg		pres_redupl	w_stem,reg_conj</NL><NL>P gi/gnomai  pres part mp neut acc sg		pres_redupl	w_stem,reg_conj</NL>
+,	comma	2.051.1-021	punct
+τοιοῦτον	τοιοῦτος	2.051.1-022	case1	<NL>N toiou=tos  masc acc sg			art_adj</NL>
+ἦν	εἰμί	2.051.1-023	case1	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+ἐπὶ	ἐπί	2.051.1-024	case1	<NL>N e)pi/,e)pi/ 		indeclform	prep</NL>
+πᾶν	πᾶς	2.051.1-025	case1	<NL>N pa=s  masc acc sg		indeclform late	irreg_adj3</NL><NL>N pa=s  neut acc sg		indeclform	irreg_adj3</NL>
+τὴν	ὁ	2.051.1-026	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+ἰδέαν	ἰδέα	2.051.1-027	case1	<NL>N i)de/a_n,i)de/a  fem acc sg	attic doric ionic aeolic		h_hs</NL>
+.	syntacticbreak	1296
+καὶ	καί	2.051.1-028	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἄλλο	ἄλλος	2.051.1-029	case1	<NL>N a)/llos  neut nom sg			art_adj</NL><NL>N a)/llos  neut acc sg			art_adj</NL>
+παρελύπει	παραλυπέω	2.051.1-030	case1	<NL>V parelu_/pei,paralupe/w  imperf ind act 3rd sg	attic epic	contr	ew_pr,ew_denom</NL>
+κατ’	κατά	2.051.1-031	case4	<NL>N kata/,kata/ 		indeclform	prep</NL>
+ἐκεῖνον	ἐκεῖνος	2.051.1-032	case1	<NL>N e)kei=nos  masc acc sg			art_adj</NL>
+τὸν	ὁ	2.051.1-033	case1	<NL>N to/n,o(  masc acc sg		indeclform	article</NL>
+χρόνον	χρόνος	2.051.1-034	case1	<NL>N xro/nos  masc acc sg			os_ou</NL>
+οὐδὲν	οὐδείς	2.051.1-035	case1	<NL>N ou)de/n,ou)dei/s  neut nom sg		indeclform	pron_adj3</NL><NL>N ou)de/n,ou)dei/s  neut acc sg		indeclform	pron_adj3</NL>
+τῶν	ὁ	2.051.1-036	case1	<NL>N o(  masc gen pl		indeclform	article</NL><NL>N o(  neut gen pl		indeclform	article</NL>
+εἰωθότων	ἔθω	2.051.1-037	case1	<NL>P e)/qw  perf part act masc gen pl			perf_act</NL><NL>P e)/qw  perf part act neut gen pl			perf_act</NL>
+:	syntacticbreak	1297
+ὃ	ὅς	2.051.1-038	case1	<NL>N o(/,o(/s  neut nom sg		indeclform	relative</NL><NL>N o(/,o(/s  neut acc sg		indeclform	relative</NL>
+δὲ	δέ	2.051.1-039	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+καὶ	καί	2.051.1-040	case4	<NL>N kai/ 		indeclform	conj</NL>
+γένοιτο	γίγνομαι	2.051.1-041	case1	<NL>V gi/gnomai  aor opt mid 3rd sg			aor2</NL>
+,	comma	2.051.1-042	punct
+ἐς	εἰς	2.051.1-043	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+τοῦτο	οὗτος	2.051.1-044	case1	<NL>N ou(=tos  neut acc sg		indeclform	pron_adj1</NL>
+ἐτελεύτα	τελευτάω	2.051.1-045	case1	<NL>V e)teleu/ta_,teleuta/w  imperf ind act 3rd sg		contr	aw_pr,aw_denom</NL>
+.	syntacticbreak	1298
+ἔθνῃσκον	θνήσκω	2.051.2-001	case1	<NL>V qnh/skw  imperf ind act 3rd pl		syncope	w_stem,a_stem</NL>
+δὲ	δέ	2.051.2-002	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+οἱ	ὁ	2.051.2-003	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+μὲν	μέν	2.051.2-004	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+ἀμελείᾳ	ἀμέλεια	2.051.2-005	case1	<NL>N a)melei/a_|,a)me/leia  fem dat sg	attic doric aeolic		a_hs</NL>
+,	comma	2.051.2-006	punct
+οἱ	ὁ	2.051.2-007	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+δὲ	δέ	2.051.2-008	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+καὶ	καί	2.051.2-009	case4	<NL>N kai/ 		indeclform	conj</NL>
+πάνυ	πάνυ	2.051.2-010	case1	<NL>N pa/nu 		indeclform	adverb</NL>
+θεραπευόμενοι	θεραπεύω	2.051.2-011	case1	<NL>P qerapeu/w  pres part mp masc nom pl			w_stem,euw</NL>
+.	syntacticbreak	1299
+ἕν	εἷς	2.051.2-012	case2b	<NL>N ei(=s  neut nom sg		indeclform	irreg_decl3</NL><NL>N ei(=s  neut acc sg		indeclform	irreg_decl3</NL>
+τε	τε	2.051.2-013	case1	<NL>N te 		enclitic indeclform	particle</NL>
+οὐδὲ	οὐδέ	2.051.2-014	case1	<NL>N ou)de/,ou)de/ 		indeclform	particle</NL>
+ἓν	εἷς	2.051.2-015	case1	<NL>N e(/n,ei(=s  neut nom sg		indeclform	irreg_decl3</NL><NL>N e(/n,ei(=s  neut acc sg		indeclform	irreg_decl3</NL>
+κατέστη	καθίστημι	2.051.2-016	case1	<NL>V kaqi/sthmi  aor ind act 3rd sg			ami_aor</NL>
+ἴαμα	ἴαμα	2.051.2-017	case1	<NL>N i)/a_ma,i)/ama  neut nom sg			ma_matos</NL><NL>N i)/a_ma,i)/ama  neut acc sg			ma_matos</NL>
+ὡς	ὡς	2.051.2-018	case1	<NL>N w(s 		proclitic indeclform	conj</NL>
+εἰπεῖν	εἶπον	2.051.2-019	case1	<NL>V ei)=pon  aor inf act	attic epic doric	contr	aor2</NL>
+ὅτι	ὅτι	2.051.2-020	case1	<NL>N o(/ti 		indeclform	conj</NL>
+χρῆν	χρή	2.051.2-021	case2b	<NL>V xrh/  imperf ind act 3rd sg			ath_primary</NL>
+προσφέροντας	προσφέρω	2.051.2-022	case1	<NL>P prosfe/rw  pres part act masc acc pl			w_stem</NL>
+ὠφελεῖν	ὠφελέω	2.051.2-023	case1	<NL>V w)fele/w  pres inf act	attic epic doric	contr	ew_pr,ew_denom</NL>
+:	syntacticbreak	1300
+τὸ	ὁ	2.051.2-024	case1	<NL>N to/,o(  neut nom sg		indeclform	article</NL><NL>N to/,o(  neut acc sg		indeclform	article</NL>
+γάρ	γάρ	2.051.2-025	case1	<NL>N ga/r 		indeclform	particle</NL>
+τῳ	τις	2.051.2-026	case1	<NL>N tis  masc dat sg	attic epic	enclitic indeclform	indef</NL><NL>N tis  fem dat sg	attic epic	enclitic indeclform	indef</NL>
+ξυνενεγκὸν	συμφέρω	2.051.2-027	case1	<NL>P cunenegko/n,sumfe/rw  aor part act neut nom sg		sig_to_ci	aor2</NL><NL>P cunenegko/n,sumfe/rw  aor part act neut acc sg		sig_to_ci	aor2</NL>
+ἄλλον	ἄλλος	2.051.2-028	case1	<NL>N a)/llos  masc acc sg			art_adj</NL>
+τοῦτο	οὗτος	2.051.2-029	case1	<NL>N ou(=tos  neut nom sg		indeclform	pron_adj1</NL><NL>N ou(=tos  neut acc sg		indeclform	pron_adj1</NL>
+ἔβλαπτεν	βλάπτω	2.051.2-030	case1	<NL>V bla/ptw  imperf ind act 3rd sg		nu_movable	w_stem,ptw</NL>
+.	syntacticbreak	1301
+σῶμά	σῶμα	2.051.3-001	case1	<NL>N sw=ma,sw=ma  neut nom sg			ma_matos</NL><NL>N sw=ma,sw=ma  neut acc sg			ma_matos</NL>
+τε	τε	2.051.3-002	case1	<NL>N te 		enclitic indeclform	particle</NL>
+αὔταρκες	αὐτάρκης	2.051.3-003	case1	<NL>N au)ta/rkhs  neut nom sg			hs_es</NL><NL>N au)ta/rkhs  neut acc sg			hs_es</NL>
+ὂν	εἰμί	2.051.3-004	case4	<NL>P o)/n,ei)mi/  pres part act neut nom sg			irreg_mi</NL><NL>P o)/n,ei)mi/  pres part act neut acc sg			irreg_mi</NL>
+οὐδὲν	οὐδείς	2.051.3-005	case1	<NL>N ou)de/n,ou)dei/s  neut nom sg		indeclform	pron_adj3</NL><NL>N ou)de/n,ou)dei/s  neut acc sg		indeclform	pron_adj3</NL>
+διεφάνη	διαφαίνω	2.051.3-006	case1	<NL>V diafai/nw  aor ind pass 3rd sg			aor2_pass</NL>
+πρὸς	πρός	2.051.3-007	case1	<NL>N pro/s,pro/s 		indeclform	prep</NL>
+αὐτὸ	αὐτός	2.051.3-008	case1	<NL>N au)to/,au)to/s  neut acc sg			art_adj</NL>
+ἰσχύος	ἰσχύς	2.051.3-009	case1	<NL>N i)sxu/s  fem gen sg			us_uos</NL>
+πέρι	περί	2.051.3-010	case1	<NL>N peri/ 		indeclform	prep</NL>
+ἢ	ἤ1	2.051.3-011	case1	<NL>N h)/,h)/1 		indeclform	conj</NL>
+ἀσθενείας	ἀσθένεια	2.051.3-012	case1	<NL>N a)sqenei/a_s,a)sqe/neia  fem acc pl			a_hs</NL><NL>N a)sqenei/a_s,a)sqe/neia  fem gen sg	attic doric ionic aeolic		a_hs</NL>
+,	comma	2.051.3-013	punct
+ἀλλὰ	ἀλλά	2.051.3-014	case1	<NL>N a)lla/,a)lla/ 		indeclform	adverb</NL>
+πάντα	πᾶς	2.051.3-015	case1	<NL>N pa=s  masc acc sg		indeclform	irreg_adj3</NL><NL>N pa=s  neut nom pl		indeclform	irreg_adj3</NL><NL>N pa=s  neut acc pl		indeclform	irreg_adj3</NL>
+ξυνῄρει	συναιρέω	2.051.3-016	case1	<NL>V sunaire/w  imperf ind act 3rd sg	attic epic	contr sig_to_ci	ew_pr,e_stem</NL>
+καὶ	καί	2.051.3-017	case4	<NL>N kai/ 		indeclform	conj</NL>
+τὰ	ὁ	2.051.3-018	case1	<NL>N ta/,o(  neut acc pl		indeclform	article</NL><NL>N ta/,o(  neut nom pl		indeclform	article</NL>
+πάσῃ	πᾶς	2.051.3-019	case1	<NL>N pa_/sh|,pa=s  fem dat sg	attic epic ionic	indeclform	irreg_adj3</NL>
+διαίτῃ	δίαιτα	2.051.3-020	case1	<NL>N di/aita  fem dat sg	attic epic ionic		a_hs</NL>
+θεραπευόμενα	θεραπεύω	2.051.3-021	case1	<NL>P qerapeu/w  pres part mp neut nom pl			w_stem,euw</NL><NL>P qerapeu/w  pres part mp neut acc pl			w_stem,euw</NL>
+.	syntacticbreak	1302
+δεινότατον	δεινός	2.051.4-001	case1	<NL>N deino/s  masc acc sg superl			os_h_on</NL><NL>N deino/s  neut acc sg superl			os_h_on</NL>
+δὲ	δέ	2.051.4-002	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+παντὸς	πᾶς	2.051.4-003	case1	<NL>N panto/s,pa=s  masc gen sg		indeclform	irreg_adj3</NL><NL>N panto/s,pa=s  neut gen sg		indeclform	irreg_adj3</NL>
+ἦν	εἰμί	2.051.4-004	case1	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+τοῦ	ὁ	2.051.4-005	case1	<NL>N o(  masc gen sg		indeclform	article</NL><NL>N o(  neut gen sg		indeclform	article</NL>
+κακοῦ	κακός	2.051.4-006	case2b	<NL>N kako/s  masc gen sg			os_h_on</NL><NL>N kako/s  neut gen sg			os_h_on</NL>
+ἥ	ὁ,ὅς	2.051.4-007	case2c	<NL>N o(  fem nom sg		proclitic indeclform	article</NL><NL>N o(/s  fem nom sg	attic homeric ionic	indeclform	relative</NL>
+τε	τε	2.051.4-008	case1	<NL>N te 		enclitic indeclform	particle</NL>
+ἀθυμία	ἀθυμία	2.051.4-009	case1	<NL>N a)qu_mi/a_,a)qumi/a  fem nom sg	attic doric aeolic		h_hs</NL>
+ὁπότε	ὁπότε	2.051.4-010	case1	<NL>N o(po/te 		indeclform	adverb</NL>
+τις	τις	2.051.4-011	case1	<NL>N tis  masc nom sg		enclitic indeclform	indef</NL>
+αἴσθοιτο	αἰσθάνομαι	2.051.4-012	case1	<NL>V ai)sqa/nomai  aor opt mid 3rd sg			aor2,anw</NL><NL>V ai)sqa/nomai  pres opt mp 3rd sg	attic	later	w_stem</NL>
+κάμνων	κάμνω	2.051.4-013	case1	<NL>P ka/mnw  pres part act masc nom sg			w_stem,nw</NL>
+πρὸς	πρός	2.051.4-014	case1	<NL>N pro/s,pro/s 		indeclform	prep</NL>
+γὰρ	γάρ	2.051.4-015	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+τὸ	ὁ	2.051.4-016	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+ἀνέλπιστον	ἀνέλπιστος	2.051.4-017	case1	<NL>N a)ne/lpistos  neut acc sg		a_priv	os_on</NL>
+εὐθὺς	εὐθύς	2.051.4-018	case1	<NL>N eu)qu/s,eu)qu/s 		indeclform	adverb</NL>
+τραπόμενοι	τρέπω	2.051.4-019	case1	<NL>P tre/pw  aor part mid masc nom pl			aor2</NL>
+τῇ	ὁ	2.051.4-020	case1	<NL>N o(  fem dat sg	attic epic ionic	indeclform	article</NL>
+γνώμῃ	γνώμη	2.051.4-021	case1	<NL>N gnw/mh  fem dat sg	attic epic ionic		h_hs</NL>
+πολλῷ	πολύς	2.051.4-022	case1	<NL>N polu/s  masc dat sg			os_h_on</NL><NL>N polu/s  neut dat sg			os_h_on</NL>
+μᾶλλον	μᾶλλον	2.051.4-023	case1	<NL>N ma=llon 		indeclform	adverb</NL>
+προΐεντο	προίημι	2.051.4-024	case4	<NL>V pro+i/ento,proi/hmi  imperf ind mp 3rd pl		raw_preverb	irreg_mi</NL><NL>V pro+i_/ento,proi/hmi  imperf ind mp 3rd pl		raw_preverb	irreg_mi</NL>
+σφᾶς	σφεῖς	2.051.4-025	case1	<NL>N sfei=s  masc acc pl		enclitic indeclform	pron3</NL>
+αὐτοὺς	αὐτός	2.051.4-026	case1	<NL>N au)tou/s,au)to/s  masc acc pl			art_adj</NL>
+καὶ	καί	2.051.4-027	case4	<NL>N kai/ 		indeclform	conj</NL>
+οὐκ	οὐ	2.051.4-028	case4	<NL>N ou) 		proclitic indeclform	adverb</NL>
+ἀντεῖχον	ἀντέχω	2.051.4-029	case1	<NL>V a)nte/xw  imperf ind act 3rd pl		syll_augment elide_preverb	w_stem,reg_conj</NL>
+,	comma	2.051.4-030	punct
+καὶ	καί	2.051.4-031	case4	<NL>N kai/ 		indeclform	conj</NL>
+ὅτι	ὅτι	2.051.4-032	case1	<NL>N o(/ti 		indeclform	conj</NL>
+ἕτερος	ἕτερος	2.051.4-033	case1	<NL>N e(/teros  masc nom sg			os_h_on</NL>
+ἀφ’	ἀπό	2.051.4-034	case1	<NL>N a)po/,a)po/ 		indeclform	prep</NL><NL>N a)pai/,a)po/ 		poetic indeclform	prep</NL>
+ἑτέρου	ἕτερος	2.051.4-035	case1	<NL>N e(/teros  masc gen sg			os_h_on</NL><NL>N e(/teros  neut gen sg			os_h_on</NL>
+θεραπείας	θεραπεία	2.051.4-036	case1	<NL>N qerapei/a_s,qerapei/a  fem acc pl			h_hs</NL><NL>N qerapei/a_s,qerapei/a  fem gen sg	attic doric aeolic		h_hs</NL>
+ἀναπιμπλάμενοι	ἀναπίμπλημι	2.051.4-037	case1	<NL>P a)napi/mplhmi  pres part mp masc nom pl		n_infix pres_redupl	ami_pr,a_stem</NL>
+ὥσπερ	ὥσπερ	2.051.4-038	case1	<NL>N w(/sper 		indeclform	adverb</NL>
+τὰ	ὁ	2.051.4-039	case1	<NL>N ta/,o(  neut acc pl		indeclform	article</NL>
+πρόβατα	πρόβατον	2.051.4-040	case1	<NL>N pro/baton  neut acc pl			os_ou</NL>
+ἔθνῃσκον	θνήσκω	2.051.4-041	case1	<NL>V qnh/skw  imperf ind act 3rd pl		syncope	w_stem,a_stem</NL>
+:	syntacticbreak	1303
+καὶ	καί	2.051.4-042	case4	<NL>N kai/ 		indeclform	conj</NL>
+τὸν	ὁ	2.051.4-043	case1	<NL>N to/n,o(  masc acc sg		indeclform	article</NL>
+πλεῖστον	πλεῖστος	2.051.4-044	case1	<NL>N plei=stos  masc acc sg		irreg_superl	os_h_on</NL>
+φθόρον	φθόρος	2.051.4-045	case1	<NL>N fqo/ros  masc acc sg			os_ou</NL>
+τοῦτο	οὗτος	2.051.4-046	case1	<NL>N ou(=tos  neut nom sg		indeclform	pron_adj1</NL><NL>N ou(=tos  neut acc sg		indeclform	pron_adj1</NL>
+ἐνεποίει	ἐμποιέω	2.051.4-047	case1	<NL>V e)mpoie/w  imperf ind act 3rd sg	attic epic	contr	ew_pr,ew_denom</NL>
+.	syntacticbreak	1304
+εἴτε	εἴτε	2.051.5-001	case4	<NL>N ei)/te 		indeclform	adverb</NL>
+γὰρ	γάρ	2.051.5-002	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+μὴ	μή	2.051.5-003	case4	<NL>N mh/,mh/ 		indeclform	conj</NL>
+’θέλοιεν	ἐθέλω	2.051.5-004	case1	<NL>V e)qe/loien,e)qe/lw  pres opt act 3rd pl			w_stem</NL>
+δεδιότες	δείδω	2.051.5-005	case1	<NL>P dei/dw  perf part act masc nom pl			perf_act</NL>
+ἀλλήλοις	ἀλλήλων	2.051.5-006	case1	<NL>N a)llh/lwn  neut dat pl			art_adj</NL><NL>N a)llh/lwn  masc dat pl			art_adj</NL>
+προσιέναι	πρόσειμι2	2.051.5-007	case1	<NL>V pro/seimi2  pres inf act			irreg_mi</NL>
+,	comma	2.051.5-008	punct
+ἀπώλλυντο	ἀπόλλυμι	2.051.5-009	case1	<NL>V a)po/llumi  imperf ind mp 3rd pl			umi_pr</NL>
+ἐρῆμοι	ἐρῆμος	2.051.5-010	case1	<NL>N e)rh=mos  masc nom pl			os_h_on</NL><NL>N e)rh=mos  masc nom pl			os_on</NL><NL>N e)rh=mos  fem nom pl			os_on</NL>
+,	comma	2.051.5-011	punct
+καὶ	καί	2.051.5-012	case4	<NL>N kai/ 		indeclform	conj</NL>
+οἰκίαι	οἰκία	2.051.5-013	case1	<NL>N oi)ki/a  fem nom pl			h_hs</NL>
+πολλαὶ	πολύς	2.051.5-014	case1	<NL>N pollai/,polu/s  fem nom pl			os_h_on</NL>
+ἐκενώθησαν	κενόω	2.051.5-015	case1	<NL>V keno/w  aor ind pass 3rd pl			aor_pass,ow_denom</NL>
+ἀπορίᾳ	ἀπορία	2.051.5-016	case1	<NL>N a)pori/a_|,a)pori/a  fem dat sg	attic doric ionic aeolic		h_hs</NL>
+τοῦ	ὁ	2.051.5-017	case1	<NL>N o(  masc gen sg		indeclform	article</NL><NL>N o(  neut gen sg		indeclform	article</NL>
+θεραπεύσοντος	θεραπεύω	2.051.5-018	case1	<NL>P qerapeu/w  fut part act masc gen sg			reg_fut,euw</NL><NL>P qerapeu/w  fut part act neut gen sg			reg_fut,euw</NL>
+:	syntacticbreak	1305
+εἴτε	εἴτε	2.051.5-019	case4	<NL>N ei)/te 		indeclform	adverb</NL>
+προσίοιεν	πρόσειμι2,προσίημι	2.051.5-020	case2c	<NL>V pro/seimi2  pres opt act 3rd pl			irreg_mi</NL><NL>V prosi/hmi  pres opt act 3rd pl	attic		irreg_mi</NL>
+,	comma	2.051.5-021	punct
+διεφθείροντο	διαφθείρω	2.051.5-022	case1	<NL>V diafqei/rw  imperf ind mp 3rd pl			w_stem,eirw</NL>
+,	comma	2.051.5-023	punct
+καὶ	καί	2.051.5-024	case4	<NL>N kai/ 		indeclform	conj</NL>
+μάλιστα	μάλιστα	2.051.5-025	case1	<NL>N ma/lista 		indeclform	adverb</NL>
+οἱ	ὁ	2.051.5-026	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+ἀρετῆς	ἀρετή	2.051.5-027	case1	<NL>N a)reth/  fem gen sg	attic epic ionic		h_hs</NL>
+τι	τις	2.051.5-028	case1	<NL>N tis  neut acc sg		enclitic indeclform	indef</NL>
+μεταποιούμενοι	μεταποιέω	2.051.5-029	case1	<NL>P metapoie/w  pres part mp masc nom pl	attic epic doric	contr	ew_pr,ew_denom</NL>
+:	syntacticbreak	1306
+αἰσχύνῃ	αἰσχύνη	2.051.5-030	case2b	<NL>N ai)sxu_/nh|,ai)sxu/nh  fem dat sg	attic epic ionic		h_hs</NL>
+γὰρ	γάρ	2.051.5-031	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+ἠφείδουν	ἀφειδέω	2.051.5-032	case1	<NL>V a)feide/w  imperf ind act 3rd pl	attic epic doric ionic	contr	ew_pr,ew_denom</NL>
+σφῶν	σφεῖς	2.051.5-033	case1	<NL>N sfei=s  masc gen pl	attic	indeclform	pron3</NL><NL>N sfei=s  fem gen pl	attic	indeclform	pron3</NL>
+αὐτῶν	αὐτός	2.051.5-034	case1	<NL>N au)to/s  fem gen pl			art_adj</NL><NL>N au)to/s  masc gen pl			art_adj</NL>
+ἐσιόντες	εἴσειμι	2.051.5-035	case1	<NL>P ei)/seimi  pres part act masc nom pl		short_eis	irreg_mi</NL>
+παρὰ	παρά	2.051.5-036	case1	<NL>N para/,para/ 		indeclform	prep</NL>
+τοὺς	ὁ	2.051.5-037	case1	<NL>N tou/s,o(  masc acc pl		indeclform	article</NL>
+φίλους	φίλος	2.051.5-038	case1	<NL>N fi/los  masc acc pl			os_h_on</NL>
+,	comma	2.051.5-039	punct
+ἐπεὶ	ἐπεί	2.051.5-040	case4	<NL>N e)pei/,e)pei/ 		indeclform	conj</NL>
+καὶ	καί	2.051.5-041	case4	<NL>N kai/ 		indeclform	conj</NL>
+τὰς	ὁ	2.051.5-042	case1	<NL>N ta_/s,o(  fem acc pl		indeclform	article</NL>
+ὀλοφύρσεις	ὀλόφυρσις	2.051.5-043	case1	<NL>N o)lo/fursis  fem acc pl	attic		is_ews</NL>
+τῶν	ὁ	2.051.5-044	case1	<NL>N o(  fem gen pl		indeclform	article</NL><NL>N o(  masc gen pl		indeclform	article</NL><NL>N o(  neut gen pl		indeclform	article</NL>
+ἀπογιγνομένων	ἀπογίγνομαι	2.051.5-045	case1	<NL>P a)pogi/gnomai  pres part mp fem gen pl		pres_redupl	w_stem,reg_conj</NL><NL>P a)pogi/gnomai  pres part mp masc gen pl		pres_redupl	w_stem,reg_conj</NL><NL>P a)pogi/gnomai  pres part mp neut gen pl		pres_redupl	w_stem,reg_conj</NL>
+τελευτῶντες	τελευτάω	2.051.5-046	case1	<NL>P teleuta/w  pres part act masc nom pl		contr	aw_pr,aw_denom</NL>
+καὶ	καί	2.051.5-047	case4	<NL>N kai/ 		indeclform	conj</NL>
+οἱ	ὁ	2.051.5-048	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+οἰκεῖοι	οἰκεῖος	2.051.5-049	case1	<NL>N oi)kei=os  masc nom pl			os_h_on</NL><NL>N oi)kei=os  masc nom pl			os_on</NL>
+ἐξέκαμνον	ἐκκάμνω	2.051.5-050	case1	<NL>V e)kka/mnw  imperf ind act 3rd pl			w_stem,nw</NL>
+ὑπὸ	ὑπό	2.051.5-051	case1	<NL>N u(po/,u(po/ 		indeclform	prep</NL>
+τοῦ	ὁ	2.051.5-052	case1	<NL>N o(  masc gen sg		indeclform	article</NL><NL>N o(  neut gen sg		indeclform	article</NL>
+πολλοῦ	πολύς	2.051.5-053	case1	<NL>N polu/s  masc gen sg			os_h_on</NL><NL>N polu/s  neut gen sg			os_h_on</NL>
+κακοῦ	κακός,κακόω	2.051.5-054	case2c	<NL>N kako/s  masc gen sg			os_h_on</NL><NL>N kako/s  neut gen sg			os_h_on</NL><NL>V kako/w  pres imperat mp 2nd sg		contr	ow_pr,ow_denom</NL>
+νικώμενοι	νικάω	2.051.5-055	case1	<NL>P ni_kw/menoi,nika/w  pres part mp masc nom pl		contr	aw_pr,aw_denom</NL>
+.	syntacticbreak	1307
+ἐπὶ	ἐπί	2.051.6-001	case1	<NL>N e)pi/,e)pi/ 		indeclform	prep</NL>
+πλέον	πλείων	2.051.6-002	case1	<NL>N plei/wn  neut acc sg comp			wn_on_comp</NL>
+δ’	δέ	2.051.6-003	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+ὅμως	ὅμως	2.051.6-004	case1	<NL>N o(/mws 		indeclform	conj</NL>
+οἱ	ὁ	2.051.6-005	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+διαπεφευγότες	διαφεύγω	2.051.6-006	case1	<NL>P diafeu/gw  perf part act masc nom pl			perf_act</NL>
+τόν	ὁ	2.051.6-007	case1	<NL>N o(  masc acc sg		indeclform	article</NL>
+τε	τε	2.051.6-008	case1	<NL>N te 		enclitic indeclform	particle</NL>
+θνῄσκοντα	θνήσκω	2.051.6-009	case1	<NL>P qnh/skw  pres part act masc acc sg		syncope	w_stem,a_stem</NL>
+καὶ	καί	2.051.6-010	case4	<NL>N kai/ 		indeclform	conj</NL>
+τὸν	ὁ	2.051.6-011	case1	<NL>N to/n,o(  masc acc sg		indeclform	article</NL>
+πονούμενον	πονέω	2.051.6-012	case1	<NL>P pone/w  pres part mp masc acc sg	attic epic doric	contr	ew_pr,ew_denom</NL>
+ᾠκτίζοντο	οἰκτίζω	2.051.6-013	case1	<NL>V oi)kti/zw  imperf ind mp 3rd pl			w_stem,izw</NL>
+διὰ	διά	2.051.6-014	case1	<NL>N dia/,dia/ 		indeclform	prep</NL>
+τὸ	ὁ	2.051.6-015	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+προειδέναι	πρόοιδα	2.051.6-016	case1	<NL>V pro+eide/nai,pro/oida  perf inf act		raw_preverb	perf_act</NL>
+τε	τε	2.051.6-017	case1	<NL>N te 		enclitic indeclform	particle</NL>
+καὶ	καί	2.051.6-018	case4	<NL>N kai/ 		indeclform	conj</NL>
+αὐτοὶ	αὐτός	2.051.6-019	case1	<NL>N au)toi/,au)to/s  masc nom pl			art_adj</NL>
+ἤδη	ἤδη	2.051.6-020	case1	<NL>N h)/dh 		indeclform	adverb</NL>
+ἐν	ἐν	2.051.6-021	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+τῷ	ὁ	2.051.6-022	case1	<NL>N o(  masc dat sg		indeclform	article</NL><NL>N o(  neut dat sg		indeclform	article</NL>
+θαρσαλέῳ	θαρσαλέος	2.051.6-023	case1	<NL>N qarsale/os  masc dat sg			os_h_on</NL><NL>N qarsale/os  neut dat sg			os_h_on</NL>
+εἶναι	εἰμί	2.051.6-024	case4	<NL>V ei)mi/  pres inf act			irreg_mi</NL>
+:	syntacticbreak	1308
+δὶς	δίς	2.051.6-025	case1	<NL>N di/s,di/s 		indeclform	adverb</NL>
+γὰρ	γάρ	2.051.6-026	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+τὸν	ὁ	2.051.6-027	case1	<NL>N to/n,o(  masc acc sg		indeclform	article</NL>
+αὐτόν	αὐτός	2.051.6-028	case1	<NL>N au)to/s  masc acc sg			art_adj</NL>
+,	comma	2.051.6-029	punct
+ὥστε	ὥστε	2.051.6-030	case1	<NL>N w(/ste 		indeclform	adverb</NL>
+καὶ	καί	2.051.6-031	case4	<NL>N kai/ 		indeclform	conj</NL>
+κτείνειν	κτείνω	2.051.6-032	case1	<NL>V ktei/nw  pres inf act	attic epic	contr	w_stem,einw</NL>
+,	comma	2.051.6-033	punct
+οὐκ	οὐ	2.051.6-034	case4	<NL>N ou) 		proclitic indeclform	adverb</NL>
+ἐπελάμβανεν	ἐπιλαμβάνω	2.051.6-035	case1	<NL>V e)pilamba/nw  imperf ind act 3rd sg		nu_movable n_infix	w_stem,anw</NL>
+.	syntacticbreak	1309
+καὶ	καί	2.051.6-036	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἐμακαρίζοντό	μακαρίζω	2.051.6-037	case1	<NL>V e)makari/zonto,makari/zw  imperf ind mp 3rd pl			w_stem,izw</NL>
+τε	τε	2.051.6-038	case1	<NL>N te 		enclitic indeclform	particle</NL>
+ὑπὸ	ὑπό	2.051.6-039	case1	<NL>N u(po/,u(po/ 		indeclform	prep</NL>
+τῶν	ὁ	2.051.6-040	case1	<NL>N o(  fem gen pl		indeclform	article</NL><NL>N o(  masc gen pl		indeclform	article</NL><NL>N o(  neut gen pl		indeclform	article</NL>
+ἄλλων	ἄλλος	2.051.6-041	case1	<NL>N a)/llos  neut gen pl			art_adj</NL><NL>N a)/llos  fem gen pl			art_adj</NL><NL>N a)/llos  masc gen pl			art_adj</NL>
+,	comma	2.051.6-042	punct
+καὶ	καί	2.051.6-043	case4	<NL>N kai/ 		indeclform	conj</NL>
+αὐτοὶ	αὐτός	2.051.6-044	case1	<NL>N au)toi/,au)to/s  masc nom pl			art_adj</NL>
+τῷ	ὁ	2.051.6-045	case1	<NL>N o(  masc dat sg		indeclform	article</NL><NL>N o(  neut dat sg		indeclform	article</NL>
+παραχρῆμα	παραχρῆμα	2.051.6-046	case1	<NL>N paraxrh=ma 		indeclform	adverb</NL>
+περιχαρεῖ	περιχαρής	2.051.6-047	case1	<NL>N perixarh/s  masc dat sg			hs_es</NL><NL>N perixarh/s  neut dat sg			hs_es</NL>
+καὶ	καί	2.051.6-048	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἐς	εἰς	2.051.6-049	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+τὸν	ὁ	2.051.6-050	case1	<NL>N to/n,o(  masc acc sg		indeclform	article</NL>
+ἔπειτα	ἔπειτα	2.051.6-051	case1	<NL>N e)/peita 		indeclform	adverb</NL>
+χρόνον	χρόνος	2.051.6-052	case1	<NL>N xro/nos  masc acc sg			os_ou</NL>
+ἐλπίδος	ἐλπίς	2.051.6-053	case1	<NL>N e)lpi/s  fem gen sg			is_idos</NL>
+τι	τις	2.051.6-054	case1	<NL>N tis  neut acc sg		enclitic indeclform	indef</NL>
+εἶχον	ἔχω	2.051.6-055	case1	<NL>V e)/xw  imperf ind act 3rd pl		syll_augment	w_stem,reg_conj</NL>
+κούφης	κοῦφος	2.051.6-056	case1	<NL>N kou_/fhs,kou=fos  fem gen sg	attic epic ionic		os_h_on</NL>
+μηδ’	μηδέ	2.051.6-057	case1	<NL>N mhde/,mhde/ 		indeclform	particle</NL>
+ἂν	ἄν1	2.051.6-058	case1	<NL>N a)/n,a)/n1 		indeclform	particle</NL>
+ὑπ’	ὑπό	2.051.6-059	case1	<NL>N u(po/,u(po/ 		indeclform	prep</NL>
+ἄλλου	ἄλλος	2.051.6-060	case1	<NL>N a)/llos  neut gen sg			art_adj</NL><NL>N a)/llos  masc gen sg			art_adj</NL>
+νοσήματός	νόσημα	2.051.6-061	case1	<NL>N nosh/matos,no/shma  neut gen sg			ma_matos</NL>
+ποτε	ποτέ	2.051.6-062	case1	<NL>N pote/ 		enclitic indeclform	particle</NL>
+ἔτι	ἔτι	2.051.6-063	case1	<NL>N e)/ti 		indeclform	adverb</NL>
+διαφθαρῆναι	διαφθείρω	2.051.6-064	case1	<NL>V diafqei/rw  aor inf pass			aor2_pass</NL>
+.	syntacticbreak	1310
+ἐπίεσε	πιέζω	2.052.1-001	case1	<NL>V pie/zw  aor ind act 3rd sg			aor1,reg_conj</NL>
+δ’	δέ	2.052.1-002	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+αὐτοὺς	αὐτός	2.052.1-003	case1	<NL>N au)tou/s,au)to/s  masc acc pl			art_adj</NL>
+μᾶλλον	μᾶλλον	2.052.1-004	case1	<NL>N ma=llon 		indeclform	adverb</NL>
+πρὸς	πρός	2.052.1-005	case1	<NL>N pro/s,pro/s 		indeclform	prep</NL>
+τῷ	ὁ	2.052.1-006	case1	<NL>N o(  masc dat sg		indeclform	article</NL><NL>N o(  neut dat sg		indeclform	article</NL>
+ὑπάρχοντι	ὑπάρχω	2.052.1-007	case1	<NL>P u(pa/rxw  pres part act masc dat sg			w_stem,reg_conj</NL>
+πόνῳ	πόνος	2.052.1-008	case1	<NL>N po/nos  masc dat sg			os_ou</NL>
+καὶ	καί	2.052.1-009	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἡ	ὁ	2.052.1-010	case1	<NL>N o(  fem nom sg		proclitic indeclform	article</NL>
+ξυγκομιδὴ	συγκομιδή	2.052.1-011	case1	<NL>N sugkomidh/,sugkomidh/  fem nom sg	attic epic ionic		h_hs</NL>
+ἐκ	ἐκ	2.052.1-012	case1	<NL>N e)k 		proclitic indeclform	prep</NL>
+τῶν	ὁ	2.052.1-013	case1	<NL>N o(  fem gen pl		indeclform	article</NL><NL>N o(  masc gen pl		indeclform	article</NL><NL>N o(  neut gen pl		indeclform	article</NL>
+ἀγρῶν	ἀγρός	2.052.1-014	case1	<NL>N a)gro/s  masc gen pl			os_ou</NL>
+ἐς	εἰς	2.052.1-015	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+τὸ	ὁ	2.052.1-016	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+ἄστυ	ἄστυ	2.052.1-017	case1	<NL>N a)/stu  neut acc sg			us_ews</NL>
+,	comma	2.052.1-018	punct
+καὶ	καί	2.052.1-019	case4	<NL>N kai/ 		indeclform	conj</NL>
+οὐχ	οὐ	2.052.1-020	case4	<NL>N ou) 		proclitic indeclform	adverb</NL>
+ἧσσον	ἥσσων	2.052.1-021	case1	<NL>N h(/sswn  neut acc sg comp			wn_on_comp</NL>
+τοὺς	ὁ	2.052.1-022	case1	<NL>N tou/s,o(  masc acc pl		indeclform	article</NL>
+ἐπελθόντας	ἐπέρχομαι	2.052.1-023	case1	<NL>P e)pe/rxomai  aor part act masc acc pl			aor2</NL>
+.	syntacticbreak	1311
+οἰκιῶν	οἰκία	2.052.2-001	case1	<NL>N oi)ki/a  fem gen pl			h_hs</NL>
+γὰρ	γάρ	2.052.2-002	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+οὐχ	οὐ	2.052.2-003	case4	<NL>N ou) 		proclitic indeclform	adverb</NL>
+ὑπαρχουσῶν	ὑπάρχω	2.052.2-004	case1	<NL>P u(pa/rxw  pres part act fem gen pl	attic epic doric ionic		w_stem,reg_conj</NL>
+,	comma	2.052.2-005	punct
+ἀλλ’	ἀλλά	2.052.2-006	case1	<NL>N a)lla/,a)lla/ 		indeclform	adverb</NL>
+ἐν	ἐν	2.052.2-007	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+καλύβαις	καλύβη	2.052.2-008	case1	<NL>N kalu/bh  fem dat pl			h_hs</NL>
+πνιγηραῖς	πνιγηρός	2.052.2-009	case1	<NL>N pni_ghrai=s,pnighro/s  fem dat pl			os_h_on</NL>
+ὥρᾳ	ὥρα	2.052.2-010	case1	<NL>N w(/ra_|,w(/ra  fem dat sg	attic doric aeolic		h_hs</NL>
+ἔτους	ἔτος	2.052.2-011	case1	<NL>N e)/tos  neut gen sg	attic epic doric	contr	hs_eos</NL>
+διαιτωμένων	διαιτάω	2.052.2-012	case1	<NL>P diaita/w  pres part mp fem gen pl		contr	aw_pr,aw_denom</NL><NL>P diaita/w  pres part mp masc gen pl		contr	aw_pr,aw_denom</NL><NL>P diaita/w  pres part mp neut gen pl		contr	aw_pr,aw_denom</NL>
+ὁ	ὁ	2.052.2-013	case1	<NL>N o(  masc nom sg		proclitic indeclform	article</NL>
+φθόρος	φθόρος	2.052.2-014	case1	<NL>N fqo/ros  masc nom sg			os_ou</NL>
+ἐγίγνετο	γίγνομαι	2.052.2-015	case1	<NL>V gi/gnomai  imperf ind mp 3rd sg		pres_redupl	w_stem,reg_conj</NL>
+οὐδενὶ	οὐδείς	2.052.2-016	case1	<NL>N ou)deni/,ou)dei/s  dat sg		indeclform	pron_adj3</NL>
+κόσμῳ	κόσμος	2.052.2-017	case1	<NL>N ko/smos  masc dat sg			os_ou</NL>
+,	comma	2.052.2-018	punct
+ἀλλὰ	ἀλλά	2.052.2-019	case1	<NL>N a)lla/,a)lla/ 		indeclform	adverb</NL>
+καὶ	καί	2.052.2-020	case4	<NL>N kai/ 		indeclform	conj</NL>
+νεκροὶ	νεκρός	2.052.2-021	case1	<NL>N nekroi/,nekro/s  masc nom pl			os_h_on</NL><NL>N nekroi/,nekro/s  masc nom pl			os_ou</NL>
+ἐπ’	ἐπί	2.052.2-022	case1	<NL>N e)pi/,e)pi/ 		indeclform	prep</NL>
+ἀλλήλοις	ἀλλήλων	2.052.2-023	case1	<NL>N a)llh/lwn  neut dat pl			art_adj</NL><NL>N a)llh/lwn  masc dat pl			art_adj</NL>
+ἀποθνῄσκοντες	ἀποθνήσκω	2.052.2-024	case1	<NL>P a)poqnh/skw  pres part act masc nom pl		syncope	w_stem,a_stem</NL>
+ἔκειντο	κεῖμαι	2.052.2-025	case1	<NL>V kei=mai  imperf ind mp 3rd pl			ath_primary</NL>
+καὶ	καί	2.052.2-026	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἐν	ἐν	2.052.2-027	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+ταῖς	ὁ	2.052.2-028	case1	<NL>N o(  fem dat pl		indeclform	article</NL>
+ὁδοῖς	ὁδός	2.052.2-029	case1	<NL>N o(do/s  fem dat pl			os_ou</NL>
+ἐκαλινδοῦντο	καλινδέομαι	2.052.2-030	case1	<NL>V kalinde/omai  imperf ind mp 3rd pl	attic epic doric	contr	ew_pr,ew_denom</NL>
+καὶ	καί	2.052.2-031	case4	<NL>N kai/ 		indeclform	conj</NL>
+περὶ	περί	2.052.2-032	case1	<NL>N peri/,peri/ 		indeclform	prep</NL>
+τὰς	ὁ	2.052.2-033	case1	<NL>N ta_/s,o(  fem acc pl		indeclform	article</NL>
+κρήνας	κρήνη	2.052.2-034	case1	<NL>N krh/na_s,krh/nh  fem acc pl			h_hs</NL>
+ἁπάσας	ἅπας	2.052.2-035	case1	<NL>N a(pa_/sa_s,a(/pas  fem acc pl	attic epic ionic		as_asa_an</NL>
+ἡμιθνῆτες	ἡμιθνής	2.052.2-036	case1	<NL>N h(miqnh/s  masc nom pl			s_tos</NL><NL>N h(miqnh/s  fem nom pl			s_tos</NL>
+τοῦ	ὁ	2.052.2-037	case1	<NL>N o(  neut gen sg		indeclform	article</NL>
+ὕδατος	ὕδωρ	2.052.2-038	case1	<NL>N u(/dwr  neut gen sg		indeclform	irreg_decl3</NL>
+ἐπιθυμίᾳ	ἐπιθυμία	2.052.2-039	case1	<NL>N e)piqu_mi/a_|,e)piqumi/a  fem dat sg	attic doric aeolic		h_hs</NL>
+.	syntacticbreak	1312
+τά	ὁ	2.052.3-001	case1	<NL>N o(  neut acc pl		indeclform	article</NL>
+τε	τε	2.052.3-002	case1	<NL>N te 		enclitic indeclform	particle</NL>
+ἱερὰ	ἱερόν,ἱερός	2.052.3-003	case2b	<NL>N i(era/,i(ero/n  neut acc pl			os_ou</NL><NL>N i(era/,i(ero/s  neut acc pl			os_h_on</NL>
+ἐν	ἐν	2.052.3-004	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+οἷς	ὅς	2.052.3-005	case4	<NL>N o(/s  masc dat pl		indeclform	relative</NL><NL>N o(/s  neut dat pl		indeclform	relative</NL>
+ἐσκήνηντο	σκηνάω,σκηνέω	2.052.3-006	case2b	<NL>V skhna/w  plup ind mp 3rd pl	attic ionic	redupl	perfp_vow,aw_denom</NL><NL>V skhna/w  imperf ind mp 3rd pl			ath_primary,aw_denom</NL><NL>V skhne/w  plup ind mp 3rd pl		redupl	perfp_vow,ew_denom</NL>
+νεκρῶν	νεκρός	2.052.3-007	case1	<NL>N nekro/s  masc gen pl			os_h_on</NL><NL>N nekro/s  neut gen pl			os_h_on</NL><NL>N nekro/s  masc gen pl			os_ou</NL><NL>N nekro/s  fem gen pl			os_h_on</NL>
+πλέα	πλέως	2.052.3-008	case1	<NL>N ple/ws  neut acc pl			ws_wn</NL><NL>N ple/a_,ple/ws  fem nom sg	attic doric ionic aeolic		os_h_on</NL>
+ἦν	εἰμί	2.052.3-009	case1	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+,	comma	2.052.3-010	punct
+αὐτοῦ	αὐτοῦ	2.052.3-011	case2b	<NL>N au)tou= 		indeclform	adverb</NL>
+ἐναποθνῃσκόντων	ἐναποθνήσκω	2.052.3-012	case1	<NL>P e)napoqnh/skw  pres part act masc gen pl		syncope	w_stem,a_stem</NL><NL>P e)napoqnh/skw  pres part act neut gen pl		syncope	w_stem,a_stem</NL>
+:	syntacticbreak	1313
+ὑπερβιαζομένου	ὑπερβιάζομαι	2.052.3-013	case1	<NL>P u(perbia/zomai  pres part mp masc gen sg			w_stem,azw</NL><NL>P u(perbia/zomai  pres part mp neut gen sg			w_stem,azw</NL>
+γὰρ	γάρ	2.052.3-014	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+τοῦ	ὁ	2.052.3-015	case1	<NL>N o(  masc gen sg		indeclform	article</NL><NL>N o(  neut gen sg		indeclform	article</NL>
+κακοῦ	κακός	2.052.3-016	case2b	<NL>N kako/s  masc gen sg			os_h_on</NL><NL>N kako/s  neut gen sg			os_h_on</NL>
+οἱ	ὁ	2.052.3-017	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+ἄνθρωποι	ἄνθρωπος	2.052.3-018	case1	<NL>N a)/nqrwpos  masc nom pl			os_ou</NL>
+,	comma	2.052.3-019	punct
+οὐκ	οὐ	2.052.3-020	case4	<NL>N ou) 		proclitic indeclform	adverb</NL>
+ἔχοντες	ἔχω	2.052.3-021	case1	<NL>P e)/xw  pres part act masc nom pl			w_stem,reg_conj</NL>
+ὅτι	ὅτι	2.052.3-022	case1	<NL>N o(/ti 		indeclform	conj</NL>
+γένωνται	γίγνομαι	2.052.3-023	case1	<NL>V gi/gnomai  aor subj mid 3rd pl			aor2</NL>
+,	comma	2.052.3-024	punct
+ἐς	εἰς	2.052.3-025	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+ὀλιγωρίαν	ὀλιγωρία	2.052.3-026	case1	<NL>N o)ligwri/a_n,o)ligwri/a  fem acc sg	attic doric aeolic		h_hs</NL>
+ἐτράποντο	τρέπω	2.052.3-027	case1	<NL>V tre/pw  aor ind mid 3rd pl			aor2</NL>
+καὶ	καί	2.052.3-028	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἱερῶν	ἱερόν,ἱερός	2.052.3-029	case2c	<NL>N i(ero/n  neut gen pl			os_ou</NL><NL>N i(ero/s  fem gen pl			os_h_on</NL><NL>N i(ero/s  masc gen pl			os_h_on</NL><NL>N i(ero/s  neut gen pl			os_h_on</NL>
+καὶ	καί	2.052.3-030	case4	<NL>N kai/ 		indeclform	conj</NL>
+ὁσίων	ὅσιος	2.052.3-031	case1	<NL>N o(/sios  fem gen pl			os_h_on</NL><NL>N o(/sios  masc gen pl			os_h_on</NL><NL>N o(/sios  neut gen pl			os_h_on</NL><NL>N o(/sios  masc gen pl			os_on</NL><NL>N o(/sios  fem gen pl			os_on</NL><NL>N o(/sios  neut gen pl			os_on</NL>
+ὁμοίως	ὅμοιος	2.052.3-032	case1	<NL>N o(/moios  masc acc pl	attic epic doric ionic		os_h_on</NL><NL>N o(/moios  adverbial			os_on</NL><NL>N o(/moios  adverbial	attic epic ionic		os_h_on</NL>
+.	syntacticbreak	1314
+νόμοι	νόμος	2.052.4-001	case1	<NL>N no/mos  masc nom pl			os_ou</NL>
+τε	τε	2.052.4-002	case1	<NL>N te 		enclitic indeclform	particle</NL>
+πάντες	πᾶς	2.052.4-003	case1	<NL>N pa=s  masc nom pl		indeclform	irreg_adj3</NL>
+ξυνεταράχθησαν	συνταράσσω	2.052.4-004	case1	<NL>V suntara/ssw  aor ind pass 3rd pl		sig_to_ci	aor_pass,ss</NL>
+οἷς	ὅς	2.052.4-005	case4	<NL>N o(/s  masc dat pl		indeclform	relative</NL><NL>N o(/s  neut dat pl		indeclform	relative</NL>
+ἐχρῶντο	χράω2	2.052.4-006	case1	<NL>V xra/w2  imperf ind mp 3rd pl	attic	contr	ajw_pr,a_stem</NL>
+πρότερον	πρότερος	2.052.4-007	case1	<NL>N pro/teros  masc acc sg		irreg_comp	os_h_on</NL><NL>N pro/teros  neut acc sg		irreg_comp	os_h_on</NL>
+περὶ	περί	2.052.4-008	case1	<NL>N peri/,peri/ 		indeclform	prep</NL>
+τὰς	ὁ	2.052.4-009	case1	<NL>N ta_/s,o(  fem acc pl		indeclform	article</NL>
+ταφάς	ταφή	2.052.4-010	case1	<NL>N tafa_/s,tafh/  fem acc pl			h_hs</NL>
+,	comma	2.052.4-011	punct
+ἔθαπτον	θάπτω	2.052.4-012	case1	<NL>V qa/ptw  imperf ind act 3rd pl			w_stem,ptw</NL>
+δὲ	δέ	2.052.4-013	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+ὡς	ὡς	2.052.4-014	case1	<NL>N w(s 		proclitic indeclform	conj</NL>
+ἕκαστος	ἕκαστος	2.052.4-015	case1	<NL>N e(/kastos  masc nom sg			os_h_on</NL>
+ἐδύνατο	δύναμαι	2.052.4-016	case1	<NL>V du/namai  imperf ind mp 3rd sg			ami_short,a_stem</NL>
+.	syntacticbreak	1315
+καὶ	καί	2.052.4-017	case4	<NL>N kai/ 		indeclform	conj</NL>
+πολλοὶ	πολύς	2.052.4-018	case1	<NL>N polloi/,polu/s  masc nom pl			os_h_on</NL>
+ἐς	εἰς	2.052.4-019	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+ἀναισχύντους	ἀναίσχυντος	2.052.4-020	case1	<NL>N a)nai/sxuntos  masc acc pl		a_priv	os_on</NL><NL>N a)nai/sxuntos  fem acc pl		a_priv	os_on</NL>
+θήκας	θήκη	2.052.4-021	case1	<NL>N qh/ka_s,qh/kh  fem acc pl			h_hs</NL>
+ἐτράποντο	τρέπω	2.052.4-022	case1	<NL>V tre/pw  aor ind mid 3rd pl			aor2</NL>
+σπάνει	σπάνις	2.052.4-023	case1	<NL>N spa/nis  fem dat sg	attic ionic	contr	is_ews</NL>
+τῶν	ὁ	2.052.4-024	case1	<NL>N o(  fem gen pl		indeclform	article</NL><NL>N o(  masc gen pl		indeclform	article</NL><NL>N o(  neut gen pl		indeclform	article</NL>
+ἐπιτηδείων	ἐπιτήδειος	2.052.4-025	case1	<NL>N e)pith/deios  fem gen pl			os_h_on</NL><NL>N e)pith/deios  masc gen pl			os_h_on</NL><NL>N e)pith/deios  neut gen pl			os_h_on</NL>
+διὰ	διά	2.052.4-026	case1	<NL>N dia/,dia/ 		indeclform	prep</NL>
+τὸ	ὁ	2.052.4-027	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+συχνοὺς	συχνός	2.052.4-028	case1	<NL>N suxnou/s,suxno/s  masc acc pl			os_h_on</NL>
+ἤδη	ἤδη	2.052.4-029	case1	<NL>N h)/dh 		indeclform	adverb</NL>
+προτεθνάναι	προθνήσκω	2.052.4-030	case1	<NL>V proqnh/skw  perf inf act	epic	syncope	perf2_act</NL>
+σφίσιν	σφεῖς	2.052.4-031	case1	<NL>N sfisin,sfei=s  masc dat pl		enclitic nu_movable indeclform	pron3</NL><NL>N sfisin,sfei=s  fem dat pl		enclitic nu_movable indeclform	pron3</NL>
+:	syntacticbreak	1316
+ἐπὶ	ἐπί	2.052.4-032	case1	<NL>N e)pi/,e)pi/ 		indeclform	prep</NL>
+πυρὰς	πυρή	2.052.4-033	case4	<NL>N pura_/s,purh/  fem acc pl	ionic		h_hs</NL>
+γὰρ	γάρ	2.052.4-034	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+ἀλλοτρίας	ἀλλότριος	2.052.4-035	case1	<NL>N a)llotri/a_s,a)llo/trios  fem acc pl			os_h_on</NL>
+φθάσαντες	φθάνω	2.052.4-036	case1	<NL>P fqa/nw  aor part act masc nom pl			aor1,a_stem</NL>
+τοὺς	ὁ	2.052.4-037	case1	<NL>N tou/s,o(  masc acc pl		indeclform	article</NL>
+νήσαντας	νέω3	2.052.4-038	case1	<NL>P ne/w3  aor part act masc acc pl			aor1,e_stem</NL>
+οἱ	ὁ	2.052.4-039	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+μὲν	μέν	2.052.4-040	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+ἐπιθέντες	ἐπιτίθημι	2.052.4-041	case1	<NL>P e)piti/qhmi  aor part act masc nom pl			emi_aor</NL>
+τὸν	ὁ	2.052.4-042	case1	<NL>N to/n,o(  masc acc sg		indeclform	article</NL>
+ἑαυτῶν	ἑαυτοῦ	2.052.4-043	case1	<NL>N e(autou=  neut gen pl			art_adj</NL><NL>N e(autou=  fem gen pl			art_adj</NL><NL>N e(autou=  masc gen pl			art_adj</NL>
+νεκρὸν	νεκρός	2.052.4-044	case1	<NL>N nekro/n,nekro/s  masc acc sg			os_h_on</NL><NL>N nekro/n,nekro/s  masc acc sg			os_ou</NL>
+ὑφῆπτον	ὑφάπτω	2.052.4-045	case1	<NL>V u(fa/ptw  imperf ind act 3rd pl	attic epic ionic		w_stem,ptw</NL>
+,	comma	2.052.4-046	punct
+οἱ	ὁ	2.052.4-047	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+δὲ	δέ	2.052.4-048	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+καιομένου	καίω	2.052.4-049	case1	<NL>P kai/w  pres part mp masc gen sg			w_stem,av_stem</NL><NL>P kai/w  pres part mp neut gen sg			w_stem,av_stem</NL>
+ἄλλου	ἄλλος	2.052.4-050	case1	<NL>N a)/llos  neut gen sg			art_adj</NL><NL>N a)/llos  masc gen sg			art_adj</NL>
+ἐπιβαλόντες	ἐπιβάλλω	2.052.4-051	case1	<NL>P e)piba/llw  aor part act masc nom pl			aor2</NL>
+ἄνωθεν	ἄνωθεν	2.052.4-052	case1	<NL>N a)/nwqen 		indeclform	adverb</NL>
+ὃν	ὅς	2.052.4-053	case4	<NL>N o(/n,o(/s  masc acc sg		indeclform	relative</NL><NL>N o(/n,o(/s  neut acc sg		indeclform	relative</NL>
+φέροιεν	φέρω	2.052.4-054	case1	<NL>V fe/rw  pres opt act 3rd pl			w_stem</NL>
+ἀπῇσαν	ἄπειμι2	2.052.4-055	case1	<NL>V a)/peimi2  imperf ind act 3rd pl			irreg_mi</NL>
+.	syntacticbreak	1317
+πρῶτόν	πρότερος	2.053.1-001	case1	<NL>N prw=ton,pro/teros  masc acc sg			os_h_on</NL><NL>N prw=ton,pro/teros  neut nom sg			os_h_on</NL><NL>N prw=ton,pro/teros  neut acc sg			os_h_on</NL>
+τε	τε	2.053.1-002	case1	<NL>N te 		enclitic indeclform	particle</NL>
+ἦρξε	ἄρχω	2.053.1-003	case1	<NL>V a)/rxw  aor ind act 3rd sg	attic epic ionic		aor1,reg_conj</NL>
+καὶ	καί	2.053.1-004	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἐς	εἰς	2.053.1-005	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+τἆλλα	ἄλλος	2.053.1-006	case1	<NL>N a)/lla,a)/llos  neut acc pl			art_adj</NL>
+τῇ	ὁ	2.053.1-007	case1	<NL>N o(  fem dat sg	attic epic ionic	indeclform	article</NL>
+πόλει	πόλις	2.053.1-008	case1	<NL>N po/lis  fem dat sg	attic epic doric ionic	contr	is_ews</NL>
+ἐπὶ	ἐπί	2.053.1-009	case1	<NL>N e)pi/,e)pi/ 		indeclform	prep</NL>
+πλέον	πλείων	2.053.1-010	case1	<NL>N plei/wn  neut acc sg comp			wn_on_comp</NL>
+ἀνομίας	ἀνομία	2.053.1-011	case1	<NL>N a)nomi/a_s,a)nomi/a  fem acc pl			h_hs</NL><NL>N a)nomi/a_s,a)nomi/a  fem gen sg	attic doric aeolic		h_hs</NL>
+τὸ	ὁ	2.053.1-012	case1	<NL>N to/,o(  neut nom sg		indeclform	article</NL><NL>N to/,o(  neut acc sg		indeclform	article</NL>
+νόσημα	νόσημα	2.053.1-013	case1	<NL>N no/shma  neut nom sg			ma_matos</NL><NL>N no/shma  neut acc sg			ma_matos</NL>
+.	syntacticbreak	1318
+ῥᾷον	ῥᾴδιος	2.053.1-014	case1	<NL>N r(a/|dios  neut acc sg comp			wn_on_comp</NL>
+γὰρ	γάρ	2.053.1-015	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+ἐτόλμα	τολμάω	2.053.1-016	case1	<NL>V e)to/lma_,tolma/w  imperf ind act 3rd sg		contr	aw_pr,aw_denom</NL>
+τις	τις	2.053.1-017	case1	<NL>N tis  masc nom sg		enclitic indeclform	indef</NL><NL>N tis  fem nom sg		enclitic indeclform	indef</NL>
+ἃ	ὅς	2.053.1-018	case1	<NL>N a(/,o(/s  neut acc pl		indeclform	relative</NL>
+πρότερον	πρότερος	2.053.1-019	case1	<NL>N pro/teros  masc acc sg		irreg_comp	os_h_on</NL><NL>N pro/teros  neut acc sg		irreg_comp	os_h_on</NL>
+ἀπεκρύπτετο	ἀποκρύπτω	2.053.1-020	case1	<NL>V a)pokru/ptw  imperf ind mp 3rd sg			w_stem,ptw</NL>
+μὴ	μή	2.053.1-021	case4	<NL>N mh/,mh/ 		indeclform	conj</NL>
+καθ’	κατά	2.053.1-022	case1	<NL>N kata/,kata/ 		indeclform	prep</NL><NL>N kaqa/,kata/ 		indeclform	adverb</NL>
+ἡδονὴν	ἡδονή	2.053.1-023	case1	<NL>N h(donh/n,h(donh/  fem acc sg	attic epic ionic		h_hs</NL>
+ποιεῖν	ποιέω	2.053.1-024	case1	<NL>V poie/w  pres inf act	attic epic doric	contr	ew_pr,ew_denom</NL>
+,	comma	2.053.1-025	punct
+ἀγχίστροφον	ἀγχίστροφος	2.053.1-026	case1	<NL>N a)gxi/strofos  fem acc sg			os_on</NL>
+τὴν	ὁ	2.053.1-027	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+μεταβολὴν	μεταβολή	2.053.1-028	case1	<NL>N metabolh/n,metabolh/  fem acc sg	attic epic ionic		h_hs</NL>
+ὁρῶντες	ὁράω	2.053.1-029	case1	<NL>P o(ra/w  pres part act masc nom pl	epic	contr	aw_pr,a_stem</NL>
+τῶν	ὁ	2.053.1-030	case1	<NL>N o(  masc gen pl		indeclform	article</NL><NL>N o(  neut gen pl		indeclform	article</NL>
+τε	τε	2.053.1-031	case1	<NL>N te 		enclitic indeclform	particle</NL>
+εὐδαιμόνων	εὐδαίμων	2.053.1-032	case1	<NL>N eu)dai/mwn  gen pl			wn_on</NL>
+καὶ	καί	2.053.1-033	case4	<NL>N kai/ 		indeclform	conj</NL>
+αἰφνιδίως	αἰφνίδιος	2.053.1-034	case1	<NL>N ai)fni/dios  adverbial			os_h_on</NL><NL>N ai)fni/dios  adverbial			os_on</NL>
+θνῃσκόντων	θνήσκω	2.053.1-035	case1	<NL>P qnh/skw  pres part act masc gen pl		syncope	w_stem,a_stem</NL><NL>P qnh/skw  pres part act neut gen pl		syncope	w_stem,a_stem</NL>
+καὶ	καί	2.053.1-036	case4	<NL>N kai/ 		indeclform	conj</NL>
+τῶν	ὁ	2.053.1-037	case1	<NL>N o(  fem gen pl		indeclform	article</NL><NL>N o(  masc gen pl		indeclform	article</NL><NL>N o(  neut gen pl		indeclform	article</NL>
+οὐδὲν	οὐδείς	2.053.1-038	case1	<NL>N ou)de/n,ou)dei/s  neut acc sg		indeclform	pron_adj3</NL>
+πρότερον	πρότερος	2.053.1-039	case1	<NL>N pro/teros  neut acc sg		irreg_comp	os_h_on</NL>
+κεκτημένων	κτάομαι	2.053.1-040	case1	<NL>P kta/omai  perf part mp fem gen pl			perfp_vow,a_stem</NL><NL>P kta/omai  perf part mp masc gen pl			perfp_vow,a_stem</NL><NL>P kta/omai  perf part mp neut gen pl			perfp_vow,a_stem</NL>
+,	comma	2.053.1-041	punct
+εὐθὺς	εὐθύς	2.053.1-042	case1	<NL>N eu)qu/s,eu)qu/s 		indeclform	adverb</NL>
+δὲ	δέ	2.053.1-043	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+τἀκείνων	ἐκεῖνος	2.053.1-044	case1	<NL>N e)kei/nwn,e)kei=nos  neut gen pl			art_adj</NL><NL>N e)kei/nwn,e)kei=nos  masc gen pl			art_adj</NL>
+ἐχόντων	ἔχω	2.053.1-045	case1	<NL>P e)/xw  pres part act masc gen pl			w_stem,reg_conj</NL><NL>P e)/xw  pres part act neut gen pl			w_stem,reg_conj</NL>
+.	syntacticbreak	1319
+ὥστε	ὥστε	2.053.2-001	case1	<NL>N w(/ste 		indeclform	adverb</NL>
+ταχείας	ταχύς	2.053.2-002	case1	<NL>N taxei/a_s,taxu/s  fem acc pl			us_eia_u</NL>
+τὰς	ὁ	2.053.2-003	case1	<NL>N ta_/s,o(  fem acc pl		indeclform	article</NL>
+ἐπαυρέσεις	ἐπαύρεσις	2.053.2-004	case1	<NL>N e)pau/resis  fem acc pl	attic		is_ews</NL>
+καὶ	καί	2.053.2-005	case4	<NL>N kai/ 		indeclform	conj</NL>
+πρὸς	πρός	2.053.2-006	case1	<NL>N pro/s,pro/s 		indeclform	prep</NL>
+τὸ	ὁ	2.053.2-007	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+τερπνὸν	τερπνός	2.053.2-008	case1	<NL>N terpno/n,terpno/s  neut acc sg			os_h_on</NL>
+ἠξίουν	ἀξιόω	2.053.2-009	case1	<NL>V a)cio/w  imperf ind act 3rd pl	attic epic ionic	contr	ow_pr,ow_denom</NL>
+ποιεῖσθαι	ποιέω	2.053.2-010	case1	<NL>V poie/w  pres inf mp	attic epic	contr	ew_pr,ew_denom</NL>
+,	comma	2.053.2-011	punct
+ἐφήμερα	ἐφήμερος	2.053.2-012	case1	<NL>N e)fh/meros  neut acc pl			os_on</NL>
+τά	ὁ	2.053.2-013	case1	<NL>N o(  neut acc pl		indeclform	article</NL>
+τε	τε	2.053.2-014	case1	<NL>N te 		enclitic indeclform	particle</NL>
+σώματα	σῶμα	2.053.2-015	case1	<NL>N sw_/mata,sw=ma  neut acc pl			ma_matos</NL>
+καὶ	καί	2.053.2-016	case4	<NL>N kai/ 		indeclform	conj</NL>
+τὰ	ὁ	2.053.2-017	case1	<NL>N ta/,o(  neut acc pl		indeclform	article</NL>
+χρήματα	χρῆμα	2.053.2-018	case1	<NL>N xrh_/mata,xrh=ma  neut acc pl			ma_matos</NL>
+ὁμοίως	ὅμοιος	2.053.2-019	case1	<NL>N o(/moios  masc acc pl	attic epic doric ionic		os_h_on</NL><NL>N o(/moios  adverbial			os_on</NL><NL>N o(/moios  adverbial	attic epic ionic		os_h_on</NL>
+ἡγούμενοι	ἡγέομαι	2.053.2-020	case1	<NL>P h(ge/omai  pres part mid masc nom pl	attic epic doric	contr	ew_pr,ew_denom</NL>
+.	syntacticbreak	1320
+καὶ	καί	2.053.3-001	case4	<NL>N kai/ 		indeclform	conj</NL>
+τὸ	ὁ	2.053.3-002	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+μὲν	μέν	2.053.3-003	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+προσταλαιπωρεῖν	προσταλαιπωρέω	2.053.3-004	case1	<NL>V prostalaipwre/w  pres inf act	attic epic doric	contr	ew_pr,ew_denom</NL>
+τῷ	ὁ	2.053.3-005	case1	<NL>N o(  masc dat sg		indeclform	article</NL><NL>N o(  neut dat sg		indeclform	article</NL>
+δόξαντι	δοκέω	2.053.3-006	case1	<NL>P doke/w  aor part act masc dat sg			aor1,reg_conj</NL><NL>P doke/w  aor part act neut dat sg			aor1,reg_conj</NL>
+καλῷ	καλός	2.053.3-007	case1	<NL>N kalo/s  masc dat sg			os_h_on</NL><NL>N kalo/s  neut dat sg			os_h_on</NL>
+οὐδεὶς	οὐδείς	2.053.3-008	case1	<NL>N ou)dei/s,ou)dei/s  masc nom sg		indeclform	pron_adj3</NL>
+πρόθυμος	πρόθυμος	2.053.3-009	case1	<NL>N pro/qu_mos,pro/qumos  masc nom sg			os_on</NL>
+ἦν	εἰμί	2.053.3-010	case1	<NL>V ei)mi/  imperf ind act 3rd sg			irreg_mi</NL>
+,	comma	2.053.3-011	punct
+ἄδηλον	ἄδηλος	2.053.3-012	case1	<NL>N a)/dhlos  masc acc sg			os_on</NL><NL>N a)/dhlos  fem acc sg			os_on</NL><NL>N a)/dhlos  neut acc sg			os_on</NL>
+νομίζων	νομίζω	2.053.3-013	case1	<NL>P nomi/zw  pres part act masc nom sg			w_stem,izw</NL>
+εἰ	εἰ	2.053.3-014	case4	<NL>N ei) 		proclitic indeclform	conj</NL>
+πρὶν	πρίν	2.053.3-015	case1	<NL>N pri/n,pri/n 		indeclform	adverb</NL>
+ἐπ’	ἐπί	2.053.3-016	case1	<NL>N e)pi/,e)pi/ 		indeclform	prep</NL>
+αὐτὸ	αὐτός	2.053.3-017	case1	<NL>N au)to/,au)to/s  neut acc sg			art_adj</NL>
+ἐλθεῖν	ἔρχομαι	2.053.3-018	case1	<NL>V e)/rxomai  aor inf act	attic epic doric	contr	aor2</NL>
+διαφθαρήσεται	διαφθείρω	2.053.3-019	case1	<NL>V diafqei/rw  fut ind pass 3rd sg			aor2_pass</NL>
+:	syntacticbreak	1321
+ὅτι	ὅτι	2.053.3-020	case1	<NL>N o(/ti 		indeclform	conj</NL>
+δὲ	δέ	2.053.3-021	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+ἤδη	ἤδη	2.053.3-022	case1	<NL>N h)/dh 		indeclform	adverb</NL>
+τε	τε	2.053.3-023	case1	<NL>N te 		enclitic indeclform	particle</NL>
+ἡδὺ	ἡδύς	2.053.3-024	case1	<NL>N h(du/,h(du/s  neut nom sg			us_eia_u</NL><NL>N h(du/,h(du/s  neut acc sg			us_eia_u</NL><NL>N h(du/,h(du/s  neut nom sg			us_u</NL><NL>N h(du/,h(du/s  neut acc sg			us_u</NL>
+πανταχόθεν	πανταχόθεν	2.053.3-025	case1	<NL>N pantaxo/qen 		indeclform	adverb</NL>
+τε	τε	2.053.3-026	case1	<NL>N te 		enclitic indeclform	particle</NL>
+ἐς	εἰς	2.053.3-027	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+αὐτὸ	αὐτός	2.053.3-028	case1	<NL>N au)to/,au)to/s  neut acc sg			art_adj</NL>
+κερδαλέον	κερδαλέος	2.053.3-029	case1	<NL>N kerdale/os  masc acc sg			os_h_on</NL><NL>N kerdale/os  neut nom sg			os_h_on</NL><NL>N kerdale/os  neut acc sg			os_h_on</NL>
+,	comma	2.053.3-030	punct
+τοῦτο	οὗτος	2.053.3-031	case1	<NL>N ou(=tos  neut nom sg		indeclform	pron_adj1</NL><NL>N ou(=tos  neut acc sg		indeclform	pron_adj1</NL>
+καὶ	καί	2.053.3-032	case4	<NL>N kai/ 		indeclform	conj</NL>
+καλὸν	καλός	2.053.3-033	case1	<NL>N kalo/n,kalo/s  masc acc sg			os_h_on</NL><NL>N kalo/n,kalo/s  neut nom sg			os_h_on</NL><NL>N kalo/n,kalo/s  neut acc sg			os_h_on</NL>
+καὶ	καί	2.053.3-034	case4	<NL>N kai/ 		indeclform	conj</NL>
+χρήσιμον	χρήσιμος	2.053.3-035	case1	<NL>N xrh/simos  masc acc sg			os_h_on</NL><NL>N xrh/simos  neut nom sg			os_h_on</NL><NL>N xrh/simos  neut acc sg			os_h_on</NL><NL>N xrh/simos  masc acc sg			os_on</NL><NL>N xrh/simos  fem acc sg			os_on</NL><NL>N xrh/simos  neut nom sg			os_on</NL><NL>N xrh/simos  neut acc sg			os_on</NL>
+κατέστη	καθίστημι	2.053.3-036	case1	<NL>V kaqi/sthmi  aor ind act 3rd sg			ami_aor</NL>
+.	syntacticbreak	1322
+θεῶν	θεός	2.053.4-001	case1	<NL>N qeo/s  masc gen pl			os_ou</NL><NL>N qeo/s  fem gen pl			os_ou</NL>
+δὲ	δέ	2.053.4-002	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+φόβος	φόβος	2.053.4-003	case1	<NL>N fo/bos  masc nom sg			os_ou</NL>
+ἢ	ἤ1	2.053.4-004	case1	<NL>N h)/,h)/1 		indeclform	conj</NL>
+ἀνθρώπων	ἄνθρωπος	2.053.4-005	case1	<NL>N a)/nqrwpos  masc gen pl			os_ou</NL>
+νόμος	νόμος	2.053.4-006	case1	<NL>N no/mos  masc nom sg			os_ou</NL>
+οὐδεὶς	οὐδείς	2.053.4-007	case1	<NL>N ou)dei/s,ou)dei/s  masc nom sg		indeclform	pron_adj3</NL>
+ἀπεῖργε	ἀπείργω	2.053.4-008	case1	<NL>V a)pei/rgw  imperf ind act 3rd sg	attic epic		w_stem,reg_conj</NL>
+,	comma	2.053.4-009	punct
+τὸ	ὁ	2.053.4-010	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+μὲν	μέν	2.053.4-011	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+κρίνοντες	κρίνω	2.053.4-012	case1	<NL>P kri_/nontes,kri/nw  pres part act masc nom pl			w_stem,inw</NL>
+ἐν	ἐν	2.053.4-013	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+ὁμοίῳ	ὅμοιος	2.053.4-014	case1	<NL>N o(/moios  masc dat sg	attic epic ionic		os_h_on</NL><NL>N o(/moios  neut dat sg	attic epic ionic		os_h_on</NL><NL>N o(/moios  masc dat sg			os_on</NL><NL>N o(/moios  fem dat sg			os_on</NL><NL>N o(/moios  neut dat sg			os_on</NL>
+καὶ	καί	2.053.4-015	case4	<NL>N kai/ 		indeclform	conj</NL>
+σέβειν	σέβω	2.053.4-016	case1	<NL>V se/bw  pres inf act	attic epic	contr	w_stem,reg_conj</NL>
+καὶ	καί	2.053.4-017	case4	<NL>N kai/ 		indeclform	conj</NL>
+μὴ	μή	2.053.4-018	case4	<NL>N mh/,mh/ 		indeclform	conj</NL>
+ἐκ	ἐκ	2.053.4-019	case1	<NL>N e)k 		proclitic indeclform	prep</NL>
+τοῦ	ὁ	2.053.4-020	case1	<NL>N o(  masc gen sg		indeclform	article</NL><NL>N o(  neut gen sg		indeclform	article</NL>
+πάντας	πᾶς	2.053.4-021	case1	<NL>N pa=s  masc acc pl		indeclform	irreg_adj3</NL>
+ὁρᾶν	ὁράω	2.053.4-022	case1	<NL>V o(ra/w  pres inf act	attic epic doric	contr	aw_pr,a_stem</NL>
+ἐν	ἐν	2.053.4-023	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+ἴσῳ	ἴσος	2.053.4-024	case1	<NL>N i)/sos  masc dat sg			os_h_on</NL><NL>N i)/sos  neut dat sg			os_h_on</NL>
+ἀπολλυμένους	ἀπόλλυμι	2.053.4-025	case2b	<NL>P a)po/llumi  pres part mp masc acc pl			umi_pr</NL>
+,	comma	2.053.4-026	punct
+τῶν	ὁ	2.053.4-027	case1	<NL>N o(  neut gen pl		indeclform	article</NL>
+δὲ	δέ	2.053.4-028	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+ἁμαρτημάτων	ἁμάρτημα	2.053.4-029	case1	<NL>N a(ma/rthma  neut gen pl			ma_matos</NL>
+οὐδεὶς	οὐδείς	2.053.4-030	case1	<NL>N ou)dei/s,ou)dei/s  masc nom sg		indeclform	pron_adj3</NL>
+ἐλπίζων	ἐλπίζω	2.053.4-031	case1	<NL>P e)lpi/zw  pres part act masc nom sg			w_stem,izw</NL>
+μέχρι	μέχρι	2.053.4-032	case1	<NL>N me/xri 		indeclform	adverb</NL><NL>N me/xri 		indeclform	conj</NL><NL>N me/xri 		indeclform	prep</NL>
+τοῦ	ὁ	2.053.4-033	case1	<NL>N o(  masc gen sg		indeclform	article</NL><NL>N o(  neut gen sg		indeclform	article</NL>
+δίκην	δίκη	2.053.4-034	case1	<NL>N di/kh  fem acc sg	attic epic ionic		h_hs</NL>
+γενέσθαι	γίγνομαι	2.053.4-035	case1	<NL>V gi/gnomai  aor inf mid			aor2</NL>
+βιοὺς	βιόω	2.053.4-036	case1	<NL>P biou/s,bio/w  aor part act masc nom sg			ath_w_aor</NL>
+ἂν	ἄν1	2.053.4-037	case1	<NL>N a)/n,a)/n1 		indeclform	particle</NL>
+τὴν	ὁ	2.053.4-038	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+τιμωρίαν	τιμωρία	2.053.4-039	case1	<NL>N ti_mwri/a_n,timwri/a  fem acc sg	attic doric aeolic		h_hs</NL>
+ἀντιδοῦναι	ἀντιδίδωμι	2.053.4-040	case1	<NL>V a)ntidi/dwmi  aor inf act			omi_aor</NL>
+,	comma	2.053.4-041	punct
+πολὺ	πολύς	2.053.4-042	case1	<NL>N polu/,polu/s  neut acc sg	attic epic	indeclform	irreg_adj3</NL>
+δὲ	δέ	2.053.4-043	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+μείζω	μέγας	2.053.4-044	case1	<NL>N me/gas  fem acc sg comp			wn_on_comp</NL>
+τὴν	ὁ	2.053.4-045	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+ἤδη	ἤδη	2.053.4-046	case1	<NL>N h)/dh 		indeclform	adverb</NL>
+κατεψηφισμένην	καταψηφίζομαι	2.053.4-047	case1	<NL>P katayhfi/zomai  perf part mp fem acc sg	attic epic ionic	redupl	perfp_d,izw</NL>
+σφῶν	σφεῖς	2.053.4-048	case1	<NL>N sfei=s  masc gen pl	attic	indeclform	pron3</NL><NL>N sfei=s  fem gen pl	attic	indeclform	pron3</NL>
+ἐπικρεμασθῆναι	ἐπικρεμάννυμι	2.053.4-049	case1	<NL>V e)pikrema/nnumi  aor inf pass			aor_pass,a_stem</NL>
+,	comma	2.053.4-050	punct
+ἣν	ὅς	2.053.4-051	case4	<NL>N h(/n,o(/s  fem acc sg	attic homeric ionic	indeclform	relative</NL>
+πρὶν	πρίν	2.053.4-052	case1	<NL>N pri/n,pri/n 		indeclform	adverb</NL>
+ἐμπεσεῖν	ἐμπίπτω	2.053.4-053	case1	<NL>V e)mpi/ptw  aor inf act	attic epic doric	contr	aor2</NL>
+εἰκὸς	εἰκός	2.053.4-054	case1	<NL>P ei)ko/s,ei)ko/s  perf part act neut acc sg			perf_act</NL>
+εἶναι	εἰμί	2.053.4-055	case4	<NL>V ei)mi/  pres inf act			irreg_mi</NL>
+τοῦ	ὁ	2.053.4-056	case1	<NL>N o(  masc gen sg		indeclform	article</NL>
+βίου	βίος	2.053.4-057	case2b	<NL>N bi/os  masc gen sg			os_ou</NL>
+τι	τις	2.053.4-058	case1	<NL>N tis  neut acc sg		enclitic indeclform	indef</NL>
+ἀπολαῦσαι	ἀπολαύω	2.053.4-059	case1	<NL>V a)polau/w  aor inf act			aor1,reg_conj</NL>
+.	syntacticbreak	1323
+τοιούτῳ	τοιοῦτος	2.054.1-001	case1	<NL>N toiou=tos  neut dat sg			art_adj</NL>
+μὲν	μέν	2.054.1-002	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+πάθει	πάθος	2.054.1-003	case1	<NL>N pa/qos  neut dat sg			hs_eos</NL>
+οἱ	ὁ	2.054.1-004	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+Ἀθηναῖοι	Ἀθηναῖος	2.054.1-005	case4	<NL>N *)aqhnai=os  masc nom pl			os_h_on</NL>
+περιπεσόντες	περιπίπτω	2.054.1-006	case1	<NL>P peripi/ptw  aor part act masc nom pl			aor2</NL>
+ἐπιέζοντο	πιέζω	2.054.1-007	case1	<NL>V pie/zw  imperf ind mp 3rd pl			w_stem,reg_conj</NL>
+,	comma	2.054.1-008	punct
+ἀνθρώπων	ἄνθρωπος	2.054.1-009	case1	<NL>N a)/nqrwpos  masc gen pl			os_ou</NL>
+τ’	τε	2.054.1-010	case1	<NL>N te,te 		enclitic indeclform	particle</NL>
+ἔνδον	ἔνδον	2.054.1-011	case2c	<NL>N e)/ndon 		indeclform	adverb</NL>
+θνῃσκόντων	θνήσκω	2.054.1-012	case1	<NL>P qnh/skw  pres part act masc gen pl		syncope	w_stem,a_stem</NL>
+καὶ	καί	2.054.1-013	case4	<NL>N kai/ 		indeclform	conj</NL>
+γῆς	γῆ	2.054.1-014	case1	<NL>N gh=  fem gen sg	attic epic ionic	contr	eh_ehs</NL>
+ἔξω	ἔξω	2.054.1-015	case1	<NL>N e)/cw 		indeclform	prep</NL>
+δῃουμένης	δηιόω	2.054.1-016	case1	<NL>P dhio/w  pres part mp fem gen sg	attic epic ionic	contr	ow_pr,ow_denom</NL><NL>P dhi+oume/nhs,dhio/w  pres part mp fem gen sg	attic epic ionic	contr	ow_pr,ow_denom</NL>
+.	syntacticbreak	1324
+ἐν	ἐν	2.054.2-001	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+δὲ	δέ	2.054.2-002	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+τῷ	ὁ	2.054.2-003	case1	<NL>N o(  masc dat sg		indeclform	article</NL><NL>N o(  neut dat sg		indeclform	article</NL>
+κακῷ	κακός	2.054.2-004	case1	<NL>N kako/s  masc dat sg			os_h_on</NL><NL>N kako/s  neut dat sg			os_h_on</NL>
+οἷα	οἷος	2.054.2-005	case1	<NL>N oi(=os  neut acc pl			os_h_on</NL>
+εἰκὸς	εἰκός	2.054.2-006	case1	<NL>P ei)ko/s,ei)ko/s  perf part act neut acc sg			perf_act</NL>
+ἀνεμνήσθησαν	ἀναμιμνήσκω	2.054.2-007	case1	<NL>V a)namimnh/skw  aor ind pass 3rd pl			aor_pass,a_stem</NL>
+καὶ	καί	2.054.2-008	case4	<NL>N kai/ 		indeclform	conj</NL>
+τοῦδε	ὅδε	2.054.2-009	case1	<NL>N o(/de  masc gen sg		indeclform	demonstr</NL><NL>N o(/de  neut gen sg		indeclform	demonstr</NL>
+τοῦ	ὁ	2.054.2-010	case1	<NL>N o(  neut gen sg		indeclform	article</NL>
+ἔπους	ἔπος	2.054.2-011	case1	<NL>N e)/pos  neut gen sg	attic epic doric	contr	hs_eos</NL>
+,	comma	2.054.2-012	punct
+φάσκοντες	φάσκω	2.054.2-013	case1	<NL>P fa/skw  pres part act masc nom pl			w_stem,a_stem</NL>
+οἱ	ὁ	2.054.2-014	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+πρεσβύτεροι	πρέσβυς	2.054.2-015	case1	<NL>N pre/sbus  masc nom pl		irreg_comp	os_h_on</NL>
+πάλαι	πάλαι	2.054.2-016	case1	<NL>N pa/lai 		indeclform	adverb</NL>
+ᾄδεσθαι	ἀείδω	2.054.2-017	case1	<NL>V a)ei/dw  pres inf mp		contr	w_stem,reg_conj</NL>
+ἥξει	ἥκω	2.054.2-018	case1	<NL>V h(/kw  fut ind act 3rd sg			reg_fut,reg_conj</NL>
+Δωριακὸς	Δωριακός	2.054.2-019	case1	<NL>N *dwriako/s,*dwriako/s  masc nom sg			os_h_on</NL>
+πόλεμος	πόλεμος	2.054.2-020	case1	<NL>N po/lemos  masc nom sg			os_ou</NL>
+καὶ	καί	2.054.2-021	case4	<NL>N kai/ 		indeclform	conj</NL>
+λοιμὸς	λοιμός	2.054.2-022	case1	<NL>N loimo/s,loimo/s  masc nom sg			os_ou</NL>
+ἅμ’	ἅμα	2.054.2-023	case1	<NL>N a(/ma,a(/ma 		indeclform	adverb</NL>
+αὐτῷ	αὐτός	2.054.2-024	case1	<NL>N au)to/s  neut dat sg			art_adj</NL><NL>N au)to/s  masc dat sg			art_adj</NL>
+.	syntacticbreak	1325
+ἐγένετο	γίγνομαι	2.054.3-001	case1	<NL>V gi/gnomai  aor ind mid 3rd sg			aor2</NL>
+μὲν	μέν	2.054.3-002	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+οὖν	οὖν	2.054.3-003	case1	<NL>N ou)=n 		indeclform	particle</NL>
+ἔρις	ἔρις	2.054.3-004	case1	<NL>N e)/ris  fem nom sg			is_idos</NL>
+τοῖς	ὁ	2.054.3-005	case1	<NL>N o(  masc dat pl		indeclform	article</NL>
+ἀνθρώποις	ἄνθρωπος	2.054.3-006	case1	<NL>N a)/nqrwpos  masc dat pl			os_ou</NL>
+μὴ	μή	2.054.3-007	case4	<NL>N mh/,mh/ 		indeclform	conj</NL>
+λοιμὸν	λοιμός	2.054.3-008	case1	<NL>N loimo/n,loimo/s  masc acc sg			os_ou</NL>
+ὠνομάσθαι	ὀνομάζω	2.054.3-009	case1	<NL>V o)noma/zw  perf inf mp		redupl	perfp_d,azw</NL>
+ἐν	ἐν	2.054.3-010	case1	<NL>N e)n 		proclitic indeclform	prep</NL>
+τῷ	ὁ	2.054.3-011	case1	<NL>N o(  masc dat sg		indeclform	article</NL><NL>N o(  neut dat sg		indeclform	article</NL>
+ἔπει	ἔπος	2.054.3-012	case2b	<NL>N e)/pos  neut dat sg			hs_eos</NL>
+ὑπὸ	ὑπό	2.054.3-013	case1	<NL>N u(po/,u(po/ 		indeclform	prep</NL>
+τῶν	ὁ	2.054.3-014	case1	<NL>N o(  fem gen pl		indeclform	article</NL><NL>N o(  masc gen pl		indeclform	article</NL><NL>N o(  neut gen pl		indeclform	article</NL>
+παλαιῶν	παλαιός	2.054.3-015	case1	<NL>N palaio/s  fem gen pl			os_h_on</NL><NL>N palaio/s  masc gen pl			os_h_on</NL><NL>N palaio/s  neut gen pl			os_h_on</NL>
+,	comma	2.054.3-016	punct
+ἀλλὰ	ἀλλά	2.054.3-017	case1	<NL>N a)lla/,a)lla/ 		indeclform	adverb</NL>
+λιμόν	λιμός	2.054.3-018	case1	<NL>N li_mo/n,limo/s  masc acc sg			os_ou</NL><NL>N li_mo/n,limo/s  fem acc sg			os_ou</NL>
+,	comma	2.054.3-019	punct
+ἐνίκησε	νικάω	2.054.3-020	case1	<NL>V e)ni_/khse,nika/w  aor ind act 3rd sg	attic ionic		aor1,aw_denom</NL>
+δὲ	δέ	2.054.3-021	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+ἐπὶ	ἐπί	2.054.3-022	case1	<NL>N e)pi/,e)pi/ 		indeclform	prep</NL>
+τοῦ	ὁ	2.054.3-023	case1	<NL>N o(  masc gen sg		indeclform	article</NL><NL>N o(  neut gen sg		indeclform	article</NL>
+παρόντος	πάρειμι1	2.054.3-024	case1	<NL>P pa/reimi1  pres part act masc gen sg			irreg_mi</NL><NL>P pa/reimi1  pres part act neut gen sg			irreg_mi</NL>
+εἰκότως	εἰκότως	2.054.3-025	case2b	<NL>N ei)ko/tws 		indeclform	adverb</NL>
+λοιμὸν	λοιμός	2.054.3-026	case1	<NL>N loimo/n,loimo/s  masc acc sg			os_ou</NL>
+εἰρῆσθαι	ἐρῶ	2.054.3-027	case1	<NL>V e)rw=  fut inf mid	epic doric ionic aeolic	contr	ew_fut,e_stem</NL><NL>V e)rw=  perf inf mp	epic ionic		perfp_vow,e_stem</NL>
+:	syntacticbreak	1326
+οἱ	ὁ	2.054.3-028	case1	<NL>N o(  masc nom pl		proclitic indeclform	article</NL>
+γὰρ	γάρ	2.054.3-029	case1	<NL>N ga/r,ga/r 		indeclform	particle</NL>
+ἄνθρωποι	ἄνθρωπος	2.054.3-030	case1	<NL>N a)/nqrwpos  masc nom pl			os_ou</NL>
+πρὸς	πρός	2.054.3-031	case1	<NL>N pro/s,pro/s 		indeclform	prep</NL>
+ἃ	ὅς	2.054.3-032	case1	<NL>N a(/,o(/s  neut acc pl		indeclform	relative</NL>
+ἔπασχον	πάσχω	2.054.3-033	case1	<NL>V pa/sxw  imperf ind act 3rd pl			w_stem,skw</NL>
+τὴν	ὁ	2.054.3-034	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+μνήμην	μνήμη	2.054.3-035	case1	<NL>N mnh/mh  fem acc sg	attic epic ionic		h_hs</NL>
+ἐποιοῦντο	ποιέω	2.054.3-036	case1	<NL>V poie/w  imperf ind mp 3rd pl	attic epic doric	contr	ew_pr,ew_denom</NL>
+.	syntacticbreak	1327
+ἢν	ἐάν	2.054.3-037	case1	<NL>N h)/n,e)a/n 		contr indeclform	conj</NL>
+δέ	δέ	2.054.3-038	case4	<NL>N de/ 		indeclform	particle</NL>
+γε	γε	2.054.3-039	case1	<NL>N ge 		enclitic indeclform	particle</NL>
+οἶμαί	οἴομαι	2.054.3-040	case1	<NL>V oi)=mai,oi)/omai  pres ind mp 1st sg		syncope	w_stem</NL>
+ποτε	ποτέ	2.054.3-041	case1	<NL>N pote/ 		enclitic indeclform	particle</NL>
+ἄλλος	ἄλλος	2.054.3-042	case1	<NL>N a)/llos  masc nom sg			art_adj</NL>
+πόλεμος	πόλεμος	2.054.3-043	case1	<NL>N po/lemos  masc nom sg			os_ou</NL>
+καταλάβῃ	καταλαμβάνω	2.054.3-044	case1	<NL>V katalamba/nw  aor subj act 3rd sg			aor2,anw</NL>
+Δωρικὸς	Δωρικός	2.054.3-045	case1	<NL>N *dwriko/s,*dwriko/s  masc nom sg			os_h_on</NL>
+τοῦδε	ὅδε	2.054.3-046	case1	<NL>N o(/de  masc gen sg		indeclform	demonstr</NL><NL>N o(/de  neut gen sg		indeclform	demonstr</NL>
+ὕστερος	ὕστερος	2.054.3-047	case1	<NL>N u(/steros  masc nom sg		irreg_comp	os_h_on</NL>
+καὶ	καί	2.054.3-048	case4	<NL>N kai/ 		indeclform	conj</NL>
+ξυμβῇ	συμβαίνω	2.054.3-049	case1	<NL>V sumbai/nw  aor subj act 3rd sg		contr sig_to_ci	ath_h_aor</NL>
+γενέσθαι	γίγνομαι	2.054.3-050	case1	<NL>V gi/gnomai  aor inf mid			aor2</NL>
+λιμόν	λιμός	2.054.3-051	case1	<NL>N li_mo/n,limo/s  masc acc sg			os_ou</NL><NL>N li_mo/n,limo/s  fem acc sg			os_ou</NL>
+,	comma	2.054.3-052	punct
+κατὰ	κατά	2.054.3-053	case4	<NL>N kata/,kata/ 		indeclform	prep</NL>
+τὸ	ὁ	2.054.3-054	case1	<NL>N to/,o(  neut acc sg		indeclform	article</NL>
+εἰκὸς	εἰκός	2.054.3-055	case1	<NL>P ei)ko/s,ei)ko/s  perf part act neut acc sg			perf_act</NL>
+οὕτως	οὕτως	2.054.3-056	case1	<NL>N ou(/tws 		indeclform	adverb</NL>
+ᾄσονται	ἀείδω	2.054.3-057	case1	<NL>V a)ei/dw  fut ind mid 3rd pl		contr	reg_fut,reg_conj</NL>
+.	syntacticbreak	1328
+μνήμη	μνήμη	2.054.4-001	case1	<NL>N mnh/mh  fem nom sg	attic epic ionic		h_hs</NL>
+δὲ	δέ	2.054.4-002	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+ἐγένετο	γίγνομαι	2.054.4-003	case1	<NL>V gi/gnomai  aor ind mid 3rd sg			aor2</NL>
+καὶ	καί	2.054.4-004	case4	<NL>N kai/ 		indeclform	conj</NL>
+τοῦ	ὁ	2.054.4-005	case1	<NL>N o(  neut gen sg		indeclform	article</NL>
+Λακεδαιμονίων	Λακεδαιμόνιος	2.054.4-006	case4	<NL>N *lakedaimo/nios  fem gen pl			os_h_on</NL><NL>N *lakedaimo/nios  masc gen pl			os_h_on</NL><NL>N *lakedaimo/nios  neut gen pl			os_h_on</NL>
+χρηστηρίου	χρηστήριον	2.054.4-007	case1	<NL>N xrhsth/rion  neut gen sg			os_ou</NL>
+τοῖς	ὁ	2.054.4-008	case1	<NL>N o(  masc dat pl		indeclform	article</NL><NL>N o(  neut dat pl		indeclform	article</NL>
+εἰδόσιν	οἶδα	2.054.4-009	case1	<NL>P oi)=da  perf part act masc dat pl		nu_movable	perf_act</NL><NL>P oi)=da  perf part act neut dat pl		nu_movable	perf_act</NL>
+,	comma	2.054.4-010	punct
+ὅτε	ὅτε	2.054.4-011	case1	<NL>N o(/te 		indeclform	conj</NL>
+ἐπερωτῶσιν	ἐπερωτάω	2.054.4-012	case1	<NL>P e)perwta/w  pres part act masc dat pl	attic epic doric ionic	contr nu_movable	aw_pr,aw_denom</NL><NL>P e)perwta/w  pres part act neut dat pl	attic epic doric ionic	contr nu_movable	aw_pr,aw_denom</NL>
+αὐτοῖς	αὐτός	2.054.4-013	case1	<NL>N au)to/s  neut dat pl			art_adj</NL><NL>N au)to/s  masc dat pl			art_adj</NL>
+τὸν	ὁ	2.054.4-014	case1	<NL>N to/n,o(  masc acc sg		indeclform	article</NL>
+θεὸν	θεός	2.054.4-015	case1	<NL>N qeo/n,qeo/s  masc acc sg			os_ou</NL>
+εἰ	εἰ	2.054.4-016	case4	<NL>N ei) 		proclitic indeclform	conj</NL>
+χρὴ	χρή	2.054.4-017	case1	<NL>V xrh/,xrh/  pres ind act 3rd sg		impersonal	ath_primary</NL>
+πολεμεῖν	πολεμέω	2.054.4-018	case1	<NL>V poleme/w  pres inf act	attic epic doric	contr	ew_pr,ew_denom</NL>
+ἀνεῖλε	ἀναιρέω	2.054.4-019	case1	<NL>V a)naire/w  aor ind act 3rd sg		syll_augment late	aor1</NL><NL>V a)naire/w  aor ind act 3rd sg		syll_augment	aor2</NL>
+κατὰ	κατά	2.054.4-020	case4	<NL>N kata/,kata/ 		indeclform	prep</NL>
+κράτος	κράτος	2.054.4-021	case1	<NL>N kra/tos  neut acc sg			hs_eos</NL>
+πολεμοῦσι	πολεμέω	2.054.4-022	case2b	<NL>V poleme/w  pres ind act 3rd pl	attic epic doric	contr	ew_pr,ew_denom</NL>
+νίκην	νίκη	2.054.4-023	case1	<NL>N ni_/khn,ni/kh  fem acc sg	attic epic ionic		h_hs</NL>
+ἔσεσθαι	εἰμί	2.054.4-024	case4	<NL>V ei)mi/  fut inf mid			reg_fut</NL>
+,	comma	2.054.4-025	punct
+καὶ	καί	2.054.4-026	case4	<NL>N kai/ 		indeclform	conj</NL>
+αὐτὸς	αὐτός	2.054.4-027	case1	<NL>N au)to/s,au)to/s  masc nom sg			art_adj</NL>
+ἔφη	φημί	2.054.4-028	case1	<NL>V fhmi/  imperf ind act 3rd sg			ath_primary</NL>
+ξυλλήψεσθαι	συλλαμβάνω	2.054.4-029	case1	<NL>V sullamba/nw  fut inf mid		sig_to_ci	reg_fut,reg_conj</NL>
+.	syntacticbreak	1329
+περὶ	περί	2.054.5-001	case1	<NL>N peri/,peri/ 		indeclform	prep</NL>
+μὲν	μέν	2.054.5-002	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+οὖν	οὖν	2.054.5-003	case1	<NL>N ou)=n 		indeclform	particle</NL>
+τοῦ	ὁ	2.054.5-004	case1	<NL>N o(  masc gen sg		indeclform	article</NL><NL>N o(  neut gen sg		indeclform	article</NL>
+χρηστηρίου	χρηστήριον	2.054.5-005	case1	<NL>N xrhsth/rion  neut gen sg			os_ou</NL>
+τὰ	ὁ	2.054.5-006	case1	<NL>N ta/,o(  neut acc pl		indeclform	article</NL>
+γιγνόμενα	γίγνομαι	2.054.5-007	case1	<NL>P gi/gnomai  pres part mp neut acc pl		pres_redupl	w_stem,reg_conj</NL>
+ᾔκαζον	εἰκάζω	2.054.5-008	case1	<NL>V ei)ka/zw  imperf ind act 3rd pl			w_stem,azw</NL>
+ὁμοῖα	ὅμοιος	2.054.5-009	case1	<NL>N o(/moios  neut acc pl	attic epic ionic		os_h_on</NL><NL>N o(/moios  neut acc pl			os_on</NL>
+εἶναι	εἰμί	2.054.5-010	case4	<NL>V ei)mi/  pres inf act			irreg_mi</NL>
+:	syntacticbreak	1330
+ἐσβεβληκότων	εἰσβάλλω	2.054.5-011	case1	<NL>P ei)sba/llw  perf part act masc gen pl		short_eis	perf_act,e_stem</NL><NL>P ei)sba/llw  perf part act neut gen pl		short_eis	perf_act,e_stem</NL>
+δὲ	δέ	2.054.5-012	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+τῶν	ὁ	2.054.5-013	case1	<NL>N o(  masc gen pl		indeclform	article</NL><NL>N o(  neut gen pl		indeclform	article</NL>
+Πελοποννησίων	Πελοποννήσιος	2.054.5-014	case1	<NL>N *peloponnh/sios  masc gen pl			os_h_on</NL><NL>N *peloponnh/sios  neut gen pl			os_h_on</NL>
+ἡ	ὁ	2.054.5-015	case1	<NL>N o(  fem nom sg		proclitic indeclform	article</NL>
+νόσος	νόσος	2.054.5-016	case1	<NL>N no/sos  fem nom sg			os_ou</NL>
+ἤρξατο	ἄρχω	2.054.5-017	case1	<NL>V a)/rxw  aor ind mid 3rd sg	attic epic ionic		aor1,reg_conj</NL>
+εὐθύς	εὐθύς	2.054.5-018	case1	<NL>N eu)qu/s 		indeclform	adverb</NL>
+,	comma	2.054.5-019	punct
+καὶ	καί	2.054.5-020	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἐς	εἰς	2.054.5-021	case1	<NL>N ei)s 		proclitic indeclform	prep</NL>
+μὲν	μέν	2.054.5-022	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+Πελοπόννησον	Πελοπόννησος	2.054.5-023	case4	<NL>N *pelopo/nnhsos  fem acc sg			os_ou</NL>
+οὐκ	οὐ	2.054.5-024	case4	<NL>N ou) 		proclitic indeclform	adverb</NL>
+ἐσῆλθεν	εἰσέρχομαι	2.054.5-025	case1	<NL>V ei)se/rxomai  aor ind act 3rd sg		nu_movable late short_eis	aor1</NL><NL>V ei)se/rxomai  aor ind act 3rd sg		nu_movable short_eis	aor2</NL>
+,	comma	2.054.5-026	punct
+ὅτι	ὅτι	2.054.5-027	case1	<NL>N o(/ti 		indeclform	conj</NL>
+καὶ	καί	2.054.5-028	case4	<NL>N kai/ 		indeclform	conj</NL>
+ἄξιον	ἄξιος	2.054.5-029	case1	<NL>N a)/cios  masc acc sg			os_h_on</NL><NL>N a)/cios  neut acc sg			os_h_on</NL>
+εἰπεῖν	εἶπον	2.054.5-030	case1	<NL>V ei)=pon  aor inf act	attic epic doric	contr	aor2</NL>
+,	comma	2.054.5-031	punct
+ἐπενείματο	ἐπινέμω	2.054.5-032	case1	<NL>V e)pine/mw  aor ind mid 3rd sg			aor1</NL>
+δὲ	δέ	2.054.5-033	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+Ἀθήνας	Ἀθῆναι	2.054.5-034	case1	<NL>N *)aqh/na_s,*)aqh=nai  fem acc pl		geog_name	h_hs</NL>
+μὲν	μέν	2.054.5-035	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+μάλιστα	μάλιστα	2.054.5-036	case1	<NL>N ma/lista 		indeclform	adverb</NL>
+,	comma	2.054.5-037	punct
+ἔπειτα	ἔπειτα	2.054.5-038	case1	<NL>N e)/peita 		indeclform	adverb</NL>
+δὲ	δέ	2.054.5-039	case4	<NL>N de/,de/ 		indeclform	particle</NL>
+καὶ	καί	2.054.5-040	case4	<NL>N kai/ 		indeclform	conj</NL>
+τῶν	ὁ	2.054.5-041	case1	<NL>N o(  neut gen pl		indeclform	article</NL>
+ἄλλων	ἄλλος	2.054.5-042	case1	<NL>N a)/llos  neut gen pl			art_adj</NL>
+χωρίων	χωρίον	2.054.5-043	case1	<NL>N xwri/on  neut gen pl		diminutive	os_ou</NL>
+τὰ	ὁ	2.054.5-044	case1	<NL>N ta/,o(  neut acc pl		indeclform	article</NL>
+πολυανθρωπότατα	πολυάνθρωπος	2.054.5-045	case1	<NL>N polua/nqrwpos  neut acc pl superl			os_on</NL>
+.	syntacticbreak	1331
+ταῦτα	οὗτος	2.054.5-046	case1	<NL>N ou(=tos  neut nom pl		indeclform	pron_adj1</NL><NL>N ou(=tos  neut acc pl		indeclform	pron_adj1</NL>
+μὲν	μέν	2.054.5-047	case1	<NL>N me/n,me/n 		indeclform	particle</NL>
+τὰ	ὁ	2.054.5-048	case1	<NL>N ta/,o(  neut acc pl		indeclform	article</NL><NL>N ta/,o(  neut nom pl		indeclform	article</NL>
+κατὰ	κατά	2.054.5-049	case4	<NL>N kata/,kata/ 		indeclform	prep</NL>
+τὴν	ὁ	2.054.5-050	case1	<NL>N th/n,o(  fem acc sg	attic epic ionic	indeclform	article</NL>
+νόσον	νόσος	2.054.5-051	case1	<NL>N no/sos  fem acc sg			os_ou</NL>
+γενόμενα	γίγνομαι	2.054.5-052	case1	<NL>P gi/gnomai  aor part mid neut nom pl			aor2</NL><NL>P gi/gnomai  aor part mid neut acc pl			aor2</NL>

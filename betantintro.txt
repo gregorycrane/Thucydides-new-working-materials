@@ -1,0 +1,52 @@
+<p xml:lang="lat">E. F. POPPONI S. </p>
+
+<p xml:lang="eng">To Ernst Friedrich Poppo</p>
+
+<p xml:lang="lat">Ecce tandem ad to mitto, vir egregie, opus ante decem hos annos inceptum, ad cuius consummationem benigne accedere volebas. Mihi maxime omnium dolet, quod non ita res evenerit; tua enim summa doctrina et plurimae litterae et diligentia imbecillitatem meam constituissent, liberque exisset haud ita ceteris eiusdem generis postponendus.</p>
+
+<p xml:lang="eng">Behold, at last, I send to you, esteemed sir, a work begun ten years ago, towards the completion of which you kindly wanted to contribute. I regret most of all that things did not turn out that way; for your great knowledge, vast learning, and diligence would have compensated for my weakness, and the book would have emerged not so inferior to others of its kind.</p>
+
+<p xml:lang="lat">Quamquam vero multa huic operi meo desunt, ut absolutum sit, id tamen nolui diutius scrinio premere, quum, ne differendo perderetur fortasse opera mea; tum ne, quod fuerat in instituendo opere propositum, Thucydides tantae auctoritatis scriptor et momenti in litteris Graecis, verborum indice pleno careret. Eorum enim librorum, qui scriptoris unius omnia verba et locutiones ex ordine reſerunt, utilitas 
+
+<pb n="ii"/>
+
+est duplex : quod illius scribendi consuetudinem explanant et quasi lumen admovent; quod parant, unde sumant, qui volent omnia omnium scriptorum uno simul glossario comprehendere; quod genus adhuc propemodum abest.</p>
+
+<p xml:lang="eng">Although indeed many things are missing from my work to make it complete, I did not want to keep it in a chest any longer, both lest by delaying my efforts might perhaps be wasted; and so that Thucydides, a writer of such authority and significance in Greek literature, would not lack a complete index of words. For the usefulness of those books, which list in order all the words and phrases of a single author,
+
+<pb n="ii"/>
+is twofold: they clarify that author's writing habits and shed light on them; and they provide material for those who wish to include all words from all writers in a single glossary; a kind which is still almost non-existent.</p>
+
+<p xml:lang="lat">De operis institutione multa dicere supervacaneum est , quum perpaucis in locis ab iis, qui idem in aliis scriptoribus efficere voluerunt, desciverim. Praestabit quaedam eos commonefacere, qui nonnulla in boc libro fortasse desiderabunt : nomina propria scilicet, articulos, pronomina et particulas. Hominum locorumque nomina omisi, ne cresceret in immensum opus, et sine utilitate quidam , quoniam praesto erunt Thucydidem cognoscentibus in fine cuiuslibet utilis editionis, et praesertim in iis Indicibus, quos maxime luculentos tuae adiunxisti. Si articulos, pronomina, particulas quasdam, quoties occurrunt, huc addidissem, hic non fuisset Thucydideorum vocabulorum significationem continens liber, sed verius Thucydidea verborum coniungendorum ratio; neque id mihi in proposito fuit. Nam non intelligo quî possit ad ordinem litterarum <foreign xml:lang="grc">σύνταξιν</foreign> disponi; et, si fieri posset , mihi quidem parum ita profici videretur. Ubicunque enim occurrisset articulus, 
+
+<pb n="iii"/>
+
+tota propositio perspicuitatis causa transcribenda erat; et, quoniam in eadem phrasi plures occurrunt articuli et particulae, toties ea transcribenda fuisset; aut locus tantum indicandus, quod nonnihil obscuritatis habet, quia possunt verbi gratia plura rwv cum varia vi in una propositione esse; atque non eadem omnium ni manibus editio est. </p>
+
+<p xml:lang="eng">About the institution of the work, it is superfluous to say much, as in a few places I have differed from those who wished to achieve the same in other writers. It will be better to remind some who perhaps will miss certain things in this book: namely proper names, articles, pronouns, and particles. I omitted the names of men and places, lest the work grow too immense and be of no use to some, since they are readily available to those familiar with Thucydides at the end of any useful edition, and especially in those indexes, the most clear of which you attached. If I had added articles, pronouns, and certain particles every time they occur, this would not have been a book containing the meaning of Thucydidean vocabulary, but rather a Thucydidean way of joining words; nor was that my intention. For I do not understand how it could be arranged according to the order of the <foreign xml:lang="grc">σύνταξιν</foreign> (syntax); and, if it could be, it seems to me to be of little benefit. For wherever an article appeared,
+
+<pb n="iii"/>
+the whole proposition would have to be transcribed for clarity's sake; and since in the same phrase several articles and particles occur, it would have to be transcribed so many times; or only the place would be indicated, which has some obscurity, because for example, several "of the" can exist with different force in one proposition; and not everyone has the same edition at hand.</p>
+
+<p xml:lang="lat">Multi vero scriptorum indices his in particulis non unumquemque locum monstrant, sed passim dicunt reperiri. At quaerenti et in hoc verbum incidenti subest semper aliqua aegritudo et dubitatio. Quin etiam, quando in articulo tam multa dicenda sunt, quum abest; quam quum adest, inde nova et indigesta orta esset scripturae materies. Non alia est pronominum, coniunctionum et praepositionum conditio; quorum vis est tam subtilis et recondita, ut multo indigeant acumine, et scriptorum aequalium comparatione, cum modo huius libri non conveniente.</p>
+
+<p xml:lang="eng">Many indeed of the indices of writers do not show every specific location, but generally say 'found throughout'. But for the searcher and one coming upon this term, there's always some annoyance and doubt. Moreover, when so many things have to be said in an entry, as when it is absent than when it is present, there would arise new and disorganized writing material. The situation is no different for pronouns, conjunctions, and prepositions; whose force is so subtle and hidden that they require much keenness and comparison with contemporary writers, not in keeping with the purpose of this book.</p>
+
+<p xml:lang="lat">Sed fortasse dicet aliquis, haeres in vado, nulla haec est difficultas; prætereunda est consuetudo communis, et quæ ab illa videntur remota, ea sola notanda sunt. Verum quam tu statuis esse consuetudinem istam communem ? Nonne nuperrima quaeque grammatices disciplina multa iam millies tractata
+
+<pb n="iv"/>
+
+aliter intelligit, retractat et tradit? Finis igitur hic non est constituendus. </p>
+
+<p xml:lang="eng">But perhaps someone will say, 'You're stuck in a rut, this is no difficulty; the common usage should be overlooked, and only those things which seem far from it should be noted.' But what do you determine to be that common usage? Does not even the most recent grammar often understand, reconsider, and teach matters that have already been discussed a thousand times differently?
+
+<pb n="iv"/>
+Therefore, no definitive end can be set here.</p>
+
+<p xml:lang="lat">Haec mihi cogitanti optimum factu visum est, id non attingere, et iis, qui eamdem <foreign xml:lang="grc">λεξικὴν</foreign> quam ego legexriv operam Thucydidi dare volent, relinquere. Ad haec talem laborem, si mihi suscipiendus esset, non Romano sermone tractarem, hac praecipue permotus causa, quod de eo iisdem in rebus non minor quaestio est, et quod, si velis notiones vix adumbratas exponere, unus est fidus interpres, patrius sermo. </p>
+
+<p xml:lang="eng">While considering this, it seemed best to me not to touch upon the matter and to leave it to those who will want to devote the same lexicographical (<foreign xml:lang="grc">λεξικὴν</foreign>) effort to Thucydides as I have. Moreover, if I were to undertake such a task, I would not handle it in the Latin language, being chiefly influenced by the reason that, regarding this, there is no less debate on the same matters in Latin, and because, if you wish to explain barely sketched notions, the one trustworthy interpreter is the native language.</p>
+
+<p xml:lang="lat">Scripsi Genevae XII Feb. MDCCCXLIII.</p>
+
+<p xml:lang="eng">"I wrote [this] in Geneva on the 12th of February, 1843.</p>

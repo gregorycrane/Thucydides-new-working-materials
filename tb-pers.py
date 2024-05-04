@@ -9,7 +9,6 @@ r = Replacer()
 sent_tokenizer = SentenceTokenizer()
 
 
-f = open("1thucunimorphs.txt")
 import stanza
 
 
@@ -83,6 +82,7 @@ uniqforms = {}
 #print(gr)
 curline = ''
 sentid = 1
+f = open("1thucunimorphs.txt")
 for l in f:
 
   if(re.search('^start',l)):

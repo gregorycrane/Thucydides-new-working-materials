@@ -1,0 +1,450 @@
+# sent_id =  2.34.1:1187
+# cite =Thuc. 2.34.1
+$ text = ἐν δὲ τῷ αὐτῷ χειμῶνι Ἀθηναῖοι τῷ πατρίῳ νόμῳ χρώμενοι δημοσίᾳ ταφὰς ἐποιήσαντο τῶν ἐν τῷδε τῷ πολέμῳ πρώτων ἀποθανόντων τρόπῳ τοιῷδε.
+1	ἐν	ἐν	ADP	R-	5	case	-		start_char=0|end_char=2|2.34.1@ἐν[1]
+2	δὲ	δέ	ADV	Df	13	discourse	-		start_char=3|end_char=5|2.34.1@δὲ[1]
+3	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	-		start_char=6|end_char=8|2.34.1@τῷ[1]
+4	αὐτῷ	αὐτός	DET	Pd	Case=Dat|Gender=Masc,Neut|Number=Sing	5	det	-		start_char=9|end_char=13|2.34.1@αὐτῷ[1]
+5	χειμῶνι	χειμών	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	13	obl	-		start_char=14|end_char=21|2.34.1@χειμῶνι[1]
+6	Ἀθηναῖοι	Ἀθηναῖος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	13	nsubj	-		start_char=22|end_char=30|2.34.1@Ἀθηναῖοι[1]
+7	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	-		start_char=31|end_char=33|2.34.1@τῷ[2]
+8	πατρίῳ	πάτριος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	9	amod	-		start_char=34|end_char=40|2.34.1@πατρίῳ[1]
+9	νόμῳ	νόμος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	obl	-		start_char=41|end_char=45|2.34.1@νόμῳ[1]
+10	χρώμενοι	χράω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	13	advcl	-		start_char=46|end_char=54|2.34.1@χρώμενοι[1]|altlem=χράω2
+11	δημοσίᾳ	δημοσίᾳ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	12	amod	-		start_char=55|end_char=62|2.34.1@δημοσίᾳ[1]|altlem=δημόσιος
+12	ταφὰς	ταφή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	13	obj	-		start_char=63|end_char=68|2.34.1@ταφὰς[1]
+13	ἐποιήσαντο	ποιέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	-		start_char=69|end_char=79|2.34.1@ἐποιήσαντο[1]
+14	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	20	det	-		start_char=80|end_char=83|2.34.1@τῶν[1]
+15	ἐν	ἐν	ADP	R-	18	case	-		start_char=84|end_char=86|2.34.1@ἐν[2]
+16	τῷδε	ὅδε	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	18	det	-		start_char=87|end_char=91|2.34.1@τῷδε[1]
+17	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	18	det	-		start_char=92|end_char=94|2.34.1@τῷ[3]
+18	πολέμῳ	πόλεμος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	20	obl	-		start_char=95|end_char=101|2.34.1@πολέμῳ[1]
+19	πρώτων	πρῶτος	ADJ	Mo	Case=Gen|Gender=Masc|Number=Plur	20	nmod	-		start_char=102|end_char=108|2.34.1@πρώτων[1]|altlem=πρότερος
+20	ἀποθανόντων	ἀποθνῄσκω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	13	advcl	-		start_char=109|end_char=120|2.34.1@ἀποθανόντων[1]|altlem=ἀποθνήσκω
+21	τρόπῳ	τρόπος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	20	obl	-		start_char=121|end_char=126|2.34.1@τρόπῳ[1]
+22	τοιῷδε.	τοιόσδε	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	21	det	-		start_char=127|end_char=134|2.34.1@τοιῷδε.[1]
+
+# sent_id =  2.34.2:1188
+# cite =Thuc. 2.34.2
+$ text = τὰ μὲν ὀστᾶ προτίθενται τῶν ἀπογενομένων πρότριτα σκηνὴν ποιήσαντες, καὶ ἐπιφέρει τῷ αὑτοῦ ἕκαστος ἤν τι βούληται·
+1	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	3	det	-		start_char=0|end_char=2|2.34.2@τὰ[1]
+2	μὲν	μέν	ADV	Df	4	discourse	-		start_char=3|end_char=6|2.34.2@μὲν[1]
+3	ὀστᾶ	ὀστή	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	4	obj	-		start_char=7|end_char=11|2.34.2@ὀστᾶ[1]|altlem=ὀστέον
+4	προτίθενται	προτίθημι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	-		start_char=12|end_char=23|2.34.2@προτίθενται[1]|altlem=προθέω2
+5	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	6	det	-		start_char=24|end_char=27|2.34.2@τῶν[1]
+6	ἀπογενομένων	ἀπογίγνομαι	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	3	nmod	-		start_char=28|end_char=40|2.34.2@ἀπογενομένων[1]
+7	πρότριτα	πρότριτον	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj	-		start_char=41|end_char=49|2.34.2@πρότριτα[1]|altlem=πρότριτα
+8	σκηνὴν	σκηνή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj	-		start_char=50|end_char=56|2.34.2@σκηνὴν[1]
+9	ποιήσαντες,	ποιασαντέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	-		start_char=57|end_char=68|2.34.2@ποιήσαντες,[1]
+10	καὶ	καί	CCONJ	C-	4	cc	-		start_char=69|end_char=72|2.34.2@καὶ[1]
+11	ἐπιφέρει	ἐπιφέρω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	-		start_char=73|end_char=81|2.34.2@ἐπιφέρει[1]
+12	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	13	det	-		start_char=82|end_char=84|2.34.2@τῷ[1]
+13	αὑτοῦ	αὐτός	ADJ	Pd	Case=Gen|Gender=Masc|Number=Sing	11	iobj	-		start_char=85|end_char=90|2.34.2@αὑτοῦ[1]|altlem=ἑαυτοῦ
+14	ἕκαστος	ἕκαστος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	nsubj	-		start_char=91|end_char=98|2.34.2@ἕκαστος[1]
+15	ἤν	ἐάν	SCONJ	G-	17	mark	-		start_char=99|end_char=101|2.34.2@ἤν[1]
+16	τι	τὶς	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	17	obj	-		start_char=102|end_char=104|2.34.2@τι[1]|altlem=τις
+17	βούληται·	βουλητέω	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	11	advcl	-		start_char=105|end_char=114|2.34.2@βούληται·[1]
+
+# sent_id =  2.34.3:1189
+# cite =Thuc. 2.34.3
+$ text = ἐπειδὰν δὲ ἡ ἐκφορὰ ᾖ, λάρνακας κυπαρισσίνας ἄγουσιν ἅμαξαι, φυλῆς ἑκάστης μίαν·
+1	ἐπειδὰν	ἐπειδάν	SCONJ	G-	8	mark	-		start_char=0|end_char=7|2.34.3@ἐπειδὰν[1]
+2	δὲ	δέ	ADV	Df	8	discourse	-		start_char=8|end_char=10|2.34.3@δὲ[1]
+3	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	-		start_char=11|end_char=12|2.34.3@ἡ[1]
+4	ἐκφορὰ	ἐκφορά	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	-		start_char=13|end_char=19|2.34.3@ἐκφορὰ[1]
+5	ᾖ,	ἕ	ADP	R-	6	case	-		start_char=20|end_char=22|2.34.3@ᾖ,[1]
+6	λάρνακας	λάρναξ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	8	obl	-		start_char=23|end_char=31|2.34.3@λάρνακας[1]
+7	κυπαρισσίνας	κυπαρίσσιν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	6	amod	-		start_char=32|end_char=44|2.34.3@κυπαρισσίνας[1]|altlem=κυπαρίσσινος
+8	ἄγουσιν	ἄγω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	-		start_char=45|end_char=52|2.34.3@ἄγουσιν[1]
+9	ἅμαξαι,	ἅμαξαι	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	-		start_char=53|end_char=60|2.34.3@ἅμαξαι,[1]
+10	φυλῆς	φυλή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	nmod	-		start_char=61|end_char=66|2.34.3@φυλῆς[1]
+11	ἑκάστης	ἕκαστος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	-		start_char=67|end_char=74|2.34.3@ἑκάστης[1]
+12	μίαν·	μίαν·	X	F-	0	root	-		start_char=75|end_char=80|2.34.3@μίαν·[1]
+
+# sent_id =  2.34.3:1190
+# cite =Thuc. 2.34.3
+$ text = ἔνεστι δὲ τὰ ὀστᾶ ἧς ἕκαστος ἦν φυλῆς.
+1	ἔνεστι	ἔνειμι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-		start_char=0|end_char=6|2.34.3@ἔνεστι[1]
+2	δὲ	δέ	ADV	Df	1	discourse	-		start_char=7|end_char=9|2.34.3@δὲ[2]
+3	τὰ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	4	det	-		start_char=10|end_char=12|2.34.3@τὰ[1]
+4	ὀστᾶ	ὀστή	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	-		start_char=13|end_char=17|2.34.3@ὀστᾶ[1]|altlem=ὀστέον
+5	ἧς	ὅς	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	8	det	-		start_char=18|end_char=20|2.34.3@ἧς[1]
+6	ἕκαστος	ἕκαστος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	nsubj	-		start_char=21|end_char=28|2.34.3@ἕκαστος[1]
+7	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	-		start_char=29|end_char=31|2.34.3@ἦν[1]
+8	φυλῆς.	φυλή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	appos	-		start_char=32|end_char=38|2.34.3@φυλῆς.[1]
+
+# sent_id =  2.34.3:1191
+# cite =Thuc. 2.34.3
+$ text = μία δὲ κλίνη κενὴ φέρεται ἐστρωμένη τῶν ἀφανῶν, οἳ ἂν μὴ εὑρεθῶσιν ἐς ἀναίρεσιν.
+1	μία	εἷς	NUM	Ma	Case=Nom|Gender=Fem|Number=Sing	3	nummod	-		start_char=0|end_char=3|2.34.3@μία[1]
+2	δὲ	δέ	ADV	Df	5	discourse	-		start_char=4|end_char=6|2.34.3@δὲ[3]
+3	κλίνη	κλίνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj:pass	-		start_char=7|end_char=12|2.34.3@κλίνη[1]
+4	κενὴ	κενός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	-		start_char=13|end_char=17|2.34.3@κενὴ[1]
+5	φέρεται	φέρω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	-		start_char=18|end_char=25|2.34.3@φέρεται[1]
+6	ἐστρωμένη	στόρνυμι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	-		start_char=26|end_char=35|2.34.3@ἐστρωμένη[1]|altlem=στόρεννυμι
+7	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	8	det	-		start_char=36|end_char=39|2.34.3@τῶν[1]
+8	ἀφανῶν,	ἀφανών	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	6	iobj	-		start_char=40|end_char=47|2.34.3@ἀφανῶν,[1]
+
+# sent_id =  2.34.4:1192
+# cite =Thuc. 2.34.4
+$ text = ξυνεκφέρει δὲ ὁ βουλόμενος καὶ ἀστῶν καὶ ξένων, καὶ γυναῖκες πάρεισιν αἱ προσήκουσαι ἐπὶ τὸν τάφον ὀλοφυρόμεναι.
+1	ξυνεκφέρει	ξυγφέρω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-		start_char=0|end_char=10|2.34.4@ξυνεκφέρει[1]|altlem=συνεκφέρω
+2	δὲ	δέ	ADV	Df	1	discourse	-		start_char=11|end_char=13|2.34.4@δὲ[1]
+3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	-		start_char=14|end_char=15|2.34.4@ὁ[1]
+4	βουλόμενος	βούλομαι	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	1	nsubj	-		start_char=16|end_char=26|2.34.4@βουλόμενος[1]
+5	καὶ	καί	CCONJ	C-	6	cc	-		start_char=27|end_char=30|2.34.4@καὶ[1]
+6	ἀστῶν	ἀστός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	nmod	-		start_char=31|end_char=36|2.34.4@ἀστῶν[1]
+7	καὶ	καί	CCONJ	C-	6	cc	-		start_char=37|end_char=40|2.34.4@καὶ[2]
+8	ξένων,	ξένωνος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	6	conj	-		start_char=41|end_char=47|2.34.4@ξένων,[1]
+9	καὶ	καί	CCONJ	C-	1	cc	-		start_char=48|end_char=51|2.34.4@καὶ[3]
+10	γυναῖκες	γυνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	11	nsubj	-		start_char=52|end_char=60|2.34.4@γυναῖκες[1]
+11	πάρεισιν	πάρειμι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	-		start_char=61|end_char=69|2.34.4@πάρεισιν[1]|altlem=πάρειμι1
+12	αἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	13	det	-		start_char=70|end_char=72|2.34.4@αἱ[1]
+13	προσήκουσαι	προσήκω	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	nsubj	-		start_char=73|end_char=84|2.34.4@προσήκουσαι[1]
+14	ἐπὶ	ἐπί	ADP	R-	16	case	-		start_char=85|end_char=88|2.34.4@ἐπὶ[1]
+15	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	16	det	-		start_char=89|end_char=92|2.34.4@τὸν[1]
+16	τάφον	τάφος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	obl	-		start_char=93|end_char=98|2.34.4@τάφον[1]|altlem=τάφος1
+17	ὀλοφυρόμεναι.	ὀλοφυρομέω	VERB	V-	Case=Dat|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	13	advcl	-		start_char=99|end_char=112|2.34.4@ὀλοφυρόμεναι.[1]
+
+# sent_id =  2.34.5:1193
+# cite =Thuc. 2.34.5
+$ text = τιθέασιν οὖν ἐς τὸ δημόσιον σῆμα, ὅ ἐστιν ἐπὶ τοῦ καλλίστου προαστείου τῆς πόλεως, καὶ αἰεὶ ἐν αὐτῷ θάπτουσι τοὺς ἐκ τῶν πολέμων, πλήν γε τοὺς ἐν Μαραθῶνι·
+1	τιθέασιν	τίθημι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-		start_char=0|end_char=8|2.34.5@τιθέασιν[1]
+2	οὖν	οὖν	ADV	Df	1	discourse	-		start_char=9|end_char=12|2.34.5@οὖν[1]
+3	ἐς	εἰς	ADP	R-	6	case	-		start_char=13|end_char=15|2.34.5@ἐς[1]
+4	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	6	det	-		start_char=16|end_char=18|2.34.5@τὸ[1]
+5	δημόσιον	δημόσιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	-		start_char=19|end_char=27|2.34.5@δημόσιον[1]
+6	σῆμα,	σῆμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	-		start_char=28|end_char=33|2.34.5@σῆμα,[1]
+7	ὅ	ὅς	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	12	nsubj	-		start_char=34|end_char=35|2.34.5@ὅ[1]
+8	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	-		start_char=36|end_char=41|2.34.5@ἐστιν[1]
+9	ἐπὶ	ἐπί	ADP	R-	12	case	-		start_char=42|end_char=45|2.34.5@ἐπὶ[1]
+10	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	12	det	-		start_char=46|end_char=49|2.34.5@τοῦ[1]
+11	καλλίστου	καλός	ADJ	A-	Case=Gen|Degree=Sup|Gender=Neut|Number=Sing	12	amod	-		start_char=50|end_char=59|2.34.5@καλλίστου[1]
+12	προαστείου	προάστειον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	6	nmod	-		start_char=60|end_char=70|2.34.5@προαστείου[1]
+13	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	14	det	-		start_char=71|end_char=74|2.34.5@τῆς[1]
+14	πόλεως,	πόλεως	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	12	nmod	-		start_char=75|end_char=82|2.34.5@πόλεως,[1]
+15	καὶ	καί	CCONJ	C-	1	cc	-		start_char=83|end_char=86|2.34.5@καὶ[1]
+16	αἰεὶ	ἀεί	ADV	Df	19	advmod	-		start_char=87|end_char=91|2.34.5@αἰεὶ[1]
+17	ἐν	ἐν	ADP	R-	18	case	-		start_char=92|end_char=94|2.34.5@ἐν[1]
+18	αὐτῷ	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obl	-		start_char=95|end_char=99|2.34.5@αὐτῷ[1]
+19	θάπτουσι	θάπτω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	-		start_char=100|end_char=108|2.34.5@θάπτουσι[1]
+20	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	23	det	-		start_char=109|end_char=113|2.34.5@τοὺς[1]
+21	ἐκ	ἐκ	ADP	R-	23	case	-		start_char=114|end_char=116|2.34.5@ἐκ[1]
+22	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	23	det	-		start_char=117|end_char=120|2.34.5@τῶν[1]
+23	πολέμων,	πολέμωνον	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	19	obj	-		start_char=121|end_char=129|2.34.5@πολέμων,[1]
+24	πλήν	πλήν	ADP	R-	28	case	-		start_char=130|end_char=134|2.34.5@πλήν[1]
+25	γε	γε	ADV	Df	28	discourse	-		start_char=135|end_char=137|2.34.5@γε[1]
+26	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	28	det	-		start_char=138|end_char=142|2.34.5@τοὺς[2]
+27	ἐν	ἐν	ADP	R-	28	case	-		start_char=143|end_char=145|2.34.5@ἐν[2]
+28	Μαραθῶνι·	Μαραθώνις	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	23	nmod	-		start_char=146|end_char=155|2.34.5@Μαραθῶνι·[1]
+
+# sent_id =  2.34.5:1194
+# cite =Thuc. 2.34.5
+$ text = ἐκείνων δὲ διαπρεπῆ τὴν ἀρετὴν κρίναντες αὐτοῦ καὶ τὸν τάφον ἐποίησαν.
+1	ἐκείνων	ἐκεῖνος	ADJ	Pd	Case=Gen|Gender=Masc|Number=Plur	5	nmod	-		start_char=0|end_char=7|2.34.5@ἐκείνων[1]
+2	δὲ	δέ	ADV	Df	11	discourse	-		start_char=8|end_char=10|2.34.5@δὲ[1]
+3	διαπρεπῆ	διαπρεπῆ	ADV	Df	11	advmod	-		start_char=11|end_char=19|2.34.5@διαπρεπῆ[1]|altlem=διαπρεπής
+4	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	-		start_char=20|end_char=23|2.34.5@τὴν[1]
+5	ἀρετὴν	ἀρετή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	-		start_char=24|end_char=30|2.34.5@ἀρετὴν[1]
+6	κρίναντες	κρίνω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	11	advcl	-		start_char=31|end_char=40|2.34.5@κρίναντες[1]
+7	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	-		start_char=41|end_char=46|2.34.5@αὐτοῦ[1]|altlem=αὐτοῦ
+8	καὶ	καί	CCONJ	C-	6	cc	-		start_char=47|end_char=50|2.34.5@καὶ[2]
+9	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	10	det	-		start_char=51|end_char=54|2.34.5@τὸν[1]
+10	τάφον	τάφος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obj	-		start_char=55|end_char=60|2.34.5@τάφον[1]|altlem=τάφος1
+11	ἐποίησαν.	ποιέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-		start_char=61|end_char=70|2.34.5@ἐποίησαν.[1]
+
+# sent_id =  2.34.6:1195
+# cite =Thuc. 2.34.6
+$ text = ἐπειδὰν δὲ κρύψωσι γῇ, ἀνὴρ ᾑρημένος ὑπὸ τῆς πόλεως, ὃς ἂν γνώμῃ τε δοκῇ μὴ ἀξύνετος εἶναι καὶ ἀξιώσει προήκῃ, λέγει ἐπ’ αὐτοῖς ἔπαινον τὸν πρέποντα·
+1	ἐπειδὰν	ἐπειδάν	SCONJ	G-	3	mark	-		start_char=0|end_char=7|2.34.6@ἐπειδὰν[1]
+2	δὲ	δέ	ADV	Df	21	discourse	-		start_char=8|end_char=10|2.34.6@δὲ[1]
+3	κρύψωσι	κρύπτω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	advcl	-		start_char=11|end_char=18|2.34.6@κρύψωσι[1]
+4	γῇ,	γῆ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	-		start_char=19|end_char=22|2.34.6@γῇ,[1]
+5	ἀνὴρ	ἀνήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	-		start_char=23|end_char=27|2.34.6@ἀνὴρ[1]
+6	ᾑρημένος	αἱρέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	-		start_char=28|end_char=36|2.34.6@ᾑρημένος[1]
+7	ὑπὸ	ὑπό	ADP	R-	9	case	-		start_char=37|end_char=40|2.34.6@ὑπὸ[1]
+8	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	-		start_char=41|end_char=44|2.34.6@τῆς[1]
+9	πόλεως,	πόλεως	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	obl:agent	-		start_char=45|end_char=52|2.34.6@πόλεως,[1]
+10	ὃς	ὅς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	-		start_char=53|end_char=55|2.34.6@ὃς[1]
+11	ἂν	ἄν	ADV	Df	14	advmod	-		start_char=56|end_char=58|2.34.6@ἂν[1]|altlem=ἄν1
+12	γνώμῃ	γνώμη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	14	iobj	-		start_char=59|end_char=64|2.34.6@γνώμῃ[1]
+13	τε	τε	CCONJ	C-	14	cc	-		start_char=65|end_char=67|2.34.6@τε[1]
+14	δοκῇ	δοκέω	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	-		start_char=68|end_char=72|2.34.6@δοκῇ[1]
+15	μὴ	μή	ADV	Df	Polarity=Neg	16	advmod	-		start_char=73|end_char=75|2.34.6@μὴ[1]
+16	ἀξύνετος	ἀξύνετος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	14	xcomp	-		start_char=76|end_char=84|2.34.6@ἀξύνετος[1]|altlem=ἀσύνετος
+17	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	16	cop	-		start_char=85|end_char=90|2.34.6@εἶναι[1]
+18	καὶ	καί	CCONJ	C-	14	cc	-		start_char=91|end_char=94|2.34.6@καὶ[1]
+19	ἀξιώσει	ἀξιόω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	conj	-		start_char=95|end_char=102|2.34.6@ἀξιώσει[1]|altlem=ἀξίωσις
+20	προήκῃ,	προήκω	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	-		start_char=103|end_char=110|2.34.6@προήκῃ,[1]
+21	λέγει	λέγω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-		start_char=111|end_char=116|2.34.6@λέγει[1]|altlem=λέγω2
+22	ἐπ’	ἐπί	ADP	R-	23	case	-		start_char=117|end_char=120|2.34.6@ἐπ’[1]
+23	αὐτοῖς	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	obl	-		start_char=121|end_char=127|2.34.6@αὐτοῖς[1]
+
+# sent_id =  2.34.6:1196
+# cite =Thuc. 2.34.6
+$ text = μετὰ δὲ τοῦτο ἀπέρχονται.
+1	μετὰ	μετά	ADP	R-	3	case	-		start_char=0|end_char=4|2.34.6@μετὰ[1]
+2	δὲ	δέ	ADV	Df	4	discourse	-		start_char=5|end_char=7|2.34.6@δὲ[2]
+3	τοῦτο	οὗτος	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obl	-		start_char=8|end_char=13|2.34.6@τοῦτο[1]
+4	ἀπέρχονται.	ἀπορχοντάω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	-		start_char=14|end_char=25|2.34.6@ἀπέρχονται.[1]
+
+# sent_id =  2.34.7:1197
+# cite =Thuc. 2.34.7
+$ text = ὧδε μὲν θάπτουσιν·
+1	ὧδε	ὧδε	ADV	Df	3	advmod	-		start_char=0|end_char=3|2.34.7@ὧδε[1]
+2	μὲν	μέν	ADV	Df	3	discourse	-		start_char=4|end_char=7|2.34.7@μὲν[1]
+3	θάπτουσιν·	θαπτούω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-		start_char=8|end_char=18|2.34.7@θάπτουσιν·[1]
+
+# sent_id =  2.34.7:1198
+# cite =Thuc. 2.34.7
+$ text = καὶ διὰ παντὸς τοῦ πολέμου, ὁπότε ξυμβαίη αὐτοῖς, ἐχρῶντο τῷ νόμῳ.
+1	καὶ	καί	CCONJ	C-	9	cc	-		start_char=0|end_char=3|2.34.7@καὶ[1]
+2	διὰ	διά	ADP	R-	5	case	-		start_char=4|end_char=7|2.34.7@διὰ[1]
+3	παντὸς	πᾶς	DET	Px	Case=Gen|Gender=Masc|Number=Sing	5	det	-		start_char=8|end_char=14|2.34.7@παντὸς[1]
+4	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	-		start_char=15|end_char=18|2.34.7@τοῦ[1]
+5	πολέμου,	πολέμους	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	obl	-		start_char=19|end_char=27|2.34.7@πολέμου,[1]
+6	ὁπότε	ὁπότε	SCONJ	G-	9	mark	-		start_char=28|end_char=33|2.34.7@ὁπότε[1]
+7	ξυμβαίη	ξυμβαία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	-		start_char=34|end_char=41|2.34.7@ξυμβαίη[1]|altlem=συμβαίνω
+8	αὐτοῖς,	αὐτός	DET	Pd	Case=Dat|Gender=Fem|Number=Plur	11	det	-		start_char=42|end_char=49|2.34.7@αὐτοῖς,[1]
+9	ἐχρῶντο	χράω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	-		start_char=50|end_char=57|2.34.7@ἐχρῶντο[1]|altlem=χράω2
+10	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	11	det	-		start_char=58|end_char=60|2.34.7@τῷ[1]
+11	νόμῳ.	νόμος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	9	iobj	-		start_char=61|end_char=66|2.34.7@νόμῳ.[1]
+
+# sent_id =  2.34.8:1199
+# cite =Thuc. 2.34.8
+$ text = ἐπὶ δ’ οὖν τοῖς πρώτοις τοῖσδε Περικλῆς ὁ Ξανθίππου ᾑρέθη λέγειν.
+1	ἐπὶ	ἐπί	ADP	R-	5	case	-		start_char=0|end_char=3|2.34.8@ἐπὶ[1]
+2	δ’	δέ	ADV	Df	10	discourse	-		start_char=4|end_char=6|2.34.8@δ’[1]
+3	οὖν	οὖν	ADV	Df	10	discourse	-		start_char=7|end_char=10|2.34.8@οὖν[1]
+4	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	5	det	-		start_char=11|end_char=15|2.34.8@τοῖς[1]
+5	πρώτοις	πρῶτος	ADJ	Mo	Case=Dat|Gender=Masc|Number=Plur	10	advmod	-		start_char=16|end_char=23|2.34.8@πρώτοις[1]|altlem=πρότερος
+6	τοῖσδε	ὅδε	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	5	det	-		start_char=24|end_char=30|2.34.8@τοῖσδε[1]
+7	Περικλῆς	Περικλῆς	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	5	nmod	-		start_char=31|end_char=39|2.34.8@Περικλῆς[1]
+8	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	-		start_char=40|end_char=41|2.34.8@ὁ[1]
+9	Ξανθίππου	Ξάνθιππος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	nmod	-		start_char=42|end_char=51|2.34.8@Ξανθίππου[1]
+10	ᾑρέθη	λέγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	-		start_char=52|end_char=57|2.34.8@ᾑρέθη[1]|altlem=αἱρέω
+11	λέγειν.	λέγω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	-		start_char=58|end_char=65|2.34.8@λέγειν.[1]
+
+# sent_id =  2.34.8:1200
+# cite =Thuc. 2.34.8
+$ text = καὶ ἐπειδὴ καιρὸς ἐλάμβανε, προελθὼν ἀπὸ τοῦ σήματος ἐπὶ βῆμα ὑψηλὸν πεποιημένον, ὅπως ἀκούοιτο ὡς ἐπὶ πλεῖστον τοῦ ὁμίλου, ἔλεγε τοιάδε.
+1	καὶ	καί	CCONJ	C-	4	cc	-		start_char=0|end_char=3|2.34.8@καὶ[1]
+2	ἐπειδὴ	ἐπειδή	SCONJ	G-	4	mark	-		start_char=4|end_char=10|2.34.8@ἐπειδὴ[1]|altlem=ἐπεί
+3	καιρὸς	καιρός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	-		start_char=11|end_char=17|2.34.8@καιρὸς[1]
+4	ἐλάμβανε,	λαμβάνω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-		start_char=18|end_char=27|2.34.8@ἐλάμβανε,[1]
+5	προελθὼν	προέρχομαι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	-		start_char=28|end_char=36|2.34.8@προελθὼν[1]
+6	ἀπὸ	ἀπό	ADP	R-	8	case	-		start_char=37|end_char=40|2.34.8@ἀπὸ[1]
+7	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	8	det	-		start_char=41|end_char=44|2.34.8@τοῦ[1]
+8	σήματος	σῆμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	obl	-		start_char=45|end_char=52|2.34.8@σήματος[1]
+9	ἐπὶ	ἐπί	ADP	R-	10	case	-		start_char=53|end_char=56|2.34.8@ἐπὶ[2]
+10	βῆμα	βῆμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obl	-		start_char=57|end_char=61|2.34.8@βῆμα[1]
+11	ὑψηλὸν	ὑψηλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	-		start_char=62|end_char=68|2.34.8@ὑψηλὸν[1]
+12	πεποιημένον,	ποιημένω	VERB	V-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	-		start_char=69|end_char=81|2.34.8@πεποιημένον,[1]
+13	ὅπως	ὅπως	SCONJ	G-	14	mark	-		start_char=82|end_char=86|2.34.8@ὅπως[1]
+14	ἀκούοιτο	ἀκούω	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	advcl	-		start_char=87|end_char=95|2.34.8@ἀκούοιτο[1]
+15	ὡς	ὡς	SCONJ	G-	20	mark	-		start_char=96|end_char=98|2.34.8@ὡς[1]
+16	ἐπὶ	ἐπί	ADP	R-	17	case	-		start_char=99|end_char=102|2.34.8@ἐπὶ[3]
+17	πλεῖστον	πολύς	ADJ	A-	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	20	advmod	-		start_char=103|end_char=111|2.34.8@πλεῖστον[1]|altlem=πλεῖστος
+18	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	19	det	-		start_char=112|end_char=115|2.34.8@τοῦ[2]
+19	ὁμίλου,	ὁμίλους	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	17	nmod	-		start_char=116|end_char=123|2.34.8@ὁμίλου,[1]
+20	ἔλεγε	λέγω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	ccomp	-		start_char=124|end_char=129|2.34.8@ἔλεγε[1]|altlem=λέγω2
+
+# sent_id =  2.35.1:1201
+# cite =Thuc. 2.35.1
+$ text = οἱ μὲν πολλοὶ τῶν ἐνθάδε ἤδη εἰρηκότων ἐπαινοῦσι τὸν προσθέντα τῷ νόμῳ τὸν λόγον τόνδε, ὡς καλὸν ἐπὶ τοῖς ἐκ τῶν πολέμων θαπτομένοις ἀγορεύεσθαι αὐτόν.
+1	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	3	det	-		start_char=0|end_char=2|2.35.1@οἱ[1]
+2	μὲν	μέν	ADV	Df	8	discourse	-		start_char=3|end_char=6|2.35.1@μὲν[1]
+3	πολλοὶ	πολύς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	8	nsubj	-		start_char=7|end_char=13|2.35.1@πολλοὶ[1]
+4	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	7	det	-		start_char=14|end_char=17|2.35.1@τῶν[1]
+5	ἐνθάδε	ἐνθάδε	ADV	Df	7	advmod	-		start_char=18|end_char=24|2.35.1@ἐνθάδε[1]
+6	ἤδη	ἤδη	ADV	Df	7	advmod	-		start_char=25|end_char=28|2.35.1@ἤδη[1]
+7	εἰρηκότων	λέγω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	-		start_char=29|end_char=38|2.35.1@εἰρηκότων[1]|altlem=ἐρῶ
+8	ἐπαινοῦσι	ἐπαινέω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-		start_char=39|end_char=48|2.35.1@ἐπαινοῦσι[1]
+9	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	10	det	-		start_char=49|end_char=52|2.35.1@τὸν[1]
+10	προσθέντα	προστίθημι	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	obj	-		start_char=53|end_char=62|2.35.1@προσθέντα[1]
+11	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	det	-		start_char=63|end_char=65|2.35.1@τῷ[1]
+12	νόμῳ	νόμος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	iobj	-		start_char=66|end_char=70|2.35.1@νόμῳ[1]
+13	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	14	det	-		start_char=71|end_char=74|2.35.1@τὸν[2]
+14	λόγον	λόγος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obj	-		start_char=75|end_char=80|2.35.1@λόγον[1]
+15	τόνδε,	ὅδε	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	14	det	-		start_char=81|end_char=87|2.35.1@τόνδε,[1]
+16	ὡς	ὡς	ADV	Df	17	advmod	-		start_char=88|end_char=90|2.35.1@ὡς[1]
+17	καλὸν	καλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	14	amod	-		start_char=91|end_char=96|2.35.1@καλὸν[1]
+18	ἐπὶ	ἐπί	ADP	R-	23	case	-		start_char=97|end_char=100|2.35.1@ἐπὶ[1]
+19	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	23	det	-		start_char=101|end_char=105|2.35.1@τοῖς[1]
+20	ἐκ	ἐκ	ADP	R-	22	case	-		start_char=106|end_char=108|2.35.1@ἐκ[1]
+21	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	22	det	-		start_char=109|end_char=112|2.35.1@τῶν[2]
+22	πολέμων	πόλεμος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	23	obl	-		start_char=113|end_char=120|2.35.1@πολέμων[1]
+23	θαπτομένοις	θάπτω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	24	iobj	-		start_char=121|end_char=132|2.35.1@θαπτομένοις[1]
+24	ἀγορεύεσθαι	ἀγορεύομαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	8	ccomp	-		start_char=133|end_char=144|2.35.1@ἀγορεύεσθαι[1]|altlem=ἀγορεύω
+25	αὐτόν.	αὐτός	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	24	obj	-		start_char=145|end_char=151|2.35.1@αὐτόν.[1]
+
+# sent_id =  2.35.1:1202
+# cite =Thuc. 2.35.1
+$ text = ἐμοὶ δὲ ἀρκοῦν ἂν ἐδόκει εἶναι ἀνδρῶν ἀγαθῶν ἔργῳ γενομένων ἔργῳ καὶ δηλοῦσθαι τὰς τιμάς, οἷα καὶ νῦν περὶ τὸν τάφον τόνδε δημοσίᾳ παρασκευασθέντα ὁρᾶτε, καὶ μὴ ἐν ἑνὶ ἀνδρὶ πολλῶν ἀρετὰς κινδυνεύεσθαι εὖ τε καὶ χεῖρον εἰπόντι πιστευθῆναι.
+1	ἐμοὶ	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	iobj	-		start_char=0|end_char=4|2.35.1@ἐμοὶ[1]
+2	δὲ	δέ	ADV	Df	5	discourse	-		start_char=5|end_char=7|2.35.1@δὲ[1]
+3	ἀρκοῦν	ἀείρω	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	-		start_char=8|end_char=14|2.35.1@ἀρκοῦν[1]|altlem=ἀρκέω
+4	ἂν	ἄν	ADV	Df	3	advmod	-		start_char=15|end_char=17|2.35.1@ἂν[1]|altlem=ἄν1
+5	ἐδόκει	δοκέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-		start_char=18|end_char=24|2.35.1@ἐδόκει[1]
+6	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	cop	-		start_char=25|end_char=30|2.35.1@εἶναι[1]
+7	ἀνδρῶν	ἀνήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	iobj	-		start_char=31|end_char=37|2.35.1@ἀνδρῶν[1]
+8	ἀγαθῶν	ἀγαθός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	7	amod	-		start_char=38|end_char=44|2.35.1@ἀγαθῶν[1]
+9	ἔργῳ	ἔργον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	10	xcomp	-		start_char=45|end_char=49|2.35.1@ἔργῳ[1]
+10	γενομένων	γίγνομαι	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	7	acl	-		start_char=50|end_char=59|2.35.1@γενομένων[1]
+11	ἔργῳ	ἔργον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	10	obl	-		start_char=60|end_char=64|2.35.1@ἔργῳ[2]
+12	καὶ	καί	CCONJ	C-	3	cc	-		start_char=65|end_char=68|2.35.1@καὶ[1]
+13	δηλοῦσθαι	δηλόω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	10	conj	-		start_char=69|end_char=78|2.35.1@δηλοῦσθαι[1]
+14	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	15	det	-		start_char=79|end_char=82|2.35.1@τὰς[1]
+15	τιμάς,	τιμάς	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	13	obj	-		start_char=83|end_char=89|2.35.1@τιμάς,[1]
+16	οἷα	οἷος	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	25	obl	-		start_char=90|end_char=93|2.35.1@οἷα[1]
+17	καὶ	καί	ADV	Df	25	advmod	-		start_char=94|end_char=97|2.35.1@καὶ[2]
+18	νῦν	νῦν	ADV	Df	25	advmod	-		start_char=98|end_char=101|2.35.1@νῦν[1]
+19	περὶ	περί	ADP	R-	21	case	-		start_char=102|end_char=106|2.35.1@περὶ[1]
+20	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	21	det	-		start_char=107|end_char=110|2.35.1@τὸν[3]
+21	τάφον	τάφος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	25	obl	-		start_char=111|end_char=116|2.35.1@τάφον[1]|altlem=τάφος1
+22	τόνδε	ὅδε	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	21	det	-		start_char=117|end_char=122|2.35.1@τόνδε[1]
+23	δημοσίᾳ	δημοσίᾳ	ADV	Df	24	advmod	-		start_char=123|end_char=130|2.35.1@δημοσίᾳ[1]|altlem=δημόσιος
+24	παρασκευασθέντα	παρασκευάζω	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	25	advcl	-		start_char=131|end_char=146|2.35.1@παρασκευασθέντα[1]
+25	ὁρᾶτε,	ὁράω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	ccomp	-		start_char=147|end_char=153|2.35.1@ὁρᾶτε,[1]
+26	καὶ	καί	CCONJ	C-	25	cc	-		start_char=154|end_char=157|2.35.1@καὶ[3]
+27	μὴ	μή	ADV	Df	Polarity=Neg	33	advmod	-		start_char=158|end_char=160|2.35.1@μὴ[1]
+28	ἐν	ἐν	ADP	R-	30	case	-		start_char=161|end_char=163|2.35.1@ἐν[1]
+29	ἑνὶ	εἷς	NUM	Ma	Case=Dat|Gender=Masc|Number=Sing	30	nummod	-		start_char=164|end_char=167|2.35.1@ἑνὶ[1]
+30	ἀνδρὶ	ἀνήρ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	33	obl	-		start_char=168|end_char=173|2.35.1@ἀνδρὶ[1]
+31	πολλῶν	πολύς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	30	amod	-		start_char=174|end_char=180|2.35.1@πολλῶν[1]
+32	ἀρετὰς	ἀρετή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	33	obj	-		start_char=181|end_char=187|2.35.1@ἀρετὰς[1]
+33	κινδυνεύεσθαι	κινδυνεύω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	25	conj	-		start_char=188|end_char=201|2.35.1@κινδυνεύεσθαι[1]
+34	εὖ	εὖ	ADV	Df	39	advmod	-		start_char=202|end_char=204|2.35.1@εὖ[1]
+35	τε	τε	CCONJ	C-	34	cc	-		start_char=205|end_char=207|2.35.1@τε[1]
+36	καὶ	καί	CCONJ	C-	34	cc	-		start_char=208|end_char=211|2.35.1@καὶ[4]
+37	χεῖρον	χείρων	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	34	conj	-		start_char=212|end_char=218|2.35.1@χεῖρον[1]
+38	εἰπόντι	λέγω	VERB	V-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	39	advcl	-		start_char=219|end_char=226|2.35.1@εἰπόντι[1]|altlem=εἶπον
+39	πιστευθῆναι.	πιστευθηνέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	33	conj	-		start_char=227|end_char=239|2.35.1@πιστευθῆναι.[1]
+
+# sent_id =  2.35.2:1203
+# cite =Thuc. 2.35.2
+$ text = χαλεπὸν γὰρ τὸ μετρίως εἰπεῖν ἐν ᾧ μόλις καὶ ἡ δόκησις τῆς ἀληθείας βεβαιοῦται.
+1	χαλεπὸν	χαλεπός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	-		start_char=0|end_char=7|2.35.2@χαλεπὸν[1]
+2	γὰρ	γάρ	ADV	Df	1	discourse	-		start_char=8|end_char=11|2.35.2@γὰρ[1]
+3	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	4	det	-		start_char=12|end_char=14|2.35.2@τὸ[1]
+4	μετρίως	μετρίως	ADV	Df	Degree=Pos	5	advmod	-		start_char=15|end_char=22|2.35.2@μετρίως[1]|altlem=μέτριος
+5	εἰπεῖν	λέγω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	1	ccomp	-		start_char=23|end_char=29|2.35.2@εἰπεῖν[1]|altlem=εἶπον
+6	ἐν	ἐν	ADP	R-	7	case	-		start_char=30|end_char=32|2.35.2@ἐν[1]
+7	ᾧ	ὅς	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	14	obl	-		start_char=33|end_char=34|2.35.2@ᾧ[1]
+8	μόλις	μόλις	ADV	Df	14	advmod	-		start_char=35|end_char=40|2.35.2@μόλις[1]
+9	καὶ	καί	ADV	Df	14	advmod	-		start_char=41|end_char=44|2.35.2@καὶ[1]
+10	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	11	det	-		start_char=45|end_char=46|2.35.2@ἡ[1]
+11	δόκησις	δόκησις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	nsubj:pass	-		start_char=47|end_char=54|2.35.2@δόκησις[1]
+12	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	-		start_char=55|end_char=58|2.35.2@τῆς[1]
+13	ἀληθείας	ἀλήθεια	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	nmod	-		start_char=59|end_char=67|2.35.2@ἀληθείας[1]
+14	βεβαιοῦται.	βεβαιουταίω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	ccomp	-		start_char=68|end_char=79|2.35.2@βεβαιοῦται.[1]
+
+# sent_id =  2.35.2:1204
+# cite =Thuc. 2.35.2
+$ text = ὅ τε γὰρ ξυνειδὼς καὶ εὔνους ἀκροατὴς τάχ’ ἄν τι ἐνδεεστέρως πρὸς ἃ βούλεταί τε καὶ ἐπίσταται νομίσειε δηλοῦσθαι, ὅ τε ἄπειρος ἔστιν ἃ καὶ πλεονάζεσθαι, διὰ φθόνον, εἴ τι ὑπὲρ τὴν αὑτοῦ φύσιν ἀκούοι.
+1	ὅ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	-		start_char=0|end_char=1|2.35.2@ὅ[1]
+2	τε	τε	CCONJ	C-	8	cc	-		start_char=2|end_char=4|2.35.2@τε[1]
+3	γὰρ	γάρ	ADV	Df	8	discourse	-		start_char=5|end_char=8|2.35.2@γὰρ[2]
+4	ξυνειδὼς	ξυνεύδομαι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	nsubj	-		start_char=9|end_char=17|2.35.2@ξυνειδὼς[1]|altlem=σύνοιδα
+5	καὶ	καί	CCONJ	C-	4	cc	-		start_char=18|end_char=21|2.35.2@καὶ[2]
+6	εὔνους	εὔνος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	-		start_char=22|end_char=28|2.35.2@εὔνους[1]|altlem=εὔνους
+7	ἀκροατὴς	ἀκροατής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	-		start_char=29|end_char=37|2.35.2@ἀκροατὴς[1]
+8	τάχ’	τάσσω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-		start_char=38|end_char=42|2.35.2@τάχ’[1]|altlem=τάχα
+9	ἄν	ἄν	ADV	Df	8	advmod	-		start_char=43|end_char=45|2.35.2@ἄν[1]|altlem=ἄν1
+10	τι	τὶς	DET	Px	Case=Acc|Gender=Neut|Number=Sing	11	det	-		start_char=46|end_char=48|2.35.2@τι[1]|altlem=τις
+11	ἐνδεεστέρως	ἐνδεεστέρως	ADV	Df	Degree=Cmp	8	advmod	-		start_char=49|end_char=60|2.35.2@ἐνδεεστέρως[1]|altlem=ἐνδεής
+12	πρὸς	πρός	ADP	R-	14	case	-		start_char=61|end_char=65|2.35.2@πρὸς[1]
+13	ἃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	14	obj	-		start_char=66|end_char=67|2.35.2@ἃ[1]
+14	βούλεταί	βούλομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	8	obj	-		start_char=68|end_char=76|2.35.2@βούλεταί[1]
+15	τε	τε	CCONJ	C-	14	cc	-		start_char=77|end_char=79|2.35.2@τε[2]
+16	καὶ	καί	CCONJ	C-	14	cc	-		start_char=80|end_char=83|2.35.2@καὶ[3]
+17	ἐπίσταται	ἐπίσταμαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	14	conj	-		start_char=84|end_char=93|2.35.2@ἐπίσταται[1]
+18	νομίσειε	νομίζω	VERB	V-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	-		start_char=94|end_char=102|2.35.2@νομίσειε[1]
+19	δηλοῦσθαι,	δηλοιθέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	18	xcomp	-		start_char=103|end_char=113|2.35.2@δηλοῦσθαι,[1]
+20	ὅ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	22	det	-		start_char=114|end_char=115|2.35.2@ὅ[2]
+21	τε	τε	CCONJ	C-	22	cc	-		start_char=116|end_char=118|2.35.2@τε[3]
+22	ἄπειρος	ἄπειρος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	18	nsubj	-		start_char=119|end_char=126|2.35.2@ἄπειρος[1]|altlem=ἄπειρος1
+23	ἔστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	-		start_char=127|end_char=132|2.35.2@ἔστιν[1]
+24	ἃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	26	obj	-		start_char=133|end_char=134|2.35.2@ἃ[2]
+25	καὶ	καί	ADV	Df	26	advmod	-		start_char=135|end_char=138|2.35.2@καὶ[4]
+26	πλεονάζεσθαι,	πλεοναζείζω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	22	acl	-		start_char=139|end_char=152|2.35.2@πλεονάζεσθαι,[1]
+27	διὰ	διά	ADP	R-	28	case	-		start_char=153|end_char=156|2.35.2@διὰ[1]
+28	φθόνον,	φθόνονος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	26	obl	-		start_char=157|end_char=164|2.35.2@φθόνον,[1]
+29	εἴ	εἰ	SCONJ	G-	35	mark	-		start_char=165|end_char=167|2.35.2@εἴ[1]
+30	τι	τὶς	DET	Px	Case=Acc|Gender=Neut|Number=Sing	34	det	-		start_char=168|end_char=170|2.35.2@τι[2]|altlem=τις
+31	ὑπὲρ	ὑπέρ	ADP	R-	34	case	-		start_char=171|end_char=175|2.35.2@ὑπὲρ[1]
+32	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	34	det	-		start_char=176|end_char=179|2.35.2@τὴν[1]
+33	αὑτοῦ	αὐτός	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	34	det	-		start_char=180|end_char=185|2.35.2@αὑτοῦ[1]|altlem=ἑαυτοῦ
+34	φύσιν	φύσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	35	obl	-		start_char=186|end_char=191|2.35.2@φύσιν[1]
+35	ἀκούοι.	ἀκούω	VERB	V-	Mood=Opt|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	advcl	-		start_char=192|end_char=199|2.35.2@ἀκούοι.[1]
+
+# sent_id =  2.35.2:1205
+# cite =Thuc. 2.35.2
+$ text = μέχρι γὰρ τοῦδε ἀνεκτοὶ οἱ ἔπαινοί εἰσι περὶ ἑτέρων λεγόμενοι, ἐς ὅσον ἂν καὶ αὐτὸς ἕκαστος οἴηται ἱκανὸς εἶναι δρᾶσαί τι ὧν ἤκουσεν·
+1	μέχρι	μέχρι	ADP	R-	3	case	-		start_char=0|end_char=5|2.35.2@μέχρι[1]
+2	γὰρ	γάρ	ADV	Df	3	discourse	-		start_char=6|end_char=9|2.35.2@γὰρ[3]
+3	τοῦδε	ὅδε	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	0	root	-		start_char=10|end_char=15|2.35.2@τοῦδε[1]
+4	ἀνεκτοὶ	ἀνεκτό	ADV	Df	3	advmod	-		start_char=16|end_char=23|2.35.2@ἀνεκτοὶ[1]|altlem=ἀνεκτός
+5	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	6	det	-		start_char=24|end_char=26|2.35.2@οἱ[1]
+6	ἔπαινοί	ἔπαινος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	-		start_char=27|end_char=34|2.35.2@ἔπαινοί[1]
+7	εἰσι	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	-		start_char=35|end_char=39|2.35.2@εἰσι[1]
+8	περὶ	περί	ADP	R-	9	case	-		start_char=40|end_char=44|2.35.2@περὶ[1]
+9	ἑτέρων	ἕτερος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	10	advmod	-		start_char=45|end_char=51|2.35.2@ἑτέρων[1]
+10	λεγόμενοι,	λέγω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	3	advcl	-		start_char=52|end_char=62|2.35.2@λεγόμενοι,[1]
+11	ἐς	εἰς	SCONJ	G-	17	mark	-		start_char=63|end_char=65|2.35.2@ἐς[1]
+12	ὅσον	ὅσος	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	11	fixed	-		start_char=66|end_char=70|2.35.2@ὅσον[1]
+13	ἂν	ἄν	ADV	Df	17	advmod	-		start_char=71|end_char=73|2.35.2@ἂν[1]|altlem=ἄν1
+14	καὶ	καί	ADV	Df	15	advmod	-		start_char=74|end_char=77|2.35.2@καὶ[5]
+15	αὐτὸς	αὐτός	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	-		start_char=78|end_char=83|2.35.2@αὐτὸς[1]
+16	ἕκαστος	ἕκαστος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	nsubj	-		start_char=84|end_char=91|2.35.2@ἕκαστος[1]
+17	οἴηται	οἶομαι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	3	advcl	-		start_char=92|end_char=98|2.35.2@οἴηται[1]|altlem=οἴομαι
+18	ἱκανὸς	ἱκανός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	xcomp	-		start_char=99|end_char=105|2.35.2@ἱκανὸς[1]
+19	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	18	cop	-		start_char=106|end_char=111|2.35.2@εἶναι[1]
+20	δρᾶσαί	δράζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	18	ccomp	-		start_char=112|end_char=118|2.35.2@δρᾶσαί[1]|altlem=δράω
+21	τι	τὶς	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	20	obj	-		start_char=119|end_char=121|2.35.2@τι[3]|altlem=τις
+22	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	23	obj	-		start_char=122|end_char=124|2.35.2@ὧν[1]
+23	ἤκουσεν·	ἀκούω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	acl	-		start_char=125|end_char=133|2.35.2@ἤκουσεν·[1]
+
+# sent_id =  2.35.2:1206
+# cite =Thuc. 2.35.2
+$ text = τῷ δὲ ὑπερβάλλοντι αὐτῶν φθονοῦντες ἤδη καὶ ἀπιστοῦσιν.
+1	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	-		start_char=0|end_char=2|2.35.2@τῷ[1]
+2	δὲ	δέ	ADV	Df	0	root	-		start_char=3|end_char=5|2.35.2@δὲ[1]
+3	ὑπερβάλλοντι	ὑπερβάλλω	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	iobj	-		start_char=6|end_char=18|2.35.2@ὑπερβάλλοντι[1]
+4	αὐτῶν	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nmod	-		start_char=19|end_char=24|2.35.2@αὐτῶν[1]
+5	φθονοῦντες	φθονέω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	nsubj	-		start_char=25|end_char=35|2.35.2@φθονοῦντες[1]
+6	ἤδη	ἤδη	ADV	Df	5	advmod	-		start_char=36|end_char=39|2.35.2@ἤδη[1]
+7	καὶ	καί	CCONJ	C-	5	cc	-		start_char=40|end_char=43|2.35.2@καὶ[6]
+8	ἀπιστοῦσιν.	ἀπιστέω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	conj	-		start_char=44|end_char=55|2.35.2@ἀπιστοῦσιν.[1]
+
+# sent_id =  2.35.3:1207
+# cite =Thuc. 2.35.3
+$ text = ἐπειδὴ δὲ τοῖς πάλαι οὕτως ἐδοκιμάσθη ταῦτα καλῶς ἔχειν, χρὴ καὶ ἐμὲ ἑπόμενον τῷ νόμῳ πειρᾶσθαι ὑμῶν τῆς ἑκάστου βουλήσεώς τε καὶ δόξης τυχεῖν ὡς ἐπὶ πλεῖστον.
+1	ἐπειδὴ	ἐπειδή	SCONJ	G-	6	mark	-		start_char=0|end_char=6|2.35.3@ἐπειδὴ[1]|altlem=ἐπεί
+2	δὲ	δέ	ADV	Df	10	discourse	-		start_char=7|end_char=9|2.35.3@δὲ[1]
+3	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	-		start_char=10|end_char=14|2.35.3@τοῖς[1]
+4	πάλαι	πάλαι	ADV	Df	6	advmod	-		start_char=15|end_char=20|2.35.3@πάλαι[1]
+5	οὕτως	οὕτω(ς)	ADV	Df	6	advmod	-		start_char=21|end_char=26|2.35.3@οὕτως[1]|altlem=οὕτως
+6	ἐδοκιμάσθη	δοκιμάζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	10	advcl	-		start_char=27|end_char=37|2.35.3@ἐδοκιμάσθη[1]
+7	ταῦτα	οὗτος	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	9	obj	-		start_char=38|end_char=43|2.35.3@ταῦτα[1]
+8	καλῶς	καλῶς	ADV	Df	Degree=Pos	9	advmod	-		start_char=44|end_char=49|2.35.3@καλῶς[1]|altlem=καλός
+9	ἔχειν,	ἔχειμι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	ccomp	-		start_char=50|end_char=56|2.35.3@ἔχειν,[1]
+10	χρὴ	χρή	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-		start_char=57|end_char=60|2.35.3@χρὴ[1]
+11	καὶ	καί	ADV	Df	12	advmod	-		start_char=61|end_char=64|2.35.3@καὶ[1]
+12	ἐμὲ	ἐγώ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	16	nsubj	-		start_char=65|end_char=68|2.35.3@ἐμὲ[1]
+13	ἑπόμενον	ἕπομαι	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	16	advcl	-		start_char=69|end_char=77|2.35.3@ἑπόμενον[1]
+14	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	15	det	-		start_char=78|end_char=80|2.35.3@τῷ[1]
+15	νόμῳ	νόμος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	13	iobj	-		start_char=81|end_char=85|2.35.3@νόμῳ[1]
+16	πειρᾶσθαι	πειράω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	10	ccomp	-		start_char=86|end_char=95|2.35.3@πειρᾶσθαι[1]
+17	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	20	det	-		start_char=96|end_char=100|2.35.3@ὑμῶν[1]|altlem=σύ
+18	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	20	det	-		start_char=101|end_char=104|2.35.3@τῆς[1]
+19	ἑκάστου	ἕκαστος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	-		start_char=105|end_char=112|2.35.3@ἑκάστου[1]
+20	βουλήσεώς	βούλησις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	24	xcomp	-		start_char=113|end_char=122|2.35.3@βουλήσεώς[1]
+21	τε	τε	CCONJ	C-	20	cc	-		start_char=123|end_char=125|2.35.3@τε[1]
+22	καὶ	καί	CCONJ	C-	20	cc	-		start_char=126|end_char=129|2.35.3@καὶ[2]
+23	δόξης	δόξα	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	20	conj	-		start_char=130|end_char=135|2.35.3@δόξης[1]
+24	τυχεῖν	τυγχάνω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	16	conj	-		start_char=136|end_char=142|2.35.3@τυχεῖν[1]
+25	ὡς	ὡς	ADV	Df	24	advmod	-		start_char=143|end_char=145|2.35.3@ὡς[1]
+26	ἐπὶ	ἐπί	ADP	R-	27	case	-		start_char=146|end_char=149|2.35.3@ἐπὶ[1]
+27	πλεῖστον.	πολείσσων	ADJ	A-	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	25	advmod	-		start_char=150|end_char=159|2.35.3@πλεῖστον.[1]
+

@@ -1,12 +1,12 @@
-<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" type="xml"?>
+<?oxygen RNGSchema="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" type="xml"?>
  
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>History of the Peloponnesian War</title>
+        <title>Vier Staatsreden aus Thucydides in deutscher Übersetzung</title>
         <author>Thucydides</author>
-        <editor n="transl" role="editor">Thomas Hobbes</editor>
+        <editor n="translator">Heinrich Gürsching</editor>
         <sponsor>Perseus Project, Tufts University</sponsor>
         <principal>Gregory Crane</principal>
       </titleStmt>
@@ -15,6 +15,14 @@
         <publisher>Trustees of Tufts University</publisher>
         <pubPlace>Medford, MA</pubPlace>
         <authority>Perseus Project</authority>
+        <idno type="filename">tlg0003.tlg001.1st1K-eng1
+        </idno>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available
+        under a Creative Commons Attribution-ShareAlike 4.0 International
+        License</licence>
+        </availability>
+        <date>2023-08-01</date>
       </publicationStmt>
       <sourceDesc>
         <biblStruct>
@@ -31,23 +39,28 @@
               <date>1856</date>
             </imprint>
           </monogr>
+<ref target="https://hdl.handle.net/2027/njp.32101065317867?urlappend=%3Bseq=8%3Bownerid=27021597766847557-12">The Hathi Trust</ref>
         </biblStruct>
       </sourceDesc>
     </fileDesc>
 <encodingDesc>
-            <refsDecl n="CTS">
-                <cRefPattern n="Chapter"
-                         matchPattern="(\\w+).(\\w+)"
-                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n=\'$1\']/tei:div[@n=\'$2\'])">
-                    <p>This pointer pattern extracts Book and Chapter</p>
-                </cRefPattern>
-                <cRefPattern n="Book"
-                         matchPattern="(\\w+)"
-                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n=\'$1\'])">
-                    <p>This pointer pattern extracts Book</p>
-                </cRefPattern>
-            </refsDecl>
-            <p>This text is quickly corrected OCR output. The following text is encoded in accordance with EpiDoc standards and with the
+  <refsDecl n="CTS">
+    <cRefPattern n="section"
+    matchPattern="(\w+).(\w+).(\w+)"
+    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2']/tei:div[@n='$3'])">
+    <p>This pointer pattern extracts book and chapter and section</p>
+    </cRefPattern>
+    <cRefPattern n="chapter"
+    matchPattern="(\w+).(\w+)"
+    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+    <p>This pointer pattern extracts book and chapter</p>
+    </cRefPattern>
+    <cRefPattern n="book"
+    matchPattern="(\w+)"
+    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+    <p>This pointer pattern extracts book</p>
+    </cRefPattern>
+    </refsDecl>            <p>This text is quickly corrected OCR output. The following text is encoded in accordance with EpiDoc standards and with the
                 CTS/CITE Architecture.</p>
 </encodingDesc>
     <profileDesc>
@@ -63,7 +76,7 @@
     <body>
       <pb n="3"/>
       <div type="textpart" subtype="book" n="1">
-        <head>Die Friedensrede des Archidamus.<note place="unspecified"> Während Thucydides seine gesamte Darstellung, insbesondere aber die eingeflochtenen Reden, dem Hauptzwecke des Historikers, ein treues Bild von dem konkret geschichtlichen Charakter der handelnden Staaten zu entwerfen, dienstbar zu machen weiss, hat er in zwei leitenden Persönlichkeiten den Versuch gemacht, den höheren, idealen Charakter der beiden Hauptstaaten zu enthüllen, und indem er ihren tiefgreifenden ethischen Gegensatz aufzeigt, ein philosophisches Streiflicht auf die kulturgeschichtliche Bedeutung des grossen Prinzipienkampfes fallen lassen, welcher den Kern und die treibende Ursache des peloponnesischen Krieges bildet. König Archidamus H. aus dem Hause der Eurypontiden (469—427) und Perikles, beide mit der Leitung der Geschicke ihrer Vaterstadt betraut, beide dem Ziele ihres Wirkens nahe — denn auch der erstere scheint den Ausbruch des Krieges nur um 4 Jahre überlebt zu haben — besassen in gleichem Masse den erleuchteten Tiefblick, der die höheren realen Mächte kennt, welche im Leben der Staaten wie der Einzelnen sich leiblich gestalten wollen, so wie die begeisterte Liebe und den selbstvergessenen Muth der Ueberzeugung, der sie befähigte, selbst die Verkörperung, der Typus und Träger der dem Geiste ihres Volkes immanenten sittlichen oder humanistischen Idee zu sein. Aber während die altehrwürdige <foreign xml:lang="grc">σωφροσύνη</foreign> der Spartaner seit dem Jahre 477, wo sie sich von aller freiwilligen Betheiligung an auswärtigen Unternehmungen zurückzuziehen begannen, und noch mehr seit dem Abschluss des dreissisjährigen Friedens mit Athen 445, in eine immer unhaltbarere Isolirung von der Strömung des Zeitgeistes getreten und zu einer politischen Engherzigkeit geworden war, für welche der Vorwurf der <foreign xml:lang="grc">ἀρχαιότροπα ἐπιτηδεύματα</foreign> aus dem Munde der welterfahrenen Korinthier nicht übertrieben erscheint (vgl. 1, 71 und ebend. <foreign xml:lang="grc"> ἐπὶ τῷ μὴ λυπεῖν τε τοὺς ἄλλους καὶ αὐτοὶ ἀμυνόμενοι μὴ βλάπτεσθαι τὸ ἴσον νέμετε</foreign>); so wuste sich dagegen die herrliche Blüthe, zu welcher der attische Geist damals sich entfaltet hatte, mit allen grossen und bewegenden Kräften der Zeit in einein Bunde natürlicher Wahlverwandtschaft und hatte selbst in dem Neide seiner für geistige Grösse empfänglicheren Gegner eine Bürgschaft ihrer universellen Bedeutsamkeit.
+        <head>1. Die Friedensrede des Archidamus.<note place="unspecified"> Während Thucydides seine gesamte Darstellung, insbesondere aber die eingeflochtenen Reden, dem Hauptzwecke des Historikers, ein treues Bild von dem konkret geschichtlichen Charakter der handelnden Staaten zu entwerfen, dienstbar zu machen weiss, hat er in zwei leitenden Persönlichkeiten den Versuch gemacht, den höheren, idealen Charakter der beiden Hauptstaaten zu enthüllen, und indem er ihren tiefgreifenden ethischen Gegensatz aufzeigt, ein philosophisches Streiflicht auf die kulturgeschichtliche Bedeutung des grossen Prinzipienkampfes fallen lassen, welcher den Kern und die treibende Ursache des peloponnesischen Krieges bildet. König Archidamus H. aus dem Hause der Eurypontiden (469—427) und Perikles, beide mit der Leitung der Geschicke ihrer Vaterstadt betraut, beide dem Ziele ihres Wirkens nahe — denn auch der erstere scheint den Ausbruch des Krieges nur um 4 Jahre überlebt zu haben — besassen in gleichem Masse den erleuchteten Tiefblick, der die höheren realen Mächte kennt, welche im Leben der Staaten wie der Einzelnen sich leiblich gestalten wollen, so wie die begeisterte Liebe und den selbstvergessenen Muth der Ueberzeugung, der sie befähigte, selbst die Verkörperung, der Typus und Träger der dem Geiste ihres Volkes immanenten sittlichen oder humanistischen Idee zu sein. Aber während die altehrwürdige <foreign xml:lang="grc">σωφροσύνη</foreign> der Spartaner seit dem Jahre 477, wo sie sich von aller freiwilligen Betheiligung an auswärtigen Unternehmungen zurückzuziehen begannen, und noch mehr seit dem Abschluss des dreissisjährigen Friedens mit Athen 445, in eine immer unhaltbarere Isolirung von der Strömung des Zeitgeistes getreten und zu einer politischen Engherzigkeit geworden war, für welche der Vorwurf der <foreign xml:lang="grc">ἀρχαιότροπα ἐπιτηδεύματα</foreign> aus dem Munde der welterfahrenen Korinthier nicht übertrieben erscheint (vgl. 1, 71 und ebend. <foreign xml:lang="grc"> ἐπὶ τῷ μὴ λυπεῖν τε τοὺς ἄλλους καὶ αὐτοὶ ἀμυνόμενοι μὴ βλάπτεσθαι τὸ ἴσον νέμετε</foreign>); so wuste sich dagegen die herrliche Blüthe, zu welcher der attische Geist damals sich entfaltet hatte, mit allen grossen und bewegenden Kräften der Zeit in einein Bunde natürlicher Wahlverwandtschaft und hatte selbst in dem Neide seiner für geistige Grösse empfänglicheren Gegner eine Bürgschaft ihrer universellen Bedeutsamkeit.
 
 Mit treffender Wahrheit hat Thucydides diesen Kontrast zwischen dem siegesgewissen Selbstgefühl einer Politik der Zukunft und der entschlossenen Resignation einer Politik der Vergangenheit, die sich in der fremdartigen Umgebung einer anders gewordenen Welt auf das Bewustsein ihres inneren Werthes zurückzieht, in den beiden vorliegenden Reden gezeichnet. Beide Redner benutzen einen von aussen sich bietenden Anlass, um ihre Mitbürger im treuen Beharren bei den bisher befolgten Grundsätzen der äusseren Staatsleitung zu befestigen und die Gesinnung, in welcher nach ihrer Ueberzeugung die Grösse ihrer Vaterstadt wurzelt, zum Widerstand gegen die von Leidenschaftlichkeit und Selbstsucht ihr drohenden Gefahren wachzurufen. So verschieden an sich die Aufgabe des Redners in der über Krieg oder Frieden tagenden Volksversammlung von der des laudator am Grabe der im Sommer des ersten Kriegsjahres 431 gefallenen Athener ist, so haben doch beide Reden das mit einander gemein, dass sie ein über das ostensible Thema hinausgreifendes Ziel verfolgen, zu dem sich jenes nur wie das Mittel zum Zweck verhält. Denn es leuchtet eiu, dass auch Archidamus mit einer blossen Vertagung des Kriegsbeschlusses um zwei oder drei Jahre (c. 82, 2) nicht gedient sein konnte, da eine solche, auch wenn sie möglich gewesen wäre, einem rastlos eroberungssüchtigen Feinde gegenüber mit zu grossen Verlusten an Kredit und Macht erkauft werden muste. Noch weniger aber konnte sich ein Mann über das Blusorische des von ihm zur Annahme empfohlenen Schiedsgerichtes oder über die voraussichtliche Erfolglosigkeit nochmaliger Vorstellungen und Ermahnungen täuschen, der das Selbstgefühl der Athener und ihre Rücksichtslosigkeit gegen jeden schwachen oder unentschlossenen Feind während einer 37jährigen Regierung hinlänglich kennen gelernt hatte (vgl. c. 81, 6 <foreign xml:lang="grc">οὕτως εἰκὸς Ἀθηναίους φρονήματι μήτε τῇ γῇ δουλεῦσαι μήτε ὥσπερ ἀπείρους καταπλαγῆναι τῷ πολέμῳ</foreign>.)- Vielmehr legt gerade die unpraktische Halbheit seiner Vorschläge, die 'einen Mittelweg zwischen der bisherigen Politik des Ignorirens und einer raschen kriegerischen Erhebung einhalten wollen, die Vermuthung nahe, dass Archidamus die Hoffnung noch nicht aufgegeben hatte, durch Temporisircn im jetzigen kritischen Augenblick der traurigen Notwendigkeit des Bruderkrieges vielleicht für immer zu entgehen und durch Konzessionen an das erwachte Ehrgefühl seiner Mitbürger den Frieden erhalten zu können. Wenn er dabei die Stärke der entbrannten Leidenschaften und die innere Bedeutung der Fragen, welche zu einer Lösung durchs Schwert mit Notwendigkeit hindrängten, unterschätzt hat, so erscheint es gerade als die Absicht des Geschichtschreibers, an dieser Rede zu zeigen, wie wenig damals die altspartanische Tugend ferner bestimmend auf die Geschicke Griechenlands einzuwirken im Stande war, indem er einen edlen Greis zu ihrem Wortführer machte, den nicht sowohl seine Jahre oder der Mangel an staatsmännischer Einsicht, sondern gerade die warme Liebe zu dem Ideale seiner Väter zum Rathgeber im Augenblicke der Entscheidung unfähig machte.
 

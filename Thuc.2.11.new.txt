@@ -1,0 +1,67 @@
+11	35	89	πατέρες	πατήρ	2.011.1-008	a father	<NL>N path/r  masc nom pl			hr_eros</NL>
+59	603	477	ἡμῶν	ἐγώ	2.011.1-009	I (first person pronoun)	<NL>N e)gw/  fem gen 1st pl		indeclform	pron1</NL>
+59	603	477	ἡμῶν	ἐγώ	2.011.1-021	I (first person pronoun)	<NL>N e)gw/  fem gen 1st pl		indeclform	pron1</NL>
+7	76	56	ὅμως	ὅμως	2.011.1-029	all the same	<NL>N o(/mws 		indeclform	conj</NL>
+41	274	331	νῦν	νῦν	2.011.1-043	now at this very time	<NL>N nu=n 		enclitic indeclform	adverb</NL>
+6	44	48	ἄριστοι	ἄριστος	2.011.1-049	best	<NL>N a)/ristos  masc nom pl			os_h_on</NL>
+12	93	97	δίκαιον	δίκαιος	2.011.2-001	just	<NL>N di/kaios  neut acc sg			os_on</NL>
+59	603	477	ἡμᾶς	ἐγώ	2.011.2-003	I (first person pronoun)	<NL>N e)gw/  fem acc 1st pl		indeclform	pron1</NL>
+11	35	89	πατέρων	πατήρ	2.011.2-006	a father	<NL>N path/r  masc gen pl			hr_eros</NL>
+59	603	477	ἡμῶν	ἐγώ	2.011.2-010	I (first person pronoun)	<NL>N e)gw/  fem gen 1st pl		indeclform	pron1</NL>
+10	47	80	δόξης	δόξα	2.011.2-013	a notion	<NL>N do/ca  fem gen sg	attic epic ionic		a_hs</NL>
+1	25	8	ἐπῆρται	ἐπαίρω	2.011.2-022	to lift up and set on	<NL>V e)pai/rw  perf ind mp 3rd sg			perfp_r,airw</NL>
+1	12	8	προσέχει	προσέχω	2.011.2-024	to hold to	<NL>V prose/xw  pres ind act 3rd sg			w_stem,reg_conj</NL>
+1	9	8	ἔχθος	ἔχθος	2.011.2-033	hate	<NL>N e)/xqos  neut acc sg			hs_eos</NL>
+59	603	477	ἡμᾶς	ἐγώ	2.011.2-035	I (first person pronoun)	<NL>N e)gw/  fem acc 1st pl		indeclform	pron1</NL>
+1	11	8	οὔκουν	οὔκουν	2.011.3-001	not therefore	<NL>N ou)/koun 		indeclform	adverb</NL>
+9	81	72	ἐπιέναι	ἔπειμι2	2.011.3-009	(go) come upon	<NL>V e)/peimi2  pres inf act			irreg_mi</NL>
+3	29	24	ἀσφάλεια	ἀσφάλεια	2.011.3-011	security against stumbling	<NL>N a)sfa/leia  fem nom sg			a_hs</NL>
+59	603	477	ἡμῖν	ἐγώ	2.011.3-019	I (first person pronoun)	<NL>N e)gw/  fem dat 1st pl		indeclform	pron1</NL>
+3	23	24	ἡγεμόνα	ἡγεμών	2.011.3-034	leader	<NL>N h(gemw/n  fem acc sg			wn_onos</NL>
+7	56	56	στρατιώτην	στρατιώτης	2.011.3-036	a citizen bound to military service;	<NL>N stratiw/ths  masc acc sg	attic epic ionic		hs_ou</NL>
+17	102	137	κίνδυνόν	κίνδυνος	2.011.3-043	a danger	<NL>N ki/ndu_non,ki/ndunos  masc acc sg			os_ou</NL>
+4	85	32	ἥξειν	ἥκω	2.011.3-045	to have come	<NL>V h(/kw  fut inf act	attic epic	contr	reg_fut,reg_conj</NL>
+2	10	16	ἄδηλα	ἄδηλος	2.011.4-001	not seen	<NL>N a)/dhlos  neut acc pl			os_on</NL>
+4	19	32	πολλάκις	πολλάκις	2.011.4-018	many times	<NL>N polla/kis 		indeclform	adverb</NL>
+13	99	105	ἔλασσον	ἐλάσσων	2.011.4-021	smaller	<NL>N e)la/sswn  neut acc comp sg			wn_on_comp</NL>
+6	36	48	ἄμεινον	ἀμείνων	2.011.4-024	better	<NL>N a)mei/nwn  neut acc comp sg			wn_on_comp</NL>
+15	117	121	ἠμύνατο	ἀμύνω	2.011.4-025	to keep off	<NL>V h)mu_/nato,a)mu/nw  aor ind mid 3rd sg	attic epic ionic		aor1,unw</NL>
+1	13	8	καταφρονοῦντας	καταφρονέω	2.011.4-030	to think down upon	<NL>P katafrone/w  pres part act masc acc pl	attic epic doric	contr	ew_pr,ew_denom</NL>
+24	244	194	πολεμίᾳ	πολέμιος	2.011.5-006	hostile; enemy	<NL>N polemi/a_|,pole/mios  fem dat sg	attic doric aeolic		os_h_on</NL>
+9	81	72	ἐπιέναι	ἔπειμι2	2.011.5-023	(go) come upon	<NL>V e)/peimi2  pres inf act			irreg_mi</NL>
+3	5	24	εὐψυχότατοι	εὔψυχος	2.011.5-026	of good courage	<NL>N eu)yu_xo/tatoi,eu)/yuxos  masc nom superl pl			os_on</NL>
+3	36	24	ἐπιχειρεῖσθαι	ἐπιχειρέω	2.011.5-032	to attempt	<NL>V e)pixeire/w  pres inf mp	attic epic	comp_only contr	ew_pr,ew_denom</NL>
+6	59	48	ἀσφαλέστατοι	ἀσφαλής	2.011.5-033	not liable to fall	<NL>N a)sfalh/s  masc nom superl pl			hs_es</NL>
+59	603	477	ἡμεῖς	ἐγώ	2.011.6-001	I (first person pronoun)	<NL>N e)gw/  fem nom 1st pl		indeclform	pron1</NL>
+9	60	72	ἀδύνατον	ἀδύνατος	2.011.6-005	unable	<NL>N a)du/natos  neut acc sg			os_on</NL>
+15	117	121	ἀμύνεσθαι	ἀμύνω	2.011.6-006	to keep off	<NL>V a)mu_/nesqai,a)mu/nw  pres inf mp			w_stem,unw</NL>
+6	44	48	ἄριστα	ἄριστος	2.011.6-014	best	<NL>N a)/ristos  neut acc pl			os_h_on</NL>
+7	37	56	πάνυ	πάνυ	2.011.6-020	altogether	<NL>N pa/nu 		indeclform	adverb</NL>
+41	274	331	νῦν	νῦν	2.011.6-030	now at this very time	<NL>N nu=n 		enclitic indeclform	adverb</NL>
+3	32	24	ὅταν	ὅταν	2.011.6-038	when	<NL>N o(/tan 		indeclform	conj</NL>
+59	603	477	ἡμᾶς	ἐγώ	2.011.6-043	I (first person pronoun)	<NL>N e)gw/  masc acc 1st pl		indeclform	pron1</NL>
+19	67	153	δῃοῦντάς	δηιόω	2.011.6-044	nodef	<NL>P dh|ou=ntas,dhio/w  pres part act masc acc pl	attic epic	contr	ow_pr,ow_denom</NL>
+5	40	40	φθείροντας	φθείρω	2.011.6-048	to ruin	<NL>P fqei/rw  pres part act masc acc pl			w_stem,eirw</NL>
+1	1	8	ὄμμασι	ὄμμα	2.011.7-005	the eye	<NL>N o)/mma  neut dat pl			ma_matos</NL>
+3	19	24	παραυτίκα	παραυτίκα	2.011.7-009	immediately	<NL>N parauti/ka 		indeclform	adverb</NL>
+8	90	64	πάσχοντάς	πάσχω	2.011.7-011	to experience	<NL>P pa/sxontas,pa/sxw  pres part act masc acc pl			w_stem,skw</NL>
+1	3	8	ἄηθες	ἀήθης	2.011.7-013	unwonted	<NL>N a)h/qhs  neut acc sg			hs_es</NL>
+3	13	24	λογισμῷ	λογισμός	2.011.7-018	a counting	<NL>N logismo/s  masc dat sg			os_ou</NL>
+6	38	48	ἐλάχιστα	ἐλάχιστος	2.011.7-019	the smallest	<NL>N e)la/xistos  neut acc pl		irreg_superl	os_h_on</NL>
+1	4	8	θυμῷ	θυμός	2.011.7-021	the soul	<NL>N qu_mw=|,qumo/s  masc dat sg			os_ou</NL>
+8	99	64	ἀξιοῦσι	ἀξιόω	2.011.8-017	to think worthy of; to expect	<NL>V a)cio/w  pres ind act 3rd pl	attic doric ionic aeolic	contr	ow_pr,ow_denom</NL>
+5	23	40	πέλας	πέλας	2.011.8-022	near	<NL>N pe/las 		indeclform	adverb</NL>
+19	67	153	δῃοῦν	δηιόω	2.011.8-023	nodef	<NL>V dhio/w  pres inf act	attic epic doric	contr	ow_pr,ow_denom</NL>
+20	98	161	τοσαύτην	τοσοῦτος	2.011.9-004	so large	<NL>N tosou=tos  fem acc sg	attic epic ionic		art_adj</NL>
+10	47	80	δόξαν	δόξα	2.011.9-009	a notion	<NL>N do/ca  fem acc sg			a_hs</NL>
+13	78	105	οἰσόμενοι	φέρω	2.011.9-010	to bear	<NL>P fe/rw  fut part mid masc nom pl			reg_fut</NL>
+59	603	477	ἡμῖν	ἐγώ	2.011.9-015	I (first person pronoun)	<NL>N e)gw/  masc dat 1st pl		indeclform	pron1</NL>
+6	48	48	ἀποβαινόντων	ἀποβαίνω	2.011.9-021	to step off from	<NL>P a)pobai/nw  pres part act neut gen pl			w_stem,ainw</NL>
+3	15	24	ἕπεσθ’	ἕπομαι	2.011.9-023	follow	<NL>V e(/pesqai,e(/pomai  pres inf mp		poetic	w_stem,reg_conj</NL>
+2	21	16	ὅπῃ	ὅπη	2.011.9-024	by which way	<NL>N o(/ph 		indeclform	adverb</NL>
+4	21	32	κόσμον	κόσμος	2.011.9-029	order	<NL>N ko/smos  masc acc sg			os_ou</NL>
+3	13	24	παραγγελλόμενα	παραγγέλλω	2.011.9-037	to transmit as a message; give orders	<NL>P paragge/llw  aor part mid neut acc pl			aor2,ellw</NL>
+2	8	16	ὀξέως	ὀξέως	2.011.9-038	nodef	<NL>N o)ce/ws 		indeclform	adverb</NL>
+12	97	97	κάλλιστον	καλός	2.011.9-040	beautiful	<NL>N kalo/s  neut acc sg		irreg_superl	os_h_on</NL>
+6	59	48	ἀσφαλέστατον	ἀσφαλής	2.011.9-044	not liable to fall	<NL>N a)sfalh/s  neut acc sg superl			hs_es</NL>
+4	21	32	κόσμῳ	κόσμος	2.011.9-049	order	<NL>N ko/smos  masc dat sg			os_ou</NL>

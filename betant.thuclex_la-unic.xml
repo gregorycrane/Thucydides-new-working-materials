@@ -6980,7 +6980,7 @@ CTS/CITE Architecture.</p>
 <div type="textpart" subtype="entry" n="lsj-diei/rgw">
 <head><foreign xml:lang="grc">διείργειν</foreign></head>
 <p><gloss>dirimere, separare</gloss>, <bibl n="thuc. 3.107.3">3.107.3</bibl>,<quote/></p>
-<p>PASS. <gloss>VI</gloss>, <bibl n="thuc. 1.2.1">1.2.1</bibl> (<hi rend="italic">de Sicilia</hi>),<quote/><bibl n="thuc. 8.33.2">8.33.2</bibl>,<quote/></p>
+<p>PASS., <bibl n="thuc. 6.2.1">6.2.1</bibl> (<hi rend="italic">de Sicilia</hi>),<quote/><bibl n="thuc. 8.33.2">8.33.2</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-diekple/w">
 <head><foreign xml:lang="grc">διεκπλεῖν</foreign></head>
@@ -18332,7 +18332,7 @@ CTS/CITE Architecture.</p>
 <p><hi rend="italic">idem,</hi><bibl n="thuc. 7.73.2">7.73.2</bibl>. <bibl n="thuc. 8.69.2">8.69.2</bibl>.<quote/></p>
 <p><gloss>inferre</gloss>, <bibl n="thuc. 4.16.1">4.16.1</bibl>,<quote/><bibl n="Thuc. 4.16.1">4.16.1</bibl><bibl n="thuc. 5.18.4">5.18.4</bibl>,<quote/></p>
 <p><hi rend="italic">item Ib.</hi> 5 <hi rend="italic">et</hi><bibl n="Thuc. 5.47.2">5.47.2</bibl>. <bibl n="Thuc. 5.49.1">5.49.1</bibl>,<quote/><bibl n="Thuc. 5.18.4">5.18.4</bibl>. <bibl n="thuc. 8.18.2">8.18.2</bibl>.<quote/></p>
-<p><gloss>in armis consistere (<gloss>clypeis ad genua positis</gloss>)</gloss>, <bibl n="thuc. 2.2.4">2.2.4</bibl>,<quote/><bibl n="Thuc. 2.2.4">2.2.4</bibl><bibl n="thuc. 4.44.1">4.44.1</bibl>. <bibl n="thuc. 4.68.3">4.68.3</bibl>. <bibl n="thuc. 4.90.4">4.90.4</bibl>,<quote/><bibl n="thuc. 4.91.1">4.91.1</bibl>. <bibl n="thuc. 4.93.3">4.93.3</bibl>. <bibl n="thuc. 5.74.2">5.74.2</bibl>,<quote/><bibl n="thuc. 7.3.1">7.3.1</bibl>,<quote/><bibl n="thuc. 8.25.4">8.25.4</bibl>,<quote/><bibl n="thuc. 8.93.1">8.93.1</bibl>. <bibl n="Thuc. 8.93.1">8.93.1</bibl><quote/></p>
+<p><gloss>in armis consistere (clypeis ad genua positis)</gloss>, <bibl n="thuc. 2.2.4">2.2.4</bibl>,<quote/><bibl n="Thuc. 2.2.4">2.2.4</bibl><bibl n="thuc. 4.44.1">4.44.1</bibl>. <bibl n="thuc. 4.68.3">4.68.3</bibl>. <bibl n="thuc. 4.90.4">4.90.4</bibl>,<quote/><bibl n="thuc. 4.91.1">4.91.1</bibl>. <bibl n="thuc. 4.93.3">4.93.3</bibl>. <bibl n="thuc. 5.74.2">5.74.2</bibl>,<quote/><bibl n="thuc. 7.3.1">7.3.1</bibl>,<quote/><bibl n="thuc. 8.25.4">8.25.4</bibl>,<quote/><bibl n="thuc. 8.93.1">8.93.1</bibl>. <bibl n="Thuc. 8.93.1">8.93.1</bibl><quote/></p>
 <p><gloss>armorum inspectio</gloss>, <bibl n="thuc. 4.74.3">4.74.3</bibl>,<quote/><bibl n="thuc. 6.45.1">6.45.1</bibl>. <bibl n="thuc. 6.96.3">6.96.3</bibl>.<quote/></p>
 <p><gloss>arma ordine posita</gloss>, <bibl n="thuc. 4.91.1">4.91.1</bibl>,<quote/><bibl n="thuc. 4.130.3">4.130.3</bibl>,<quote/><bibl n="thuc. 6.64.3">6.64.3</bibl>,<quote/><bibl n="thuc. 7.28.2">7.28.2</bibl>,<quote/><bibl n="thuc. 8.69.1">8.69.1</bibl>,<quote/><bibl n="Thuc. 8.69.2">8.69.2</bibl>,<quote/></p>
 <p><gloss>armatorum ordines</gloss>, <bibl n="thuc. 1.111.1">1.111.1</bibl>,<quote/><bibl n="thuc. 3.1.1">3.1.1</bibl>,<quote/></p>
@@ -18891,7 +18891,7 @@ CTS/CITE Architecture.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-panse/lhnos">
 <head><foreign xml:lang="grc">πανσέληνος</foreign></head>
-<p><gloss>plena (<gloss>luna</gloss>)</gloss>, <bibl n="thuc. 7.50.4">7.50.4</bibl>,<quote/></p>
+<p><gloss>plena (luna)</gloss>, <bibl n="thuc. 7.50.4">7.50.4</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-panstratia/">
 <head><foreign xml:lang="grc">πανστρατιά</foreign></head>
@@ -18955,8 +18955,8 @@ CTS/CITE Architecture.</p>
 <head><foreign xml:lang="grc">παραβάλλειν</foreign></head>
 <p><gloss>proiicere</gloss>, <bibl n="thuc. 2.77.3">2.77.3</bibl>,<quote/><bibl n="thuc. 6.99.1">6.99.1</bibl>,<quote/></p>
 <p>PASS. <bibl n="thuc. 7.2.4">7.2.4</bibl>,<quote/></p>
-<p><gloss>adpellere (<gloss>navem</gloss>)</gloss>, <bibl n="thuc. 3.32.3">3.32.3</bibl>,<quote/></p>
-<p>MED. <gloss>obiicere (<gloss>periculo</gloss>), <gloss>adire</gloss></gloss> (<gloss>discrimen</gloss>), <bibl n="thuc. 1.133.1">1.133.1</bibl>,<quote/> [<hi rend="italic">Vat.</hi><foreign xml:lang="grc">παραβάλλ.</foreign>]. <bibl n="thuc. 2.44.3">2.44.3</bibl>,<quote/><bibl n="thuc. 3.14.1">3.14.1</bibl>,<quote/><bibl n="thuc. 3.65.3">3.65.3</bibl>,<quote/><bibl n="thuc. 5.113.1">5.113.1</bibl>,<quote/></p>
+<p><gloss>adpellere (navem)</gloss>, <bibl n="thuc. 3.32.3">3.32.3</bibl>,<quote/></p>
+<p>MED. <gloss>obiicere (periculo)</gloss>, <gloss>adire</gloss> (<gloss>discrimen</gloss>), <bibl n="thuc. 1.133.1">1.133.1</bibl>,<quote/> [<hi rend="italic">Vat.</hi><foreign xml:lang="grc">παραβάλλ.</foreign>]. <bibl n="thuc. 2.44.3">2.44.3</bibl>,<quote/><bibl n="thuc. 3.14.1">3.14.1</bibl>,<quote/><bibl n="thuc. 3.65.3">3.65.3</bibl>,<quote/><bibl n="thuc. 5.113.1">5.113.1</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-parabohqe/w">
 <head><foreign xml:lang="grc">παραβοηθεῖν</foreign></head>
@@ -19003,7 +19003,7 @@ CTS/CITE Architecture.</p>
 <p><hi rend="italic">Ibid.</hi><quote/><bibl n="Thuc. 4.46.5">4.46.5</bibl>,<quote/><bibl n="Thuc. 4.69.3">4.69.3</bibl>. <bibl n="Thuc. 4.106.3">4.106.3</bibl>.<quote/></p>
 <p><hi rend="italic">similiter</hi><bibl n="Thuc. 4.110.1">4.110.1</bibl>. <bibl n="thuc. 5.18.5">5.18.5</bibl>. <bibl n="thuc. 5.21.1">5.21.1</bibl>. <bibl n="Thuc. 5.21.2">5.21.2</bibl>. <bibl n="Thuc. 5.21.2">5.21.2</bibl><bibl n="thuc. 5.3.1">5.3.1</bibl>. <bibl n="thuc. 5.33.2">5.33.2</bibl>,<quote/><bibl n="thuc. 5.34.2">5.34.2</bibl>. <bibl n="thuc. 5.35.5">5.35.5</bibl>. <bibl n="thuc. 5.36.2">5.36.2</bibl>,<quote/> [<hi rend="italic">olim</hi><foreign xml:lang="grc">παραδώσωσι,</foreign><hi rend="italic">Bekk. et Goell. ex Vat.</hi><foreign xml:lang="grc">παραδῶσι</foreign>] <bibl n="thuc. 5.39.2">5.39.2</bibl>. <bibl n="thuc. 5.42.2">5.42.2</bibl>. <bibl n="thuc. 5.61.5">5.61.5</bibl>,<quote/><bibl n="thuc. 6.61.3">6.61.3</bibl>,<quote/><bibl n="thuc. 6.62.3">6.62.3</bibl>. <bibl n="thuc. 7.82.2">7.82.2</bibl>. <bibl n="thuc. 7.82.3">7.82.3</bibl>. <bibl n="thuc. 7.83.1">7.83.1</bibl>,<quote/><bibl n="Thuc. 7.83.2">7.83.2</bibl>. <bibl n="thuc. 7.85.1">7.85.1</bibl>,<quote/></p>
 <p><hi rend="italic">item</hi><bibl n="Thuc. 7.86.4">7.86.4</bibl>. <bibl n="thuc. 8.28.3">8.28.3</bibl>,<quote/><bibl n="Thuc. 8.28.4">8.28.4</bibl>. <bibl n="thuc. 8.86.9">8.86.9</bibl>,<quote/><bibl n="thuc. 8.97.1">8.97.1</bibl>,<quote/><bibl n="thuc. 8.98.3">8.98.3</bibl>.</p>
-<p><gloss>transmittere (<gloss>ab alio accepta</gloss>)</gloss>, <bibl n="thuc. 1.71.7">1.71.7</bibl>,<quote/><bibl n="thuc. 1.85.1">1.85.1</bibl>,<quote/><pb xml:id="v.2.p.276"/><bibl n="Thuc. 1.144.5">1.144.5</bibl>,<quote/><bibl n="thuc. 2.36.1">2.36.1</bibl>,<quote/><bibl n="thuc. 2.62.3">2.62.3</bibl>,<quote/><bibl n="thuc. 4.28.3">4.28.3</bibl>,<quote/><bibl n="thuc. 4.135.1">4.135.1</bibl>,<quote/><bibl n="thuc. 7.68.3">7.68.3</bibl>,<quote/><bibl n="thuc. 8.29.2">8.29.2</bibl>,<quote/><bibl n="thuc. 8.38.1">8.38.1</bibl>.</p>
+<p><gloss>transmittere (ab alio accepta)</gloss>, <bibl n="thuc. 1.71.7">1.71.7</bibl>,<quote/><bibl n="thuc. 1.85.1">1.85.1</bibl>,<quote/><pb xml:id="v.2.p.276"/><bibl n="Thuc. 1.144.5">1.144.5</bibl>,<quote/><bibl n="thuc. 2.36.1">2.36.1</bibl>,<quote/><bibl n="thuc. 2.62.3">2.62.3</bibl>,<quote/><bibl n="thuc. 4.28.3">4.28.3</bibl>,<quote/><bibl n="thuc. 4.135.1">4.135.1</bibl>,<quote/><bibl n="thuc. 7.68.3">7.68.3</bibl>,<quote/><bibl n="thuc. 8.29.2">8.29.2</bibl>,<quote/><bibl n="thuc. 8.38.1">8.38.1</bibl>.</p>
 <p><gloss>permittere</gloss>, <bibl n="thuc. 5.16.1">5.16.1</bibl>,<quote/><bibl n="thuc. 6.23.3">6.23.3</bibl>,<quote/><bibl n="thuc. 7.23.3">7.23.3</bibl>,<quote/><bibl n="thuc. 7.68.1">7.68.1</bibl>,<quote/><bibl n="thuc. 8.71.1">8.71.1</bibl>,<quote/></p>
 <p>PASS. <gloss>tradi</gloss>, <bibl n="thuc. 3.59.2">3.59.2</bibl>,<quote/></p>
 <p><hi rend="italic">item Ib.</hi><bibl n="Thuc. 3.4.1">3.4.1</bibl>. <bibl n="thuc. 4.16.3">4.16.3</bibl>,<quote/><bibl n="thuc. 4.47.1">4.47.1</bibl>,<quote/> [<hi rend="italic">vulgo</hi><foreign xml:lang="grc">παρεδίδοντο</foreign>] <bibl n="thuc. 8.86.3">8.86.3</bibl>,<quote/></p>
@@ -19754,7 +19754,7 @@ CTS/CITE Architecture.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-penthko/ntoros">
 <head><foreign xml:lang="grc">πεντηκόντορος</foreign></head>
-<p><gloss>quinquaginta remis acta (<gloss>navis</gloss>)</gloss>, <bibl n="thuc. 6.103.2">6.103.2</bibl>,<quote/></p>
+<p><gloss>quinquaginta remis acta (navis)</gloss>, <bibl n="thuc. 6.103.2">6.103.2</bibl>,<quote/></p>
 <p><hi rend="italic">Subst.</hi><bibl n="thuc. 1.14.1">1.14.1</bibl>,<quote/><bibl n="Thuc. 1.14.2">1.14.2</bibl>. <bibl n="thuc. 6.43.1">6.43.1</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-penthkontou/ths">
@@ -19767,7 +19767,7 @@ CTS/CITE Architecture.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-penthkostu/s">
 <head><foreign xml:lang="grc">πεντηκοστύς</foreign></head>
-<p><gloss>ordo militaris quinquaginta virorum (<gloss>apud Lacedaemonios</gloss>)</gloss>, <pb xml:id="v.2.312"/><bibl n="thuc. 5.68.3">5.68.3</bibl>,<quote/></p>
+<p><gloss>ordo militaris quinquaginta virorum (apud Lacedaemonios)</gloss>, <pb xml:id="v.2.312"/><bibl n="thuc. 5.68.3">5.68.3</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-pei/qw">
 <head><foreign xml:lang="grc">πεποιθέναι</foreign></head>
@@ -21612,7 +21612,7 @@ CTS/CITE Architecture.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-prooi/mion">
 <head><foreign xml:lang="grc">προοίμιον</foreign></head>
-<p><gloss>hymnus (<gloss>Homeri</gloss>)</gloss>, <bibl n="thuc. 3.104.4">3.104.4</bibl>. <bibl n="thuc. 3.104.5">3.104.5</bibl>.</p>
+<p><gloss>hymnus (Homeri)</gloss>, <bibl n="thuc. 3.104.4">3.104.4</bibl>. <bibl n="thuc. 3.104.5">3.104.5</bibl>.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-proora/w">
 <head><foreign xml:lang="grc">προορᾷν</foreign></head>
@@ -21623,7 +21623,7 @@ CTS/CITE Architecture.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-proormi/zw">
 <head><foreign xml:lang="grc">προορμίζειν</foreign></head>
-<p><gloss>ante constituere (<gloss>navem</gloss>)</gloss>, <bibl n="thuc. 7.38.2">7.38.2</bibl>,<quote/></p>
+<p><gloss>ante constituere (navem)</gloss>, <bibl n="thuc. 7.38.2">7.38.2</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-proofei/lw">
 <head><foreign xml:lang="grc">προοφείλεσθαι</foreign></head>
@@ -21668,7 +21668,7 @@ CTS/CITE Architecture.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-pro/plous">
 <head><foreign xml:lang="grc">πρόπλους</foreign></head>
-<p><gloss>praemissa (<gloss>navis</gloss>)</gloss>, <bibl n="thuc. 6.44.4">6.44.4</bibl>,<quote/><bibl n="thuc. 6.46.1">6.46.1</bibl>,<quote/></p>
+<p><gloss>praemissa (navis)</gloss>, <bibl n="thuc. 6.44.4">6.44.4</bibl>,<quote/><bibl n="thuc. 6.46.1">6.46.1</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-propoie/w">
 <head><foreign xml:lang="grc">προποιεῖν</foreign></head>
@@ -21721,7 +21721,7 @@ CTS/CITE Architecture.</p>
 <div type="textpart" subtype="entry" n="lsj-prosaire/omai">
 <head><foreign xml:lang="grc">προσαιρεῖσθαι</foreign></head>
 <p><gloss>adsumere</gloss>, <bibl n="thuc. 4.29.1">4.29.1</bibl>,<quote/></p>
-<p><gloss>adiungere (<gloss>in imperio</gloss>)</gloss>, <bibl n="thuc. 5.63.4">5.63.4</bibl>,<quote/><bibl n="thuc. 7.16.1">7.16.1</bibl>,<quote/></p>
+<p><gloss>adiungere (in imperio)</gloss>, <bibl n="thuc. 5.63.4">5.63.4</bibl>,<quote/><bibl n="thuc. 7.16.1">7.16.1</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-prosanagka/zw">
 <head><foreign xml:lang="grc">προσαναγκάζειν</foreign></head>
@@ -21767,8 +21767,8 @@ CTS/CITE Architecture.</p>
 <div type="textpart" subtype="entry" n="lsj-prosba/llw">
 <head><foreign xml:lang="grc">προσβάλλειν</foreign></head>
 <p><gloss>adoriri, aggredi, invehi</gloss>, <bibl n="thuc. 1.49.3">1.49.3</bibl>,<quote/><bibl n="thuc. 2.3.4">2.3.4</bibl>,<quote/> [<hi rend="italic">vulgo</hi><foreign xml:lang="grc">προσέβαλλον</foreign>] <bibl n="thuc. 2.4.2">2.4.2</bibl>. <bibl n="thuc. 2.79.6">2.79.6</bibl>,<quote/><bibl n="thuc. 3.78.1">3.78.1</bibl>,<quote/><bibl n="thuc. 3.97.3">3.97.3</bibl>. <bibl n="thuc. 4.25.5">4.25.5</bibl>. <bibl n="thuc. 4.10.1">4.10.1</bibl>. <bibl n="thuc. 4.29.3">4.29.3</bibl>. <bibl n="thuc. 4.125.3">4.125.3</bibl>,<quote/><bibl n="thuc. 4.127.2">4.127.2</bibl>. <bibl n="thuc. 5.10.6">5.10.6</bibl>. <bibl n="thuc. 5.10.9">5.10.9</bibl>. <bibl n="thuc. 6.98.4">6.98.4</bibl>. <bibl n="thuc. 7.6.3">7.6.3</bibl>,<quote/><bibl n="thuc. 7.43.1">7.43.1</bibl>. <bibl n="Thuc. 7.43.6">7.43.6</bibl>. <bibl n="thuc. 7.7.1">7.7.1</bibl>. <bibl n="thuc. 7.79.5">7.79.5</bibl>. <bibl n="thuc. 8.10.4">8.10.4</bibl>.</p>
-<p><gloss>oppugnare (<gloss>moenia</gloss>)</gloss>, <bibl n="thuc. 2.19.1">2.19.1</bibl>,<quote/><bibl n="thuc. 2.25.1">2.25.1</bibl>,<quote/><bibl n="thuc. 2.56.4">2.56.4</bibl>,<quote/><bibl n="thuc. 2.68.9">2.68.9</bibl>. <bibl n="thuc. 2.93.4">2.93.4</bibl>,<quote/><bibl n="thuc. 3.18.1">3.18.1</bibl>,<quote/><bibl n="thuc. 3.22.5">3.22.5</bibl>. <bibl n="thuc. 3.34.3">3.34.3</bibl>,<quote/><bibl n="thuc. 3.52.2">3.52.2</bibl>. <bibl n="thuc. 3.90.3">3.90.3</bibl>,<quote/><bibl n="thuc. 3.103.1">3.103.1</bibl>,<quote/><bibl n="thuc. 4.8.4">4.8.4</bibl>,<quote/><bibl n="thuc. 4.9.1">4.9.1</bibl>. <bibl n="Thuc. 4.9.2">4.9.2</bibl>. <bibl n="thuc. 4.11.2">4.11.2</bibl>. <bibl n="Thuc. 4.11.2">4.11.2</bibl><bibl n="thuc. 4.46.2">4.46.2</bibl>. <bibl n="thuc. 4.97.1">4.97.1</bibl>. <bibl n="thuc. 4.100.1">4.100.1</bibl>. <bibl n="thuc. 4.116.2">4.116.2</bibl>. <bibl n="thuc. 4.131.2">4.131.2</bibl>. <bibl n="thuc. 5.3.1">5.3.1</bibl>. <bibl n="thuc. 5.6.1">5.6.1</bibl>. <bibl n="thuc. 5.115.1">5.115.1</bibl>. <bibl n="thuc. 5.4.1">5.4.1</bibl>. <bibl n="thuc. 6.64.3">6.64.3</bibl>,<quote/><bibl n="thuc. 6.100.2">6.100.2</bibl>. <bibl n="thuc. 7.22.1">7.22.1</bibl>. <bibl n="thuc. 7.51.2">7.51.2</bibl>,<quote/><bibl n="thuc. 7.79.2">7.79.2</bibl>. <bibl n="thuc. 8.20.2">8.20.2</bibl>. <bibl n="thuc. 8.28.2">8.28.2</bibl>. <bibl n="thuc. 8.31.2">8.31.2</bibl>. <bibl n="thuc. 8.35.3">8.35.3</bibl>. <bibl n="thuc. 8.35.4">8.35.4</bibl>. <bibl n="thuc. 8.55.3">8.55.3</bibl>. <bibl n="thuc. 8.62.3">8.62.3</bibl>. <bibl n="thuc. 8.100.3">8.100.3</bibl>.</p>
-<p><gloss>appellere (<gloss>navem</gloss>)</gloss>, <bibl n="thuc. 6.4.5">6.4.5</bibl>,<quote/><bibl n="thuc. 6.34.5">6.34.5</bibl>. <bibl n="thuc. 6.44.2">6.44.2</bibl>,<quote/><bibl n="thuc. 8.12.1">8.12.1</bibl>. <bibl n="thuc. 8.14.1">8.14.1</bibl>. <bibl n="thuc. 8.33.2">8.33.2</bibl>. <bibl n="thuc. 8.35.2">8.35.2</bibl>.<quote/><bibl n="thuc. 8.39.3">8.39.3</bibl>. <bibl n="thuc. 8.43.1">8.43.1</bibl>. <bibl n="thuc. 8.44.2">8.44.2</bibl>. <bibl n="thuc. 8.101.2">8.101.2</bibl>.</p>
+<p><gloss>oppugnare (moenia)</gloss>, <bibl n="thuc. 2.19.1">2.19.1</bibl>,<quote/><bibl n="thuc. 2.25.1">2.25.1</bibl>,<quote/><bibl n="thuc. 2.56.4">2.56.4</bibl>,<quote/><bibl n="thuc. 2.68.9">2.68.9</bibl>. <bibl n="thuc. 2.93.4">2.93.4</bibl>,<quote/><bibl n="thuc. 3.18.1">3.18.1</bibl>,<quote/><bibl n="thuc. 3.22.5">3.22.5</bibl>. <bibl n="thuc. 3.34.3">3.34.3</bibl>,<quote/><bibl n="thuc. 3.52.2">3.52.2</bibl>. <bibl n="thuc. 3.90.3">3.90.3</bibl>,<quote/><bibl n="thuc. 3.103.1">3.103.1</bibl>,<quote/><bibl n="thuc. 4.8.4">4.8.4</bibl>,<quote/><bibl n="thuc. 4.9.1">4.9.1</bibl>. <bibl n="Thuc. 4.9.2">4.9.2</bibl>. <bibl n="thuc. 4.11.2">4.11.2</bibl>. <bibl n="Thuc. 4.11.2">4.11.2</bibl><bibl n="thuc. 4.46.2">4.46.2</bibl>. <bibl n="thuc. 4.97.1">4.97.1</bibl>. <bibl n="thuc. 4.100.1">4.100.1</bibl>. <bibl n="thuc. 4.116.2">4.116.2</bibl>. <bibl n="thuc. 4.131.2">4.131.2</bibl>. <bibl n="thuc. 5.3.1">5.3.1</bibl>. <bibl n="thuc. 5.6.1">5.6.1</bibl>. <bibl n="thuc. 5.115.1">5.115.1</bibl>. <bibl n="thuc. 5.4.1">5.4.1</bibl>. <bibl n="thuc. 6.64.3">6.64.3</bibl>,<quote/><bibl n="thuc. 6.100.2">6.100.2</bibl>. <bibl n="thuc. 7.22.1">7.22.1</bibl>. <bibl n="thuc. 7.51.2">7.51.2</bibl>,<quote/><bibl n="thuc. 7.79.2">7.79.2</bibl>. <bibl n="thuc. 8.20.2">8.20.2</bibl>. <bibl n="thuc. 8.28.2">8.28.2</bibl>. <bibl n="thuc. 8.31.2">8.31.2</bibl>. <bibl n="thuc. 8.35.3">8.35.3</bibl>. <bibl n="thuc. 8.35.4">8.35.4</bibl>. <bibl n="thuc. 8.55.3">8.55.3</bibl>. <bibl n="thuc. 8.62.3">8.62.3</bibl>. <bibl n="thuc. 8.100.3">8.100.3</bibl>.</p>
+<p><gloss>appellere (navem)</gloss>, <bibl n="thuc. 6.4.5">6.4.5</bibl>,<quote/><bibl n="thuc. 6.34.5">6.34.5</bibl>. <bibl n="thuc. 6.44.2">6.44.2</bibl>,<quote/><bibl n="thuc. 8.12.1">8.12.1</bibl>. <bibl n="thuc. 8.14.1">8.14.1</bibl>. <bibl n="thuc. 8.33.2">8.33.2</bibl>. <bibl n="thuc. 8.35.2">8.35.2</bibl>.<quote/><bibl n="thuc. 8.39.3">8.39.3</bibl>. <bibl n="thuc. 8.43.1">8.43.1</bibl>. <bibl n="thuc. 8.44.2">8.44.2</bibl>. <bibl n="thuc. 8.101.2">8.101.2</bibl>.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-pro/sbasis">
 <head><foreign xml:lang="grc">πρόσβασις</foreign></head>
@@ -21883,7 +21883,7 @@ CTS/CITE Architecture.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-pro/sqesis">
 <head><foreign xml:lang="grc">πρόσθεσις</foreign></head>
-<p><gloss>applicatio (<gloss>scalae</gloss>)</gloss>, <bibl n="thuc. 4.135.1">4.135.1</bibl>,<quote/></p>
+<p><gloss>applicatio (scalae)</gloss>, <bibl n="thuc. 4.135.1">4.135.1</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-pro/seimi2,prose/rxomai">
 <head><foreign xml:lang="grc">προσιέναι</foreign></head>
@@ -21973,7 +21973,7 @@ CTS/CITE Architecture.</p>
 <div type="textpart" subtype="entry" n="lsj-proslamba/nw">
 <head><foreign xml:lang="grc">προσλαμβάνειν</foreign></head>
 <p><gloss>adsumere, secum sumere</gloss>, <bibl n="thuc. 1.26.4">1.26.4</bibl>,<quote/><bibl n="thuc. 4.29.2">4.29.2</bibl>. <bibl n="thuc. 5.2.2">5.2.2</bibl>,<quote/><bibl n="thuc. 7.1.1">7.1.1</bibl>,<quote/><bibl n="thuc. 8.16.1">8.16.1</bibl>. <bibl n="thuc. 8.23.2">8.23.2</bibl>. <bibl n="thuc. 8.28.1">8.28.1</bibl>.</p>
-<p><gloss>adsciscere (<gloss>socios</gloss>)</gloss>, <bibl n="thuc. 1.35.4">1.35.4</bibl>,<quote/><bibl n="thuc. 1.36.1">1.36.1</bibl>. <bibl n="thuc. 1.82.1">1.82.1</bibl>,<quote/><bibl n="Thuc. 1.82.1">1.82.1</bibl><bibl n="thuc. 2.7.1">2.7.1</bibl>. <bibl n="thuc. 3.13.7">3.13.7</bibl>,<quote/><bibl n="thuc. 4.86.1">4.86.1</bibl>. <bibl n="thuc. 5.53.1">5.53.1</bibl>,<quote/><bibl n="thuc. 8.2.4">8.2.4</bibl>,<quote/></p>
+<p><gloss>adsciscere (socios)</gloss>, <bibl n="thuc. 1.35.4">1.35.4</bibl>,<quote/><bibl n="thuc. 1.36.1">1.36.1</bibl>. <bibl n="thuc. 1.82.1">1.82.1</bibl>,<quote/><bibl n="Thuc. 1.82.1">1.82.1</bibl><bibl n="thuc. 2.7.1">2.7.1</bibl>. <bibl n="thuc. 3.13.7">3.13.7</bibl>,<quote/><bibl n="thuc. 4.86.1">4.86.1</bibl>. <bibl n="thuc. 5.53.1">5.53.1</bibl>,<quote/><bibl n="thuc. 8.2.4">8.2.4</bibl>,<quote/></p>
 <p><gloss>occupare, potiri</gloss>, <bibl n="thuc. 1.37.4">1.37.4</bibl>,<quote/></p>
 <p><gloss>adipisci</gloss>, <bibl n="thuc. 3.82.7">3.82.7</bibl>,<quote/><bibl n="thuc. 4.17.4">4.17.4</bibl>,<quote/><bibl n="thuc. 5.111.3">5.111.3</bibl>,<quote/><bibl n="thuc. 6.18.6">6.18.6</bibl>,<quote/><bibl n="thuc. 6.55.4">6.55.4</bibl>,<quote/></p>
 <p><gloss>suscipere</gloss>, <bibl n="thuc. 4.61.1">4.61.1</bibl>,<quote/></p>
@@ -22099,7 +22099,7 @@ CTS/CITE Architecture.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-prospoi/hsis">
 <head><foreign xml:lang="grc">προσποίησις</foreign></head>
-<p><gloss>adiunctio (<gloss>sociorum</gloss>)</gloss>, <bibl n="thuc. 3.82.1">3.82.1</bibl>,<quote/></p>
+<p><gloss>adiunctio (sociorum)</gloss>, <bibl n="thuc. 3.82.1">3.82.1</bibl>,<quote/></p>
 <p><gloss>vindicatio</gloss>, <bibl n="thuc. 2.62.1">2.62.1</bibl>,<quote/><pb xml:id="v.2.p.392"/><bibl n="thuc. 6.16.6">6.16.6</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-prospoleme/w">
@@ -22125,7 +22125,7 @@ CTS/CITE Architecture.</p>
 <div type="textpart" subtype="entry" n="lsj-prostasi/a">
 <head><foreign xml:lang="grc">προστασία</foreign></head>
 <p><gloss>imperium</gloss>, <bibl n="thuc. 2.80.5">2.80.5</bibl>,<quote/> [<hi rend="italic">vulgo</hi><foreign xml:lang="grc">ἐπ᾽ ἐτησίῳ</foreign>]</p>
-<p><gloss>patrocinium (<gloss>plebis</gloss>)</gloss>, <bibl n="thuc. 2.65.11">2.65.11</bibl>,<quote/><bibl n="thuc. 6.89.4">6.89.4</bibl>,<quote/></p>
+<p><gloss>patrocinium (plebis)</gloss>, <bibl n="thuc. 2.65.11">2.65.11</bibl>,<quote/><bibl n="thuc. 6.89.4">6.89.4</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-prosta/ssw">
 <head><foreign xml:lang="grc">προστάσσειν</foreign></head>
@@ -22138,7 +22138,7 @@ CTS/CITE Architecture.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-prosta/ths">
 <head><foreign xml:lang="grc">προστάτης</foreign></head>
-<p><gloss>patronus (<gloss>plebis</gloss>)</gloss>, <bibl n="thuc. 3.75.2">3.75.2</bibl>,<quote/><bibl n="thuc. 3.82.1">3.82.1</bibl>. <bibl n="thuc. 4.46.4">4.46.4</bibl>. <bibl n="thuc. 4.66.3">4.66.3</bibl>. <bibl n="thuc. 6.35.2">6.35.2</bibl>. <bibl n="thuc. 8.89.4">8.89.4</bibl>,<quote/></p>
+<p><gloss>patronus (plebis)</gloss>, <bibl n="thuc. 3.75.2">3.75.2</bibl>,<quote/><bibl n="thuc. 3.82.1">3.82.1</bibl>. <bibl n="thuc. 4.46.4">4.46.4</bibl>. <bibl n="thuc. 4.66.3">4.66.3</bibl>. <bibl n="thuc. 6.35.2">6.35.2</bibl>. <bibl n="thuc. 8.89.4">8.89.4</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-prostauro/w">
 <head><foreign xml:lang="grc">προσταυροῦν</foreign></head>
@@ -22172,7 +22172,7 @@ CTS/CITE Architecture.</p>
 <p><gloss>addi</gloss>, <bibl n="thuc. 3.82.4">3.82.4</bibl>,<quote/></p>
 <p>MED. <gloss>imponere sibi invicem</gloss>, <bibl n="thuc. 2.37.2">2.37.2</bibl>,<quote/></p>
 <p><gloss>suscipere</gloss>, <bibl n="thuc. 1.78.1">1.78.1</bibl>,<quote/><bibl n="thuc. 1.144.1">1.144.1</bibl>,<quote/><bibl n="thuc. 4.98.5">4.98.5</bibl>,<quote/></p>
-<p><gloss>adsciscere (<gloss>socios</gloss>)</gloss>, <bibl n="thuc. 6.18.1">6.18.1</bibl>,<quote/></p>
+<p><gloss>adsciscere (socios)</gloss>, <bibl n="thuc. 6.18.1">6.18.1</bibl>,<quote/></p>
 <p><gloss>se adiungere</gloss>, <bibl n="thuc. 3.11.4">3.11.4</bibl>. <bibl n="thuc. 6.80.2">6.80.2</bibl>,<quote/><bibl n="thuc. 8.48.4">8.48.4</bibl>,<quote/><bibl n="thuc. 8.87.4">8.87.4</bibl>,<quote/></p>
 <p><gloss>adstipulari</gloss>, <bibl n="thuc. 5.62.1">5.62.1</bibl>. <bibl n="thuc. 6.50.1">6.50.1</bibl>,<quote/></p>
 <p><gloss>suffragium ferre</gloss>, <bibl n="thuc. 1.20.3">1.20.3</bibl>,<quote/><bibl n="thuc. 1.40.5">1.40.5</bibl>,<quote/><pb xml:id="v.2.p.394"/></p>
@@ -22373,7 +22373,7 @@ CTS/CITE Architecture.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-profulaki\s">
 <head><foreign xml:lang="grc">προφυλακίς</foreign></head>
-<p><gloss>praesidiaria (<gloss>navis</gloss>)</gloss>, <bibl n="thuc. 1.117.1">1.117.1</bibl>,<quote/></p>
+<p><gloss>praesidiaria (navis)</gloss>, <bibl n="thuc. 1.117.1">1.117.1</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-profu/lac">
 <head><foreign xml:lang="grc">προφύλαξ</foreign></head>
@@ -23509,7 +23509,7 @@ CTS/CITE Architecture.</p>
 <p><gloss>instruere</gloss>, <bibl n="thuc. 4.8.7">4.8.7</bibl>,<quote/><bibl n="thuc. 4.9.2">4.9.2</bibl>,<quote/><bibl n="Thuc. 4.9.4">4.9.4</bibl>,<quote/><bibl n="thuc. 4.32.3">4.32.3</bibl>. <bibl n="thuc. 4.32.5">4.32.5</bibl>. <bibl n="thuc. 4.93.1">4.93.1</bibl>,<quote/><bibl n="thuc. 6.67.2">6.67.2</bibl>,<quote/></p>
 <p><gloss>collocare</gloss>, <bibl n="thuc. 2.90.2">2.90.2</bibl>,<quote/><bibl n="thuc. 7.6.2">7.6.2</bibl>,<quote/></p>
 <p><gloss>constituere</gloss>, <bibl n="thuc. 1.96.1">1.96.1</bibl>,<quote/><bibl n="thuc. 4.125.3">4.125.3</bibl>,<quote/></p>
-<p><gloss>statuere (<gloss>tributum</gloss>)</gloss>, <bibl n="thuc. 1.19.1">1.19.1</bibl>,<quote/><bibl n="thuc. 3.50.2">3.50.2</bibl>,<quote/><bibl n="thuc. 5.31.2">5.31.2</bibl>,<quote/></p>
+<p><gloss>statuere (tributum)</gloss>, <bibl n="thuc. 1.19.1">1.19.1</bibl>,<quote/><bibl n="thuc. 3.50.2">3.50.2</bibl>,<quote/><bibl n="thuc. 5.31.2">5.31.2</bibl>,<quote/></p>
 <p><gloss>aestimare</gloss>, <bibl n="thuc. 4.26.5">4.26.5</bibl>,<quote/></p>
 <p><gloss>imperare, iubere</gloss>, <bibl n="thuc. 8.3.2">8.3.2</bibl>,<quote/><bibl n="thuc. 8.74.2">8.74.2</bibl>,<quote/><bibl n="thuc. 8.87.5">8.87.5</bibl>,<quote/></p>
 <p>MED. <gloss>instruere</gloss>, <bibl n="thuc. 2.20.1">2.20.1</bibl> (<hi rend="italic">de imperatore</hi>),<quote/><pb xml:id="v.2.p.437"/><bibl n="Thuc. 2.83.5">2.83.5</bibl>,<quote/> [<hi rend="italic">vulgo additur</hi><foreign xml:lang="grc">ποιήσαντες</foreign>] <bibl n="Thuc. 2.90.1">2.90.1</bibl>,<quote/><bibl n="thuc. 3.78.1">3.78.1</bibl>,<quote/><bibl n="thuc. 4.94.1">4.94.1</bibl>,<quote/></p>
@@ -23519,7 +23519,7 @@ CTS/CITE Architecture.</p>
 <p><gloss>collocari</gloss>, <bibl n="thuc. 2.63.5">2.63.5</bibl>,<quote/><bibl n="thuc. 3.13.3">3.13.3</bibl>,<quote/><bibl n="thuc. 3.78.1">3.78.1</bibl>,<quote/><bibl n="thuc. 3.86.2">3.86.2</bibl>,<quote/><bibl n="thuc. 5.6.5">5.6.5</bibl>,<quote/><bibl n="thuc. 7.4.6">7.4.6</bibl>,<quote/><bibl n="thuc. 7.70.2">7.70.2</bibl>,<quote/><bibl n="thuc. 8.92.5">8.92.5</bibl>,<quote/></p>
 <p><gloss>constitui, mandatum habere</gloss>, <bibl n="thuc. 2.70.1">2.70.1</bibl>,<quote/><bibl n="thuc. 4.110.2">4.110.2</bibl>,<quote/><bibl n="thuc. 8.86.9">8.86.9</bibl>,<quote/></p>
 <p><hi rend="italic">impers.</hi><bibl n="thuc. 3.22.7">3.22.7</bibl>,<quote/><bibl n="thuc. 3.61.2">3.61.2</bibl>.<quote/></p>
-<p>MED. <gloss>imponere sibi (<gloss>tributum</gloss>)</gloss>, <bibl n="thuc. 1.99.3">1.99.3</bibl>,<quote/><bibl n="thuc. 1.101.3">1.101.3</bibl>,<quote/><bibl n="thuc. 1.108.4">1.108.4</bibl>,<quote/><bibl n="thuc. 1.117.3">1.117.3</bibl>,<quote/><bibl n="thuc. 3.50.2">3.50.2</bibl>,<quote/></p>
+<p>MED. <gloss>imponere sibi (tributum)</gloss>, <bibl n="thuc. 1.99.3">1.99.3</bibl>,<quote/><bibl n="thuc. 1.101.3">1.101.3</bibl>,<quote/><bibl n="thuc. 1.108.4">1.108.4</bibl>,<quote/><bibl n="thuc. 1.117.3">1.117.3</bibl>,<quote/><bibl n="thuc. 3.50.2">3.50.2</bibl>,<quote/></p>
 <p>PASS. <gloss>imponi</gloss>, <bibl n="thuc. 1.96.2">1.96.2</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-tau/th|">
@@ -23650,7 +23650,7 @@ CTS/CITE Architecture.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-tele/w">
 <head><foreign xml:lang="grc">τελεῖν</foreign></head>
-<p><gloss>conficere (<gloss>iter</gloss>)</gloss>, <bibl n="thuc. 2.97.1">2.97.1</bibl>,<quote/><bibl n="thuc. 4.78.5">4.78.5</bibl>,<quote/></p>
+<p><gloss>conficere (iter)</gloss>, <bibl n="thuc. 2.97.1">2.97.1</bibl>,<quote/><bibl n="thuc. 4.78.5">4.78.5</bibl>,<quote/></p>
 <p>PASS. <gloss>perfici</gloss>, <bibl n="thuc. 1.93.5">1.93.5</bibl>,<quote/><bibl n="thuc. 3.2.2">3.2.2</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry">
@@ -23673,7 +23673,7 @@ CTS/CITE Architecture.</p>
 <p><gloss>exsequi</gloss>, <bibl n="thuc. 4.72.4">4.72.4</bibl>,<quote/></p>
 <p><gloss>mori</gloss>, <bibl n="thuc. 1.138.4">1.138.4</bibl>,<quote/></p>
 <p><hi rend="italic">item absolute,</hi><bibl n="thuc. 2.41.5">2.41.5</bibl>,<quote/><bibl n="thuc. 3.59.3">3.59.3</bibl>,<quote/><bibl n="thuc. 4.50.3">4.50.3</bibl>. <bibl n="thuc. 5.10.11">5.10.11</bibl>,<quote/><bibl n="thuc. 6.54.2">6.54.2</bibl>,<quote/></p>
-<p><gloss>exire (<gloss>de tempore</gloss>)</gloss>, <bibl n="thuc. 2.4.2">2.4.2</bibl>,<quote/><bibl n="thuc. 2.32.1">2.32.1</bibl>. <bibl n="thuc. 2.47.1">2.47.1</bibl>,<quote/><bibl n="thuc. 2.67.1">2.67.1</bibl>. <bibl n="thuc. 2.68.1">2.68.1</bibl>. <bibl n="thuc. 2.70.5">2.70.5</bibl>. <bibl n="thuc. 2.92.7">2.92.7</bibl>. <bibl n="thuc. 2.103.2">2.103.2</bibl>,<quote/><pb xml:id="v.2.445"/><bibl n="thuc. 3.25.1">3.25.1</bibl>. <bibl n="Thuc. 3.25.2">3.25.2</bibl>. <bibl n="Thuc. 3.25.2">3.25.2</bibl><bibl n="thuc. 3.88.4">3.88.4</bibl>. <bibl n="Thuc. 3.88.4">3.88.4</bibl><bibl n="thuc. 3.86.1">3.86.1</bibl>. <bibl n="Thuc. 3.86.5">3.86.5</bibl>. <bibl n="Thuc. 3.86.5">3.86.5</bibl><bibl n="thuc. 3.102.7">3.102.7</bibl>. <bibl n="thuc. 3.115.5">3.115.5</bibl>. <bibl n="thuc. 3.116.3">3.116.3</bibl>. <bibl n="thuc. 4.49.1">4.49.1</bibl>. <bibl n="Thuc. 4.49.1">4.49.1</bibl><bibl n="thuc. 4.51.2">4.51.2</bibl>. <bibl n="Thuc. 4.51.2">4.51.2</bibl><bibl n="thuc. 4.116.3">4.116.3</bibl>. <bibl n="thuc. 4.133.4">4.133.4</bibl>. <bibl n="thuc. 4.135.1">4.135.1</bibl>. <bibl n="Thuc. 4.135.2">4.135.2</bibl>. <bibl n="Thuc. 4.135.2">4.135.2</bibl><bibl n="thuc. 5.12.1">5.12.1</bibl>. <bibl n="Thuc. 5.12.2">5.12.2</bibl>. <bibl n="thuc. 5.20.1">5.20.1</bibl>. <bibl n="thuc. 5.39.3">5.39.3</bibl>. <bibl n="Thuc. 5.39.3">5.39.3</bibl><bibl n="thuc. 5.50.5">5.50.5</bibl>. <bibl n="thuc. 5.51.1">5.51.1</bibl>. <bibl n="Thuc. 5.51.1">5.51.1</bibl><bibl n="thuc. 5.56.5">5.56.5</bibl>. <hi rend="italic">Ibid. bis.</hi><bibl n="Thuc. 5.75.6">5.75.6</bibl>. <bibl n="Thuc. 5.81.2">5.81.2</bibl>. <bibl n="Thuc. 5.82.6">5.82.6</bibl>. <bibl n="Thuc. 5.83.4">5.83.4</bibl>. <hi rend="italic">Ibid.</hi><bibl n="Thuc. 5.115.4">5.115.4</bibl>. <bibl n="thuc. 6.7.4">6.7.4</bibl>. <bibl n="Thuc. 6.7.4">6.7.4</bibl><bibl n="thuc. 6.62.5">6.62.5</bibl>. <bibl n="thuc. 6.93.4">6.93.4</bibl>. <bibl n="Thuc. 6.93.4">6.93.4</bibl><bibl n="thuc. 7.9.1">7.9.1</bibl>,<quote/><bibl n="Thuc. 7.9.1">7.9.1</bibl><bibl n="thuc. 7.18.4">7.18.4</bibl>, <bibl n="Thuc. 7.18.4">7.18.4</bibl><bibl n="thuc. 8.1.4">8.1.4</bibl>. <bibl n="thuc. 8.6.5">8.6.5</bibl>. <bibl n="Thuc. 8.6.5">8.6.5</bibl><bibl n="thuc. 8.25.1">8.25.1</bibl>. <bibl n="thuc. 8.28.5">8.28.5</bibl>. <bibl n="thuc. 8.60.1">8.60.1</bibl>. <bibl n="Thuc. 8.60.3">8.60.3</bibl><bibl n="Thuc. 8.60.3">8.60.3</bibl><bibl n="thuc. 8.109.2">8.109.2</bibl>,<quote/></p>
+<p><gloss>exire (de tempore)</gloss>, <bibl n="thuc. 2.4.2">2.4.2</bibl>,<quote/><bibl n="thuc. 2.32.1">2.32.1</bibl>. <bibl n="thuc. 2.47.1">2.47.1</bibl>,<quote/><bibl n="thuc. 2.67.1">2.67.1</bibl>. <bibl n="thuc. 2.68.1">2.68.1</bibl>. <bibl n="thuc. 2.70.5">2.70.5</bibl>. <bibl n="thuc. 2.92.7">2.92.7</bibl>. <bibl n="thuc. 2.103.2">2.103.2</bibl>,<quote/><pb xml:id="v.2.445"/><bibl n="thuc. 3.25.1">3.25.1</bibl>. <bibl n="Thuc. 3.25.2">3.25.2</bibl>. <bibl n="Thuc. 3.25.2">3.25.2</bibl><bibl n="thuc. 3.88.4">3.88.4</bibl>. <bibl n="Thuc. 3.88.4">3.88.4</bibl><bibl n="thuc. 3.86.1">3.86.1</bibl>. <bibl n="Thuc. 3.86.5">3.86.5</bibl>. <bibl n="Thuc. 3.86.5">3.86.5</bibl><bibl n="thuc. 3.102.7">3.102.7</bibl>. <bibl n="thuc. 3.115.5">3.115.5</bibl>. <bibl n="thuc. 3.116.3">3.116.3</bibl>. <bibl n="thuc. 4.49.1">4.49.1</bibl>. <bibl n="Thuc. 4.49.1">4.49.1</bibl><bibl n="thuc. 4.51.2">4.51.2</bibl>. <bibl n="Thuc. 4.51.2">4.51.2</bibl><bibl n="thuc. 4.116.3">4.116.3</bibl>. <bibl n="thuc. 4.133.4">4.133.4</bibl>. <bibl n="thuc. 4.135.1">4.135.1</bibl>. <bibl n="Thuc. 4.135.2">4.135.2</bibl>. <bibl n="Thuc. 4.135.2">4.135.2</bibl><bibl n="thuc. 5.12.1">5.12.1</bibl>. <bibl n="Thuc. 5.12.2">5.12.2</bibl>. <bibl n="thuc. 5.20.1">5.20.1</bibl>. <bibl n="thuc. 5.39.3">5.39.3</bibl>. <bibl n="Thuc. 5.39.3">5.39.3</bibl><bibl n="thuc. 5.50.5">5.50.5</bibl>. <bibl n="thuc. 5.51.1">5.51.1</bibl>. <bibl n="Thuc. 5.51.1">5.51.1</bibl><bibl n="thuc. 5.56.5">5.56.5</bibl>. <hi rend="italic">Ibid. bis.</hi><bibl n="Thuc. 5.75.6">5.75.6</bibl>. <bibl n="Thuc. 5.81.2">5.81.2</bibl>. <bibl n="Thuc. 5.82.6">5.82.6</bibl>. <bibl n="Thuc. 5.83.4">5.83.4</bibl>. <hi rend="italic">Ibid.</hi><bibl n="Thuc. 5.115.4">5.115.4</bibl>. <bibl n="thuc. 6.7.4">6.7.4</bibl>. <bibl n="Thuc. 6.7.4">6.7.4</bibl><bibl n="thuc. 6.62.5">6.62.5</bibl>. <bibl n="thuc. 6.93.4">6.93.4</bibl>. <bibl n="Thuc. 6.93.4">6.93.4</bibl><bibl n="thuc. 7.9.1">7.9.1</bibl>,<quote/><bibl n="Thuc. 7.9.1">7.9.1</bibl><bibl n="thuc. 7.18.4">7.18.4</bibl>, <bibl n="Thuc. 7.18.4">7.18.4</bibl><bibl n="thuc. 8.1.4">8.1.4</bibl>. <bibl n="thuc. 8.6.5">8.6.5</bibl>. <bibl n="Thuc. 8.6.5">8.6.5</bibl><bibl n="thuc. 8.25.1">8.25.1</bibl>. <bibl n="thuc. 8.28.5">8.28.5</bibl>. <bibl n="thuc. 8.60.1">8.60.1</bibl>. <bibl n="Thuc. 8.60.3">8.60.3</bibl><bibl n="Thuc. 8.60.3">8.60.3</bibl><bibl n="thuc. 8.109.2">8.109.2</bibl>,<quote/></p>
 <p><gloss>exitum habere</gloss>, <bibl n="thuc. 1.110.5">1.110.5</bibl>,<quote/><bibl n="thuc. 1.138.7">1.138.7</bibl>,<quote/> [<hi rend="italic">vulgo</hi><foreign xml:lang="grc">ἐτελεύτησαν</foreign>]. <bibl n="thuc. 3.68.3">3.68.3</bibl>,<quote/> [<hi rend="italic">vulgo</hi><foreign xml:lang="grc">ἐτελεύτησαν</foreign>]. <bibl n="thuc. 5.26.4">5.26.4</bibl>,<quote/><bibl n="thuc. 7.34.8">7.34.8</bibl>,<quote/><bibl n="thuc. 8.2.4">8.2.4</bibl>,<quote/><bibl n="thuc. 8.58.6">8.58.6</bibl>,<quote/></p>
 <p><hi rend="italic">cum</hi><foreign xml:lang="grc">ἐς,</foreign> <gloss>durare, permanere,</gloss> <bibl n="thuc. 1.51.3">1.51.3</bibl>,<quote/><bibl n="thuc. 3.78.4">3.78.4</bibl>,<quote/><bibl n="thuc. 3.108.3">3.108.3</bibl>,<quote/> [<hi rend="italic">vulgo</hi><foreign xml:lang="grc">ἕως</foreign>]</p>
 <p><gloss>desinere in, pertinere</gloss>, <bibl n="thuc. 2.51.1">2.51.1</bibl>,<quote/><bibl n="thuc. 4.48.5">4.48.5</bibl>,<quote/><bibl n="thuc. 4.109.2">4.109.2</bibl>,<quote/><bibl n="thuc. 8.90.4">8.90.4</bibl>,<quote/></p>
@@ -23691,7 +23691,7 @@ CTS/CITE Architecture.</p>
 <p><gloss>denique</gloss>, <bibl n="thuc. 1.109.4">1.109.4</bibl>,<quote/><bibl n="thuc. 1.139.3">1.139.3</bibl>,<quote/><bibl n="thuc. 2.4.7">2.4.7</bibl>. <bibl n="thuc. 2.100.6">2.100.6</bibl>,<quote/><bibl n="thuc. 4.35.1">4.35.1</bibl>. <bibl n="thuc. 5.46.4">5.46.4</bibl>. <bibl n="thuc. 6.25.1">6.25.1</bibl>. <bibl n="thuc. 7.25.6">7.25.6</bibl>. <bibl n="thuc. 7.41.1">7.41.1</bibl>. <bibl n="thuc. 7.44.7">7.44.7</bibl>,<quote/><bibl n="thuc. 7.85.1">7.85.1</bibl>. <pb xml:id="v.2.p.446"/><bibl n="thuc. 8.56.4">8.56.4</bibl>,<quote/><bibl n="thuc. 8.81.1">8.81.1</bibl>. <bibl n="thuc. 8.92.4">8.92.4</bibl>.</p>
 <p>b) <gloss>sumptus,</gloss> <bibl n="thuc. 4.60.2">4.60.2</bibl>,<quote/><bibl n="thuc. 6.16.3">6.16.3</bibl>,<quote/></p>
 <p>c) <gloss>pars,</gloss> <bibl n="thuc. 1.48.3">1.48.3</bibl>,<quote/><bibl n="thuc. 2.81.2">2.81.2</bibl>,<quote/><bibl n="thuc. 6.42.1">6.42.1</bibl>,<quote/></p>
-<p><gloss>ala (<gloss>equitum</gloss>)</gloss>, <bibl n="thuc. 2.22.2">2.22.2</bibl>,<quote/><bibl n="thuc. 4.96.5">4.96.5</bibl>,<quote/></p>
+<p><gloss>ala (equitum)</gloss>, <bibl n="thuc. 2.22.2">2.22.2</bibl>,<quote/><bibl n="thuc. 4.96.5">4.96.5</bibl>,<quote/></p>
 <p>d) <gloss>plena et libera potestas,</gloss> <bibl n="thuc. 4.118.10">4.118.10</bibl>,<quote/></p>
 <p><gloss>ii qui sunt in honore vel imperio</gloss>, <bibl n="thuc. 1.10.4">1.10.4</bibl>,<quote/><bibl n="thuc. 1.90.5">1.90.5</bibl>,<quote/><bibl n="thuc. 2.10.3">2.10.3</bibl>,<quote/><bibl n="thuc. 3.36.5">3.36.5</bibl>,<quote/><bibl n="thuc. 4.65.2">4.65.2</bibl>,<quote/><bibl n="thuc. 5.27.2">5.27.2</bibl>,<quote/><bibl n="thuc. 5.60.1">5.60.1</bibl>,<quote/><bibl n="thuc. 6.88.10">6.88.10</bibl>,<quote/><bibl n="thuc. 7.73.1">7.73.1</bibl>,<quote/><bibl n="thuc. 8.50.4">8.50.4</bibl>,<quote/></p>
 <p><gloss>munera publica</gloss>, <bibl n="thuc. 5.47.9">5.47.9</bibl>,<quote/></p>
@@ -23705,7 +23705,7 @@ CTS/CITE Architecture.</p>
 <div type="textpart" subtype="entry" n="lsj-te/mnw">
 <head><foreign xml:lang="grc">τέμνειν</foreign></head>
 <p><gloss>caedere, succidere</gloss>, <bibl n="thuc. 2.75.2">2.75.2</bibl>,<quote/><bibl n="thuc. 2.98.1">2.98.1</bibl>,<quote/><bibl n="thuc. 3.70.4">3.70.4</bibl>,<quote/></p>
-<p><gloss>aperire (<gloss>viam</gloss>)</gloss>, <bibl n="thuc. 2.100.2">2.100.2</bibl>,<quote/></p>
+<p><gloss>aperire (viam)</gloss>, <bibl n="thuc. 2.100.2">2.100.2</bibl>,<quote/></p>
 <p><gloss>vastare, populari</gloss>, <bibl n="thuc. 1.30.2">1.30.2</bibl>,<quote/><bibl n="thuc. 1.81.6">1.81.6</bibl>,<quote/><bibl n="thuc. 1.82.5">1.82.5</bibl>,<quote/><bibl n="thuc. 2.19.2">2.19.2</bibl>,<quote/><bibl n="Thuc. 2.19.2">2.19.2</bibl><bibl n="thuc. 2.20.4">2.20.4</bibl>,<quote/><bibl n="thuc. 2.55.1">2.55.1</bibl>,<quote/><bibl n="Thuc. 2.55.1">2.55.1</bibl><bibl n="thuc. 2.56.4">2.56.4</bibl>,<quote/><bibl n="Thuc. 2.56.5">2.56.5</bibl>. <bibl n="thuc. 2.6.1">2.6.1</bibl>,<quote/><bibl n="thuc. 2.57.2">2.57.2</bibl>,<quote/><bibl n="thuc. 2.73.1">2.73.1</bibl>,<quote/><bibl n="thuc. 3.26.4">3.26.4</bibl>,<quote/><bibl n="thuc. 3.88.4">3.88.4</bibl>,<quote/><bibl n="thuc. 3.91.6">3.91.6</bibl>,<quote/><bibl n="thuc. 5.14.3">5.14.3</bibl>,<quote/><pb xml:id="v.2.p.447"/><bibl n="Thuc. 5.31.3">5.31.3</bibl>,<quote/><bibl n="Thuc. 5.55.4">5.55.4</bibl>,<quote/><bibl n="thuc. 6.7.1">6.7.1</bibl>,<quote/><bibl n="thuc. 6.75.2">6.75.2</bibl>. <bibl n="thuc. 6.105.3">6.105.3</bibl>. <bibl n="thuc. 7.42.6">7.42.6</bibl>,<quote/></p>
 <p>PASS. <gloss>vastari</gloss>, <bibl n="thuc. 1.143.4">1.143.4</bibl>,<quote/><bibl n="thuc. 2.18.5">2.18.5</bibl>,<quote/><bibl n="thuc. 2.20.2">2.20.2</bibl>,<quote/><bibl n="thuc. 2.21.2">2.21.2</bibl>,<quote/><bibl n="Thuc. 2.21.3">2.21.3</bibl>,<quote/><bibl n="thuc. 2.59.1">2.59.1</bibl>,<quote/><bibl n="thuc. 2.74.1">2.74.1</bibl>,<quote/><bibl n="thuc. 3.26.3">3.26.3</bibl>,<quote/></p>
 </div>
@@ -23830,7 +23830,7 @@ CTS/CITE Architecture.</p>
 <p><gloss>legem constituere</gloss>, <bibl n="thuc. 5.63.4">5.63.4</bibl>,<quote/></p>
 <p><gloss>bellum ferre</gloss>, <bibl n="thuc. 1.31.3">1.31.3</bibl>,<quote/></p>
 <p><gloss>componere</gloss>, <bibl n="thuc. 1.82.6">1.82.6</bibl>,<quote/><bibl n="thuc. 8.84.5">8.84.5</bibl>,<quote/></p>
-<p><gloss>in armis consistere (<gloss>clypeis ad genua positis</gloss>)</gloss>, <bibl n="thuc. 2.2.4">2.2.4</bibl>,<quote/><bibl n="Thuc. 2.2.4">2.2.4</bibl><quote/><bibl n="thuc. 4.44.1">4.44.1</bibl>,<quote/><bibl n="thuc. 4.68.3">4.68.3</bibl>,<quote/><bibl n="thuc. 4.90.4">4.90.4</bibl>,<quote/><bibl n="thuc. 4.91.1">4.91.1</bibl>,<quote/></p>
+<p><gloss>in armis consistere (clypeis ad genua positis)</gloss>, <bibl n="thuc. 2.2.4">2.2.4</bibl>,<quote/><bibl n="Thuc. 2.2.4">2.2.4</bibl><quote/><bibl n="thuc. 4.44.1">4.44.1</bibl>,<quote/><bibl n="thuc. 4.68.3">4.68.3</bibl>,<quote/><bibl n="thuc. 4.90.4">4.90.4</bibl>,<quote/><bibl n="thuc. 4.91.1">4.91.1</bibl>,<quote/></p>
 <p><hi rend="italic">item</hi><bibl n="Thuc. 4.93.3">4.93.3</bibl>. <bibl n="thuc. 7.3.1">7.3.1</bibl>,<quote/><bibl n="thuc. 8.25.4">8.25.4</bibl>,<quote/><bibl n="thuc. 8.93.1">8.93.1</bibl>,<quote/><bibl n="Thuc. 8.93.1">8.93.1</bibl> [<hi rend="italic">vulgo additur</hi><foreign xml:lang="grc">αὐτοῦ</foreign>]</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-tima/w">
@@ -23885,7 +23885,7 @@ CTS/CITE Architecture.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-toiou=tos">
 <head><foreign xml:lang="grc">τοιοῦτος</foreign></head>
-<p><gloss>talis (<gloss>qualis supra dictus est</gloss>)</gloss>, <bibl n="thuc. 1.15.1">1.15.1</bibl>,<quote/><bibl n="thuc. 1.20.1">1.20.1</bibl>. <bibl n="thuc. 1.21.1">1.21.1</bibl>. <bibl n="thuc. 1.22.4">1.22.4</bibl>,<quote/><bibl n="thuc. 1.36.4">1.36.4</bibl>. <bibl n="thuc. 1.43.5">1.43.5</bibl>. <bibl n="thuc. 1.45.1">1.45.1</bibl>. <bibl n="thuc. 1.53.3">1.53.3</bibl>. <bibl n="thuc. 1.54.1">1.54.1</bibl>. <bibl n="thuc. 1.71.1">1.71.1</bibl>,<quote/><bibl n="thuc. 1.72.1">1.72.1</bibl>. <bibl n="thuc. 1.74.1">1.74.1</bibl>,<quote/><bibl n="thuc. 1.78.4">1.78.4</bibl>. <bibl n="thuc. 1.79.1">1.79.1</bibl>. <bibl n="thuc. 1.85.3">1.85.3</bibl>. <bibl n="thuc. 1.87.1">1.87.1</bibl>,<quote/><bibl n="thuc. 1.124.3">1.124.3</bibl>. <bibl n="thuc. 1.131.1">1.131.1</bibl>. <bibl n="thuc. 1.139.1">1.139.1</bibl>. <bibl n="thuc. 1.143.3">1.143.3</bibl>,<quote/><bibl n="thuc. 1.145.1">1.145.1</bibl>. <bibl n="thuc. 2.5.5">2.5.5</bibl>,<quote/><bibl n="thuc. 2.8.6">2.8.6</bibl>. <bibl n="thuc. 2.18.5">2.18.5</bibl>. <bibl n="thuc. 2.20.5">2.20.5</bibl>. <bibl n="thuc. 2.41.5">2.41.5</bibl>. <bibl n="thuc. 2.50.2">2.50.2</bibl>,<quote/><bibl n="thuc. 2.51.1">2.51.1</bibl>. <bibl n="thuc. 2.54.1">2.54.1</bibl>. <bibl n="thuc. 2.65.1">2.65.1</bibl>. <bibl n="thuc. 2.74.1">2.74.1</bibl>. <bibl n="thuc. 2.78.4">2.78.4</bibl>. <bibl n="thuc. 2.88.1">2.88.1</bibl>. <bibl n="thuc. 2.90.1">2.90.1</bibl>. <bibl n="thuc. 2.102.6">2.102.6</bibl>. <bibl n="thuc. 3.13.1">3.13.1</bibl>. <bibl n="thuc. 3.15.1">3.15.1</bibl>. <bibl n="thuc. 3.21.4">3.21.4</bibl>. <bibl n="thuc. 3.23.5">3.23.5</bibl>. <bibl n="thuc. 3.38.6">3.38.6</bibl>,<quote/> [<hi rend="italic">vulgo</hi><foreign xml:lang="grc">τὰ τοιαῦτα</foreign>] <bibl n="thuc. 3.39.2">3.39.2</bibl>. <bibl n="thuc. 3.41.1">3.41.1</bibl>. <bibl n="thuc. 3.49.1">3.49.1</bibl>. <bibl n="Thuc. 3.49.4">3.49.4</bibl>. <bibl n="thuc. 3.55.1">3.55.1</bibl>. <bibl n="thuc. 3.58.5">3.58.5</bibl>. <bibl n="thuc. 3.60.1">3.60.1</bibl>. <bibl n="thuc. 3.64.5">3.64.5</bibl>. <bibl n="thuc. 3.68.1">3.68.1</bibl>. <bibl n="thuc. 3.78.4">3.78.4</bibl>. <bibl n="thuc. 3.85.1">3.85.1</bibl>. <bibl n="thuc. 3.97.3">3.97.3</bibl>. <bibl n="thuc. 3.104.4">3.104.4</bibl>. <bibl n="thuc. 3.112.8">3.112.8</bibl>. <bibl n="thuc. 4.12.1">4.12.1</bibl>. <bibl n="thuc. 4.32.5">4.32.5</bibl>. <bibl n="thuc. 4.34.2">4.34.2</bibl>. <bibl n="thuc. 4.41.3">4.41.3</bibl>. <bibl n="thuc. 4.48.5">4.48.5</bibl>. <bibl n="thuc. 4.55.1">4.55.1</bibl>. <bibl n="thuc. 4.65.1">4.65.1</bibl>. <bibl n="thuc. 4.76.6">4.76.6</bibl>. <bibl n="thuc. 4.81.3">4.81.3</bibl>. <bibl n="thuc. 4.83.4">4.83.4</bibl>,<quote/><bibl n="thuc. 4.93.1">4.93.1</bibl>. <bibl n="thuc. 4.96.1">4.96.1</bibl>. <bibl n="thuc. 4.106.3">4.106.3</bibl>. <bibl n="thuc. 4.115.1">4.115.1</bibl>. <bibl n="thuc. 4.127.1">4.127.1</bibl>. <bibl n="thuc. 5.11.2">5.11.2</bibl>. <bibl n="thuc. 5.43.1">5.43.1</bibl>. <bibl n="thuc. 5.63.1">5.63.1</bibl>,<quote/><bibl n="thuc. 5.69.2">5.69.2</bibl>,<quote/> [<hi rend="italic">vulgo</hi><foreign xml:lang="grc">ταῦτα</foreign>] <bibl n="thuc. 5.74.1">5.74.1</bibl>. <bibl n="thuc. 5.103.2">5.103.2</bibl>. <bibl n="thuc. 6.15.1">6.15.1</bibl>. <bibl n="thuc. 6.17.6">6.17.6</bibl>. <bibl n="thuc. 6.19.1">6.19.1</bibl>. <bibl n="thuc. 6.21.1">6.21.1</bibl>. <bibl n="thuc. 6.29.2">6.29.2</bibl>. <bibl n="thuc. 6.41.1">6.41.1</bibl>. <bibl n="thuc. 6.59.1">6.59.1</bibl>. <bibl n="thuc. 6.69.1">6.69.1</bibl>. <bibl n="thuc. 6.81.1">6.81.1</bibl>. <bibl n="thuc. 6.88.1">6.88.1</bibl>. <bibl n="thuc. 6.90.1">6.90.1</bibl>. <bibl n="thuc. 6.91.1">6.91.1</bibl>. <bibl n="thuc. 6.97.4">6.97.4</bibl>. <bibl n="thuc. 7.30.4">7.30.4</bibl>. <bibl n="thuc. 7.37.1">7.37.1</bibl>. <bibl n="thuc. 7.47.4">7.47.4</bibl>. <bibl n="thuc. 7.57.11">7.57.11</bibl>. <bibl n="thuc. 7.60.4">7.60.4</bibl>. <bibl n="thuc. 7.68.1">7.68.1</bibl>. <bibl n="thuc. 7.69.1">7.69.1</bibl>. <bibl n="thuc. 7.75.4">7.75.4</bibl>. <bibl n="thuc. 7.78.1">7.78.1</bibl>,<quote/><bibl n="thuc. 7.79.6">7.79.6</bibl>. <bibl n="thuc. 7.81.5">7.81.5</bibl>. <bibl n="thuc. 7.86.5">7.86.5</bibl>. <bibl n="thuc. 7.87.2">7.87.2</bibl>,<quote/><bibl n="thuc. 8.64.1">8.64.1</bibl>. <bibl n="thuc. 8.73.3">8.73.3</bibl>. <bibl n="thuc. 8.77.1">8.77.1</bibl>. <bibl n="thuc. 8.84.1">8.84.1</bibl>. <bibl n="thuc. 8.85.1">8.85.1</bibl>. <bibl n="thuc. 8.91.3">8.91.3</bibl>,<quote/><bibl n="thuc. 8.95.5">8.95.5</bibl>. <bibl n="thuc. 8.104.5">8.104.5</bibl>.—(<gloss>qualis mox dicetur</gloss>), <bibl n="thuc. 4.58.1">4.58.1</bibl>,<quote/></p>
+<p><gloss>talis (qualis supra dictus est)</gloss>, <bibl n="thuc. 1.15.1">1.15.1</bibl>,<quote/><bibl n="thuc. 1.20.1">1.20.1</bibl>. <bibl n="thuc. 1.21.1">1.21.1</bibl>. <bibl n="thuc. 1.22.4">1.22.4</bibl>,<quote/><bibl n="thuc. 1.36.4">1.36.4</bibl>. <bibl n="thuc. 1.43.5">1.43.5</bibl>. <bibl n="thuc. 1.45.1">1.45.1</bibl>. <bibl n="thuc. 1.53.3">1.53.3</bibl>. <bibl n="thuc. 1.54.1">1.54.1</bibl>. <bibl n="thuc. 1.71.1">1.71.1</bibl>,<quote/><bibl n="thuc. 1.72.1">1.72.1</bibl>. <bibl n="thuc. 1.74.1">1.74.1</bibl>,<quote/><bibl n="thuc. 1.78.4">1.78.4</bibl>. <bibl n="thuc. 1.79.1">1.79.1</bibl>. <bibl n="thuc. 1.85.3">1.85.3</bibl>. <bibl n="thuc. 1.87.1">1.87.1</bibl>,<quote/><bibl n="thuc. 1.124.3">1.124.3</bibl>. <bibl n="thuc. 1.131.1">1.131.1</bibl>. <bibl n="thuc. 1.139.1">1.139.1</bibl>. <bibl n="thuc. 1.143.3">1.143.3</bibl>,<quote/><bibl n="thuc. 1.145.1">1.145.1</bibl>. <bibl n="thuc. 2.5.5">2.5.5</bibl>,<quote/><bibl n="thuc. 2.8.6">2.8.6</bibl>. <bibl n="thuc. 2.18.5">2.18.5</bibl>. <bibl n="thuc. 2.20.5">2.20.5</bibl>. <bibl n="thuc. 2.41.5">2.41.5</bibl>. <bibl n="thuc. 2.50.2">2.50.2</bibl>,<quote/><bibl n="thuc. 2.51.1">2.51.1</bibl>. <bibl n="thuc. 2.54.1">2.54.1</bibl>. <bibl n="thuc. 2.65.1">2.65.1</bibl>. <bibl n="thuc. 2.74.1">2.74.1</bibl>. <bibl n="thuc. 2.78.4">2.78.4</bibl>. <bibl n="thuc. 2.88.1">2.88.1</bibl>. <bibl n="thuc. 2.90.1">2.90.1</bibl>. <bibl n="thuc. 2.102.6">2.102.6</bibl>. <bibl n="thuc. 3.13.1">3.13.1</bibl>. <bibl n="thuc. 3.15.1">3.15.1</bibl>. <bibl n="thuc. 3.21.4">3.21.4</bibl>. <bibl n="thuc. 3.23.5">3.23.5</bibl>. <bibl n="thuc. 3.38.6">3.38.6</bibl>,<quote/> [<hi rend="italic">vulgo</hi><foreign xml:lang="grc">τὰ τοιαῦτα</foreign>] <bibl n="thuc. 3.39.2">3.39.2</bibl>. <bibl n="thuc. 3.41.1">3.41.1</bibl>. <bibl n="thuc. 3.49.1">3.49.1</bibl>. <bibl n="Thuc. 3.49.4">3.49.4</bibl>. <bibl n="thuc. 3.55.1">3.55.1</bibl>. <bibl n="thuc. 3.58.5">3.58.5</bibl>. <bibl n="thuc. 3.60.1">3.60.1</bibl>. <bibl n="thuc. 3.64.5">3.64.5</bibl>. <bibl n="thuc. 3.68.1">3.68.1</bibl>. <bibl n="thuc. 3.78.4">3.78.4</bibl>. <bibl n="thuc. 3.85.1">3.85.1</bibl>. <bibl n="thuc. 3.97.3">3.97.3</bibl>. <bibl n="thuc. 3.104.4">3.104.4</bibl>. <bibl n="thuc. 3.112.8">3.112.8</bibl>. <bibl n="thuc. 4.12.1">4.12.1</bibl>. <bibl n="thuc. 4.32.5">4.32.5</bibl>. <bibl n="thuc. 4.34.2">4.34.2</bibl>. <bibl n="thuc. 4.41.3">4.41.3</bibl>. <bibl n="thuc. 4.48.5">4.48.5</bibl>. <bibl n="thuc. 4.55.1">4.55.1</bibl>. <bibl n="thuc. 4.65.1">4.65.1</bibl>. <bibl n="thuc. 4.76.6">4.76.6</bibl>. <bibl n="thuc. 4.81.3">4.81.3</bibl>. <bibl n="thuc. 4.83.4">4.83.4</bibl>,<quote/><bibl n="thuc. 4.93.1">4.93.1</bibl>. <bibl n="thuc. 4.96.1">4.96.1</bibl>. <bibl n="thuc. 4.106.3">4.106.3</bibl>. <bibl n="thuc. 4.115.1">4.115.1</bibl>. <bibl n="thuc. 4.127.1">4.127.1</bibl>. <bibl n="thuc. 5.11.2">5.11.2</bibl>. <bibl n="thuc. 5.43.1">5.43.1</bibl>. <bibl n="thuc. 5.63.1">5.63.1</bibl>,<quote/><bibl n="thuc. 5.69.2">5.69.2</bibl>,<quote/> [<hi rend="italic">vulgo</hi><foreign xml:lang="grc">ταῦτα</foreign>] <bibl n="thuc. 5.74.1">5.74.1</bibl>. <bibl n="thuc. 5.103.2">5.103.2</bibl>. <bibl n="thuc. 6.15.1">6.15.1</bibl>. <bibl n="thuc. 6.17.6">6.17.6</bibl>. <bibl n="thuc. 6.19.1">6.19.1</bibl>. <bibl n="thuc. 6.21.1">6.21.1</bibl>. <bibl n="thuc. 6.29.2">6.29.2</bibl>. <bibl n="thuc. 6.41.1">6.41.1</bibl>. <bibl n="thuc. 6.59.1">6.59.1</bibl>. <bibl n="thuc. 6.69.1">6.69.1</bibl>. <bibl n="thuc. 6.81.1">6.81.1</bibl>. <bibl n="thuc. 6.88.1">6.88.1</bibl>. <bibl n="thuc. 6.90.1">6.90.1</bibl>. <bibl n="thuc. 6.91.1">6.91.1</bibl>. <bibl n="thuc. 6.97.4">6.97.4</bibl>. <bibl n="thuc. 7.30.4">7.30.4</bibl>. <bibl n="thuc. 7.37.1">7.37.1</bibl>. <bibl n="thuc. 7.47.4">7.47.4</bibl>. <bibl n="thuc. 7.57.11">7.57.11</bibl>. <bibl n="thuc. 7.60.4">7.60.4</bibl>. <bibl n="thuc. 7.68.1">7.68.1</bibl>. <bibl n="thuc. 7.69.1">7.69.1</bibl>. <bibl n="thuc. 7.75.4">7.75.4</bibl>. <bibl n="thuc. 7.78.1">7.78.1</bibl>,<quote/><bibl n="thuc. 7.79.6">7.79.6</bibl>. <bibl n="thuc. 7.81.5">7.81.5</bibl>. <bibl n="thuc. 7.86.5">7.86.5</bibl>. <bibl n="thuc. 7.87.2">7.87.2</bibl>,<quote/><bibl n="thuc. 8.64.1">8.64.1</bibl>. <bibl n="thuc. 8.73.3">8.73.3</bibl>. <bibl n="thuc. 8.77.1">8.77.1</bibl>. <bibl n="thuc. 8.84.1">8.84.1</bibl>. <bibl n="thuc. 8.85.1">8.85.1</bibl>. <bibl n="thuc. 8.91.3">8.91.3</bibl>,<quote/><bibl n="thuc. 8.95.5">8.95.5</bibl>. <bibl n="thuc. 8.104.5">8.104.5</bibl>.—(<gloss>qualis mox dicetur</gloss>), <bibl n="thuc. 4.58.1">4.58.1</bibl>,<quote/></p>
 <p><hi rend="italic">sequente pron. relat.</hi><bibl n="thuc. 1.41.3">1.41.3</bibl>,<quote/><bibl n="thuc. 2.60.5">2.60.5</bibl>. <bibl n="thuc. 4.126.2">4.126.2</bibl>. <bibl n="thuc. 6.11.1">6.11.1</bibl>. <bibl n="thuc. 6.91.4">6.91.4</bibl>. <bibl n="thuc. 7.28.3">7.28.3</bibl>. <bibl n="thuc. 8.2.4">8.2.4</bibl>,<quote/><bibl n="thuc. 8.45.2">8.45.2</bibl>.</p>
 <p><hi rend="italic">cum</hi><foreign xml:lang="grc">ὥστε,</foreign><bibl n="thuc. 3.49.3">3.49.3</bibl>,<quote/><bibl n="thuc. 8.66.2">8.66.2</bibl>,<quote/></p>
 <p><hi rend="italic">praecedente artic.</hi><bibl n="thuc. 1.141.4">1.141.4</bibl>,<quote/><bibl n="thuc. 2.47.4">2.47.4</bibl>,<quote/><bibl n="thuc. 2.50.2">2.50.2</bibl>,<quote/><bibl n="thuc. 2.63.3">2.63.3</bibl>. <bibl n="thuc. 3.42.4">3.42.4</bibl>,<quote/><bibl n="thuc. 3.82.6">3.82.6</bibl>. <bibl n="thuc. 3.84.3">3.84.3</bibl>. <bibl n="thuc. 4.18.4">4.18.4</bibl>. <bibl n="thuc. 4.126.6">4.126.6</bibl>. <bibl n="thuc. 5.9.4">5.9.4</bibl>. <bibl n="thuc. 5.105.4">5.105.4</bibl>. <bibl n="thuc. 6.9.2">6.9.2</bibl>,<quote/><bibl n="thuc. 6.12.2">6.12.2</bibl>. <bibl n="thuc. 6.16.2">6.16.2</bibl>,<quote/><bibl n="Thuc. 6.16.5">6.16.5</bibl>. <bibl n="thuc. 6.17.4">6.17.4</bibl>. <bibl n="thuc. 6.36.1">6.36.1</bibl>. <bibl n="thuc. 6.38.4">6.38.4</bibl>. <bibl n="thuc. 8.90.1">8.90.1</bibl>.</p>
@@ -23963,7 +23963,7 @@ CTS/CITE Architecture.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-toso/sde">
 <head><foreign xml:lang="grc">τοσόσδε</foreign></head>
-<p><gloss>tantus (<gloss>quantus hic est</gloss>)</gloss>, <bibl n="thuc. 1.23.2">1.23.2</bibl>. <bibl n="Thuc. 1.23.2">1.23.2</bibl><bibl n="thuc. 1.122.3">1.122.3</bibl>. <bibl n="thuc. 1.144.4">1.144.4</bibl>. <bibl n="thuc. 2.72.1">2.72.1</bibl>,<quote/><bibl n="thuc. 4.85.4">4.85.4</bibl>,<quote/></p>
+<p><gloss>tantus (quantus hic est)</gloss>, <bibl n="thuc. 1.23.2">1.23.2</bibl>. <bibl n="Thuc. 1.23.2">1.23.2</bibl><bibl n="thuc. 1.122.3">1.122.3</bibl>. <bibl n="thuc. 1.144.4">1.144.4</bibl>. <bibl n="thuc. 2.72.1">2.72.1</bibl>,<quote/><bibl n="thuc. 4.85.4">4.85.4</bibl>,<quote/></p>
 <p><hi rend="italic">item</hi><bibl n="Thuc. 4.95.2">4.95.2</bibl>. <bibl n="thuc. 6.14.1">6.14.1</bibl>,<quote/><bibl n="thuc. 6.37.1">6.37.1</bibl>. <bibl n="thuc. 6.68.2">6.68.2</bibl>.—(<gloss>quantus mox dicetur</gloss>), <bibl n="thuc. 1.97.1">1.97.1</bibl>,<quote/><bibl n="thuc. 2.9.4">2.9.4</bibl>. <bibl n="thuc. 4.38.5">4.38.5</bibl>. <bibl n="thuc. 6.2.1">6.2.1</bibl>. <bibl n="thuc. 6.43.1">6.43.1</bibl>. <bibl n="thuc. 6.86.5">6.86.5</bibl>. <bibl n="thuc. 7.57.1">7.57.1</bibl>. <bibl n="thuc. 7.58.3">7.58.3</bibl>.—(<gloss>quantus supra dictus est</gloss>), <bibl n="thuc. 6.2.6">6.2.6</bibl>,<quote/><bibl n="thuc. 6.6.1">6.6.1</bibl>. <bibl n="thuc. 7.57.11">7.57.11</bibl>. <bibl n="thuc. 7.59.1">7.59.1</bibl>.<quote/></p>
 <p><gloss>hocce lantum</gloss>, <bibl n="thuc. 2.12.3">2.12.3</bibl>,<quote/></p>
 <p><gloss>tanto</gloss>, <bibl n="thuc. 1.37.5">1.37.5</bibl>,<quote/></p>
@@ -25153,7 +25153,7 @@ CTS/CITE Architecture.</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-frouri/s">
 <head><foreign xml:lang="grc">φρουρίς</foreign></head>
-<p><gloss>praesidiaria (<gloss>navis</gloss>)</gloss>, <bibl n="thuc. 4.13.2">4.13.2</bibl>,<quote/></p>
+<p><gloss>praesidiaria (navis)</gloss>, <bibl n="thuc. 4.13.2">4.13.2</bibl>,<quote/></p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-frouro/s">
 <head><foreign xml:lang="grc">φρουροί</foreign></head>
@@ -25717,7 +25717,7 @@ CTS/CITE Architecture.</p>
 <head><foreign xml:lang="grc">ω.</foreign></head>
 <div type="textpart" subtype="entry" n="lsj-w(=de">
 <head><foreign xml:lang="grc">ὧδε</foreign></head>
-<p><gloss>sic (<gloss>ut nunc est</gloss>)</gloss>, <bibl n="thuc. 3.53.3">3.53.3</bibl>,<quote/></p>
+<p><gloss>sic (ut nunc est)</gloss>, <bibl n="thuc. 3.53.3">3.53.3</bibl>,<quote/></p>
 <p><hi rend="italic">item.</hi><bibl n="Thuc. 3.59.3">3.59.3</bibl>.—(<gloss>ut sequitur</gloss>), <bibl n="thuc. 1.85.3">1.85.3</bibl>,<quote/><bibl n="thuc. 1.129.3">1.129.3</bibl>. <bibl n="thuc. 2.74.2">2.74.2</bibl>. <bibl n="thuc. 4.31.2">4.31.2</bibl>,<quote/><bibl n="thuc. 6.67.1">6.67.1</bibl>.—(<gloss>ut modo dictum est</gloss>), <bibl n="thuc. 2.34.7">2.34.7</bibl>,<quote/> [<hi rend="italic">praeterea vulgo</hi><bibl n="thuc. 6.2.1">6.2.1</bibl>, <hi rend="italic">ubi nunc</hi><foreign xml:lang="grc">ἥδε.</foreign>]</p>
 </div>
 <div type="textpart" subtype="entry" n="lsj-w)qe/w">

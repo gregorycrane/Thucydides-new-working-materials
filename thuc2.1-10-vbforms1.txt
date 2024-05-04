@@ -1,0 +1,269 @@
+forms in thuc. 2.1-10
+115	2	2	αἰσθάνομαι	aor2	aor	mid	ind	3rd pl	ᾔσθοντο	to perceive
+146	1	1	αἱρέω	aor2	aor	mid	part	neut dat pl	ἑλομένοις	to take
+22	1	1	βάλλω	w_stem	pres	act	part	neut gen pl	βαλλόντων	to throw
+1	1	1	βοιωταρχέω	ew_pr	pres	act	part	masc nom pl	βοιωταρχοῦντες	to be a Boeotarch
+78	1	1	βουλεύω	aor1	aor	act	subj	3rd pl	βουλεύσωσι	to take counsel
+78	10	1	βουλεύω	w_stem	imperf	mp	ind	3rd pl	ἐβουλεύοντο	to take counsel
+353	37	2	βούλομαι	w_stem	imperf	mp	ind	3rd pl	ἐβούλοντο	to will
+353	16	1	βούλομαι	w_stem	pres	mp	ind	3rd sg	βούλεται	to will
+353	76	2	βούλομαι	w_stem	pres	mp	part	masc nom pl	βουλόμενοι	to will
+353	2	1	βούλομαι	w_stem	pres	mp	part	neut dat sg	βουλομένῳ	to will
+353	13	1	βούλομαι	w_stem	pres	mp	subj	3rd pl	βούλωνται	to will
+689	75	1	γίγνομαι	aor2	aor	mid	ind	3rd pl	ἐγένοντο	become
+689	6	1	γίγνομαι	aor2	aor	mid	part	masc gen pl	γενομένων	become
+689	9	1	γίγνομαι	aor2	aor	mid	part	neut acc sg	γενόμενον	become
+689	12	1	γίγνομαι	aor2	aor	mid	part	neut gen sg	γενομένου	become
+689	5	1	γίγνομαι	perfp_vow	perf	mp	part	neut acc pl	γεγενημένα	become
+689	4	1	γίγνομαι	perfp_vow	perf	mp	part	neut acc sg	γεγενημένον	become
+689	6	1	γίγνομαι	perfp_vow	perf	mp	part	neut gen pl	γεγενημένων	become
+689	4	1	γίγνομαι	perfp_vow	perf	mp	part	neut gen sg	γεγενημένου	become
+689	45	1	γίγνομαι	w_stem	imperf	mp	ind	3rd sg	ἐγίγνετο	become
+689	7	1	γίγνομαι	w_stem	pres	mp	opt	3rd sg	γίγνοιτο	become
+689	2	1	γίγνομαι	w_stem	pres	mp	part	fem dat sg	γιγνομένῃ	become
+689	14	1	γίγνομαι	w_stem	pres	mp	part	neut acc pl	γιγνόμενα	become
+689	4	1	γίγνομαι	w_stem	pres	mp	subj	3rd pl	γίγνωνται	become
+119	12	1	γιγνώσκω	ath_w_aor	aor	act	ind	3rd pl	ἔγνωσαν	to learn to know
+19	5	1	γράφω	perfp_p	perf	mp	ind	3rd sg	γέγραπται	to scratch
+84	11	1	δέχομαι	aor1	aor	mid	part	masc nom pl	δεξάμενοι	to take
+84	4	1	δέχομαι	w_stem	pres	mp	part	masc acc pl	δεχομένους	to take
+32	1	1	δέω2	evw_pr	pres	act	part	neut acc pl	δέοντα	to lack
+86	1	1	δίδωμι	omi_aor	aor	act	part	fem gen sg	δούσης	to give
+103	29	1	δείδω	aor1	aor	act	part	masc nom pl	δείσαντες	to fear
+117	34	1	δεῖ	ew_pr	imperf	act	ind	3rd sg	ἔδει	it is necessary
+33	11	1	διαβαίνω	ath_h_aor	aor	act	part	masc nom pl	διαβάντες	to cross (a river
+2	1	1	διαβουλεύομαι	w_stem	pres	mp	part	neut gen pl	διαβουλευομένων	complete its term
+2	1	1	διακόπτω	aor1	aor	act	part	masc nom pl	διακόψαντες	to cut in two
+59	19	1	διανοέομαι	ew_pr	imperf	mp	ind	3rd pl	διενοοῦντο	to be minded
+128	21	1	διαφθείρω	aor2_pass	aor	pass	ind	3rd pl	διεφθάρησαν	to destroy
+128	1	1	διαφθείρω	perfp_r	perf	mp	part	masc acc pl	διεφθαρμένους	to destroy
+128	1	1	διαφθείρω	perfp_r	perf	mp	part	masc gen pl	διεφθαρμένων	to destroy
+128	12	1	διαφθείρω	w_stem	imperf	mp	ind	3rd pl	διεφθείροντο	to destroy
+1	1	1	διορύσσω	w_stem	pres	act	part	masc nom pl	διορύσσοντες	to dig through
+24	3	1	διώκω	w_stem	pres	act	part	masc acc pl	διώκοντας	to pursue
+24	2	1	διώκω	w_stem	pres	mp	part	masc nom pl	διωκόμενοι	to pursue
+308	72	4	δοκέω	ew_pr	imperf	act	ind	3rd sg	ἐδόκει	seem
+85	5	1	δράω	aor1	aor	act	opt	3rd pl	δράσειαν	to do
+139	8	1	δύναμαι	ami_short	pres	mp	opt	3rd sg	δύναιτο	to be able
+98	85	1	εἰκός	perf_act	perf	act	part	neut acc sg	εἰκός	like truth
+1859	230	5	εἰμί	irreg_mi	imperf	act	ind	3rd pl	ἦσαν	to be
+1859	359	11	εἰμί	irreg_mi	imperf	act	ind	3rd sg	ἦν	to be
+1859	16	1	εἰμί	irreg_mi	pres	act	opt	3rd pl	εἶεν	to be
+1859	52	1	εἰμί	irreg_mi	pres	act	opt	3rd sg	εἴη	to be
+1859	46	2	εἰμί	irreg_mi	pres	act	part	fem acc sg	οὖσαν	to be
+1859	15	1	εἰμί	irreg_mi	pres	act	part	fem nom pl	οὖσαι	to be
+1859	25	1	εἰμί	irreg_mi	pres	act	part	fem nom sg	οὖσα	to be
+1859	77	2	εἰμί	irreg_mi	pres	act	part	masc acc pl	ὄντας	to be
+1859	155	2	εἰμί	irreg_mi	pres	act	part	masc nom pl	ὄντες	to be
+1859	16	1	εἰμί	irreg_mi	pres	act	part	neut dat pl	οὖσι	to be
+1859	22	2	εἰμί	irreg_mi	pres	act	subj	3rd pl	ὦσι	to be
+1859	33	1	εἰμί	irreg_mi	pres	act	subj	3rd sg	ᾖ	to be
+1859	4	1	εἰμί	reg_fut	fut	mid	opt	3rd sg	ἔσοιτο	to be
+1859	1	1	εἰμί	reg_fut	fut	mid	part	fem gen pl	ἐσομένων	to be
+13	2	1	εἰσάγω	aor2	aor	act	ind	3rd pl	ἐσήγαγον	to lead in
+33	7	2	εἰσέρχομαι	aor2	aor	act	ind	3rd pl	ἐσῆλθον	to go in
+33	7	1	εἰσέρχομαι	aor2	aor	act	part	masc nom pl	ἐσελθόντες	to go in
+33	1	1	εἰσέρχομαι	perf_act	perf	act	part	neut dat pl	ἐσεληλυθόσι	to go in
+66	3	1	εἰσβάλλω	ew_fut	fut	act	part	masc nom pl	ἐσβαλοῦντες	to throw into
+12	2	1	εἰσκομίζω	aor1	aor	mid	ind	3rd pl	ἐσεκομίσαντο	to carry into
+16	2	1	εἰσπίπτω	w_stem	pres	act	ind	3rd pl	ἐσπίπτουσι	to fall into
+67	9	1	εἶμι	irreg_mi	imperf	act	ind	3rd pl	ᾖσαν	come
+67	15	1	εἶμι	irreg_mi	pres	act	part	masc nom pl	ἰόντες	come
+145	48	1	εἶπον	aor2	aor	act	inf		εἰπεῖν	to speak
+41	4	1	εὑρίσκω	aor2	aor	act	ind	3rd sg	ηὗρε	to find
+20	8	1	ζάω	ajw_pr	pres	act	part	masc acc pl	ζῶντας	to live
+20	2	1	ζάω	ajw_pr	pres	act	part	neut gen pl	ζώντων	to live
+10	1	1	ζωγρέω	perfp_vow	perf	mp	part	masc nom pl	ἐζωγρημένοι	to take alive
+32	1	1	θνήσκω	perf_act	perf	act	part	masc nom pl	τεθνηκότες	to die; see also ἀποθνῄσκω
+256	11	1	καθίστημι	ami_aor	aor	act	part	masc nom pl	καταστάντες	to set down
+256	7	1	καθίστημι	ami_pr	imperf	act	ind	3rd pl	καθίστασαν	to set down
+256	22	2	καθίστημι	ami_pr	imperf	mp	ind	3rd pl	καθίσταντο	to set down
+256	2	1	καθίστημι	perf2_act	perf	act	part	masc gen sg	καθεστῶτος	to set down
+3	2	1	καταδείδω	aor1	aor	act	part	masc nom pl	καταδείσαντες	to fear greatly
+11	1	1	κατακαίω	aor1	aor	act	subj	3rd pl	κατακαύσωσι	to burn down
+63	8	1	καταλαμβάνω	aor2	aor	act	inf		καταλαβεῖν	to seize upon
+63	1	1	καταλαμβάνω	perfp_p	perf	mp	part	fem acc sg	κατειλημμένην	to seize upon
+6	1	1	κατανοέω	aor1	aor	act	ind	3rd pl	κατενόησαν	to observe well
+5	1	1	καταπολεμέω	reg_fut	fut	act	part	masc nom pl	καταπολεμήσοντες	to war down
+138	14	1	κελεύω	w_stem	pres	act	part	masc nom pl	κελεύοντες	to urge
+23	3	1	κινέω	aor_pass	aor	pass	ind	3rd sg	ἐκινήθη	to set in motion
+5	1	1	κλείω1	aor1	aor	act	ind	3rd sg	ἔκλῃσε	to shut
+162	5	1	κρατέω	reg_fut	fut	act	inf		κρατήσειν	to be strong
+252	21	1	λέγω2	w_stem	imperf	act	ind	3rd pl	ἔλεγον	to pick; to say
+252	6	2	λέγω2	w_stem	imperf	mp	ind	3rd sg	ἐλέγετο	to pick; to say
+252	5	1	λέγω2	w_stem	pres	act	ind	3rd pl	λέγουσι	to pick; to say
+252	22	1	λέγω2	w_stem	pres	act	part	masc nom pl	λέγοντες	to pick; to say
+202	6	1	λαμβάνω	aor2	aor	act	opt	3rd pl	λάβοιεν	to take
+202	1	1	λαμβάνω	aor_pass	aor	pass	part	masc nom pl	ληφθέντες	to take
+60	9	1	λανθάνω	aor2	aor	act	ind	3rd pl	ἔλαθον	to escape notice
+60	9	1	λανθάνω	aor2	aor	act	part	masc nom pl	λαθόντες	to escape notice
+31	1	1	λύω	perfp_vow	perf	mp	part	fem gen pl	λελυμένων	to loose
+181	7	1	μέλλω	w_stem	pres	act	part	masc nom pl	μέλλοντες	to think of doing
+181	3	2	μέλλω	w_stem	pres	act	part	neut dat pl	μέλλουσι	to think of doing
+15	1	1	μιμνήσκω	perfp_vow	perf	mp	ind	3rd pl	μέμνηνται	to remind
+21	3	1	νεωτερίζω	w_stem	imperf	act	ind	3rd pl	ἐνεωτέριζον	to attempt anything new
+109	1	1	νικάω	perfp_vow	perf	mp	part	neut gen pl	νενικημένων	to conquer
+271	11	1	νομίζω	aor1	aor	act	ind	3rd pl	ἐνόμισαν	to have as a custom; to believe
+271	44	1	νομίζω	aor1	aor	act	part	masc nom pl	νομίσαντες	to have as a custom; to believe
+271	49	1	νομίζω	w_stem	pres	act	part	masc nom pl	νομίζοντες	to have as a custom; to believe
+80	18	1	οἴομαι	w_stem	pres	mp	part	masc nom pl	οἰόμενοι	to suppose
+99	22	1	οἶδα	perf_act	perf	act	part	masc nom pl	εἰδότες	to know
+99	3	1	οἶδα	perf_act	plup	act	ind	3rd pl	ᾔδεσαν	to know
+262	14	2	πάρειμι1	irreg_mi	pres	act	part	neut acc pl	παρόντα	be present
+262	2	1	πάρειμι1	reg_fut	fut	mid	ind	3rd sg	παρέσται	be present
+188	23	1	πέμπω	aor1	aor	act	ind	3rd pl	ἔπεμψαν	to send
+188	15	1	πέμπω	w_stem	imperf	act	ind	3rd pl	ἔπεμπον	to send
+188	26	1	πέμπω	w_stem	pres	act	inf		πέμπειν	to send
+125	7	1	παρέχω	w_stem	imperf	act	ind	3rd pl	παρεῖχον	to furnish
+125	4	2	παρέχω	w_stem	imperf	mp	ind	3rd pl	παρείχοντο	to furnish
+36	4	1	παραγίγνομαι	aor2	aor	mid	ind	3rd pl	παρεγένοντο	to come near
+40	12	1	παραινέω	ew_pr	imperf	act	ind	3rd sg	παρῄνει	to exhort
+150	1	1	παρασκευάζω	aor_pass	aor	pass	subj	3rd sg	παρασκευασθῇ	to get ready
+150	56	2	παρασκευάζω	w_stem	imperf	mp	ind	3rd pl	παρεσκευάζοντο	to get ready
+193	3	1	πείθω	w_stem	imperf	mp	ind	3rd pl	ἐπείθοντο	to prevail upon
+86	6	1	πειράω	aor1	aor	act	part	masc nom pl	πειράσαντες	to attempt
+16	4	1	περίειμι1	irreg_mi	imperf	act	ind	3rd pl	περιῆσαν	be superior
+9	4	1	περιαγγέλλω	aor2	aor	act	ind	3rd pl	περιήγγελλον	to announce by messages sent round
+6	1	1	πλανάω	aw_pr	pres	mp	part	masc nom pl	πλανώμενοι	to make to wander
+486	9	1	ποιέω	aor1	aor	act	ind	3rd sg	ἐποίησε	to make
+486	19	1	ποιέω	aor1	aor	act	part	masc nom pl	ποιήσαντες	to make
+486	5	1	ποιέω	ew_pr	imperf	act	ind	3rd sg	ἐποίει	to make
+486	55	1	ποιέω	ew_pr	imperf	mp	ind	3rd pl	ἐποιοῦντο	to make
+486	28	1	ποιέω	ew_pr	pres	act	inf		ποιεῖν	to make
+486	48	1	ποιέω	ew_pr	pres	mp	inf		ποιεῖσθαι	to make
+486	21	1	ποιέω	ew_pr	pres	mp	part	masc nom pl	ποιούμενοι	to make
+486	1	1	ποιέω	perfp_vow	perf	mp	part	neut acc pl	πεποιημένα	to make
+103	11	1	πολεμέω	ew_pr	imperf	act	ind	3rd pl	ἐπολέμουν	to be at war
+103	4	1	πολεμέω	reg_fut	fut	act	inf		πολεμήσειν	to be at war
+103	2	1	πολεμέω	reg_fut	fut	act	part	masc nom pl	πολεμήσοντες	to be at war
+40	5	1	πορεύω	w_stem	pres	mp	part	masc nom pl	πορευόμενοι	to make to go
+176	17	2	πράσσω	aor1	aor	act	ind	3rd pl	ἔπραξαν	do
+176	2	1	πράσσω	perf_act	plup	act	ind	3rd pl	ἐπεπράγεσαν	do
+176	11	1	πράσσω	w_stem	pres	act	part	masc nom pl	πράσσοντες	do
+17	7	1	πρεσβεύω	w_stem	imperf	mp	ind	3rd pl	ἐπρεσβεύοντο	to be the elder; to be an ambassador
+21	3	1	προδίδωμι	omi_pr	pres	act	part	masc nom pl	προδιδόντες	to give beforehand
+10	2	1	προεῖδον	aor2	aor	act	part	masc nom pl	προιδόντες	to see beforehand
+20	1	1	προεῖπον	aor2	aor	act	part	neut gen pl	προειπόντων	to tell
+1	1	1	προκαθίστημι	perf_act	perf	act	part	fem gen sg	προκαθεστηκυίας	to set before;
+17	3	1	προκαταλαμβάνω	aor2	aor	act	inf		προκαταλαβεῖν	to seize beforehand
+68	10	1	προσβάλλω	aor2	aor	act	ind	3rd pl	προσέβαλον	to strike
+68	3	1	προσβάλλω	aor2	aor	act	part	neut gen pl	προσβαλόντων	to strike
+52	5	1	προσπίτνω	w_stem	pres	act	opt	3rd pl	προσπίπτοιεν	to fall upon
+19	2	1	προσφέρω	w_stem	pres	mp	opt	3rd pl	προσφέροιντο	to bring to
+39	5	1	προσχωρέω	reg_fut	fut	act	inf		προσχωρήσειν	to go to
+38	1	1	προχωρέω	ew_pr	pres	act	opt	3rd sg	προχωροίη	to go forward
+2	1	1	σείω	aor_pass	aor	pass	part	fem nom sg	σεισθεῖσα	to shake
+102	5	1	στρατεύω	aor1	aor	act	part	masc nom pl	στρατεύσαντες	to serve in war
+12	8	1	συγκαλέω	aor1	aor	act	part	masc nom sg	ξυγκαλέσας	to call to council
+26	1	1	συλλέγω	perfp_g	perf	mp	part	neut acc sg	ξυνειλεγμένον	to collect
+26	5	1	συλλέγω	w_stem	imperf	mp	ind	3rd pl	ξυνελέγοντο	to collect
+21	4	1	συλλαμβάνω	aor2	aor	act	ind	3rd pl	ξυνέλαβον	to collect
+21	1	1	συλλαμβάνω	perfp_p	perf	mp	part	neut gen pl	ξυνειλημμένων	to collect
+108	17	1	συμβαίνω	aor1	aor	act	ind	3rd pl	ξυνέβησαν	meet
+108	36	1	συμβαίνω	ath_h_aor	aor	act	ind	3rd sg	ξυνέβη	meet
+108	2	1	συμβαίνω	w_stem	pres	act	subj	3rd pl	ξυμβαίνωσι	meet
+15	5	1	συμμαχέω	ew_pr	pres	act	inf		ξυμμαχεῖν	to be an ally
+16	3	1	συμπολεμέω	ew_pr	imperf	act	ind	3rd pl	ξυνεπολέμουν	to join in war
+4	1	1	συνεπιλαμβάνομαι	w_stem	pres	act	inf		ξυνεπιλαμβάνειν	take part with
+10	1	1	συστρέφω	perfp_p	perf	mp	part	neut acc sg	ξυνεστραμμένον	to twist up into a ball
+10	1	1	συστρέφω	w_stem	imperf	mp	ind	3rd pl	ξυνεστρέφοντο	to twist up into a ball
+9	3	1	σύνειμι2	irreg_mi	imperf	act	ind	3rd pl	ξυνῇσαν	come together
+9	1	1	σύνειμι2	irreg_mi	pres	act	part	fem gen pl	ξυνιουσῶν	come together
+27	3	1	τίθημι	emi_aor	aor	mid	part	masc nom pl	θέμενοι	to set
+90	8	1	τελευτάω	aw_pr	pres	act	part	masc gen sg	τελευτῶντος	to complete
+91	11	1	τρέπω	aor2	aor	mid	part	masc nom pl	τραπόμενοι	to turn
+134	43	1	τυγχάνω	aor2	aor	act	ind	3rd pl	ἔτυχον	(with gen.) to hit the mark
+134	3	1	τυγχάνω	aor2	aor	act	subj	3rd pl	τύχωσι	(with gen.) to hit the mark
+78	27	1	φαίνω	w_stem	imperf	mp	ind	3rd sg	ἐφαίνετο	to bring to light
+59	6	1	φεύγω	w_stem	imperf	act	ind	3rd pl	ἔφευγον	to flee
+131	35	1	φημί	ath_primary	imperf	act	ind	3rd pl	ἔφασαν	to say
+131	19	2	φημί	ath_primary	pres	act	ind	3rd pl	φασι	to say
+106	5	1	φοβέω	aor_pass	aor	pass	ind	3rd pl	ἐφοβήθησαν	to put to flight
+106	22	1	φοβέω	ew_pr	pres	mp	part	masc nom pl	φοβούμενοι	to put to flight
+53	4	1	φυλάσσω	aor1	aor	act	part	masc nom pl	φυλάξαντες	to keep watch and ward
+126	3	1	χράω2	ajw_pr	pres	mp	part	fem gen pl	χρωμένων	proclaim an oracle
+126	2	1	χράω2	aor1	aor	mid	part	masc nom sg	χρησάμενος	proclaim an oracle
+126	1	1	χράω2	aor1	aor	mid	subj	3rd pl	χρήσωνται	proclaim an oracle
+88	77	1	χρή	ath_primary	pres	act	ind	3rd sg	χρή	it is fated
+114	9	1	χωρέω	aor1	aor	act	ind	3rd pl	ἐχώρησαν	give way
+114	40	1	χωρέω	ew_pr	imperf	act	ind	3rd pl	ἐχώρουν	give way
+42	11	2	ἀγγέλλω	aor_pass	aor	pass	ind	3rd sg	ἠγγέλθη	to bear a message
+114	3	1	ἀδικέω	aor1	aor	act	part	masc nom pl	ἀδικήσαντες	to do wrong
+114	27	1	ἀδικέω	ew_pr	pres	act	inf		ἀδικεῖν	to do wrong
+4	2	1	ἀείδω	w_stem	imperf	act	ind	3rd pl	ᾖδον	to sing
+13	1	1	ἀνέχω	w_stem	pres	act	part	masc acc sg	ἀνίσχοντα	nodef
+24	9	1	ἀναβαίνω	ath_h_aor	aor	act	part	masc nom pl	ἀναβάντες	to go up
+2	1	1	ἀναζητέω	ew_pr	imperf	mp	ind	3rd sg	ἀνεζητεῖτο	to examine into
+133	56	1	ἀναχωρέω	aor1	aor	act	ind	3rd pl	ἀνεχώρησαν	to go back
+133	1	1	ἀναχωρέω	aor1	aor	act	part	masc gen pl	ἀναχωρησάντων	to go back
+2	1	1	ἀνειπεῖν	aor2	aor	act	ind	3rd sg	ἀνεῖπε	to say aloud
+15	1	1	ἀνοίγνυμι	aor1	aor	act	ind	3rd pl	ἀνέῳξαν	to open
+15	2	2	ἀνοίγνυμι	perfp_g	perf	mp	part	fem nom pl	ἀνεῳγμέναι	to open
+11	1	1	ἀντιλαμβάνω	w_stem	pres	mp	ind	3rd pl	ἀντιλαμβάνονται	to receive instead of
+48	19	1	ἀπέχω	w_stem	pres	act	ind	3rd sg	ἀπέχει	to keep off
+56	19	1	ἀποδίδωμι	omi_aor	aor	act	ind	3rd pl	ἀπέδοσαν	to give back
+56	7	2	ἀποδίδωμι	reg_fut	fut	act	inf		ἀποδώσειν	to give back
+5	2	1	ἀποκρούω	aor1	aor	mid	ind	3rd pl	ἀπεκρούσαντο	to beat off from
+57	30	1	ἀποκτείνω	aor1	aor	act	ind	3rd pl	ἀπέκτειναν	to kill
+57	3	1	ἀποκτείνω	ew_fut	fut	act	inf		ἀποκτενεῖν	to kill
+25	1	1	ἀπολαμβάνω	perfp_p	perf	mp	part	masc acc pl	ἀπειλημμένους	to take away
+16	1	1	ἀπωθέω	ew_pr	imperf	mp	ind	3rd pl	ἀπεωθοῦντο	to thrust away
+37	6	1	ἀπόλλυμι	umi_pr	imperf	mp	ind	3rd pl	ἀπώλλυντο	to destroy
+139	6	1	ἀφίστημι	ami_pr	pres	mp	inf		ἀφίστασθαι	to put away
+181	22	1	ἀφικνέομαι	aor2	aor	mid	part	masc nom sg	ἀφικόμενος	to come to
+108	5	1	ἄγω	aor2	aor	act	inf		ἀγαγεῖν	to lead
+198	1	1	ἄρχω	aor_pass	aor	pass	subj	3rd pl	ἀρχθῶσι	(to be first) to rule
+198	3	1	ἄρχω	w_stem	pres	mp	ind	3rd sg	ἄρχεται	(to be first) to rule
+198	5	1	ἄρχω	w_stem	pres	mp	part	masc nom pl	ἀρχόμενοι	(to be first) to rule
+198	3	1	ἄρχω	w_stem	pres	mp	part	neut dat sg	ἀρχομένῳ	(to be first) to rule
+15	1	1	ἅπτω	w_stem	imperf	mp	ind	3rd sg	ἥπτετο	to fasten
+11	3	1	ἐγκαταλείπω	aor2	aor	act	ind	3rd pl	ἐγκατέλιπον	to leave behind
+4	1	1	ἐκκομίζω	aor1	aor	act	ind	3rd pl	ἐξεκόμισαν	to carry out
+41	11	1	ἐκπέμπω	aor1	aor	act	ind	3rd pl	ἐξέπεμψαν	to send out
+1	1	1	ἐκφεύγω	w_stem	pres	act	inf		ἐκφεύγειν	to flee out
+30	1	1	ἐλευθερόω	ow_pr	pres	act	ind	3rd pl	ἐλευθεροῦσι	to free
+53	14	1	ἐλπίζω	w_stem	imperf	act	ind	3rd pl	ἤλπιζον	to hope for
+17	4	1	ἐμμένω	aor1	aor	act	ind	3rd pl	ἐνέμειναν	to abide in
+13	4	1	ἐμπίμπρημι	aor1	aor	act	part	masc nom pl	ἐμπρήσαντες	to kindle
+45	7	1	ἐξέρχομαι	aor2	aor	act	ind	3rd pl	ἐξῆλθον	to go out
+5	1	1	ἐξαπατάω	perfp_vow	perf	mp	part	masc nom pl	ἐξηπατημένοι	to deceive
+14	1	1	ἐξαρτύω	w_stem	imperf	act	ind	3rd pl	ἐξήρτυον	to get ready
+3	1	1	ἐξετάζω	w_stem	imperf	act	ind	3rd pl	ἐξήταζον	to examine well
+40	5	1	ἐπάγω	aor2	aor	mid	ind	3rd pl	ἐπηγάγοντο	to bring on
+40	1	1	ἐπάγω	aor2	aor	mid	part	neut dat pl	ἐπαγαγομένοις	to bring on
+23	2	1	ἐπιβοηθέω	ew_pr	imperf	act	ind	3rd pl	ἐπεβοήθουν	to come to aid
+32	3	1	ἐπιβουλεύω	w_stem	imperf	act	ind	3rd pl	ἐπεβούλευον	to plot against
+71	8	1	ἐπιγίγνομαι	aor2	aor	mid	ind	3rd sg	ἐπεγένετο	to be born after
+71	2	1	ἐπιγίγνομαι	aor2	aor	mid	part	neut gen sg	ἐπιγενομένου	to be born after
+6	2	1	ἐπιμίσγω	umi_pr	imperf	mp	ind	3rd pl	ἐπεμείγνυντο	have intercourse
+14	4	1	ἐπινοέω	ew_pr	imperf	act	ind	3rd pl	ἐπενόουν	to think on
+15	1	1	ἐπιστέλλω	w_stem	imperf	act	ind	3rd pl	ἐπέστελλον	to send to
+11	1	1	ἐπιτάσσω	aor_pass	aor	pass	ind	3rd sg	ἐπετάχθη	to put upon one as a duty
+29	3	1	ἐπιτίθημι	emi_aor	aor	mid	part	masc nom pl	ἐπιθέμενοι	to lay
+78	1	1	ἐρῶ	aor_pass	aor	pass	part	fem gen sg	ῥηθείσης	[I will say]
+78	2	1	ἐρῶ	perfp_vow	perf	mp	part	masc acc sg	εἰρημένον	[I will say]
+14	2	1	ἑτοιμάζω	w_stem	pres	act	inf		ἑτοιμάζειν	to make ready
+15	3	1	ἔξειμι1	irreg_mi	imperf	act	ind	3rd sg	ἐξῄει	go out
+271	35	1	ἔρχομαι	aor2	aor	act	inf		ἐλθεῖν	to come
+769	108	1	ἔχω	w_stem	imperf	act	ind	3rd pl	εἶχον	to have
+769	30	3	ἔχω	w_stem	pres	act	ind	3rd pl	ἔχουσι	to have
+769	73	1	ἔχω	w_stem	pres	act	inf		ἔχειν	to have
+769	97	2	ἔχω	w_stem	pres	act	part	masc nom pl	ἔχοντες	to have
+769	2	1	ἔχω	w_stem	pres	mp	part	neut gen pl	ἐχομένων	to have
+127	10	1	ἡγέομαι	ew_pr	imperf	mid	ind	3rd pl	ἡγοῦντο	to lead; to consider
+127	16	1	ἡγέομαι	ew_pr	imperf	mid	ind	3rd sg	ἡγεῖτο	to lead; to consider
+87	29	1	ἡσυχάζω	w_stem	imperf	act	ind	3rd pl	ἡσύχαζον	to be still
+87	3	1	ἡσυχάζω	w_stem	pres	act	part	masc acc pl	ἡσυχάζοντας	to be still
+1	1	1	ἱεράομαι	aw_pr	pres	mp	part	fem gen sg	ἱερωμένης	to be a priest
+16	1	1	ὁμολογέω	ew_pr	pres	act	ind	3rd pl	ὁμολογοῦσι	agree
+155	22	1	ὁράω	aw_pr	imperf	act	ind	3rd pl	ἑώρων	to see
+155	41	2	ὁράω	aw_pr	pres	act	part	masc nom pl	ὁρῶντες	to see
+98	2	1	ὁρμάω	perfp_vow	plup	mp	ind	3rd pl	ὥρμηντο	to set in motion, urge
+94	4	1	ὑπάρχω	w_stem	pres	act	inf		ὑπάρχειν	to begin; to exist
+94	10	1	ὑπάρχω	w_stem	pres	act	part	fem acc sg	ὑπάρχουσαν	to begin; to exist
+94	2	1	ὑπάρχω	w_stem	pres	act	part	fem dat pl	ὑπαρχούσαις	to begin; to exist
+6	5	1	ὑποτοπέω	aor1	aor	act	part	masc nom pl	ὑποτοπήσαντες	to suspect
+7	2	1	ῥέω	aor2_pass	aor	pass	ind	3rd sg	ἐρρύη	to flow
+3	1	1	ῥίπτω	aor1	aor	act	ind	3rd pl	ἔρριψαν	to throw
+6	2	1	ῥώννυμι	perfp_vow	plup	mp	ind	3rd pl	ἔρρωντο	to strengthen
+6	1	1	ῥώννυμι	perfp_vow	plup	mp	ind	3rd sg	ἔρρωτο	to strengthen

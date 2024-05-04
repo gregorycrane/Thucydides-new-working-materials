@@ -1,0 +1,1930 @@
+variations on forms and stems in thuc. 2.1-10
+115	2	2	αἰσθάνομαι	aor2	aor	mid	ind	3rd pl	ᾔσθοντο	to perceive
+115	1	0	αἰσθάνομαι	aor2	imperf	mp	ind	1st sg	ᾐσθόμην	to perceive
+115	27	0	αἰσθάνομαι	aor2	imperf	mp	ind	3rd pl	ᾔσθοντο	to perceive
+115	10	0	αἰσθάνομαι	aor2	imperf	mp	ind	3rd sg	ᾔσθετο	to perceive
+115	1	0	αἰσθάνομαι	aor2	pres	mp	opt	3rd sg	αἴσθοιτο	to perceive
+115	1	0	αἰσθάνομαι	aor2	pres	mp	part	masc acc pl	αἰσθομένους	to perceive
+115	26	0	αἰσθάνομαι	aor2	pres	mp	part	masc nom pl	αἰσθόμενοι	to perceive
+115	12	0	αἰσθάνομαι	aor2	pres	mp	part	masc nom sg	αἰσθόμενος	to perceive
+115	1	0	αἰσθάνομαι	aor2	pres	mp	part	neut dat pl	αἰσθομένοις	to perceive
+115	2	0	αἰσθάνομαι	aor2	pres	mp	part	neut gen pl	αἰσθομένων	to perceive
+115	1	0	αἰσθάνομαι	aor2	pres	mp	subj	1st pl	αἰσθώμεθα	to perceive
+115	1	0	αἰσθάνομαι	aor2	pres	mp	subj	3rd pl	αἴσθωνται	to perceive
+146	28	0	αἱρέω	aor2	aor	act	ind	3rd pl	εἷλον	to take
+146	9	0	αἱρέω	aor2	aor	act	ind	3rd sg	εἷλε	to take
+146	20	0	αἱρέω	aor2	aor	act	inf		ἑλεῖν	to take
+146	2	0	αἱρέω	aor2	aor	act	opt	3rd pl	ἕλοιεν	to take
+146	9	0	αἱρέω	aor2	aor	act	part	masc nom pl	ἑλόντες	to take
+146	8	0	αἱρέω	aor2	aor	act	part	masc nom sg	ἑλών	to take
+146	1	0	αἱρέω	aor2	aor	act	part	neut gen pl	ἑλόντων	to take
+146	1	0	αἱρέω	aor2	aor	act	subj	1st pl	ἕλωμεν	to take
+146	1	0	αἱρέω	aor2	aor	act	subj	3rd pl	ἕλωσι	to take
+146	1	0	αἱρέω	aor2	aor	act	subj	3rd sg	ἕλῃ	to take
+146	1	0	αἱρέω	aor2	aor	mid	ind	1st pl	εἱλόμεθα	to take
+146	2	0	αἱρέω	aor2	aor	mid	ind	2nd pl	εἵλεσθε	to take
+146	5	0	αἱρέω	aor2	aor	mid	ind	3rd pl	εἵλοντο	to take
+146	1	0	αἱρέω	aor2	aor	mid	part	fem nom sg	ἑλομένη	to take
+146	1	0	αἱρέω	aor2	aor	mid	part	masc acc pl	ἑλομένους	to take
+146	2	0	αἱρέω	aor2	aor	mid	part	masc nom pl	ἑλόμενοι	to take
+146	1	1	αἱρέω	aor2	aor	mid	part	neut dat pl	ἑλομένοις	to take
+146	1	0	αἱρέω	aor2	aor	mp	subj	1st pl	ἑλώμεθα	to take
+22	5	0	βάλλω	w_stem	imperf	act	ind	3rd pl	ἔβαλλον	to throw
+22	1	0	βάλλω	w_stem	imperf	mp	ind	3rd pl	ἐβάλλοντο	to throw
+22	2	0	βάλλω	w_stem	pres	act	inf		βάλλειν	to throw
+22	1	0	βάλλω	w_stem	pres	act	part	fem nom pl	βάλλουσαι	to throw
+22	5	0	βάλλω	w_stem	pres	act	part	masc nom pl	βάλλοντες	to throw
+22	1	1	βάλλω	w_stem	pres	act	part	neut gen pl	βαλλόντων	to throw
+22	4	0	βάλλω	w_stem	pres	mp	part	masc nom pl	βαλλόμενοι	to throw
+22	1	0	βάλλω	w_stem	pres	mp	part	masc nom sg	βαλλόμενος	to throw
+22	1	0	βάλλω	w_stem	pres	mp	part	neut gen pl	βαλλομένων	to throw
+1	1	1	βοιωταρχέω	ew_pr	pres	act	part	masc nom pl	βοιωταρχοῦντες	to be a Boeotarch
+78	1	0	βουλεύω	aor1	aor	act	ind	3rd pl	ἐβούλευσαν	to take counsel
+78	1	0	βουλεύω	aor1	aor	act	subj	1st pl	βουλεύσωμεν	to take counsel
+78	1	1	βουλεύω	aor1	aor	act	subj	3rd pl	βουλεύσωσι	to take counsel
+78	3	0	βουλεύω	aor1	aor	mid	ind	3rd pl	ἐβουλεύσαντο	to take counsel
+78	1	0	βουλεύω	aor1	aor	mid	ind	3rd sg	ἐβουλεύσατο	to take counsel
+78	1	0	βουλεύω	aor1	aor	mid	part	fem gen sg	βουλευσαμένης	to take counsel
+78	2	0	βουλεύω	aor1	aor	mid	part	masc acc pl	βουλευσαμένους	to take counsel
+78	1	0	βουλεύω	aor1	aor	mid	part	masc acc pl	βωλευσαμένως	to take counsel
+78	7	0	βουλεύω	aor1	aor	mid	part	masc nom pl	βουλευσάμενοι	to take counsel
+78	1	0	βουλεύω	aor1	aor	mid	part	masc nom sg	βουλευσάμενος	to take counsel
+78	1	0	βουλεύω	aor1	aor	mid	subj	2nd pl	βουλεύσησθε	to take counsel
+78	1	0	βουλεύω	aor1	aor	mid	subj	3rd pl	βουλεύσωνται	to take counsel
+78	2	0	βουλεύω	w_stem	imperf	act	ind	3rd pl	ἐβούλευον	to take counsel
+78	10	1	βουλεύω	w_stem	imperf	mp	ind	3rd pl	ἐβουλεύοντο	to take counsel
+78	1	0	βουλεύω	w_stem	imperf	mp	ind	3rd sg	ἐβουλεύετο	to take counsel
+78	1	0	βουλεύω	w_stem	pres	act	imperat	3rd sg	βουλευέτω	to take counsel
+78	3	0	βουλεύω	w_stem	pres	act	inf		βουλεύειν	to take counsel
+78	1	0	βουλεύω	w_stem	pres	act	opt	3rd pl	βουλεύοιεν	to take counsel
+78	2	0	βουλεύω	w_stem	pres	act	part	masc nom pl	βουλεύοντες	to take counsel
+78	1	0	βουλεύω	w_stem	pres	act	part	neut dat sg	βουλεύοντι	to take counsel
+78	1	0	βουλεύω	w_stem	pres	act	part	neut gen pl	βουλευόντων	to take counsel
+78	1	0	βουλεύω	w_stem	pres	mp	ind	1st pl	βουλευόμεθα	to take counsel
+78	6	0	βουλεύω	w_stem	pres	mp	ind	2nd pl	βουλεύεσθε	to take counsel
+78	2	0	βουλεύω	w_stem	pres	mp	ind	3rd sg	βουλεύεται	to take counsel
+78	1	0	βουλεύω	w_stem	pres	mp	part	fem dat pl	βουλευομέναις	to take counsel
+78	1	0	βουλεύω	w_stem	pres	mp	part	masc acc pl	βουλευομένους	to take counsel
+78	2	0	βουλεύω	w_stem	pres	mp	part	masc nom pl	βουλευόμενοι	to take counsel
+78	2	0	βουλεύω	w_stem	pres	mp	part	masc nom sg	βουλευόμενος	to take counsel
+78	1	0	βουλεύω	w_stem	pres	mp	part	neut acc sg	βουλευόμενον	to take counsel
+78	3	0	βουλεύω	w_stem	pres	mp	part	neut dat pl	βουλευομένοις	to take counsel
+78	4	0	βουλεύω	w_stem	pres	mp	subj	2nd pl	βουλεύησθε	to take counsel
+353	37	2	βούλομαι	w_stem	imperf	mp	ind	3rd pl	ἐβούλοντο	to will
+353	25	0	βούλομαι	w_stem	imperf	mp	ind	3rd sg	ἐβούλετο	to will
+353	1	0	βούλομαι	w_stem	pres	mp	imperat	3rd sg	βουλέσθω	to will
+353	6	0	βούλομαι	w_stem	pres	mp	ind	1st pl	βουλόμεθα	to will
+353	2	0	βούλομαι	w_stem	pres	mp	ind	1st sg	βούλομαι	to will
+353	6	0	βούλομαι	w_stem	pres	mp	ind	2nd pl	βούλεσθε	to will
+353	1	0	βούλομαι	w_stem	pres	mp	ind	2nd sg	βούλει	to will
+353	36	0	βούλομαι	w_stem	pres	mp	ind	3rd pl	βούλονται	to will
+353	16	1	βούλομαι	w_stem	pres	mp	ind	3rd sg	βούλεται	to will
+353	8	0	βούλομαι	w_stem	pres	mp	opt	3rd pl	βούλοιντο	to will
+353	1	0	βούλομαι	w_stem	pres	mp	opt	3rd sg	βούλοιτο	to will
+353	1	0	βούλομαι	w_stem	pres	mp	part	fem acc pl	βουλομένας	to will
+353	1	0	βούλομαι	w_stem	pres	mp	part	fem acc sg	βουλομένην	to will
+353	7	0	βούλομαι	w_stem	pres	mp	part	masc acc pl	βουλομένους	to will
+353	15	0	βούλομαι	w_stem	pres	mp	part	masc acc sg	βουλόμενον	to will
+353	1	0	βούλομαι	w_stem	pres	mp	part	masc dat pl	βουλομένοις	to will
+353	2	0	βούλομαι	w_stem	pres	mp	part	masc gen pl	βουλομένων	to will
+353	76	2	βούλομαι	w_stem	pres	mp	part	masc nom pl	βουλόμενοι	to will
+353	42	0	βούλομαι	w_stem	pres	mp	part	masc nom sg	βουλόμενος	to will
+353	9	0	βούλομαι	w_stem	pres	mp	part	neut acc sg	βουλόμενον	to will
+353	9	0	βούλομαι	w_stem	pres	mp	part	neut dat pl	βουλομένοις	to will
+353	2	1	βούλομαι	w_stem	pres	mp	part	neut dat sg	βουλομένῳ	to will
+353	9	0	βούλομαι	w_stem	pres	mp	part	neut gen pl	βουλομένων	to will
+353	1	0	βούλομαι	w_stem	pres	mp	part	neut gen sg	βουλομένου	to will
+353	13	1	βούλομαι	w_stem	pres	mp	subj	3rd pl	βούλωνται	to will
+353	10	0	βούλομαι	w_stem	pres	mp	subj	3rd sg	βούληται	to will
+689	4	0	γίγνομαι	aor2	aor	mid	ind	1st pl	ἐγενόμεθα	become
+689	1	0	γίγνομαι	aor2	aor	mid	ind	1st sg	ἐγενόμην	become
+689	4	0	γίγνομαι	aor2	aor	mid	ind	2nd pl	ἐγένεσθε	become
+689	75	1	γίγνομαι	aor2	aor	mid	ind	3rd pl	ἐγένοντο	become
+689	150	0	γίγνομαι	aor2	aor	mid	ind	3rd sg	ἐγένετο	become
+689	2	0	γίγνομαι	aor2	aor	mid	opt	2nd pl	γένοισθε	become
+689	5	0	γίγνομαι	aor2	aor	mid	opt	3rd pl	γένοιντο	become
+689	10	0	γίγνομαι	aor2	aor	mid	opt	3rd sg	γένοιτο	become
+689	3	0	γίγνομαι	aor2	aor	mid	part	fem acc pl	γενομένας	become
+689	12	0	γίγνομαι	aor2	aor	mid	part	fem acc sg	γενομένην	become
+689	2	0	γίγνομαι	aor2	aor	mid	part	fem dat pl	γενομέναις	become
+689	2	0	γίγνομαι	aor2	aor	mid	part	fem dat sg	γενομένῃ	become
+689	1	0	γίγνομαι	aor2	aor	mid	part	fem gen pl	γενομένων	become
+689	36	0	γίγνομαι	aor2	aor	mid	part	fem gen sg	γενομένης	become
+689	4	0	γίγνομαι	aor2	aor	mid	part	fem nom pl	γενόμεναι	become
+689	10	0	γίγνομαι	aor2	aor	mid	part	fem nom sg	γενομένη	become
+689	8	0	γίγνομαι	aor2	aor	mid	part	masc acc pl	γενομένους	become
+689	2	0	γίγνομαι	aor2	aor	mid	part	masc acc sg	γενόμενον	become
+689	1	0	γίγνομαι	aor2	aor	mid	part	masc dat pl	γενομένοις	become
+689	6	1	γίγνομαι	aor2	aor	mid	part	masc gen pl	γενομένων	become
+689	10	0	γίγνομαι	aor2	aor	mid	part	masc gen sg	γενομένου	become
+689	27	0	γίγνομαι	aor2	aor	mid	part	masc nom pl	γενόμενοι	become
+689	16	0	γίγνομαι	aor2	aor	mid	part	masc nom sg	γενόμενος	become
+689	9	0	γίγνομαι	aor2	aor	mid	part	neut acc pl	γενόμενα	become
+689	9	1	γίγνομαι	aor2	aor	mid	part	neut acc sg	γενόμενον	become
+689	2	0	γίγνομαι	aor2	aor	mid	part	neut dat pl	γενομένοις	become
+689	1	0	γίγνομαι	aor2	aor	mid	part	neut dat sg	γενομένῳ	become
+689	6	0	γίγνομαι	aor2	aor	mid	part	neut gen pl	γενομένων	become
+689	12	1	γίγνομαι	aor2	aor	mid	part	neut gen sg	γενομένου	become
+689	1	0	γίγνομαι	aor2	aor	mid	subj	2nd pl	γένησθε	become
+689	4	0	γίγνομαι	aor2	aor	mid	subj	3rd pl	γένωνται	become
+689	14	0	γίγνομαι	aor2	aor	mid	subj	3rd sg	γένηται	become
+689	2	0	γίγνομαι	perfp_vow	perf	mp	ind	1st pl	γεγενήμεθα	become
+689	2	0	γίγνομαι	perfp_vow	perf	mp	ind	3rd pl	γεγένηνται	become
+689	7	0	γίγνομαι	perfp_vow	perf	mp	ind	3rd sg	γεγένηται	become
+689	2	0	γίγνομαι	perfp_vow	perf	mp	part	fem acc sg	γεγενημένην	become
+689	3	0	γίγνομαι	perfp_vow	perf	mp	part	fem dat pl	γεγενημέναις	become
+689	1	0	γίγνομαι	perfp_vow	perf	mp	part	fem dat sg	γεγενημένῃ	become
+689	8	0	γίγνομαι	perfp_vow	perf	mp	part	fem gen sg	γεγενημένης	become
+689	1	0	γίγνομαι	perfp_vow	perf	mp	part	fem nom pl	γεγενημέναι	become
+689	3	0	γίγνομαι	perfp_vow	perf	mp	part	masc acc pl	γεγενημένους	become
+689	1	0	γίγνομαι	perfp_vow	perf	mp	part	masc acc sg	γεγενημένον	become
+689	1	0	γίγνομαι	perfp_vow	perf	mp	part	masc nom sg	γεγενημένος	become
+689	5	1	γίγνομαι	perfp_vow	perf	mp	part	neut acc pl	γεγενημένα	become
+689	4	1	γίγνομαι	perfp_vow	perf	mp	part	neut acc sg	γεγενημένον	become
+689	2	0	γίγνομαι	perfp_vow	perf	mp	part	neut dat sg	γεγενημένῳ	become
+689	6	1	γίγνομαι	perfp_vow	perf	mp	part	neut gen pl	γεγενημένων	become
+689	4	1	γίγνομαι	perfp_vow	perf	mp	part	neut gen sg	γεγενημένου	become
+689	10	0	γίγνομαι	perfp_vow	plup	mp	ind	3rd sg	ἐγεγένητο	become
+689	16	0	γίγνομαι	w_stem	imperf	mp	ind	3rd pl	ἐγίγνοντο	become
+689	45	1	γίγνομαι	w_stem	imperf	mp	ind	3rd sg	ἐγίγνετο	become
+689	1	0	γίγνομαι	w_stem	pres	mp	imperat	2nd sg	γίγνου	become
+689	1	0	γίγνομαι	w_stem	pres	mp	imperat	3rd sg	γιγνέσθω	become
+689	2	0	γίγνομαι	w_stem	pres	mp	ind	1st pl	γιγνόμεθα	become
+689	1	0	γίγνομαι	w_stem	pres	mp	ind	2nd pl	γίγνεσθε	become
+689	9	0	γίγνομαι	w_stem	pres	mp	ind	3rd pl	γίγνονται	become
+689	21	0	γίγνομαι	w_stem	pres	mp	ind	3rd sg	γίγνεται	become
+689	1	0	γίγνομαι	w_stem	pres	mp	opt	1st pl	γιγνοίμεθα	become
+689	1	0	γίγνομαι	w_stem	pres	mp	opt	2nd pl	γίγνοισθε	become
+689	4	0	γίγνομαι	w_stem	pres	mp	opt	3rd pl	γίγνοιντο	become
+689	7	1	γίγνομαι	w_stem	pres	mp	opt	3rd sg	γίγνοιτο	become
+689	1	0	γίγνομαι	w_stem	pres	mp	part	fem acc sg	γιγνομένην	become
+689	2	1	γίγνομαι	w_stem	pres	mp	part	fem dat sg	γιγνομένῃ	become
+689	1	0	γίγνομαι	w_stem	pres	mp	part	fem gen pl	γιγνομένων	become
+689	4	0	γίγνομαι	w_stem	pres	mp	part	fem gen sg	γιγνομένης	become
+689	1	0	γίγνομαι	w_stem	pres	mp	part	fem nom pl	γιγνόμεναι	become
+689	2	0	γίγνομαι	w_stem	pres	mp	part	masc acc pl	γιγνομένους	become
+689	1	0	γίγνομαι	w_stem	pres	mp	part	masc dat pl	γιγνομένοις	become
+689	1	0	γίγνομαι	w_stem	pres	mp	part	masc dat sg	γιγνομένῳ	become
+689	2	0	γίγνομαι	w_stem	pres	mp	part	masc gen pl	γιγνομένων	become
+689	7	0	γίγνομαι	w_stem	pres	mp	part	masc nom pl	γιγνόμενοι	become
+689	3	0	γίγνομαι	w_stem	pres	mp	part	masc nom sg	γιγνόμενος	become
+689	14	1	γίγνομαι	w_stem	pres	mp	part	neut acc pl	γιγνόμενα	become
+689	6	0	γίγνομαι	w_stem	pres	mp	part	neut acc sg	γιγνόμενον	become
+689	4	0	γίγνομαι	w_stem	pres	mp	part	neut gen pl	γιγνομένων	become
+689	2	0	γίγνομαι	w_stem	pres	mp	part	neut gen sg	γιγνομένου	become
+689	4	1	γίγνομαι	w_stem	pres	mp	subj	3rd pl	γίγνωνται	become
+689	6	0	γίγνομαι	w_stem	pres	mp	subj	3rd sg	γίγνηται	become
+119	1	0	γιγνώσκω	ath_w_aor	aor	act	imperat	3rd sg	γνώτω	to learn to know
+119	1	0	γιγνώσκω	ath_w_aor	aor	act	ind	1st sg	ἔγνων	to learn to know
+119	1	0	γιγνώσκω	ath_w_aor	aor	act	ind	2nd pl	ἔγνωτε	to learn to know
+119	12	1	γιγνώσκω	ath_w_aor	aor	act	ind	3rd pl	ἔγνωσαν	to learn to know
+119	6	0	γιγνώσκω	ath_w_aor	aor	act	ind	3rd sg	ἔγνω	to learn to know
+119	2	0	γιγνώσκω	ath_w_aor	aor	act	opt	3rd sg	γνοίη	to learn to know
+119	4	0	γιγνώσκω	ath_w_aor	aor	act	part	masc acc pl	γνόντας	to learn to know
+119	20	0	γιγνώσκω	ath_w_aor	aor	act	part	masc nom pl	γνόντες	to learn to know
+119	16	0	γιγνώσκω	ath_w_aor	aor	act	part	masc nom sg	γνούς	to learn to know
+119	1	0	γιγνώσκω	ath_w_aor	aor	act	subj	1st pl	γνῶμεν	to learn to know
+119	6	0	γιγνώσκω	ath_w_aor	aor	act	subj	2nd pl	γνῶτε	to learn to know
+119	3	0	γιγνώσκω	ath_w_aor	aor	act	subj	3rd pl	γνῶσι	to learn to know
+119	1	0	γιγνώσκω	ath_w_aor	aor	act	subj	3rd sg	γνῷ	to learn to know
+19	5	1	γράφω	perfp_p	perf	mp	ind	3rd sg	γέγραπται	to scratch
+19	1	0	γράφω	perfp_p	perf	mp	inf		γεγράφθαι	to scratch
+19	1	0	γράφω	perfp_p	perf	mp	part	neut acc sg	γεγραμμένον	to scratch
+19	1	0	γράφω	perfp_p	perf	mp	part	neut gen pl	γεγραμμένων	to scratch
+19	1	0	γράφω	perfp_p	plup	mp	ind	3rd sg	ἐγέγραπτο	to scratch
+84	1	0	δέχομαι	aor1	aor	mid	ind	1st pl	ἐδεξάμεθα	to take
+84	1	0	δέχομαι	aor1	aor	mid	ind	2nd pl	ἐδέξασθε	to take
+84	11	0	δέχομαι	aor1	aor	mid	ind	3rd pl	ἐδέξαντο	to take
+84	2	0	δέχομαι	aor1	aor	mid	ind	3rd sg	ἐδέξατο	to take
+84	1	0	δέχομαι	aor1	aor	mid	opt	2nd pl	δέξαισθε	to take
+84	2	0	δέχομαι	aor1	aor	mid	opt	3rd sg	δέξαιτο	to take
+84	4	0	δέχομαι	aor1	aor	mid	part	masc acc pl	δεξαμένους	to take
+84	3	0	δέχομαι	aor1	aor	mid	part	masc gen pl	δεξαμένων	to take
+84	11	1	δέχομαι	aor1	aor	mid	part	masc nom pl	δεξάμενοι	to take
+84	3	0	δέχομαι	aor1	aor	mid	part	masc nom sg	δεξάμενος	to take
+84	3	0	δέχομαι	aor1	aor	mid	part	neut dat pl	δεξαμένοις	to take
+84	2	0	δέχομαι	aor1	aor	mid	part	neut gen pl	δεξαμένων	to take
+84	1	0	δέχομαι	aor1	aor	mid	part	neut gen sg	δεξαμένου	to take
+84	2	0	δέχομαι	aor1	aor	mid	subj	3rd pl	δέξωνται	to take
+84	1	0	δέχομαι	w_stem	imperf	mp	ind	2nd pl	ἐδέχεσθε	to take
+84	10	0	δέχομαι	w_stem	imperf	mp	ind	3rd pl	ἐδέχοντο	to take
+84	3	0	δέχομαι	w_stem	pres	mp	ind	2nd pl	δέχεσθε	to take
+84	4	0	δέχομαι	w_stem	pres	mp	ind	3rd pl	δέχονται	to take
+84	1	0	δέχομαι	w_stem	pres	mp	ind	3rd sg	δέχεται	to take
+84	1	0	δέχομαι	w_stem	pres	mp	opt	2nd pl	δέχοισθε	to take
+84	1	0	δέχομαι	w_stem	pres	mp	part	fem gen pl	δεχομένων	to take
+84	4	1	δέχομαι	w_stem	pres	mp	part	masc acc pl	δεχομένους	to take
+84	5	0	δέχομαι	w_stem	pres	mp	part	masc nom pl	δεχόμενοι	to take
+84	1	0	δέχομαι	w_stem	pres	mp	part	neut dat pl	δεχομένοις	to take
+84	1	0	δέχομαι	w_stem	pres	mp	part	neut gen pl	δεχομένων	to take
+84	1	0	δέχομαι	w_stem	pres	mp	subj	1st pl	δεχώμεθα	to take
+84	1	0	δέχομαι	w_stem	pres	mp	subj	3rd pl	δέχωνται	to take
+32	8	0	δέω2	evw_pr	imperf	mp	ind	3rd pl	ἐδέοντο	to lack
+32	1	1	δέω2	evw_pr	pres	act	part	neut acc pl	δέοντα	to lack
+32	1	0	δέω2	evw_pr	pres	mp	ind	1st sg	δέομαι	to lack
+32	1	0	δέω2	evw_pr	pres	mp	ind	3rd pl	δέονται	to lack
+32	4	0	δέω2	evw_pr	pres	mp	inf		δεῖσθαι	to lack
+32	1	0	δέω2	evw_pr	pres	mp	part	masc gen pl	δεομένων	to lack
+32	1	0	δέω2	evw_pr	pres	mp	part	masc nom sg	δεόμενος	to lack
+32	5	0	δέω2	evw_pr	pres	mp	part	neut gen pl	δεομένων	to lack
+86	1	0	δίδωμι	omi_aor	aor	act	ind	1st pl	δόμεν	to give
+86	7	0	δίδωμι	omi_aor	aor	act	ind	3rd pl	ἔδοσαν	to give
+86	1	1	δίδωμι	omi_aor	aor	act	part	fem gen sg	δούσης	to give
+86	1	0	δίδωμι	omi_aor	aor	act	part	masc acc pl	δόντας	to give
+86	1	0	δίδωμι	omi_aor	aor	act	part	masc acc sg	δόντα	to give
+86	2	0	δίδωμι	omi_aor	aor	act	part	masc gen sg	δόντος	to give
+86	4	0	δίδωμι	omi_aor	aor	act	part	masc nom pl	δόντες	to give
+86	2	0	δίδωμι	omi_aor	aor	act	part	masc nom sg	δούς	to give
+86	1	0	δίδωμι	omi_aor	aor	act	part	neut acc pl	δόντα	to give
+86	1	0	δίδωμι	omi_aor	aor	act	part	neut gen pl	δόντων	to give
+103	1	0	δείδω	aor1	aor	act	ind	2nd pl	ἐδείσατε	to fear
+103	4	0	δείδω	aor1	aor	act	ind	3rd pl	ἔδεισαν	to fear
+103	1	0	δείδω	aor1	aor	act	opt	3rd pl	δείσειαν	to fear
+103	1	0	δείδω	aor1	aor	act	part	fem nom sg	δείσασα	to fear
+103	1	0	δείδω	aor1	aor	act	part	masc acc pl	δείσαντας	to fear
+103	29	1	δείδω	aor1	aor	act	part	masc nom pl	δείσαντες	to fear
+103	14	0	δείδω	aor1	aor	act	part	masc nom sg	δείσας	to fear
+103	1	0	δείδω	aor1	aor	act	subj	2nd pl	δείσητε	to fear
+117	34	1	δεῖ	ew_pr	imperf	act	ind	3rd sg	ἔδει	it is necessary
+117	39	0	δεῖ	ew_pr	pres	act	ind	3rd sg	δεῖ	it is necessary
+117	2	0	δεῖ	ew_pr	pres	act	inf		δεῖν	it is necessary
+117	1	0	δεῖ	ew_pr	pres	neut	part	acc sg	δεῖν	it is necessary
+33	4	0	διαβαίνω	ath_h_aor	aor	act	ind	3rd sg	διέβη	to cross (a river
+33	11	1	διαβαίνω	ath_h_aor	aor	act	part	masc nom pl	διαβάντες	to cross (a river
+33	4	0	διαβαίνω	ath_h_aor	aor	act	part	masc nom sg	διαβάς	to cross (a river
+33	1	0	διαβαίνω	ath_h_aor	aor	act	subj	3rd pl	διαβῶσι	to cross (a river
+2	1	1	διαβουλεύομαι	w_stem	pres	mp	part	neut gen pl	διαβουλευομένων	complete its term
+2	1	1	διακόπτω	aor1	aor	act	part	masc nom pl	διακόψαντες	to cut in two
+59	19	1	διανοέομαι	ew_pr	imperf	mp	ind	3rd pl	διενοοῦντο	to be minded
+59	13	0	διανοέομαι	ew_pr	imperf	mp	ind	3rd sg	διενοεῖτο	to be minded
+59	1	0	διανοέομαι	ew_pr	pres	mp	ind	1st sg	διανοοῦμαι	to be minded
+59	4	0	διανοέομαι	ew_pr	pres	mp	ind	3rd pl	διανοοῦνται	to be minded
+59	1	0	διανοέομαι	ew_pr	pres	mp	ind	3rd sg	διανοεῖται	to be minded
+59	3	0	διανοέομαι	ew_pr	pres	mp	inf		διανοεῖσθαι	to be minded
+59	1	0	διανοέομαι	ew_pr	pres	mp	part	masc acc sg	διανοούμενον	to be minded
+59	1	0	διανοέομαι	ew_pr	pres	mp	part	masc gen pl	διανοουμένων	to be minded
+59	2	0	διανοέομαι	ew_pr	pres	mp	part	masc nom pl	διανοούμενοι	to be minded
+59	1	0	διανοέομαι	ew_pr	pres	mp	part	masc nom sg	διανοούμενος	to be minded
+59	1	0	διανοέομαι	ew_pr	pres	mp	part	neut acc sg	διανοούμενον	to be minded
+59	1	0	διανοέομαι	ew_pr	pres	mp	part	neut gen pl	διανοουμένων	to be minded
+128	21	1	διαφθείρω	aor2_pass	aor	pass	ind	3rd pl	διεφθάρησαν	to destroy
+128	1	0	διαφθείρω	aor2_pass	aor	pass	ind	3rd sg	διεφθάρη	to destroy
+128	1	0	διαφθείρω	aor2_pass	aor	pass	part	fem gen pl	διαφθαρεισῶν	to destroy
+128	2	0	διαφθείρω	aor2_pass	aor	pass	part	masc acc pl	διαφθαρέντας	to destroy
+128	1	0	διαφθείρω	aor2_pass	aor	pass	part	neut acc pl	διαφθαρέντα	to destroy
+128	1	0	διαφθείρω	aor2_pass	aor	pass	part	neut dat pl	διαφθαρεῖσι	to destroy
+128	1	0	διαφθείρω	aor2_pass	aor	pass	part	neut gen pl	διαφθαρέντων	to destroy
+128	1	0	διαφθείρω	aor2_pass	aor	pass	subj	1st pl	διαφθαρῶμεν	to destroy
+128	1	0	διαφθείρω	aor2_pass	fut	pass	ind	3rd sg	διαφθαρήσεται	to destroy
+128	1	0	διαφθείρω	aor2_pass	fut	pass	part	masc acc pl	διαφθαρησομένους	to destroy
+128	1	0	διαφθείρω	perfp_r	perf	mp	ind	3rd sg	διέφθαρται	to destroy
+128	2	0	διαφθείρω	perfp_r	perf	mp	part	fem acc sg	διεφθαρμένην	to destroy
+128	1	1	διαφθείρω	perfp_r	perf	mp	part	masc acc pl	διεφθαρμένους	to destroy
+128	1	1	διαφθείρω	perfp_r	perf	mp	part	masc gen pl	διεφθαρμένων	to destroy
+128	2	0	διαφθείρω	perfp_r	perf	mp	part	masc nom pl	διεφθαρμένοι	to destroy
+128	1	0	διαφθείρω	perfp_r	perf	mp	part	neut acc sg	διεφθαρμένον	to destroy
+128	1	0	διαφθείρω	perfp_r	perf	mp	part	neut gen sg	διεφθαρμένου	to destroy
+128	1	0	διαφθείρω	perfp_r	plup	mp	ind	3rd sg	διέφθαρτο	to destroy
+128	6	0	διαφθείρω	w_stem	imperf	act	ind	3rd pl	διέφθειρον	to destroy
+128	5	0	διαφθείρω	w_stem	imperf	act	ind	3rd sg	διέφθειρε	to destroy
+128	12	1	διαφθείρω	w_stem	imperf	mp	ind	3rd pl	διεφθείροντο	to destroy
+128	3	0	διαφθείρω	w_stem	imperf	mp	ind	3rd sg	διεφθείρετο	to destroy
+128	3	0	διαφθείρω	w_stem	pres	act	ind	3rd pl	διαφθείρουσι	to destroy
+128	2	0	διαφθείρω	w_stem	pres	act	ind	3rd sg	διαφθείρει	to destroy
+128	3	0	διαφθείρω	w_stem	pres	act	inf		διαφθείρειν	to destroy
+128	1	0	διαφθείρω	w_stem	pres	act	part	fem acc sg	διαφθείρουσαν	to destroy
+128	1	0	διαφθείρω	w_stem	pres	act	part	masc nom pl	διαφθείροντες	to destroy
+128	1	0	διαφθείρω	w_stem	pres	act	part	neut dat pl	διαφθείρουσι	to destroy
+128	5	0	διαφθείρω	w_stem	pres	mp	ind	3rd pl	διαφθείρονται	to destroy
+128	2	0	διαφθείρω	w_stem	pres	mp	ind	3rd sg	διαφθείρεται	to destroy
+128	1	0	διαφθείρω	w_stem	pres	mp	part	fem gen sg	διαφθειρομένης	to destroy
+128	2	0	διαφθείρω	w_stem	pres	mp	part	neut acc sg	διαφθειρόμενον	to destroy
+1	1	1	διορύσσω	w_stem	pres	act	part	masc nom pl	διορύσσοντες	to dig through
+24	3	0	διώκω	w_stem	imperf	act	ind	3rd pl	ἐδίωκον	to pursue
+24	1	0	διώκω	w_stem	imperf	act	ind	3rd sg	ἐδίωκε	to pursue
+24	4	0	διώκω	w_stem	pres	act	inf		διώκειν	to pursue
+24	1	0	διώκω	w_stem	pres	act	part	fem dat sg	διωκούσῃ	to pursue
+24	3	1	διώκω	w_stem	pres	act	part	masc acc pl	διώκοντας	to pursue
+24	4	0	διώκω	w_stem	pres	act	part	masc nom pl	διώκοντες	to pursue
+24	1	0	διώκω	w_stem	pres	mp	ind	3rd sg	διώκεται	to pursue
+24	2	1	διώκω	w_stem	pres	mp	part	masc nom pl	διωκόμενοι	to pursue
+24	2	0	διώκω	w_stem	pres	mp	part	masc nom sg	διωκόμενος	to pursue
+308	2	0	δοκέω	ew_pr	imperf	act	ind	1st pl	ἐδοκοῦμεν	seem
+308	16	0	δοκέω	ew_pr	imperf	act	ind	3rd pl	ἐδόκουν	seem
+308	72	4	δοκέω	ew_pr	imperf	act	ind	3rd sg	ἐδόκει	seem
+308	1	0	δοκέω	ew_pr	pres	act	imperat	3rd sg	δοκείτω	seem
+308	3	0	δοκέω	ew_pr	pres	act	ind	1st pl	δοκοῦμεν	seem
+308	5	0	δοκέω	ew_pr	pres	act	ind	2nd pl	δοκεῖτε	seem
+308	9	0	δοκέω	ew_pr	pres	act	ind	3rd pl	δοκοῦσι	seem
+308	42	0	δοκέω	ew_pr	pres	act	ind	3rd sg	δοκεῖ	seem
+308	19	0	δοκέω	ew_pr	pres	act	inf		δοκεῖν	seem
+308	1	0	δοκέω	ew_pr	pres	act	opt	1st pl	δοκοῖμεν	seem
+308	1	0	δοκέω	ew_pr	pres	act	opt	3rd pl	δοκοῖεν	seem
+308	7	0	δοκέω	ew_pr	pres	act	opt	3rd sg	δοκοίη	seem
+308	1	0	δοκέω	ew_pr	pres	act	part	fem acc sg	δοκοῦσαν	seem
+308	1	0	δοκέω	ew_pr	pres	act	part	fem dat sg	δοκούσῃ	seem
+308	1	0	δοκέω	ew_pr	pres	act	part	fem gen sg	δοκούσης	seem
+308	2	0	δοκέω	ew_pr	pres	act	part	fem nom sg	δοκοῦσα	seem
+308	7	0	δοκέω	ew_pr	pres	act	part	masc acc pl	δοκοῦντας	seem
+308	5	0	δοκέω	ew_pr	pres	act	part	masc acc sg	δοκοῦντα	seem
+308	1	0	δοκέω	ew_pr	pres	act	part	masc dat pl	δοκοῦσι	seem
+308	4	0	δοκέω	ew_pr	pres	act	part	masc nom pl	δοκοῦντες	seem
+308	6	0	δοκέω	ew_pr	pres	act	part	masc nom sg	δοκῶν	seem
+308	3	0	δοκέω	ew_pr	pres	act	part	neut acc pl	δοκοῦντα	seem
+308	4	0	δοκέω	ew_pr	pres	act	part	neut acc sg	δοκοῦν	seem
+308	1	0	δοκέω	ew_pr	pres	act	part	neut gen pl	δοκούντων	seem
+308	1	0	δοκέω	ew_pr	pres	act	part	neut gen sg	δοκοῦντος	seem
+308	2	0	δοκέω	ew_pr	pres	act	subj	1st sg	δοκῶ	seem
+308	2	0	δοκέω	ew_pr	pres	act	subj	3rd pl	δοκῶσι	seem
+308	26	0	δοκέω	ew_pr	pres	act	subj	3rd sg	δοκῇ	seem
+308	1	0	δοκέω	ew_pr	pres	mp	ind	2nd sg	δοκῇ	seem
+85	1	0	δράω	aor1	aor	act	ind	1st pl	ἐδράσαμεν	to do
+85	5	0	δράω	aor1	aor	act	ind	3rd pl	ἔδρασαν	to do
+85	1	0	δράω	aor1	aor	act	ind	3rd sg	ἔδρασε	to do
+85	11	0	δράω	aor1	aor	act	inf		δρᾶσαι	to do
+85	1	0	δράω	aor1	aor	act	opt	2nd pl	δράσαιτε	to do
+85	5	1	δράω	aor1	aor	act	opt	3rd pl	δράσειαν	to do
+85	1	0	δράω	aor1	aor	act	part	masc acc pl	δράσαντας	to do
+85	4	0	δράω	aor1	aor	act	part	masc nom pl	δράσαντες	to do
+85	1	0	δράω	aor1	aor	act	part	masc nom sg	δράσας	to do
+85	1	0	δράω	aor1	aor	act	part	neut dat sg	δράσαντι	to do
+85	2	0	δράω	aor1	aor	act	part	neut gen pl	δρασάντων	to do
+85	1	0	δράω	aor1	aor	act	subj	3rd pl	δράσωσι	to do
+139	1	0	δύναμαι	ami_short	imperf	mp	ind	1st sg	ἐδυνάμην	to be able
+139	26	0	δύναμαι	ami_short	imperf	mp	ind	3rd pl	ἐδύναντο	to be able
+139	14	0	δύναμαι	ami_short	imperf	mp	ind	3rd sg	ἐδύνατο	to be able
+139	1	0	δύναμαι	ami_short	pres	mp	ind	2nd pl	δύνασθε	to be able
+139	7	0	δύναμαι	ami_short	pres	mp	ind	3rd pl	δύνανται	to be able
+139	7	0	δύναμαι	ami_short	pres	mp	ind	3rd sg	δύναται	to be able
+139	3	0	δύναμαι	ami_short	pres	mp	opt	1st pl	δυναίμεθα	to be able
+139	11	0	δύναμαι	ami_short	pres	mp	opt	3rd pl	δύναιντο	to be able
+139	8	1	δύναμαι	ami_short	pres	mp	opt	3rd sg	δύναιτο	to be able
+139	3	0	δύναμαι	ami_short	pres	mp	part	masc acc pl	δυναμένους	to be able
+139	10	0	δύναμαι	ami_short	pres	mp	part	masc nom pl	δυνάμενοι	to be able
+139	5	0	δύναμαι	ami_short	pres	mp	part	masc nom sg	δυνάμενος	to be able
+139	1	0	δύναμαι	ami_short	pres	mp	part	neut acc sg	δυνάμενον	to be able
+139	1	0	δύναμαι	ami_short	pres	mp	part	neut gen pl	δυναμένων	to be able
+139	1	0	δύναμαι	ami_short	pres	mp	part	neut gen sg	δυναμένου	to be able
+139	1	0	δύναμαι	ami_short	pres	mp	subj	1st pl	δυνώμεθα	to be able
+139	1	0	δύναμαι	ami_short	pres	mp	subj	1st sg	δύνωμαι	to be able
+139	1	0	δύναμαι	ami_short	pres	mp	subj	2nd pl	δύνησθε	to be able
+139	20	0	δύναμαι	ami_short	pres	mp	subj	3rd pl	δύνωνται	to be able
+139	5	0	δύναμαι	ami_short	pres	mp	subj	3rd sg	δύνηται	to be able
+98	1	0	εἰκός	perf_act	perf	act	part	masc acc sg	εἰκότα	like truth
+98	5	0	εἰκός	perf_act	perf	act	part	neut acc pl	εἰκότα	like truth
+98	85	1	εἰκός	perf_act	perf	act	part	neut acc sg	εἰκός	like truth
+98	2	0	εἰκός	perf_act	perf	act	part	neut dat sg	εἰκότι	like truth
+98	1	0	εἰκός	perf_act	perf	act	part	neut gen pl	εἰκότων	like truth
+98	4	0	εἰκός	perf_act	perf	act	part	neut gen sg	εἰκότος	like truth
+1859	9	0	εἰμί	irreg_mi	imperf	act	ind	1st pl	ἦμεν	to be
+1859	230	5	εἰμί	irreg_mi	imperf	act	ind	3rd pl	ἦσαν	to be
+1859	359	11	εἰμί	irreg_mi	imperf	act	ind	3rd sg	ἦν	to be
+1859	5	0	εἰμί	irreg_mi	pres	act	imperat	3rd sg	ἔστω	to be
+1859	18	0	εἰμί	irreg_mi	pres	act	ind	1st pl	ἐσμεν	to be
+1859	6	0	εἰμί	irreg_mi	pres	act	ind	1st sg	εἰμι	to be
+1859	8	0	εἰμί	irreg_mi	pres	act	ind	2nd pl	ἐστε	to be
+1859	1	0	εἰμί	irreg_mi	pres	act	ind	3rd dual	ἐστον	to be
+1859	99	0	εἰμί	irreg_mi	pres	act	ind	3rd pl	εἰσι	to be
+1859	2	0	εἰμί	irreg_mi	pres	act	ind	3rd sg	ἐντι	to be
+1859	204	0	εἰμί	irreg_mi	pres	act	ind	3rd sg	ἐστι	to be
+1859	1	0	εἰμί	irreg_mi	pres	act	opt	1st pl	εἶμεν	to be
+1859	16	1	εἰμί	irreg_mi	pres	act	opt	3rd pl	εἶεν	to be
+1859	52	1	εἰμί	irreg_mi	pres	act	opt	3rd sg	εἴη	to be
+1859	8	0	εἰμί	irreg_mi	pres	act	part	fem acc pl	οὔσας	to be
+1859	46	2	εἰμί	irreg_mi	pres	act	part	fem acc sg	οὖσαν	to be
+1859	5	0	εἰμί	irreg_mi	pres	act	part	fem dat pl	οὔσαις	to be
+1859	7	0	εἰμί	irreg_mi	pres	act	part	fem dat sg	οὔσῃ	to be
+1859	5	0	εἰμί	irreg_mi	pres	act	part	fem gen pl	οὐσῶν	to be
+1859	53	0	εἰμί	irreg_mi	pres	act	part	fem gen sg	οὔσης	to be
+1859	15	1	εἰμί	irreg_mi	pres	act	part	fem nom pl	οὖσαι	to be
+1859	25	1	εἰμί	irreg_mi	pres	act	part	fem nom sg	οὖσα	to be
+1859	77	2	εἰμί	irreg_mi	pres	act	part	masc acc pl	ὄντας	to be
+1859	20	0	εἰμί	irreg_mi	pres	act	part	masc acc sg	ὄντα	to be
+1859	8	0	εἰμί	irreg_mi	pres	act	part	masc dat pl	οὖσι	to be
+1859	7	0	εἰμί	irreg_mi	pres	act	part	masc dat sg	ὄντι	to be
+1859	9	0	εἰμί	irreg_mi	pres	act	part	masc gen pl	ὄντων	to be
+1859	16	0	εἰμί	irreg_mi	pres	act	part	masc gen sg	ὄντος	to be
+1859	155	2	εἰμί	irreg_mi	pres	act	part	masc nom pl	ὄντες	to be
+1859	80	0	εἰμί	irreg_mi	pres	act	part	masc nom sg	ὤν	to be
+1859	35	0	εἰμί	irreg_mi	pres	act	part	neut acc pl	ὄντα	to be
+1859	39	0	εἰμί	irreg_mi	pres	act	part	neut acc sg	ὄν	to be
+1859	16	1	εἰμί	irreg_mi	pres	act	part	neut dat pl	οὖσι	to be
+1859	9	0	εἰμί	irreg_mi	pres	act	part	neut dat sg	ὄντι	to be
+1859	47	0	εἰμί	irreg_mi	pres	act	part	neut gen pl	ὄντων	to be
+1859	24	0	εἰμί	irreg_mi	pres	act	part	neut gen sg	ὄντος	to be
+1859	1	0	εἰμί	irreg_mi	pres	act	subj	1st pl	ὦμεν	to be
+1859	22	2	εἰμί	irreg_mi	pres	act	subj	3rd pl	ὦσι	to be
+1859	33	1	εἰμί	irreg_mi	pres	act	subj	3rd sg	ᾖ	to be
+1859	4	0	εἰμί	reg_fut	fut	mid	ind	1st pl	ἐσόμεθα	to be
+1859	4	0	εἰμί	reg_fut	fut	mid	ind	3rd pl	ἐσσίονται	to be
+1859	15	0	εἰμί	reg_fut	fut	mid	ind	3rd pl	ἔσονται	to be
+1859	42	0	εἰμί	reg_fut	fut	mid	ind	3rd sg	ἔσται	to be
+1859	4	1	εἰμί	reg_fut	fut	mid	opt	3rd sg	ἔσοιτο	to be
+1859	2	0	εἰμί	reg_fut	fut	mid	part	fem acc sg	ἐσομένην	to be
+1859	1	1	εἰμί	reg_fut	fut	mid	part	fem gen pl	ἐσομένων	to be
+1859	4	0	εἰμί	reg_fut	fut	mid	part	masc acc pl	ἐσομένους	to be
+1859	2	0	εἰμί	reg_fut	fut	mid	part	masc acc sg	ἐσόμενον	to be
+1859	1	0	εἰμί	reg_fut	fut	mid	part	masc nom pl	ἐσόμενοι	to be
+1859	1	0	εἰμί	reg_fut	fut	mid	part	masc nom sg	ἐσόμενος	to be
+1859	1	0	εἰμί	reg_fut	fut	mid	part	neut acc pl	ἐσόμενα	to be
+1859	5	0	εἰμί	reg_fut	fut	mid	part	neut acc sg	ἐσόμενον	to be
+1859	1	0	εἰμί	reg_fut	fut	mid	part	neut gen sg	ἐσομένου	to be
+13	2	1	εἰσάγω	aor2	aor	act	ind	3rd pl	ἐσήγαγον	to lead in
+13	1	0	εἰσάγω	aor2	aor	act	inf		ἐσαγαγεῖν	to lead in
+13	2	0	εἰσάγω	aor2	aor	act	part	masc nom sg	ἐσαγαγών	to lead in
+13	1	0	εἰσάγω	aor2	aor	act	part	neut dat sg	ἐσαγαγόντι	to lead in
+13	2	0	εἰσάγω	aor2	aor	mid	ind	3rd pl	ἐσηγάγοντο	to lead in
+13	1	0	εἰσάγω	aor2	aor	mid	part	masc nom pl	ἐσαγαγόμενοι	to lead in
+33	7	2	εἰσέρχομαι	aor2	aor	act	ind	3rd pl	ἐσῆλθον	to go in
+33	2	0	εἰσέρχομαι	aor2	aor	act	ind	3rd sg	ἐσῆλθε	to go in
+33	4	0	εἰσέρχομαι	aor2	aor	act	inf		ἐσελθεῖν	to go in
+33	3	0	εἰσέρχομαι	aor2	aor	act	part	masc acc pl	ἐσελθόντας	to go in
+33	7	1	εἰσέρχομαι	aor2	aor	act	part	masc nom pl	ἐσελθόντες	to go in
+33	2	0	εἰσέρχομαι	aor2	aor	act	part	masc nom sg	ἐσελθών	to go in
+33	2	0	εἰσέρχομαι	aor2	aor	act	part	neut gen pl	ἐσελθόντων	to go in
+33	1	0	εἰσέρχομαι	perf_act	perf	act	part	fem acc sg	ἐσεληλυθυῖαν	to go in
+33	1	0	εἰσέρχομαι	perf_act	perf	act	part	masc nom pl	ἐσεληλυθότες	to go in
+33	1	1	εἰσέρχομαι	perf_act	perf	act	part	neut dat pl	ἐσεληλυθόσι	to go in
+33	1	0	εἰσέρχομαι	perf_act	perf	act	part	neut gen pl	ἐσεληλυθότων	to go in
+66	1	0	εἰσβάλλω	ew_fut	fut	act	ind	3rd pl	ἐσβαλοῦσι	to throw into
+66	8	0	εἰσβάλλω	ew_fut	fut	act	inf		ἐσβαλεῖν	to throw into
+66	3	1	εἰσβάλλω	ew_fut	fut	act	part	masc nom pl	ἐσβαλοῦντες	to throw into
+12	2	0	εἰσκομίζω	aor1	aor	act	ind	3rd pl	ἐσεκόμισαν	to carry into
+12	2	1	εἰσκομίζω	aor1	aor	mid	ind	3rd pl	ἐσεκομίσαντο	to carry into
+16	1	0	εἰσπίπτω	w_stem	imperf	act	ind	3rd pl	ἐσέπιπτον	to fall into
+16	2	1	εἰσπίπτω	w_stem	pres	act	ind	3rd pl	ἐσπίπτουσι	to fall into
+16	2	0	εἰσπίπτω	w_stem	pres	act	ind	3rd sg	ἐσπίπτει	to fall into
+16	1	0	εἰσπίπτω	w_stem	pres	act	inf		ἐσπίπτειν	to fall into
+16	1	0	εἰσπίπτω	w_stem	pres	act	part	fem nom sg	ἐσπίπτουσα	to fall into
+16	1	0	εἰσπίπτω	w_stem	pres	act	part	masc acc pl	ἐσπίπτοντας	to fall into
+16	2	0	εἰσπίπτω	w_stem	pres	act	part	masc nom pl	ἐσπίπτοντες	to fall into
+16	1	0	εἰσπίπτω	w_stem	pres	act	subj	3rd sg	ἐσπίπτῃ	to fall into
+67	9	1	εἶμι	irreg_mi	imperf	act	ind	3rd pl	ᾖσαν	come
+67	3	0	εἶμι	irreg_mi	imperf	act	ind	3rd sg	ᾔει	come
+67	1	0	εἶμι	irreg_mi	pres	act	ind	1st pl	ἴμεν	come
+67	1	0	εἶμι	irreg_mi	pres	act	ind	1st sg	εἶμι	come
+67	1	0	εἶμι	irreg_mi	pres	act	ind	2nd pl	ἴτε	come
+67	1	0	εἶμι	irreg_mi	pres	act	part	fem nom sg	ἰοῦσα	come
+67	9	0	εἶμι	irreg_mi	pres	act	part	masc acc pl	ἰόντας	come
+67	15	1	εἶμι	irreg_mi	pres	act	part	masc nom pl	ἰόντες	come
+67	1	0	εἶμι	irreg_mi	pres	act	part	masc nom sg	ἰών	come
+67	1	0	εἶμι	irreg_mi	pres	act	part	neut acc pl	ἰόντα	come
+67	3	0	εἶμι	irreg_mi	pres	act	part	neut dat pl	ἰοῦσι	come
+67	1	0	εἶμι	irreg_mi	pres	act	part	neut dat sg	ἰόντι	come
+67	4	0	εἶμι	irreg_mi	pres	act	part	neut gen pl	ἰόντων	come
+67	1	0	εἶμι	irreg_mi	pres	act	subj	1st pl	ἴωμεν	come
+67	9	0	εἶμι	irreg_mi	pres	act	subj	3rd pl	ἴωσι	come
+67	7	0	εἶμι	irreg_mi	pres	act	subj	3rd sg	ἴῃ	come
+145	1	0	εἶπον	aor2	aor	act	imperat	3rd pl	εἰπόντων	to speak
+145	2	0	εἶπον	aor2	aor	act	ind	1st sg	εἶπον	to speak
+145	30	0	εἶπον	aor2	aor	act	ind	3rd pl	εἶπον	to speak
+145	26	0	εἶπον	aor2	aor	act	ind	3rd sg	εἶπε	to speak
+145	48	1	εἶπον	aor2	aor	act	inf		εἰπεῖν	to speak
+145	1	0	εἶπον	aor2	aor	act	opt	3rd pl	εἴποιεν	to speak
+145	1	0	εἶπον	aor2	aor	act	opt	3rd sg	εἴποι	to speak
+145	2	0	εἶπον	aor2	aor	act	part	masc acc pl	εἰπόντας	to speak
+145	1	0	εἶπον	aor2	aor	act	part	masc acc sg	εἰπόντα	to speak
+145	3	0	εἶπον	aor2	aor	act	part	masc gen sg	εἰπόντος	to speak
+145	6	0	εἶπον	aor2	aor	act	part	masc nom pl	εἰπόντες	to speak
+145	13	0	εἶπον	aor2	aor	act	part	masc nom sg	εἰπών	to speak
+145	1	0	εἶπον	aor2	aor	act	part	neut dat pl	εἰποῦσι	to speak
+145	2	0	εἶπον	aor2	aor	act	part	neut dat sg	εἰπόντι	to speak
+145	4	0	εἶπον	aor2	aor	act	part	neut gen pl	εἰπόντων	to speak
+145	1	0	εἶπον	aor2	aor	act	part	neut gen sg	εἰπόντος	to speak
+145	1	0	εἶπον	aor2	aor	act	subj	3rd pl	εἴπωσι	to speak
+145	1	0	εἶπον	aor2	aor	act	subj	3rd sg	εἴπῃ	to speak
+41	8	0	εὑρίσκω	aor2	aor	act	ind	3rd pl	ηὗρον	to find
+41	4	1	εὑρίσκω	aor2	aor	act	ind	3rd sg	ηὗρε	to find
+41	3	0	εὑρίσκω	aor2	aor	act	inf		εὑρεῖν	to find
+41	1	0	εὑρίσκω	aor2	aor	act	opt	1st pl	εὕροιμεν	to find
+41	1	0	εὑρίσκω	aor2	aor	act	opt	2nd pl	εὕροιτε	to find
+41	1	0	εὑρίσκω	aor2	aor	act	part	masc nom pl	εὑρόντες	to find
+41	2	0	εὑρίσκω	aor2	aor	act	part	masc nom sg	εὑρών	to find
+41	1	0	εὑρίσκω	aor2	aor	act	subj	3rd pl	εὕρωσι	to find
+41	1	0	εὑρίσκω	aor2	aor	act	subj	3rd sg	εὕρῃ	to find
+41	2	0	εὑρίσκω	aor2	aor	mid	ind	3rd pl	ηὕροντο	to find
+20	1	0	ζάω	ajw_pr	pres	act	ind	1st pl	ζῶμεν	to live
+20	1	0	ζάω	ajw_pr	pres	act	inf		ζῆν	to live
+20	8	1	ζάω	ajw_pr	pres	act	part	masc acc pl	ζῶντας	to live
+20	2	0	ζάω	ajw_pr	pres	act	part	masc acc sg	ζῶντα	to live
+20	3	0	ζάω	ajw_pr	pres	act	part	masc nom pl	ζῶντες	to live
+20	2	0	ζάω	ajw_pr	pres	act	part	neut dat pl	ζῶσι	to live
+20	2	1	ζάω	ajw_pr	pres	act	part	neut gen pl	ζώντων	to live
+20	1	0	ζάω	ajw_pr	pres	act	part	neut gen sg	ζῶντος	to live
+10	1	1	ζωγρέω	perfp_vow	perf	mp	part	masc nom pl	ἐζωγρημένοι	to take alive
+32	1	0	θνήσκω	perf_act	perf	act	part	masc acc sg	τεθνηκότα	to die; see also ἀποθνῄσκω
+32	2	0	θνήσκω	perf_act	perf	act	part	masc gen sg	τεθνηκότος	to die; see also ἀποθνῄσκω
+32	1	1	θνήσκω	perf_act	perf	act	part	masc nom pl	τεθνηκότες	to die; see also ἀποθνῄσκω
+32	1	0	θνήσκω	perf_act	perf	act	part	masc nom sg	τεθνηκώς	to die; see also ἀποθνῄσκω
+32	1	0	θνήσκω	perf_act	perf	act	part	neut gen sg	τεθνηκότος	to die; see also ἀποθνῄσκω
+32	1	0	θνήσκω	perf_act	perf	act	subj	3rd pl	τεθνήκωσι	to die; see also ἀποθνῄσκω
+32	1	0	θνήσκω	perf_act	plup	act	ind	3rd pl	ἐτεθνήκεσαν	to die; see also ἀποθνῄσκω
+32	3	0	θνήσκω	perf_act	plup	act	ind	3rd sg	ἐτεθνήκει	to die; see also ἀποθνῄσκω
+256	1	0	καθίστημι	ami_aor	aor	act	ind	2nd pl	κατέστητε	to set down
+256	23	0	καθίστημι	ami_aor	aor	act	ind	3rd sg	κατέστη	to set down
+256	2	0	καθίστημι	ami_aor	aor	act	part	fem gen sg	καταστάσης	to set down
+256	1	0	καθίστημι	ami_aor	aor	act	part	masc gen sg	καταστάντος	to set down
+256	11	1	καθίστημι	ami_aor	aor	act	part	masc nom pl	καταστάντες	to set down
+256	2	0	καθίστημι	ami_aor	aor	act	part	masc nom sg	καταστάς	to set down
+256	2	0	καθίστημι	ami_aor	aor	act	part	neut gen pl	καταστάντων	to set down
+256	1	0	καθίστημι	ami_aor	aor	act	part	neut gen sg	καταστάντος	to set down
+256	7	1	καθίστημι	ami_pr	imperf	act	ind	3rd pl	καθίστασαν	to set down
+256	4	0	καθίστημι	ami_pr	imperf	act	ind	3rd sg	καθίστη	to set down
+256	22	2	καθίστημι	ami_pr	imperf	mp	ind	3rd pl	καθίσταντο	to set down
+256	12	0	καθίστημι	ami_pr	imperf	mp	ind	3rd sg	καθίστατο	to set down
+256	1	0	καθίστημι	ami_pr	pres	act	imperat	3rd pl	καθιστάντων	to set down
+256	1	0	καθίστημι	ami_pr	pres	act	ind	3rd pl	καθιστᾶσι	to set down
+256	3	0	καθίστημι	ami_pr	pres	act	ind	3rd sg	καθίστησι	to set down
+256	7	0	καθίστημι	ami_pr	pres	act	inf		καθιστάναι	to set down
+256	1	0	καθίστημι	ami_pr	pres	act	part	masc acc sg	καθιστάντα	to set down
+256	2	0	καθίστημι	ami_pr	pres	act	part	masc nom pl	καθιστάντες	to set down
+256	2	0	καθίστημι	ami_pr	pres	act	part	masc nom sg	καθιστάς	to set down
+256	1	0	καθίστημι	ami_pr	pres	act	part	neut dat pl	καθιστᾶσι	to set down
+256	5	0	καθίστημι	ami_pr	pres	mp	ind	3rd pl	καθίστανται	to set down
+256	1	0	καθίστημι	ami_pr	pres	mp	ind	3rd sg	καθίσταται	to set down
+256	5	0	καθίστημι	ami_pr	pres	mp	inf		καθίστασθαι	to set down
+256	1	0	καθίστημι	ami_pr	pres	mp	part	fem acc pl	καθισταμένας	to set down
+256	1	0	καθίστημι	ami_pr	pres	mp	part	fem dat sg	καθισταμένῃ	to set down
+256	1	0	καθίστημι	ami_pr	pres	mp	part	masc acc sg	καθιστάμενον	to set down
+256	1	0	καθίστημι	ami_pr	pres	mp	part	masc gen sg	καθισταμένου	to set down
+256	1	0	καθίστημι	ami_pr	pres	mp	part	masc nom pl	καθιστάμενοι	to set down
+256	1	0	καθίστημι	ami_pr	pres	mp	part	neut dat pl	καθισταμένοις	to set down
+256	1	0	καθίστημι	ami_pr	pres	mp	part	neut gen pl	καθισταμένων	to set down
+256	1	0	καθίστημι	ami_pr	pres	mp	part	neut gen sg	καθισταμένου	to set down
+256	1	0	καθίστημι	ami_pr	pres	mp	subj	1st pl	καθιστώμεθα	to set down
+256	3	0	καθίστημι	ami_pr	pres	mp	subj	3rd pl	καθιστῶνται	to set down
+256	1	0	καθίστημι	ami_pr	pres	mp	subj	3rd sg	καθιστῆται	to set down
+256	2	0	καθίστημι	perf2_act	perf	act	ind	1st pl	καθέσταμεν	to set down
+256	4	0	καθίστημι	perf2_act	perf	act	part	masc acc pl	καθεστῶτας	to set down
+256	2	0	καθίστημι	perf2_act	perf	act	part	masc acc sg	καθεστῶτα	to set down
+256	2	0	καθίστημι	perf2_act	perf	act	part	masc dat sg	καθεστῶτι	to set down
+256	2	1	καθίστημι	perf2_act	perf	act	part	masc gen sg	καθεστῶτος	to set down
+256	2	0	καθίστημι	perf2_act	perf	act	part	masc nom pl	καθεστῶτες	to set down
+256	1	0	καθίστημι	perf2_act	perf	act	part	neut acc sg	καθεστός	to set down
+256	3	0	καθίστημι	perf2_act	perf	act	part	neut gen pl	καθεστώτων	to set down
+256	2	0	καθίστημι	perf2_act	perf	act	part	neut gen sg	καθεστῶτος	to set down
+256	6	0	καθίστημι	perf2_act	plup	act	ind	3rd pl	καθέστασαν	to set down
+3	1	0	καταδείδω	aor1	aor	act	ind	3rd pl	κατέδεισαν	to fear greatly
+3	2	1	καταδείδω	aor1	aor	act	part	masc nom pl	καταδείσαντες	to fear greatly
+11	3	0	κατακαίω	aor1	aor	act	ind	3rd pl	κατέκαυσαν	to burn down
+11	1	1	κατακαίω	aor1	aor	act	subj	3rd pl	κατακαύσωσι	to burn down
+63	9	0	καταλαμβάνω	aor2	aor	act	ind	3rd pl	κατέλαβον	to seize upon
+63	2	0	καταλαμβάνω	aor2	aor	act	ind	3rd sg	κατέλαβε	to seize upon
+63	8	1	καταλαμβάνω	aor2	aor	act	inf		καταλαβεῖν	to seize upon
+63	1	0	καταλαμβάνω	aor2	aor	act	opt	3rd sg	καταλάβοι	to seize upon
+63	1	0	καταλαμβάνω	aor2	aor	act	part	fem nom pl	καταλαβοῦσαι	to seize upon
+63	7	0	καταλαμβάνω	aor2	aor	act	part	masc nom pl	καταλαβόντες	to seize upon
+63	3	0	καταλαμβάνω	aor2	aor	act	part	masc nom sg	καταλαβών	to seize upon
+63	1	0	καταλαμβάνω	aor2	aor	act	part	neut gen pl	καταλαβόντων	to seize upon
+63	1	0	καταλαμβάνω	aor2	aor	act	subj	1st pl	καταλάβωμεν	to seize upon
+63	1	0	καταλαμβάνω	aor2	aor	act	subj	3rd sg	καταλάβῃ	to seize upon
+63	1	1	καταλαμβάνω	perfp_p	perf	mp	part	fem acc sg	κατειλημμένην	to seize upon
+63	1	0	καταλαμβάνω	perfp_p	perf	mp	part	fem gen sg	κατειλημμένης	to seize upon
+63	2	0	καταλαμβάνω	perfp_p	perf	mp	part	masc acc pl	κατειλημμένους	to seize upon
+63	1	0	καταλαμβάνω	perfp_p	perf	mp	part	masc nom pl	κατειλημμένοι	to seize upon
+63	1	0	καταλαμβάνω	perfp_p	perf	mp	part	neut acc sg	κατειλημμένον	to seize upon
+6	1	1	κατανοέω	aor1	aor	act	ind	3rd pl	κατενόησαν	to observe well
+6	3	0	κατανοέω	aor1	aor	act	ind	3rd sg	κατενόησε	to observe well
+6	1	0	κατανοέω	aor1	aor	act	part	masc nom pl	κατανοήσαντες	to observe well
+5	1	0	καταπολεμέω	reg_fut	fut	act	inf		καταπολεμήσειν	to war down
+5	1	1	καταπολεμέω	reg_fut	fut	act	part	masc nom pl	καταπολεμήσοντες	to war down
+138	1	0	κελεύω	w_stem	imperf	act	ind	1st sg	ἐκέλευον	to urge
+138	1	0	κελεύω	w_stem	imperf	act	ind	2nd pl	ἐκελεύετε	to urge
+138	44	0	κελεύω	w_stem	imperf	act	ind	3rd pl	ἐκέλευον	to urge
+138	29	0	κελεύω	w_stem	imperf	act	ind	3rd sg	ἐκέλευε	to urge
+138	1	0	κελεύω	w_stem	pres	act	ind	1st sg	κελεύω	to urge
+138	1	0	κελεύω	w_stem	pres	act	ind	2nd pl	κελεύετε	to urge
+138	3	0	κελεύω	w_stem	pres	act	ind	3rd pl	κελεύουσι	to urge
+138	3	0	κελεύω	w_stem	pres	act	ind	3rd sg	κελεύει	to urge
+138	2	0	κελεύω	w_stem	pres	act	inf		κελεύειν	to urge
+138	1	0	κελεύω	w_stem	pres	act	part	masc gen sg	κελεύοντος	to urge
+138	14	1	κελεύω	w_stem	pres	act	part	masc nom pl	κελεύοντες	to urge
+138	7	0	κελεύω	w_stem	pres	act	part	masc nom sg	κελεύων	to urge
+138	4	0	κελεύω	w_stem	pres	act	part	neut gen pl	κελευόντων	to urge
+138	1	0	κελεύω	w_stem	pres	act	part	neut gen sg	κελεύοντος	to urge
+138	1	0	κελεύω	w_stem	pres	act	subj	3rd sg	κελεύῃ	to urge
+138	1	0	κελεύω	w_stem	pres	mp	part	masc nom pl	κελευόμενοι	to urge
+23	3	1	κινέω	aor_pass	aor	pass	ind	3rd sg	ἐκινήθη	to set in motion
+23	1	0	κινέω	aor_pass	aor	pass	opt	3rd sg	κινηθείη	to set in motion
+5	1	1	κλείω1	aor1	aor	act	ind	3rd sg	ἔκλῃσε	to shut
+162	1	0	κρατέω	reg_fut	fut	act	ind	1st pl	κρατήσομεν	to be strong
+162	3	0	κρατέω	reg_fut	fut	act	ind	3rd pl	κρατήσουσι	to be strong
+162	5	1	κρατέω	reg_fut	fut	act	inf		κρατήσειν	to be strong
+252	21	1	λέγω2	w_stem	imperf	act	ind	3rd pl	ἔλεγον	to pick; to say
+252	22	0	λέγω2	w_stem	imperf	act	ind	3rd sg	ἔλεγε	to pick; to say
+252	1	0	λέγω2	w_stem	imperf	mp	ind	2nd pl	ἐλέγεσθε	to pick; to say
+252	3	0	λέγω2	w_stem	imperf	mp	ind	3rd pl	ἐλέγοντο	to pick; to say
+252	6	2	λέγω2	w_stem	imperf	mp	ind	3rd sg	ἐλέγετο	to pick; to say
+252	2	0	λέγω2	w_stem	pres	act	imperat	2nd pl	λέγετε	to pick; to say
+252	1	0	λέγω2	w_stem	pres	act	imperat	3rd sg	λεγέτω	to pick; to say
+252	6	0	λέγω2	w_stem	pres	act	ind	1st pl	λέγομεν	to pick; to say
+252	4	0	λέγω2	w_stem	pres	act	ind	1st sg	λέγω	to pick; to say
+252	5	1	λέγω2	w_stem	pres	act	ind	3rd pl	λέγουσι	to pick; to say
+252	5	0	λέγω2	w_stem	pres	act	ind	3rd sg	λέγει	to pick; to say
+252	28	0	λέγω2	w_stem	pres	act	inf		λέγειν	to pick; to say
+252	1	0	λέγω2	w_stem	pres	act	opt	1st pl	λέγοιμεν	to pick; to say
+252	1	0	λέγω2	w_stem	pres	act	opt	3rd sg	λέγοι	to pick; to say
+252	3	0	λέγω2	w_stem	pres	act	part	masc acc pl	λέγοντας	to pick; to say
+252	3	0	λέγω2	w_stem	pres	act	part	masc acc sg	λέγοντα	to pick; to say
+252	1	0	λέγω2	w_stem	pres	act	part	masc gen sg	λέγοντος	to pick; to say
+252	22	1	λέγω2	w_stem	pres	act	part	masc nom pl	λέγοντες	to pick; to say
+252	28	0	λέγω2	w_stem	pres	act	part	masc nom sg	λέγων	to pick; to say
+252	1	0	λέγω2	w_stem	pres	act	part	neut acc pl	λέγοντα	to pick; to say
+252	2	0	λέγω2	w_stem	pres	act	part	neut acc sg	λέγον	to pick; to say
+252	2	0	λέγω2	w_stem	pres	act	part	neut dat pl	λέγουσι	to pick; to say
+252	4	0	λέγω2	w_stem	pres	act	part	neut gen pl	λεγόντων	to pick; to say
+252	3	0	λέγω2	w_stem	pres	act	part	neut gen sg	λέγοντος	to pick; to say
+252	1	0	λέγω2	w_stem	pres	act	subj	1st pl	λέγωμεν	to pick; to say
+252	1	0	λέγω2	w_stem	pres	act	subj	2nd pl	λέγητε	to pick; to say
+252	2	0	λέγω2	w_stem	pres	act	subj	3rd pl	λέγωσι	to pick; to say
+252	1	0	λέγω2	w_stem	pres	act	subj	3rd sg	λέγῃ	to pick; to say
+252	5	0	λέγω2	w_stem	pres	mp	ind	3rd pl	λέγονται	to pick; to say
+252	21	0	λέγω2	w_stem	pres	mp	ind	3rd sg	λέγεται	to pick; to say
+252	2	0	λέγω2	w_stem	pres	mp	opt	3rd sg	λέγοιτο	to pick; to say
+252	1	0	λέγω2	w_stem	pres	mp	part	fem acc sg	λεγομένην	to pick; to say
+252	1	0	λέγω2	w_stem	pres	mp	part	fem nom pl	λεγόμεναι	to pick; to say
+252	1	0	λέγω2	w_stem	pres	mp	part	masc gen pl	λεγομένων	to pick; to say
+252	1	0	λέγω2	w_stem	pres	mp	part	masc nom pl	λεγόμενοι	to pick; to say
+252	7	0	λέγω2	w_stem	pres	mp	part	neut acc pl	λεγόμενα	to pick; to say
+252	4	0	λέγω2	w_stem	pres	mp	part	neut acc sg	λεγόμενον	to pick; to say
+252	2	0	λέγω2	w_stem	pres	mp	part	neut gen pl	λεγομένων	to pick; to say
+202	1	0	λαμβάνω	aor2	aor	act	imperat	2nd pl	λάβετε	to take
+202	1	0	λαμβάνω	aor2	aor	act	ind	1st pl	ἐλάβομεν	to take
+202	2	0	λαμβάνω	aor2	aor	act	ind	2nd pl	ἐλάβετε	to take
+202	27	0	λαμβάνω	aor2	aor	act	ind	3rd pl	ἔλαβον	to take
+202	10	0	λαμβάνω	aor2	aor	act	ind	3rd sg	ἔλαβε	to take
+202	12	0	λαμβάνω	aor2	aor	act	inf		λαβεῖν	to take
+202	1	0	λαμβάνω	aor2	aor	act	opt	2nd pl	λάβοιτε	to take
+202	6	1	λαμβάνω	aor2	aor	act	opt	3rd pl	λάβοιεν	to take
+202	2	0	λαμβάνω	aor2	aor	act	part	fem nom pl	λαβοῦσαι	to take
+202	5	0	λαμβάνω	aor2	aor	act	part	masc acc pl	λαβόντας	to take
+202	2	0	λαμβάνω	aor2	aor	act	part	masc acc sg	λαβόντα	to take
+202	28	0	λαμβάνω	aor2	aor	act	part	masc nom pl	λαβόντες	to take
+202	22	0	λαμβάνω	aor2	aor	act	part	masc nom sg	λαβών	to take
+202	1	0	λαμβάνω	aor2	aor	act	part	neut acc sg	λαβόν	to take
+202	1	0	λαμβάνω	aor2	aor	act	part	neut dat pl	λαβοῦσι	to take
+202	1	0	λαμβάνω	aor2	aor	act	part	neut gen pl	λαβόντων	to take
+202	2	0	λαμβάνω	aor2	aor	act	part	neut gen sg	λαβόντος	to take
+202	4	0	λαμβάνω	aor2	aor	act	subj	3rd pl	λάβωσι	to take
+202	1	0	λαμβάνω	aor2	aor	mid	part	fem nom pl	λαβόμεναι	to take
+202	2	0	λαμβάνω	aor2	aor	mid	part	masc nom pl	λαβόμενοι	to take
+202	4	0	λαμβάνω	aor_pass	aor	pass	ind	3rd pl	ἐλήφθησαν	to take
+202	4	0	λαμβάνω	aor_pass	aor	pass	ind	3rd sg	ἐλήφθη	to take
+202	1	0	λαμβάνω	aor_pass	aor	pass	part	fem acc sg	ληφθεῖσαν	to take
+202	1	0	λαμβάνω	aor_pass	aor	pass	part	fem gen pl	ληφθεισῶν	to take
+202	1	0	λαμβάνω	aor_pass	aor	pass	part	fem nom pl	ληφθεῖσαι	to take
+202	2	0	λαμβάνω	aor_pass	aor	pass	part	masc acc pl	ληφθέντας	to take
+202	1	1	λαμβάνω	aor_pass	aor	pass	part	masc nom pl	ληφθέντες	to take
+202	3	0	λαμβάνω	aor_pass	aor	pass	part	masc nom sg	ληφθείς	to take
+202	1	0	λαμβάνω	aor_pass	aor	pass	part	neut acc pl	ληφθέντα	to take
+202	2	0	λαμβάνω	aor_pass	aor	pass	part	neut acc sg	ληφθέν	to take
+202	1	0	λαμβάνω	aor_pass	aor	pass	part	neut dat dual	ληφθέντοιν	to take
+202	3	0	λαμβάνω	aor_pass	aor	pass	part	neut gen pl	ληφθέντων	to take
+202	1	0	λαμβάνω	aor_pass	aor	pass	part	neut gen sg	ληφθέντος	to take
+202	1	0	λαμβάνω	aor_pass	aor	pass	subj	1st pl	ληφθῶμεν	to take
+202	1	0	λαμβάνω	aor_pass	aor	pass	subj	3rd sg	ληφθῇ	to take
+202	1	0	λαμβάνω	aor_pass	fut	pass	ind	2nd pl	ληφθήσεσθε	to take
+202	1	0	λαμβάνω	aor_pass	fut	pass	ind	3rd sg	ληφθήσεται	to take
+60	9	1	λανθάνω	aor2	aor	act	ind	3rd pl	ἔλαθον	to escape notice
+60	6	0	λανθάνω	aor2	aor	act	ind	3rd sg	ἔλαθε	to escape notice
+60	6	0	λανθάνω	aor2	aor	act	inf		λαθεῖν	to escape notice
+60	3	0	λανθάνω	aor2	aor	act	opt	3rd pl	λάθοιεν	to escape notice
+60	1	0	λανθάνω	aor2	aor	act	opt	3rd sg	λάθοι	to escape notice
+60	2	0	λανθάνω	aor2	aor	act	part	fem nom pl	λαθοῦσαι	to escape notice
+60	9	1	λανθάνω	aor2	aor	act	part	masc nom pl	λαθόντες	to escape notice
+60	4	0	λανθάνω	aor2	aor	act	part	masc nom sg	λαθών	to escape notice
+60	3	0	λανθάνω	aor2	aor	act	subj	3rd pl	λάθωσι	to escape notice
+31	1	1	λύω	perfp_vow	perf	mp	part	fem gen pl	λελυμένων	to loose
+31	1	0	λύω	perfp_vow	plup	mp	ind	3rd pl	ἐλέλυντο	to loose
+181	2	0	μέλλω	w_stem	imperf	act	ind	1st pl	ἐμέλλομεν	to think of doing
+181	46	0	μέλλω	w_stem	imperf	act	ind	3rd pl	ἔμελλον	to think of doing
+181	20	0	μέλλω	w_stem	imperf	act	ind	3rd sg	ἔμελλε	to think of doing
+181	3	0	μέλλω	w_stem	pres	act	ind	1st pl	μέλλομεν	to think of doing
+181	3	0	μέλλω	w_stem	pres	act	ind	2nd pl	μέλλετε	to think of doing
+181	6	0	μέλλω	w_stem	pres	act	ind	3rd pl	μέλλουσι	to think of doing
+181	1	0	μέλλω	w_stem	pres	act	ind	3rd sg	μέλλει	to think of doing
+181	6	0	μέλλω	w_stem	pres	act	inf		μέλλειν	to think of doing
+181	3	0	μέλλω	w_stem	pres	act	opt	3rd sg	μέλλοι	to think of doing
+181	1	0	μέλλω	w_stem	pres	act	part	fem acc pl	μελλούσας	to think of doing
+181	3	0	μέλλω	w_stem	pres	act	part	fem acc sg	μέλλουσαν	to think of doing
+181	1	0	μέλλω	w_stem	pres	act	part	fem dat pl	μελλούσαις	to think of doing
+181	3	0	μέλλω	w_stem	pres	act	part	fem gen sg	μελλούσης	to think of doing
+181	1	0	μέλλω	w_stem	pres	act	part	fem nom sg	μέλλουσα	to think of doing
+181	11	0	μέλλω	w_stem	pres	act	part	masc acc pl	μέλλοντας	to think of doing
+181	6	0	μέλλω	w_stem	pres	act	part	masc acc sg	μέλλοντα	to think of doing
+181	1	0	μέλλω	w_stem	pres	act	part	masc dat pl	μέλλουσι	to think of doing
+181	1	0	μέλλω	w_stem	pres	act	part	masc dat sg	μέλλοντι	to think of doing
+181	1	0	μέλλω	w_stem	pres	act	part	masc gen sg	μέλλοντος	to think of doing
+181	7	1	μέλλω	w_stem	pres	act	part	masc nom pl	μέλλοντες	to think of doing
+181	3	0	μέλλω	w_stem	pres	act	part	masc nom sg	μέλλων	to think of doing
+181	3	0	μέλλω	w_stem	pres	act	part	neut acc pl	μέλλοντα	to think of doing
+181	14	0	μέλλω	w_stem	pres	act	part	neut acc sg	μέλλον	to think of doing
+181	3	2	μέλλω	w_stem	pres	act	part	neut dat pl	μέλλουσι	to think of doing
+181	11	0	μέλλω	w_stem	pres	act	part	neut gen pl	μελλόντων	to think of doing
+181	7	0	μέλλω	w_stem	pres	act	part	neut gen sg	μέλλοντος	to think of doing
+181	2	0	μέλλω	w_stem	pres	act	subj	3rd pl	μέλλωσι	to think of doing
+181	2	0	μέλλω	w_stem	pres	act	subj	3rd sg	μέλλῃ	to think of doing
+181	1	0	μέλλω	w_stem	pres	mp	ind	3rd sg	μέλλεται	to think of doing
+15	1	0	μιμνήσκω	perfp_vow	perf	mp	ind	1st pl	μεμνήμεθα	to remind
+15	1	0	μιμνήσκω	perfp_vow	perf	mp	ind	1st sg	μέμνημαι	to remind
+15	1	1	μιμνήσκω	perfp_vow	perf	mp	ind	3rd pl	μέμνηνται	to remind
+15	1	0	μιμνήσκω	perfp_vow	perf	mp	part	masc acc pl	μεμνημένους	to remind
+15	1	0	μιμνήσκω	perfp_vow	perf	mp	part	masc nom pl	μεμνημένοι	to remind
+15	2	0	μιμνήσκω	perfp_vow	plup	mp	ind	3rd pl	ἐμέμνηντο	to remind
+21	3	1	νεωτερίζω	w_stem	imperf	act	ind	3rd pl	ἐνεωτέριζον	to attempt anything new
+21	1	0	νεωτερίζω	w_stem	imperf	mp	ind	3rd sg	ἐνεωτερίζετο	to attempt anything new
+21	4	0	νεωτερίζω	w_stem	pres	act	inf		νεωτερίζειν	to attempt anything new
+21	2	0	νεωτερίζω	w_stem	pres	act	part	masc acc pl	νεωτερίζοντας	to attempt anything new
+21	1	0	νεωτερίζω	w_stem	pres	mp	opt	3rd sg	νεωτερίζοιτο	to attempt anything new
+109	1	0	νικάω	perfp_vow	perf	mp	ind	3rd pl	νενίκηνται	to conquer
+109	1	0	νικάω	perfp_vow	perf	mp	part	masc acc pl	νενικημένους	to conquer
+109	1	0	νικάω	perfp_vow	perf	mp	part	neut acc sg	νενικημένον	to conquer
+109	1	1	νικάω	perfp_vow	perf	mp	part	neut gen pl	νενικημένων	to conquer
+271	5	0	νομίζω	aor1	aor	act	imperat	2nd pl	νομίσατε	to have as a custom; to believe
+271	11	1	νομίζω	aor1	aor	act	ind	3rd pl	ἐνόμισαν	to have as a custom; to believe
+271	2	0	νομίζω	aor1	aor	act	ind	3rd sg	ἐνόμισε	to have as a custom; to believe
+271	1	0	νομίζω	aor1	aor	act	opt	3rd pl	νομίσειαν	to have as a custom; to believe
+271	1	0	νομίζω	aor1	aor	act	opt	3rd sg	νομίσειε	to have as a custom; to believe
+271	3	0	νομίζω	aor1	aor	act	part	masc acc pl	νομίσαντας	to have as a custom; to believe
+271	2	0	νομίζω	aor1	aor	act	part	masc acc sg	νομίσαντα	to have as a custom; to believe
+271	44	1	νομίζω	aor1	aor	act	part	masc nom pl	νομίσαντες	to have as a custom; to believe
+271	14	0	νομίζω	aor1	aor	act	part	masc nom sg	νομίσας	to have as a custom; to believe
+271	1	0	νομίζω	aor1	aor	act	part	neut acc sg	νομίσαν	to have as a custom; to believe
+271	1	0	νομίζω	aor1	aor	act	part	neut dat pl	νομίσασι	to have as a custom; to believe
+271	1	0	νομίζω	aor1	aor	act	part	neut gen pl	νομισάντων	to have as a custom; to believe
+271	1	0	νομίζω	aor1	aor	act	subj	1st pl	νομίσωμεν	to have as a custom; to believe
+271	1	0	νομίζω	aor1	aor	act	subj	2nd pl	νομίσητε	to have as a custom; to believe
+271	1	0	νομίζω	aor1	aor	act	subj	3rd pl	νομίσωσι	to have as a custom; to believe
+271	4	0	νομίζω	aor1	aor	act	subj	3rd sg	νομίσῃ	to have as a custom; to believe
+271	1	0	νομίζω	w_stem	imperf	act	ind	1st pl	ἐνομίζομεν	to have as a custom; to believe
+271	27	0	νομίζω	w_stem	imperf	act	ind	3rd pl	ἐνόμιζον	to have as a custom; to believe
+271	15	0	νομίζω	w_stem	imperf	act	ind	3rd sg	ἐνόμιζε	to have as a custom; to believe
+271	7	0	νομίζω	w_stem	pres	act	ind	1st pl	νομίζομεν	to have as a custom; to believe
+271	10	0	νομίζω	w_stem	pres	act	ind	1st sg	νομίζω	to have as a custom; to believe
+271	3	0	νομίζω	w_stem	pres	act	ind	2nd pl	νομίζετε	to have as a custom; to believe
+271	5	0	νομίζω	w_stem	pres	act	ind	3rd pl	νομίζουσι	to have as a custom; to believe
+271	3	0	νομίζω	w_stem	pres	act	ind	3rd sg	νομίζει	to have as a custom; to believe
+271	13	0	νομίζω	w_stem	pres	act	inf		νομίζειν	to have as a custom; to believe
+271	2	0	νομίζω	w_stem	pres	act	part	masc acc pl	νομίζοντας	to have as a custom; to believe
+271	1	0	νομίζω	w_stem	pres	act	part	masc dat pl	νομίζουσι	to have as a custom; to believe
+271	49	1	νομίζω	w_stem	pres	act	part	masc nom pl	νομίζοντες	to have as a custom; to believe
+271	30	0	νομίζω	w_stem	pres	act	part	masc nom sg	νομίζων	to have as a custom; to believe
+271	1	0	νομίζω	w_stem	pres	mp	ind	2nd pl	νομίζεσθε	to have as a custom; to believe
+271	1	0	νομίζω	w_stem	pres	mp	ind	3rd sg	νομίζεται	to have as a custom; to believe
+271	1	0	νομίζω	w_stem	pres	mp	part	fem acc pl	νομιζομένας	to have as a custom; to believe
+271	1	0	νομίζω	w_stem	pres	mp	part	masc nom pl	νομιζόμενοι	to have as a custom; to believe
+271	2	0	νομίζω	w_stem	pres	mp	part	neut acc pl	νομιζόμενα	to have as a custom; to believe
+80	1	0	οἴομαι	w_stem	imperf	mp	ind	1st sg	ᾤμην	to suppose
+80	12	0	οἴομαι	w_stem	imperf	mp	ind	3rd pl	ᾤοντο	to suppose
+80	4	0	οἴομαι	w_stem	imperf	mp	ind	3rd sg	ᾤετο	to suppose
+80	1	0	οἴομαι	w_stem	pres	mp	imperat	3rd sg	οἰέσθω	to suppose
+80	5	0	οἴομαι	w_stem	pres	mp	ind	1st pl	οἰόμεθα	to suppose
+80	3	0	οἴομαι	w_stem	pres	mp	ind	1st sg	οἴομαι	to suppose
+80	4	0	οἴομαι	w_stem	pres	mp	ind	1st sg	οἶμαι	to suppose
+80	6	0	οἴομαι	w_stem	pres	mp	ind	2nd pl	οἴεσθε	to suppose
+80	6	0	οἴομαι	w_stem	pres	mp	ind	3rd pl	οἴονται	to suppose
+80	6	0	οἴομαι	w_stem	pres	mp	ind	3rd sg	οἴεται	to suppose
+80	18	1	οἴομαι	w_stem	pres	mp	part	masc nom pl	οἰόμενοι	to suppose
+80	7	0	οἴομαι	w_stem	pres	mp	part	masc nom sg	οἰόμενος	to suppose
+80	1	0	οἴομαι	w_stem	pres	mp	part	neut gen pl	οἰομένων	to suppose
+80	2	0	οἴομαι	w_stem	pres	mp	subj	3rd sg	οἴηται	to suppose
+99	1	0	οἶδα	perf_act	perf	act	opt	3rd sg	εἰδείη	to know
+99	12	0	οἶδα	perf_act	perf	act	part	masc acc pl	εἰδότας	to know
+99	1	0	οἶδα	perf_act	perf	act	part	masc acc sg	εἰδότα	to know
+99	22	1	οἶδα	perf_act	perf	act	part	masc nom pl	εἰδότες	to know
+99	9	0	οἶδα	perf_act	perf	act	part	masc nom sg	εἰδώς	to know
+99	1	0	οἶδα	perf_act	perf	act	part	neut acc sg	εἰδός	to know
+99	5	0	οἶδα	perf_act	perf	act	part	neut dat pl	εἰδόσι	to know
+99	2	0	οἶδα	perf_act	perf	act	part	neut gen sg	εἰδότος	to know
+99	3	1	οἶδα	perf_act	plup	act	ind	3rd pl	ᾔδεσαν	to know
+99	5	0	οἶδα	perf_act	plup	act	ind	3rd sg	ᾔδει	to know
+262	28	0	πάρειμι1	irreg_mi	imperf	act	ind	3rd pl	παρῆσαν	be present
+262	11	0	πάρειμι1	irreg_mi	imperf	act	ind	3rd sg	παρῆν	be present
+262	5	0	πάρειμι1	irreg_mi	pres	act	ind	1st pl	πάρεσμεν	be present
+262	1	0	πάρειμι1	irreg_mi	pres	act	ind	1st sg	πάρειμι	be present
+262	3	0	πάρειμι1	irreg_mi	pres	act	ind	2nd pl	πάρεστε	be present
+262	5	0	πάρειμι1	irreg_mi	pres	act	ind	3rd pl	πάρεισι	be present
+262	2	0	πάρειμι1	irreg_mi	pres	act	ind	3rd sg	πάρεστι	be present
+262	3	0	πάρειμι1	irreg_mi	pres	act	part	fem acc pl	παρούσας	be present
+262	13	0	πάρειμι1	irreg_mi	pres	act	part	fem acc sg	παροῦσαν	be present
+262	1	0	πάρειμι1	irreg_mi	pres	act	part	fem dat pl	παρούσαις	be present
+262	11	0	πάρειμι1	irreg_mi	pres	act	part	fem dat sg	παρούσῃ	be present
+262	2	0	πάρειμι1	irreg_mi	pres	act	part	fem gen pl	παρουσῶν	be present
+262	4	0	πάρειμι1	irreg_mi	pres	act	part	fem gen sg	παρούσης	be present
+262	2	0	πάρειμι1	irreg_mi	pres	act	part	fem nom pl	παροῦσαι	be present
+262	3	0	πάρειμι1	irreg_mi	pres	act	part	fem nom sg	παροῦσα	be present
+262	7	0	πάρειμι1	irreg_mi	pres	act	part	masc acc pl	παρόντας	be present
+262	4	0	πάρειμι1	irreg_mi	pres	act	part	masc acc sg	παρόντα	be present
+262	1	0	πάρειμι1	irreg_mi	pres	act	part	masc dat pl	παροῦσι	be present
+262	1	0	πάρειμι1	irreg_mi	pres	act	part	masc dat sg	παρόντι	be present
+262	6	0	πάρειμι1	irreg_mi	pres	act	part	masc gen pl	παρόντων	be present
+262	6	0	πάρειμι1	irreg_mi	pres	act	part	masc gen sg	παρόντος	be present
+262	16	0	πάρειμι1	irreg_mi	pres	act	part	masc nom pl	παρόντες	be present
+262	4	0	πάρειμι1	irreg_mi	pres	act	part	masc nom sg	παρών	be present
+262	14	2	πάρειμι1	irreg_mi	pres	act	part	neut acc pl	παρόντα	be present
+262	9	0	πάρειμι1	irreg_mi	pres	act	part	neut acc sg	παρόν	be present
+262	8	0	πάρειμι1	irreg_mi	pres	act	part	neut dat pl	παροῦσι	be present
+262	38	0	πάρειμι1	irreg_mi	pres	act	part	neut dat sg	παρόντι	be present
+262	32	0	πάρειμι1	irreg_mi	pres	act	part	neut gen pl	παρόντων	be present
+262	12	0	πάρειμι1	irreg_mi	pres	act	part	neut gen sg	παρόντος	be present
+262	3	0	πάρειμι1	reg_fut	fut	mid	ind	3rd pl	παρέσονται	be present
+262	2	1	πάρειμι1	reg_fut	fut	mid	ind	3rd sg	παρέσται	be present
+262	1	0	πάρειμι1	reg_fut	fut	mid	opt	3rd pl	παρέσοιντο	be present
+262	1	0	πάρειμι1	reg_fut	fut	mid	part	fem gen sg	παρεσομένης	be present
+262	1	0	πάρειμι1	reg_fut	fut	mid	part	masc acc pl	παρεσομένους	be present
+262	2	0	πάρειμι1	reg_fut	fut	mid	part	neut gen pl	παρεσομένων	be present
+188	1	0	πέμπω	aor1	aor	act	ind	1st pl	ἐπέμψαμεν	to send
+188	1	0	πέμπω	aor1	aor	act	ind	1st sg	ἔπεμψα	to send
+188	23	1	πέμπω	aor1	aor	act	ind	3rd pl	ἔπεμψαν	to send
+188	4	0	πέμπω	aor1	aor	act	ind	3rd sg	ἔπεμψε	to send
+188	1	0	πέμπω	aor1	aor	act	opt	3rd sg	πέμψαι	to send
+188	3	0	πέμπω	aor1	aor	act	part	masc acc pl	πέμψαντας	to send
+188	1	0	πέμπω	aor1	aor	act	part	masc gen sg	πέμψαντος	to send
+188	32	0	πέμπω	aor1	aor	act	part	masc nom pl	πέμψαντες	to send
+188	3	0	πέμπω	aor1	aor	act	part	masc nom sg	πέμψας	to send
+188	3	0	πέμπω	aor1	aor	act	part	neut gen pl	πεμψάντων	to send
+188	15	1	πέμπω	w_stem	imperf	act	ind	3rd pl	ἔπεμπον	to send
+188	1	0	πέμπω	w_stem	imperf	act	ind	3rd sg	ἔπεμπε	to send
+188	1	0	πέμπω	w_stem	pres	act	imperat	2nd sg	πέμπε	to send
+188	2	0	πέμπω	w_stem	pres	act	ind	2nd pl	πέμπετε	to send
+188	27	0	πέμπω	w_stem	pres	act	ind	3rd pl	πέμπουσι	to send
+188	14	0	πέμπω	w_stem	pres	act	ind	3rd sg	πέμπει	to send
+188	26	1	πέμπω	w_stem	pres	act	inf		πέμπειν	to send
+188	1	0	πέμπω	w_stem	pres	act	part	fem nom sg	πέμπουσα	to send
+188	1	0	πέμπω	w_stem	pres	act	part	masc dat pl	πέμπουσι	to send
+188	3	0	πέμπω	w_stem	pres	act	part	masc nom pl	πέμποντες	to send
+188	1	0	πέμπω	w_stem	pres	act	part	masc nom sg	πέμπων	to send
+188	3	0	πέμπω	w_stem	pres	act	part	neut gen pl	πεμπόντων	to send
+188	2	0	πέμπω	w_stem	pres	act	subj	1st pl	πέμπωμεν	to send
+188	1	0	πέμπω	w_stem	pres	act	subj	3rd pl	πέμπωσι	to send
+188	2	0	πέμπω	w_stem	pres	mp	part	masc nom pl	πεμπόμενοι	to send
+125	7	1	παρέχω	w_stem	imperf	act	ind	3rd pl	παρεῖχον	to furnish
+125	16	0	παρέχω	w_stem	imperf	act	ind	3rd sg	παρεῖχε	to furnish
+125	4	2	παρέχω	w_stem	imperf	mp	ind	3rd pl	παρείχοντο	to furnish
+125	1	0	παρέχω	w_stem	imperf	mp	ind	3rd sg	παρείχετο	to furnish
+125	1	0	παρέχω	w_stem	pres	act	imperat	3rd pl	παρεχόντων	to furnish
+125	1	0	παρέχω	w_stem	pres	act	imperat	3rd sg	παρεχέτω	to furnish
+125	1	0	παρέχω	w_stem	pres	act	ind	1st pl	παρέχομεν	to furnish
+125	2	0	παρέχω	w_stem	pres	act	ind	2nd pl	παρέχετε	to furnish
+125	1	0	παρέχω	w_stem	pres	act	ind	3rd sg	παρέχει	to furnish
+125	11	0	παρέχω	w_stem	pres	act	inf		παρέχειν	to furnish
+125	1	0	παρέχω	w_stem	pres	act	opt	3rd sg	παρέχοι	to furnish
+125	1	0	παρέχω	w_stem	pres	act	part	fem nom sg	παρέχουσα	to furnish
+125	1	0	παρέχω	w_stem	pres	act	part	masc acc pl	παρέχοντας	to furnish
+125	4	0	παρέχω	w_stem	pres	act	part	masc nom pl	παρέχοντες	to furnish
+125	1	0	παρέχω	w_stem	pres	act	subj	3rd pl	παρέχωσι	to furnish
+125	1	0	παρέχω	w_stem	pres	mp	ind	3rd pl	παρέχονται	to furnish
+125	4	0	παρέχω	w_stem	pres	mp	ind	3rd sg	παρέχεται	to furnish
+125	2	0	παρέχω	w_stem	pres	mp	part	masc acc pl	παρεχομένους	to furnish
+125	3	0	παρέχω	w_stem	pres	mp	part	masc nom pl	παρεχόμενοι	to furnish
+125	1	0	παρέχω	w_stem	pres	mp	part	masc nom sg	παρεχόμενος	to furnish
+125	1	0	παρέχω	w_stem	pres	mp	part	neut acc sg	παρεχόμενον	to furnish
+36	1	0	παραγίγνομαι	aor2	aor	mid	ind	1st pl	παρεγενόμεθα	to come near
+36	1	0	παραγίγνομαι	aor2	aor	mid	ind	2nd pl	παρεγένεσθε	to come near
+36	4	1	παραγίγνομαι	aor2	aor	mid	ind	3rd pl	παρεγένοντο	to come near
+36	4	0	παραγίγνομαι	aor2	aor	mid	ind	3rd sg	παρεγένετο	to come near
+36	2	0	παραγίγνομαι	aor2	aor	mid	opt	3rd sg	παραγένοιτο	to come near
+36	1	0	παραγίγνομαι	aor2	aor	mid	part	masc acc pl	παραγενομένους	to come near
+36	4	0	παραγίγνομαι	aor2	aor	mid	part	masc nom pl	παραγενόμενοι	to come near
+36	1	0	παραγίγνομαι	aor2	aor	mid	part	masc nom sg	παραγενόμενος	to come near
+36	3	0	παραγίγνομαι	aor2	aor	mid	part	neut acc sg	παραγενόμενον	to come near
+36	1	0	παραγίγνομαι	aor2	aor	mid	subj	3rd pl	παραγένωνται	to come near
+36	1	0	παραγίγνομαι	aor2	aor	mid	subj	3rd sg	παραγένηται	to come near
+40	5	0	παραινέω	ew_pr	imperf	act	ind	3rd pl	παρῄνουν	to exhort
+40	12	1	παραινέω	ew_pr	imperf	act	ind	3rd sg	παρῄνει	to exhort
+40	2	0	παραινέω	ew_pr	pres	act	ind	3rd pl	παραινοῦσι	to exhort
+40	1	0	παραινέω	ew_pr	pres	act	ind	3rd sg	παραινεῖ	to exhort
+40	2	0	παραινέω	ew_pr	pres	act	inf		παραινεῖν	to exhort
+40	1	0	παραινέω	ew_pr	pres	act	opt	1st sg	παραινοίην	to exhort
+40	1	0	παραινέω	ew_pr	pres	act	part	masc gen pl	παραινούντων	to exhort
+40	1	0	παραινέω	ew_pr	pres	act	part	masc gen sg	παραινοῦντος	to exhort
+40	1	0	παραινέω	ew_pr	pres	act	part	masc nom pl	παραινοῦντες	to exhort
+40	1	0	παραινέω	ew_pr	pres	act	part	masc nom sg	παραινῶν	to exhort
+40	1	0	παραινέω	ew_pr	pres	act	part	neut dat sg	παραινοῦντι	to exhort
+40	3	0	παραινέω	ew_pr	pres	act	part	neut gen pl	παραινούντων	to exhort
+40	1	0	παραινέω	ew_pr	pres	act	part	neut gen sg	παραινοῦντος	to exhort
+40	1	0	παραινέω	ew_pr	pres	act	subj	1st sg	παραινῶ	to exhort
+40	1	0	παραινέω	ew_pr	pres	mp	part	neut gen pl	παραινουμένων	to exhort
+150	1	0	παρασκευάζω	aor_pass	aor	pass	ind	3rd pl	παρεσκευάσθησαν	to get ready
+150	2	0	παρασκευάζω	aor_pass	aor	pass	ind	3rd sg	παρεσκευάσθη	to get ready
+150	1	0	παρασκευάζω	aor_pass	aor	pass	part	fem nom pl	παρασκευασθεῖσαι	to get ready
+150	1	0	παρασκευάζω	aor_pass	aor	pass	part	masc acc sg	παρασκευασθέντα	to get ready
+150	1	1	παρασκευάζω	aor_pass	aor	pass	subj	3rd sg	παρασκευασθῇ	to get ready
+150	2	0	παρασκευάζω	w_stem	imperf	act	ind	3rd pl	παρεσκεύαζον	to get ready
+150	6	0	παρασκευάζω	w_stem	imperf	act	ind	3rd sg	παρεσκεύαζε	to get ready
+150	56	2	παρασκευάζω	w_stem	imperf	mp	ind	3rd pl	παρεσκευάζοντο	to get ready
+150	16	0	παρασκευάζω	w_stem	imperf	mp	ind	3rd sg	παρεσκευάζετο	to get ready
+150	2	0	παρασκευάζω	w_stem	pres	act	inf		παρασκευάζειν	to get ready
+150	1	0	παρασκευάζω	w_stem	pres	act	part	masc nom pl	παρασκευάζοντες	to get ready
+150	1	0	παρασκευάζω	w_stem	pres	mp	ind	1st pl	παρασκευαζόμεθα	to get ready
+150	2	0	παρασκευάζω	w_stem	pres	mp	ind	2nd pl	παρασκευάζεσθε	to get ready
+150	1	0	παρασκευάζω	w_stem	pres	mp	part	fem nom pl	παρασκευαζόμεναι	to get ready
+150	2	0	παρασκευάζω	w_stem	pres	mp	part	masc acc pl	παρασκευαζομένους	to get ready
+150	2	0	παρασκευάζω	w_stem	pres	mp	part	masc nom pl	παρασκευαζόμενοι	to get ready
+150	2	0	παρασκευάζω	w_stem	pres	mp	part	masc nom sg	παρασκευαζόμενος	to get ready
+150	1	0	παρασκευάζω	w_stem	pres	mp	part	neut gen pl	παρασκευαζομένων	to get ready
+150	1	0	παρασκευάζω	w_stem	pres	mp	subj	1st pl	παρασκευαζώμεθα	to get ready
+193	2	0	πείθω	w_stem	imperf	act	ind	3rd pl	ἔπειθον	to prevail upon
+193	10	0	πείθω	w_stem	imperf	act	ind	3rd sg	ἔπειθε	to prevail upon
+193	3	1	πείθω	w_stem	imperf	mp	ind	3rd pl	ἐπείθοντο	to prevail upon
+193	1	0	πείθω	w_stem	imperf	mp	ind	3rd sg	ἐπείθετο	to prevail upon
+193	1	0	πείθω	w_stem	pres	act	ind	1st pl	πείθομεν	to prevail upon
+193	1	0	πείθω	w_stem	pres	act	ind	1st sg	πείθω	to prevail upon
+193	1	0	πείθω	w_stem	pres	act	ind	2nd pl	πείθετε	to prevail upon
+193	8	0	πείθω	w_stem	pres	act	ind	3rd pl	πείθουσι	to prevail upon
+193	11	0	πείθω	w_stem	pres	act	ind	3rd sg	πείθει	to prevail upon
+193	14	0	πείθω	w_stem	pres	act	inf		πείθειν	to prevail upon
+193	1	0	πείθω	w_stem	pres	act	opt	3rd pl	πείθοιεν	to prevail upon
+193	1	0	πείθω	w_stem	pres	act	part	masc dat pl	πείθουσι	to prevail upon
+193	2	0	πείθω	w_stem	pres	act	part	masc nom pl	πείθοντες	to prevail upon
+193	2	0	πείθω	w_stem	pres	act	part	masc nom sg	πείθων	to prevail upon
+193	1	0	πείθω	w_stem	pres	act	part	neut gen pl	πειθόντων	to prevail upon
+193	1	0	πείθω	w_stem	pres	act	subj	1st pl	πείθωμεν	to prevail upon
+193	6	0	πείθω	w_stem	pres	act	subj	3rd pl	πείθωσι	to prevail upon
+193	2	0	πείθω	w_stem	pres	mp	ind	2nd pl	πείθεσθε	to prevail upon
+193	1	0	πείθω	w_stem	pres	mp	opt	2nd pl	πείθοισθε	to prevail upon
+193	1	0	πείθω	w_stem	pres	mp	part	masc acc pl	πειθομένους	to prevail upon
+193	1	0	πείθω	w_stem	pres	mp	part	masc dat pl	πειθομένοις	to prevail upon
+193	10	0	πείθω	w_stem	pres	mp	part	masc nom pl	πειθόμενοι	to prevail upon
+193	1	0	πείθω	w_stem	pres	mp	part	masc nom sg	πειθόμενος	to prevail upon
+193	1	0	πείθω	w_stem	pres	mp	part	neut dat pl	πειθομένοις	to prevail upon
+193	1	0	πείθω	w_stem	pres	mp	part	neut dat sg	πειθομένῳ	to prevail upon
+193	1	0	πείθω	w_stem	pres	mp	part	neut gen pl	πειθομένων	to prevail upon
+193	1	0	πείθω	w_stem	pres	mp	subj	2nd pl	πείθησθε	to prevail upon
+86	1	0	πειράω	aor1	aor	act	ind	3rd sg	ἐπείρασε	to attempt
+86	3	0	πειράω	aor1	aor	act	inf		πειρᾶσαι	to attempt
+86	6	1	πειράω	aor1	aor	act	part	masc nom pl	πειράσαντες	to attempt
+86	1	0	πειράω	aor1	aor	act	part	masc nom sg	πειράσας	to attempt
+86	1	0	πειράω	aor1	aor	act	subj	3rd pl	πειράσωσι	to attempt
+86	1	0	πειράω	aor1	aor	mid	inf		πειράσασθαι	to attempt
+86	2	0	πειράω	aor1	aor	mid	part	masc acc pl	πειρασαμένους	to attempt
+86	1	0	πειράω	aor1	aor	mid	part	masc nom sg	πειρασάμενος	to attempt
+86	2	0	πειράω	aor1	aor	mid	part	neut dat pl	πειρασαμένοις	to attempt
+16	4	1	περίειμι1	irreg_mi	imperf	act	ind	3rd pl	περιῆσαν	be superior
+16	1	0	περίειμι1	irreg_mi	imperf	act	ind	3rd sg	περιῆν	be superior
+16	1	0	περίειμι1	irreg_mi	pres	act	ind	3rd sg	περίεστι	be superior
+16	1	0	περίειμι1	irreg_mi	pres	act	part	fem acc sg	περιοῦσαν	be superior
+16	2	0	περίειμι1	irreg_mi	pres	act	part	neut dat sg	περιόντι	be superior
+16	1	0	περίειμι1	irreg_mi	pres	act	part	neut gen sg	περιόντος	be superior
+9	4	1	περιαγγέλλω	aor2	aor	act	ind	3rd pl	περιήγγελλον	to announce by messages sent round
+9	1	0	περιαγγέλλω	aor2	aor	mid	part	fem nom sg	περιαγγελλομένη	to announce by messages sent round
+6	1	0	πλανάω	aw_pr	imperf	mp	ind	3rd sg	ἐπλανᾶτο	to make to wander
+6	1	1	πλανάω	aw_pr	pres	mp	part	masc nom pl	πλανώμενοι	to make to wander
+6	1	0	πλανάω	aw_pr	pres	mp	part	neut gen sg	πλανωμένου	to make to wander
+486	2	0	ποιέω	aor1	aor	act	imperat	2nd pl	ποιήσατε	to make
+486	1	0	ποιέω	aor1	aor	act	ind	1st sg	ἐποίησα	to make
+486	1	0	ποιέω	aor1	aor	act	ind	2nd pl	ἐποιήσατε	to make
+486	18	0	ποιέω	aor1	aor	act	ind	3rd pl	ἐποίησαν	to make
+486	9	1	ποιέω	aor1	aor	act	ind	3rd sg	ἐποίησε	to make
+486	2	0	ποιέω	aor1	aor	act	opt	3rd pl	ποιήσειαν	to make
+486	1	0	ποιέω	aor1	aor	act	opt	3rd sg	ποιήσειεν	to make
+486	2	0	ποιέω	aor1	aor	act	part	masc acc pl	ποιήσαντας	to make
+486	19	1	ποιέω	aor1	aor	act	part	masc nom pl	ποιήσαντες	to make
+486	7	0	ποιέω	aor1	aor	act	part	masc nom sg	ποιήσας	to make
+486	1	0	ποιέω	aor1	aor	act	subj	1st pl	ποιήσωμεν	to make
+486	2	0	ποιέω	aor1	aor	act	subj	3rd pl	ποιήσωσι	to make
+486	3	0	ποιέω	aor1	aor	act	subj	3rd sg	ποιήσῃ	to make
+486	1	0	ποιέω	aor1	aor	mid	ind	1st pl	ἐποιησάμεθα	to make
+486	1	0	ποιέω	aor1	aor	mid	ind	1st sg	ἐποιησάμην	to make
+486	1	0	ποιέω	aor1	aor	mid	ind	2nd pl	ἐποιήσασθε	to make
+486	45	0	ποιέω	aor1	aor	mid	ind	3rd pl	ἐποιήσαντο	to make
+486	10	0	ποιέω	aor1	aor	mid	ind	3rd sg	ἐποιήσατο	to make
+486	1	0	ποιέω	aor1	aor	mid	part	fem nom pl	ποιησάμεναι	to make
+486	4	0	ποιέω	aor1	aor	mid	part	masc acc pl	ποιησαμένους	to make
+486	24	0	ποιέω	aor1	aor	mid	part	masc nom pl	ποιησάμενοι	to make
+486	6	0	ποιέω	aor1	aor	mid	part	masc nom sg	ποιησάμενος	to make
+486	1	0	ποιέω	aor1	aor	mid	part	neut acc sg	ποιησάμενον	to make
+486	1	0	ποιέω	aor1	aor	mid	part	neut dat pl	ποιησαμένοις	to make
+486	1	0	ποιέω	aor1	aor	mid	part	neut gen pl	ποιησαμένων	to make
+486	1	0	ποιέω	aor1	aor	mid	subj	2nd pl	ποιήσησθε	to make
+486	2	0	ποιέω	aor1	aor	mid	subj	3rd pl	ποιήσωνται	to make
+486	1	0	ποιέω	ew_pr	imperf	act	ind	1st pl	ἐποιοῦμεν	to make
+486	8	0	ποιέω	ew_pr	imperf	act	ind	3rd pl	ἐποίουν	to make
+486	5	1	ποιέω	ew_pr	imperf	act	ind	3rd sg	ἐποίει	to make
+486	1	0	ποιέω	ew_pr	imperf	mp	ind	1st sg	ἐποιούμην	to make
+486	1	0	ποιέω	ew_pr	imperf	mp	ind	2nd pl	ἐποιεῖσθε	to make
+486	55	1	ποιέω	ew_pr	imperf	mp	ind	3rd pl	ἐποιοῦντο	to make
+486	18	0	ποιέω	ew_pr	imperf	mp	ind	3rd sg	ἐποιεῖτο	to make
+486	1	0	ποιέω	ew_pr	pres	act	imperat	3rd pl	ποιούντων	to make
+486	1	0	ποιέω	ew_pr	pres	act	ind	2nd pl	ποιεῖτε	to make
+486	2	0	ποιέω	ew_pr	pres	act	ind	3rd pl	ποιοῦσι	to make
+486	5	0	ποιέω	ew_pr	pres	act	ind	3rd sg	ποιεῖ	to make
+486	28	1	ποιέω	ew_pr	pres	act	inf		ποιεῖν	to make
+486	1	0	ποιέω	ew_pr	pres	act	opt	1st pl	ποιοῖμεν	to make
+486	4	0	ποιέω	ew_pr	pres	act	part	masc acc pl	ποιοῦντας	to make
+486	7	0	ποιέω	ew_pr	pres	act	part	masc nom pl	ποιοῦντες	to make
+486	2	0	ποιέω	ew_pr	pres	act	part	masc nom sg	ποιῶν	to make
+486	1	0	ποιέω	ew_pr	pres	act	part	neut gen pl	ποιούντων	to make
+486	1	0	ποιέω	ew_pr	pres	act	subj	1st pl	ποιῶμεν	to make
+486	2	0	ποιέω	ew_pr	pres	act	subj	2nd pl	ποιῆτε	to make
+486	3	0	ποιέω	ew_pr	pres	act	subj	3rd pl	ποιῶσι	to make
+486	1	0	ποιέω	ew_pr	pres	mp	ind	1st pl	ποιούμεθα	to make
+486	1	0	ποιέω	ew_pr	pres	mp	ind	1st sg	ποιοῦμαι	to make
+486	16	0	ποιέω	ew_pr	pres	mp	ind	3rd pl	ποιοῦνται	to make
+486	7	0	ποιέω	ew_pr	pres	mp	ind	3rd sg	ποιεῖται	to make
+486	48	1	ποιέω	ew_pr	pres	mp	inf		ποιεῖσθαι	to make
+486	1	0	ποιέω	ew_pr	pres	mp	opt	3rd pl	ποιοῖντο	to make
+486	2	0	ποιέω	ew_pr	pres	mp	part	fem gen sg	ποιουμένης	to make
+486	21	1	ποιέω	ew_pr	pres	mp	part	masc nom pl	ποιούμενοι	to make
+486	3	0	ποιέω	ew_pr	pres	mp	part	masc nom sg	ποιούμενος	to make
+486	1	0	ποιέω	ew_pr	pres	mp	part	neut acc pl	ποιούμενα	to make
+486	1	0	ποιέω	ew_pr	pres	mp	part	neut dat pl	ποιουμένοις	to make
+486	5	0	ποιέω	ew_pr	pres	mp	part	neut gen pl	ποιουμένων	to make
+486	2	0	ποιέω	ew_pr	pres	mp	subj	1st pl	ποιώμεθα	to make
+486	8	0	ποιέω	ew_pr	pres	mp	subj	3rd pl	ποιῶνται	to make
+486	1	0	ποιέω	ew_pr	pres	mp	subj	3rd sg	ποιῆται	to make
+486	2	0	ποιέω	perfp_vow	perf	mp	ind	3rd pl	πεποίηνται	to make
+486	1	0	ποιέω	perfp_vow	perf	mp	inf		πεποιῆσθαι	to make
+486	1	0	ποιέω	perfp_vow	perf	mp	part	fem nom pl	πεποιημέναι	to make
+486	1	0	ποιέω	perfp_vow	perf	mp	part	masc acc pl	πεποιημένους	to make
+486	1	1	ποιέω	perfp_vow	perf	mp	part	neut acc pl	πεποιημένα	to make
+486	2	0	ποιέω	perfp_vow	perf	mp	part	neut acc sg	πεποιημένον	to make
+486	1	0	ποιέω	perfp_vow	plup	mp	ind	3rd pl	ἐπεποίηντο	to make
+103	11	1	πολεμέω	ew_pr	imperf	act	ind	3rd pl	ἐπολέμουν	to be at war
+103	2	0	πολεμέω	ew_pr	imperf	mp	ind	3rd sg	ἐπολεμεῖτο	to be at war
+103	1	0	πολεμέω	ew_pr	pres	act	imperat	3rd pl	πολεμούντων	to be at war
+103	5	0	πολεμέω	ew_pr	pres	act	ind	3rd pl	πολεμοῦσι	to be at war
+103	45	0	πολεμέω	ew_pr	pres	act	inf		πολεμεῖν	to be at war
+103	1	0	πολεμέω	ew_pr	pres	act	part	masc acc pl	πολεμοῦντας	to be at war
+103	2	0	πολεμέω	ew_pr	pres	act	part	masc acc sg	πολεμοῦντα	to be at war
+103	3	0	πολεμέω	ew_pr	pres	act	part	masc nom pl	πολεμοῦντες	to be at war
+103	2	0	πολεμέω	ew_pr	pres	act	part	neut gen pl	πολεμούντων	to be at war
+103	2	0	πολεμέω	ew_pr	pres	act	subj	3rd pl	πολεμῶσι	to be at war
+103	1	0	πολεμέω	ew_pr	pres	mp	ind	3rd pl	πολεμοῦνται	to be at war
+103	2	0	πολεμέω	ew_pr	pres	mp	inf		πολεμεῖσθαι	to be at war
+103	4	0	πολεμέω	reg_fut	fut	act	ind	1st pl	πολεμήσομεν	to be at war
+103	2	0	πολεμέω	reg_fut	fut	act	ind	3rd sg	πολεμήσει	to be at war
+103	4	1	πολεμέω	reg_fut	fut	act	inf		πολεμήσειν	to be at war
+103	2	1	πολεμέω	reg_fut	fut	act	part	masc nom pl	πολεμήσοντες	to be at war
+103	1	0	πολεμέω	reg_fut	fut	mid	ind	3rd pl	πολεμήσονται	to be at war
+103	1	0	πολεμέω	reg_fut	fut	mid	ind	3rd sg	πολεμήσεται	to be at war
+40	9	0	πορεύω	w_stem	imperf	mp	ind	3rd pl	ἐπορεύοντο	to make to go
+40	9	0	πορεύω	w_stem	imperf	mp	ind	3rd sg	ἐπορεύετο	to make to go
+40	3	0	πορεύω	w_stem	pres	mp	part	masc acc pl	πορευομένους	to make to go
+40	1	0	πορεύω	w_stem	pres	mp	part	masc acc sg	πορευόμενον	to make to go
+40	1	0	πορεύω	w_stem	pres	mp	part	masc gen pl	πορευομένων	to make to go
+40	5	1	πορεύω	w_stem	pres	mp	part	masc nom pl	πορευόμενοι	to make to go
+40	3	0	πορεύω	w_stem	pres	mp	part	masc nom sg	πορευόμενος	to make to go
+40	3	0	πορεύω	w_stem	pres	mp	part	neut acc sg	πορευόμενον	to make to go
+40	1	0	πορεύω	w_stem	pres	mp	part	neut dat pl	πορευομένοις	to make to go
+40	2	0	πορεύω	w_stem	pres	mp	part	neut dat sg	πορευομένῳ	to make to go
+176	17	2	πράσσω	aor1	aor	act	ind	3rd pl	ἔπραξαν	do
+176	3	0	πράσσω	aor1	aor	act	ind	3rd sg	ἔπραξε	do
+176	1	0	πράσσω	aor1	aor	act	opt	3rd sg	πράξειε	do
+176	4	0	πράσσω	aor1	aor	act	part	masc acc pl	πράξαντας	do
+176	9	0	πράσσω	aor1	aor	act	part	masc nom pl	πράξαντες	do
+176	4	0	πράσσω	aor1	aor	act	part	masc nom sg	πράξας	do
+176	1	0	πράσσω	aor1	aor	act	part	neut dat pl	πράξασι	do
+176	3	0	πράσσω	aor1	aor	act	part	neut gen pl	πραξάντων	do
+176	1	0	πράσσω	aor1	aor	act	part	neut gen sg	πράξαντος	do
+176	2	0	πράσσω	aor1	aor	act	subj	2nd pl	πράξητε	do
+176	1	0	πράσσω	aor1	aor	act	subj	3rd pl	πράξωσι	do
+176	1	0	πράσσω	aor1	aor	mid	ind	3rd pl	ἐπράξαντο	do
+176	1	0	πράσσω	aor1	aor	mid	ind	3rd sg	ἐπράξατο	do
+176	2	1	πράσσω	perf_act	plup	act	ind	3rd pl	ἐπεπράγεσαν	do
+176	1	0	πράσσω	w_stem	imperf	act	ind	1st pl	ἐπράσσομεν	do
+176	12	0	πράσσω	w_stem	imperf	act	ind	3rd pl	ἔπρασσον	do
+176	9	0	πράσσω	w_stem	imperf	act	ind	3rd sg	ἔπρασσε	do
+176	8	0	πράσσω	w_stem	imperf	mp	ind	3rd sg	ἐπράσσετο	do
+176	1	0	πράσσω	w_stem	pres	act	imperat	2nd sg	πρᾶσσε	do
+176	1	0	πράσσω	w_stem	pres	act	ind	1st pl	πράσσομεν	do
+176	1	0	πράσσω	w_stem	pres	act	ind	2nd pl	πράσσετε	do
+176	3	0	πράσσω	w_stem	pres	act	ind	3rd pl	πράσσουσι	do
+176	18	0	πράσσω	w_stem	pres	act	inf		πράσσειν	do
+176	1	0	πράσσω	w_stem	pres	act	opt	1st pl	πράσσοιμεν	do
+176	1	0	πράσσω	w_stem	pres	act	opt	3rd pl	πράσσοιεν	do
+176	2	0	πράσσω	w_stem	pres	act	part	masc acc pl	πράσσοντας	do
+176	1	0	πράσσω	w_stem	pres	act	part	masc gen pl	πρασσόντων	do
+176	11	1	πράσσω	w_stem	pres	act	part	masc nom pl	πράσσοντες	do
+176	3	0	πράσσω	w_stem	pres	act	part	masc nom sg	πράσσων	do
+176	6	0	πράσσω	w_stem	pres	act	part	neut gen pl	πρασσόντων	do
+176	1	0	πράσσω	w_stem	pres	act	part	neut gen sg	πράσσοντος	do
+176	1	0	πράσσω	w_stem	pres	act	subj	3rd pl	πράσσωσι	do
+176	1	0	πράσσω	w_stem	pres	mp	part	masc nom pl	πρασσόμενοι	do
+176	7	0	πράσσω	w_stem	pres	mp	part	neut acc pl	πρασσόμενα	do
+176	1	0	πράσσω	w_stem	pres	mp	part	neut acc sg	πρασσόμενον	do
+176	2	0	πράσσω	w_stem	pres	mp	part	neut dat pl	πρασσομένοις	do
+176	2	0	πράσσω	w_stem	pres	mp	part	neut gen pl	πρασσομένων	do
+17	7	1	πρεσβεύω	w_stem	imperf	mp	ind	3rd pl	ἐπρεσβεύοντο	to be the elder; to be an ambassador
+17	1	0	πρεσβεύω	w_stem	pres	act	inf		πρεσβεύειν	to be the elder; to be an ambassador
+17	1	0	πρεσβεύω	w_stem	pres	mp	part	masc acc pl	πρεσβευομένους	to be the elder; to be an ambassador
+17	1	0	πρεσβεύω	w_stem	pres	mp	part	masc gen pl	πρεσβευομένων	to be the elder; to be an ambassador
+17	2	0	πρεσβεύω	w_stem	pres	mp	part	masc nom pl	πρεσβευόμενοι	to be the elder; to be an ambassador
+21	1	0	προδίδωμι	omi_pr	imperf	act	ind	3rd pl	προεδίδοσαν	to give beforehand
+21	1	0	προδίδωμι	omi_pr	imperf	act	ind	3rd sg	προεδίδου	to give beforehand
+21	1	0	προδίδωμι	omi_pr	pres	act	part	masc gen pl	προδιδόντων	to give beforehand
+21	3	1	προδίδωμι	omi_pr	pres	act	part	masc nom pl	προδιδόντες	to give beforehand
+21	1	0	προδίδωμι	omi_pr	pres	act	part	neut dat pl	προδιδοῦσι	to give beforehand
+21	1	0	προδίδωμι	omi_pr	pres	act	part	neut gen pl	προδιδόντων	to give beforehand
+21	1	0	προδίδωμι	omi_pr	pres	mp	ind	1st pl	προδιδόμεθα	to give beforehand
+21	1	0	προδίδωμι	omi_pr	pres	mp	ind	3rd pl	προδίδονται	to give beforehand
+21	1	0	προδίδωμι	omi_pr	pres	mp	ind	3rd sg	προδίδοται	to give beforehand
+21	2	0	προδίδωμι	omi_pr	pres	mp	part	fem acc sg	προδιδομένην	to give beforehand
+10	2	0	προεῖδον	aor2	aor	act	inf		προιδεῖν	to see beforehand
+10	1	0	προεῖδον	aor2	aor	act	opt	3rd sg	προίδοι	to see beforehand
+10	2	1	προεῖδον	aor2	aor	act	part	masc nom pl	προιδόντες	to see beforehand
+10	2	0	προεῖδον	aor2	aor	act	part	masc nom sg	προιδών	to see beforehand
+10	1	0	προεῖδον	aor2	aor	act	part	neut gen pl	προιδόντων	to see beforehand
+10	1	0	προεῖδον	aor2	aor	act	subj	1st pl	προίδωμεν	to see beforehand
+10	1	0	προεῖδον	aor2	aor	mid	part	masc nom sg	προιδόμενος	to see beforehand
+20	3	0	προεῖπον	aor2	aor	act	ind	1st pl	προείπομεν	to tell
+20	11	0	προεῖπον	aor2	aor	act	ind	3rd pl	προεῖπον	to tell
+20	1	0	προεῖπον	aor2	aor	act	ind	3rd sg	προεῖπε	to tell
+20	1	0	προεῖπον	aor2	aor	act	inf		προειπεῖν	to tell
+20	1	0	προεῖπον	aor2	aor	act	part	masc acc pl	προειπόντας	to tell
+20	1	0	προεῖπον	aor2	aor	act	part	masc nom pl	προειπόντες	to tell
+20	1	0	προεῖπον	aor2	aor	act	part	masc nom sg	προειπών	to tell
+20	1	1	προεῖπον	aor2	aor	act	part	neut gen pl	προειπόντων	to tell
+1	1	1	προκαθίστημι	perf_act	perf	act	part	fem gen sg	προκαθεστηκυίας	to set before;
+17	1	0	προκαταλαμβάνω	aor2	aor	act	ind	3rd pl	προκατέλαβον	to seize beforehand
+17	3	1	προκαταλαμβάνω	aor2	aor	act	inf		προκαταλαβεῖν	to seize beforehand
+17	1	0	προκαταλαμβάνω	aor2	aor	act	part	masc nom pl	προκαταλαβόντες	to seize beforehand
+17	1	0	προκαταλαμβάνω	aor2	aor	act	part	masc nom sg	προκαταλαβών	to seize beforehand
+68	10	1	προσβάλλω	aor2	aor	act	ind	3rd pl	προσέβαλον	to strike
+68	2	0	προσβάλλω	aor2	aor	act	opt	3rd pl	προσβάλοιεν	to strike
+68	1	0	προσβάλλω	aor2	aor	act	part	masc acc pl	προσβαλόντας	to strike
+68	1	0	προσβάλλω	aor2	aor	act	part	masc acc sg	προσβαλόντα	to strike
+68	21	0	προσβάλλω	aor2	aor	act	part	masc nom pl	προσβαλόντες	to strike
+68	6	0	προσβάλλω	aor2	aor	act	part	masc nom sg	προσβαλών	to strike
+68	3	1	προσβάλλω	aor2	aor	act	part	neut gen pl	προσβαλόντων	to strike
+68	2	0	προσβάλλω	aor2	aor	act	subj	3rd sg	προσβάλῃ	to strike
+52	1	0	προσπίτνω	w_stem	imperf	act	ind	3rd pl	προσέπιπτον	to fall upon
+52	3	0	προσπίτνω	w_stem	imperf	act	ind	3rd sg	προσέπιπτε	to fall upon
+52	2	0	προσπίτνω	w_stem	pres	act	ind	3rd pl	προσπίπτουσι	to fall upon
+52	1	0	προσπίτνω	w_stem	pres	act	ind	3rd sg	προσπίπτει	to fall upon
+52	1	0	προσπίτνω	w_stem	pres	act	inf		προσπίπτειν	to fall upon
+52	5	1	προσπίτνω	w_stem	pres	act	opt	3rd pl	προσπίπτοιεν	to fall upon
+52	1	0	προσπίτνω	w_stem	pres	act	part	fem acc pl	προσπιπτούσας	to fall upon
+52	1	0	προσπίτνω	w_stem	pres	act	part	fem nom sg	προσπίπτουσα	to fall upon
+52	1	0	προσπίτνω	w_stem	pres	act	part	masc acc pl	προσπίπτοντας	to fall upon
+52	5	0	προσπίτνω	w_stem	pres	act	part	masc nom pl	προσπίπτοντες	to fall upon
+52	1	0	προσπίτνω	w_stem	pres	act	part	neut dat pl	προσπίπτουσι	to fall upon
+52	1	0	προσπίτνω	w_stem	pres	act	part	neut gen pl	προσπιπτόντων	to fall upon
+19	3	0	προσφέρω	w_stem	imperf	act	ind	3rd pl	προσέφερον	to bring to
+19	2	0	προσφέρω	w_stem	imperf	act	ind	3rd sg	προσέφερε	to bring to
+19	1	0	προσφέρω	w_stem	imperf	mp	ind	3rd sg	προσεφέρετο	to bring to
+19	1	0	προσφέρω	w_stem	pres	act	ind	3rd pl	προσφέρουσι	to bring to
+19	2	0	προσφέρω	w_stem	pres	act	ind	3rd sg	προσφέρει	to bring to
+19	1	0	προσφέρω	w_stem	pres	act	part	masc acc pl	προσφέροντας	to bring to
+19	2	0	προσφέρω	w_stem	pres	mp	ind	3rd pl	προσφέρονται	to bring to
+19	2	1	προσφέρω	w_stem	pres	mp	opt	3rd pl	προσφέροιντο	to bring to
+19	2	0	προσφέρω	w_stem	pres	mp	opt	3rd sg	προσφέροιτο	to bring to
+19	2	0	προσφέρω	w_stem	pres	mp	part	masc acc pl	προσφερομένους	to bring to
+39	5	1	προσχωρέω	reg_fut	fut	act	inf		προσχωρήσειν	to go to
+39	2	0	προσχωρέω	reg_fut	fut	mid	ind	3rd pl	προσχωρήσονται	to go to
+39	1	0	προσχωρέω	reg_fut	fut	mid	ind	3rd sg	προσχωρήσεται	to go to
+38	2	0	προχωρέω	ew_pr	imperf	act	ind	3rd pl	προεχώρουν	to go forward
+38	10	0	προχωρέω	ew_pr	imperf	act	ind	3rd sg	προεχώρει	to go forward
+38	1	0	προχωρέω	ew_pr	pres	act	inf		προχωρεῖν	to go forward
+38	1	1	προχωρέω	ew_pr	pres	act	opt	3rd sg	προχωροίη	to go forward
+38	2	0	προχωρέω	ew_pr	pres	act	part	masc acc pl	προχωροῦντας	to go forward
+38	2	0	προχωρέω	ew_pr	pres	act	subj	3rd sg	προχωρῇ	to go forward
+2	1	1	σείω	aor_pass	aor	pass	part	fem nom sg	σεισθεῖσα	to shake
+102	1	0	στρατεύω	aor1	aor	act	ind	1st pl	ἐστρατεύσαμεν	to serve in war
+102	29	0	στρατεύω	aor1	aor	act	ind	3rd pl	ἐστράτευσαν	to serve in war
+102	8	0	στρατεύω	aor1	aor	act	ind	3rd sg	ἐστράτευσε	to serve in war
+102	1	0	στρατεύω	aor1	aor	act	part	masc gen pl	στρατευσάντων	to serve in war
+102	5	1	στρατεύω	aor1	aor	act	part	masc nom pl	στρατεύσαντες	to serve in war
+102	3	0	στρατεύω	aor1	aor	act	part	masc nom sg	στρατεύσας	to serve in war
+102	1	0	στρατεύω	aor1	aor	mid	part	masc nom pl	στρατευσάμενοι	to serve in war
+102	1	0	στρατεύω	aor1	aor	mid	part	masc nom sg	στρατευσάμενος	to serve in war
+12	1	0	συγκαλέω	aor1	aor	act	ind	1st sg	ξυνεκάλεσα	to call to council
+12	1	0	συγκαλέω	aor1	aor	act	ind	3rd pl	ξυνεκάλεσαν	to call to council
+12	2	0	συγκαλέω	aor1	aor	act	part	masc nom pl	ξυγκαλέσαντες	to call to council
+12	8	1	συγκαλέω	aor1	aor	act	part	masc nom sg	ξυγκαλέσας	to call to council
+26	1	0	συλλέγω	perfp_g	perf	mp	part	fem gen sg	ξυνειλεγμένης	to collect
+26	2	0	συλλέγω	perfp_g	perf	mp	part	masc nom pl	ξυνειλεγμένοι	to collect
+26	1	1	συλλέγω	perfp_g	perf	mp	part	neut acc sg	ξυνειλεγμένον	to collect
+26	2	0	συλλέγω	w_stem	imperf	act	ind	3rd pl	ξυνέλεγον	to collect
+26	5	1	συλλέγω	w_stem	imperf	mp	ind	3rd pl	ξυνελέγοντο	to collect
+26	3	0	συλλέγω	w_stem	imperf	mp	ind	3rd sg	ξυνελέγετο	to collect
+26	1	0	συλλέγω	w_stem	pres	act	inf		ξυλλέγειν	to collect
+26	1	0	συλλέγω	w_stem	pres	act	part	masc nom pl	ξυλλέγοντες	to collect
+26	1	0	συλλέγω	w_stem	pres	mp	part	fem acc sg	ξυλλεγομένην	to collect
+26	1	0	συλλέγω	w_stem	pres	mp	part	neut gen pl	ξυλλεγομένων	to collect
+21	4	1	συλλαμβάνω	aor2	aor	act	ind	3rd pl	ξυνέλαβον	to collect
+21	3	0	συλλαμβάνω	aor2	aor	act	part	masc nom pl	ξυλλαβόντες	to collect
+21	1	0	συλλαμβάνω	aor2	aor	mid	ind	3rd pl	ξυνελάβοντο	to collect
+21	1	0	συλλαμβάνω	perfp_p	perf	mp	part	masc acc sg	ξυνειλημμένον	to collect
+21	1	1	συλλαμβάνω	perfp_p	perf	mp	part	neut gen pl	ξυνειλημμένων	to collect
+108	17	1	συμβαίνω	aor1	aor	act	ind	3rd pl	ξυνέβησαν	meet
+108	36	1	συμβαίνω	ath_h_aor	aor	act	ind	3rd sg	ξυνέβη	meet
+108	1	0	συμβαίνω	ath_h_aor	aor	act	opt	1st pl	ξυμβαῖμεν	meet
+108	3	0	συμβαίνω	ath_h_aor	aor	act	opt	3rd sg	ξυμβαίη	meet
+108	1	0	συμβαίνω	ath_h_aor	aor	act	part	masc acc sg	ξυμβάντα	meet
+108	1	0	συμβαίνω	ath_h_aor	aor	act	part	neut acc sg	ξυμβάν	meet
+108	1	0	συμβαίνω	ath_h_aor	aor	act	part	neut gen pl	ξυμβάντων	meet
+108	1	0	συμβαίνω	ath_h_aor	aor	act	part	neut gen sg	ξυμβάντος	meet
+108	1	0	συμβαίνω	ath_h_aor	aor	act	subj	1st pl	ξυμβῶμεν	meet
+108	2	0	συμβαίνω	ath_h_aor	aor	act	subj	3rd pl	ξυμβῶσι	meet
+108	5	0	συμβαίνω	ath_h_aor	aor	act	subj	3rd sg	ξυμβῇ	meet
+108	5	0	συμβαίνω	w_stem	imperf	act	ind	3rd sg	ξυνέβαινε	meet
+108	4	0	συμβαίνω	w_stem	pres	act	ind	3rd sg	ξυμβαίνει	meet
+108	8	0	συμβαίνω	w_stem	pres	act	inf		ξυμβαίνειν	meet
+108	2	0	συμβαίνω	w_stem	pres	act	opt	3rd sg	ξυμβαίνοι	meet
+108	1	0	συμβαίνω	w_stem	pres	act	part	masc acc sg	ξυμβησείοντα	meet
+108	2	0	συμβαίνω	w_stem	pres	act	part	neut acc sg	ξυμβαῖνον	meet
+108	1	0	συμβαίνω	w_stem	pres	act	part	neut gen sg	ξυμβαίνοντος	meet
+108	2	1	συμβαίνω	w_stem	pres	act	subj	3rd pl	ξυμβαίνωσι	meet
+108	1	0	συμβαίνω	w_stem	pres	act	subj	3rd sg	ξυμβαίνῃ	meet
+15	2	0	συμμαχέω	ew_pr	imperf	act	ind	3rd pl	ξυνεμάχουν	to be an ally
+15	1	0	συμμαχέω	ew_pr	imperf	act	ind	3rd sg	ξυνεμάχει	to be an ally
+15	1	0	συμμαχέω	ew_pr	pres	act	ind	3rd sg	ξυμμαχεῖ	to be an ally
+15	5	1	συμμαχέω	ew_pr	pres	act	inf		ξυμμαχεῖν	to be an ally
+15	1	0	συμμαχέω	ew_pr	pres	act	part	masc acc pl	ξυμμαχοῦντας	to be an ally
+15	1	0	συμμαχέω	ew_pr	pres	act	part	neut dat pl	ξυμμαχοῦσι	to be an ally
+16	3	1	συμπολεμέω	ew_pr	imperf	act	ind	3rd pl	ξυνεπολέμουν	to join in war
+16	2	0	συμπολεμέω	ew_pr	imperf	act	ind	3rd sg	ξυνεπολέμει	to join in war
+16	6	0	συμπολεμέω	ew_pr	pres	act	inf		ξυμπολεμεῖν	to join in war
+16	1	0	συμπολεμέω	ew_pr	pres	act	part	masc acc pl	ξυμπολεμοῦντας	to join in war
+4	1	1	συνεπιλαμβάνομαι	w_stem	pres	act	inf		ξυνεπιλαμβάνειν	take part with
+10	1	1	συστρέφω	perfp_p	perf	mp	part	neut acc sg	ξυνεστραμμένον	to twist up into a ball
+10	1	1	συστρέφω	w_stem	imperf	mp	ind	3rd pl	ξυνεστρέφοντο	to twist up into a ball
+10	1	0	συστρέφω	w_stem	pres	mp	part	masc nom pl	ξυστρεφόμενοι	to twist up into a ball
+9	3	1	σύνειμι2	irreg_mi	imperf	act	ind	3rd pl	ξυνῇσαν	come together
+9	1	1	σύνειμι2	irreg_mi	pres	act	part	fem gen pl	ξυνιουσῶν	come together
+9	2	0	σύνειμι2	irreg_mi	pres	act	part	masc acc pl	ξυνιόντας	come together
+9	1	0	σύνειμι2	irreg_mi	pres	act	part	masc nom pl	ξυνιόντες	come together
+9	2	0	σύνειμι2	irreg_mi	pres	act	part	neut gen pl	ξυνιόντων	come together
+27	1	0	τίθημι	emi_aor	aor	act	part	fem gen sg	θείσης	to set
+27	1	0	τίθημι	emi_aor	aor	act	part	masc nom pl	θέντες	to set
+27	6	0	τίθημι	emi_aor	aor	mid	ind	3rd pl	ἔθεντο	to set
+27	3	1	τίθημι	emi_aor	aor	mid	part	masc nom pl	θέμενοι	to set
+27	1	0	τίθημι	emi_aor	aor	mid	part	masc nom sg	θέμενος	to set
+27	1	0	τίθημι	emi_aor	aor	mid	subj	3rd pl	θῶνται	to set
+90	52	0	τελευτάω	aw_pr	imperf	act	ind	3rd sg	ἐτελεύτα	to complete
+90	1	0	τελευτάω	aw_pr	pres	act	inf		τελευτᾶν	to complete
+90	1	0	τελευτάω	aw_pr	pres	act	part	fem acc sg	τελευτῶσαν	to complete
+90	1	0	τελευτάω	aw_pr	pres	act	part	masc acc sg	τελευτῶντα	to complete
+90	8	1	τελευτάω	aw_pr	pres	act	part	masc gen sg	τελευτῶντος	to complete
+90	2	0	τελευτάω	aw_pr	pres	act	part	masc nom pl	τελευτῶντες	to complete
+90	1	0	τελευτάω	aw_pr	pres	act	part	neut dat sg	τελευτῶντι	to complete
+90	9	0	τελευτάω	aw_pr	pres	act	part	neut gen sg	τελευτῶντος	to complete
+90	2	0	τελευτάω	aw_pr	pres	act	subj	3rd sg	τελευτᾷ	to complete
+91	13	0	τρέπω	aor2	aor	mid	ind	3rd pl	ἐτράποντο	to turn
+91	2	0	τρέπω	aor2	aor	mid	ind	3rd sg	ἐτράπετο	to turn
+91	1	0	τρέπω	aor2	aor	mid	opt	3rd pl	τράποιντο	to turn
+91	11	1	τρέπω	aor2	aor	mid	part	masc nom pl	τραπόμενοι	to turn
+91	1	0	τρέπω	aor2	aor	mid	part	masc nom sg	τραπόμενος	to turn
+91	1	0	τρέπω	aor2	aor	mid	part	neut dat pl	τραπομένοις	to turn
+91	1	0	τρέπω	aor2	aor	mid	part	neut gen sg	τραπομένου	to turn
+91	1	0	τρέπω	aor2	aor	mp	subj	3rd pl	τράπωνται	to turn
+134	43	1	τυγχάνω	aor2	aor	act	ind	3rd pl	ἔτυχον	(with gen.) to hit the mark
+134	21	0	τυγχάνω	aor2	aor	act	ind	3rd sg	ἔτυχε	(with gen.) to hit the mark
+134	7	0	τυγχάνω	aor2	aor	act	inf		τυχεῖν	(with gen.) to hit the mark
+134	1	0	τυγχάνω	aor2	aor	act	opt	1st pl	τύχοιμεν	(with gen.) to hit the mark
+134	5	0	τυγχάνω	aor2	aor	act	opt	3rd pl	τύχοιεν	(with gen.) to hit the mark
+134	2	0	τυγχάνω	aor2	aor	act	opt	3rd sg	τύχοι	(with gen.) to hit the mark
+134	1	0	τυγχάνω	aor2	aor	act	part	fem acc sg	τυχοῦσαν	(with gen.) to hit the mark
+134	2	0	τυγχάνω	aor2	aor	act	part	masc acc sg	τυχόντα	(with gen.) to hit the mark
+134	2	0	τυγχάνω	aor2	aor	act	part	masc nom pl	τυχόντες	(with gen.) to hit the mark
+134	4	0	τυγχάνω	aor2	aor	act	part	masc nom sg	τυχών	(with gen.) to hit the mark
+134	1	0	τυγχάνω	aor2	aor	act	subj	2nd pl	τύχητε	(with gen.) to hit the mark
+134	3	1	τυγχάνω	aor2	aor	act	subj	3rd pl	τύχωσι	(with gen.) to hit the mark
+134	4	0	τυγχάνω	aor2	aor	act	subj	3rd sg	τύχῃ	(with gen.) to hit the mark
+78	2	0	φαίνω	w_stem	imperf	mp	ind	3rd pl	ἐφαίνοντο	to bring to light
+78	27	1	φαίνω	w_stem	imperf	mp	ind	3rd sg	ἐφαίνετο	to bring to light
+78	1	0	φαίνω	w_stem	pres	act	opt	2nd pl	φαίνοιτε	to bring to light
+78	6	0	φαίνω	w_stem	pres	mp	ind	3rd pl	φαίνονται	to bring to light
+78	19	0	φαίνω	w_stem	pres	mp	ind	3rd sg	φαίνεται	to bring to light
+78	1	0	φαίνω	w_stem	pres	mp	opt	1st pl	φαινοίμεθα	to bring to light
+78	3	0	φαίνω	w_stem	pres	mp	opt	3rd sg	φαίνοιτο	to bring to light
+78	1	0	φαίνω	w_stem	pres	mp	part	fem acc sg	φαινομένην	to bring to light
+78	1	0	φαίνω	w_stem	pres	mp	part	fem nom sg	φαινομένη	to bring to light
+78	1	0	φαίνω	w_stem	pres	mp	part	masc nom pl	φαινόμενοι	to bring to light
+78	1	0	φαίνω	w_stem	pres	mp	part	neut acc sg	φαινόμενον	to bring to light
+78	1	0	φαίνω	w_stem	pres	mp	part	neut gen pl	φαινομένων	to bring to light
+78	2	0	φαίνω	w_stem	pres	mp	subj	2nd pl	φαίνησθε	to bring to light
+78	1	0	φαίνω	w_stem	pres	mp	subj	3rd sg	φαίνηται	to bring to light
+59	6	1	φεύγω	w_stem	imperf	act	ind	3rd pl	ἔφευγον	to flee
+59	1	0	φεύγω	w_stem	imperf	act	ind	3rd sg	ἔφευγε	to flee
+59	1	0	φεύγω	w_stem	pres	act	ind	3rd pl	φεύγουσι	to flee
+59	3	0	φεύγω	w_stem	pres	act	ind	3rd sg	φεύγει	to flee
+59	7	0	φεύγω	w_stem	pres	act	inf		φεύγειν	to flee
+59	2	0	φεύγω	w_stem	pres	act	part	fem nom pl	φεύγουσαι	to flee
+59	7	0	φεύγω	w_stem	pres	act	part	masc acc pl	φεύγοντας	to flee
+59	3	0	φεύγω	w_stem	pres	act	part	masc acc sg	φεύγοντα	to flee
+59	2	0	φεύγω	w_stem	pres	act	part	masc gen pl	φευγόντων	to flee
+59	8	0	φεύγω	w_stem	pres	act	part	masc nom pl	φεύγοντες	to flee
+59	3	0	φεύγω	w_stem	pres	act	part	masc nom sg	φεύγων	to flee
+59	4	0	φεύγω	w_stem	pres	act	part	neut gen pl	φευγόντων	to flee
+59	1	0	φεύγω	w_stem	pres	act	part	neut gen sg	φεύγοντος	to flee
+131	35	1	φημί	ath_primary	imperf	act	ind	3rd pl	ἔφασαν	to say
+131	56	0	φημί	ath_primary	imperf	act	ind	3rd sg	ἔφη	to say
+131	7	0	φημί	ath_primary	pres	act	ind	1st pl	φαμεν	to say
+131	2	0	φημί	ath_primary	pres	act	ind	1st sg	φημι	to say
+131	5	0	φημί	ath_primary	pres	act	ind	2nd pl	φατε	to say
+131	19	2	φημί	ath_primary	pres	act	ind	3rd pl	φασι	to say
+131	1	0	φημί	ath_primary	pres	act	ind	3rd sg	φησι	to say
+106	5	1	φοβέω	aor_pass	aor	pass	ind	3rd pl	ἐφοβήθησαν	to put to flight
+106	1	0	φοβέω	aor_pass	aor	pass	part	fem nom pl	φοβηθεῖσαι	to put to flight
+106	1	0	φοβέω	aor_pass	aor	pass	part	masc acc pl	φοβηθέντας	to put to flight
+106	4	0	φοβέω	aor_pass	aor	pass	part	masc nom pl	φοβηθέντες	to put to flight
+106	2	0	φοβέω	aor_pass	aor	pass	part	masc nom sg	φοβηθείς	to put to flight
+106	1	0	φοβέω	aor_pass	aor	pass	part	neut gen pl	φοβηθέντων	to put to flight
+106	2	0	φοβέω	ew_pr	imperf	act	ind	3rd pl	ἐφόβουν	to put to flight
+106	1	0	φοβέω	ew_pr	imperf	mp	ind	2nd pl	ἐφοβεῖσθε	to put to flight
+106	6	0	φοβέω	ew_pr	imperf	mp	ind	3rd pl	ἐφοβοῦντο	to put to flight
+106	7	0	φοβέω	ew_pr	imperf	mp	ind	3rd sg	ἐφοβεῖτο	to put to flight
+106	1	0	φοβέω	ew_pr	pres	act	ind	3rd pl	φοβοῦσι	to put to flight
+106	1	0	φοβέω	ew_pr	pres	act	inf		φοβεῖν	to put to flight
+106	1	0	φοβέω	ew_pr	pres	act	part	masc acc sg	φοβοῦντα	to put to flight
+106	1	0	φοβέω	ew_pr	pres	act	part	masc nom pl	φοβοῦντες	to put to flight
+106	2	0	φοβέω	ew_pr	pres	mp	ind	1st pl	φοβούμεθα	to put to flight
+106	2	0	φοβέω	ew_pr	pres	mp	ind	1st sg	φοβοῦμαι	to put to flight
+106	1	0	φοβέω	ew_pr	pres	mp	ind	2nd pl	φοβεῖσθε	to put to flight
+106	1	0	φοβέω	ew_pr	pres	mp	ind	3rd pl	φοβοῦνται	to put to flight
+106	4	0	φοβέω	ew_pr	pres	mp	ind	3rd sg	φοβεῖται	to put to flight
+106	6	0	φοβέω	ew_pr	pres	mp	inf		φοβεῖσθαι	to put to flight
+106	1	0	φοβέω	ew_pr	pres	mp	opt	3rd pl	φοβοῖντο	to put to flight
+106	1	0	φοβέω	ew_pr	pres	mp	part	fem nom pl	φοβούμεναι	to put to flight
+106	3	0	φοβέω	ew_pr	pres	mp	part	masc acc pl	φοβουμένους	to put to flight
+106	1	0	φοβέω	ew_pr	pres	mp	part	masc gen sg	φοβουμένου	to put to flight
+106	22	1	φοβέω	ew_pr	pres	mp	part	masc nom pl	φοβούμενοι	to put to flight
+106	5	0	φοβέω	ew_pr	pres	mp	part	masc nom sg	φοβούμενος	to put to flight
+106	1	0	φοβέω	ew_pr	pres	mp	part	neut acc sg	φοβούμενον	to put to flight
+106	2	0	φοβέω	ew_pr	pres	mp	part	neut gen pl	φοβουμένων	to put to flight
+53	1	0	φυλάσσω	aor1	aor	act	imperat	2nd pl	φυλάξατε	to keep watch and ward
+53	4	1	φυλάσσω	aor1	aor	act	part	masc nom pl	φυλάξαντες	to keep watch and ward
+53	1	0	φυλάσσω	aor1	aor	mid	part	masc nom pl	φυλαξάμενοι	to keep watch and ward
+126	1	0	χράω2	ajw_pr	imperf	mp	ind	1st pl	ἐχρώμεθα	proclaim an oracle
+126	16	0	χράω2	ajw_pr	imperf	mp	ind	3rd pl	ἐχρῶντο	proclaim an oracle
+126	4	0	χράω2	ajw_pr	imperf	mp	ind	3rd sg	ἐχρῆτο	proclaim an oracle
+126	1	0	χράω2	ajw_pr	pres	mp	imperat	3rd pl	χρήσθων	proclaim an oracle
+126	3	0	χράω2	ajw_pr	pres	mp	ind	1st pl	χρώμεθα	proclaim an oracle
+126	2	0	χράω2	ajw_pr	pres	mp	ind	2nd pl	χρῆσθε	proclaim an oracle
+126	22	0	χράω2	ajw_pr	pres	mp	inf		χρῆσθαι	proclaim an oracle
+126	1	0	χράω2	ajw_pr	pres	mp	opt	3rd pl	χρῷντο	proclaim an oracle
+126	3	1	χράω2	ajw_pr	pres	mp	part	fem gen pl	χρωμένων	proclaim an oracle
+126	7	0	χράω2	ajw_pr	pres	mp	part	masc acc pl	χρωμένους	proclaim an oracle
+126	1	0	χράω2	ajw_pr	pres	mp	part	masc acc sg	χρώμενον	proclaim an oracle
+126	1	0	χράω2	ajw_pr	pres	mp	part	masc dat pl	χρωμένοις	proclaim an oracle
+126	1	0	χράω2	ajw_pr	pres	mp	part	masc dat sg	χρωμένῳ	proclaim an oracle
+126	22	0	χράω2	ajw_pr	pres	mp	part	masc nom pl	χρώμενοι	proclaim an oracle
+126	4	0	χράω2	ajw_pr	pres	mp	part	masc nom sg	χρώμενος	proclaim an oracle
+126	1	0	χράω2	ajw_pr	pres	mp	part	neut acc pl	χρώμενα	proclaim an oracle
+126	4	0	χράω2	ajw_pr	pres	mp	subj	3rd pl	χρῶνται	proclaim an oracle
+126	1	0	χράω2	ajw_pr	pres	mp	subj	3rd sg	χρῆται	proclaim an oracle
+126	1	0	χράω2	aor1	aor	act	ind	3rd sg	ἔχρησε	proclaim an oracle
+126	2	0	χράω2	aor1	aor	act	part	masc gen sg	χρήσαντος	proclaim an oracle
+126	2	0	χράω2	aor1	aor	mid	imperat	2nd pl	χρήσασθε	proclaim an oracle
+126	1	0	χράω2	aor1	aor	mid	ind	1st sg	ἐχρησάμην	proclaim an oracle
+126	9	0	χράω2	aor1	aor	mid	ind	3rd pl	ἐχρήσαντο	proclaim an oracle
+126	2	0	χράω2	aor1	aor	mid	ind	3rd sg	ἐχρήσατο	proclaim an oracle
+126	1	0	χράω2	aor1	aor	mid	opt	3rd pl	χρήσαιντο	proclaim an oracle
+126	1	0	χράω2	aor1	aor	mid	part	fem acc sg	χρησαμένην	proclaim an oracle
+126	1	0	χράω2	aor1	aor	mid	part	fem gen sg	χρησαμένης	proclaim an oracle
+126	1	0	χράω2	aor1	aor	mid	part	masc acc pl	χρησαμένους	proclaim an oracle
+126	3	0	χράω2	aor1	aor	mid	part	masc nom pl	χρησάμενοι	proclaim an oracle
+126	2	1	χράω2	aor1	aor	mid	part	masc nom sg	χρησάμενος	proclaim an oracle
+126	1	0	χράω2	aor1	aor	mid	part	neut gen pl	χρησαμένων	proclaim an oracle
+126	1	0	χράω2	aor1	aor	mid	part	neut gen sg	χρησαμένου	proclaim an oracle
+126	1	1	χράω2	aor1	aor	mid	subj	3rd pl	χρήσωνται	proclaim an oracle
+88	10	0	χρή	ath_primary	imperf	act	ind	3rd sg	χρῆν	it is fated
+88	1	0	χρή	ath_primary	imperf	act	ind	3rd sg	ἐχρῆν	it is fated
+88	77	1	χρή	ath_primary	pres	act	ind	3rd sg	χρή	it is fated
+114	1	0	χωρέω	aor1	aor	act	imperat	2nd pl	χωρήσατε	give way
+114	1	0	χωρέω	aor1	aor	act	ind	2nd pl	ἐχωρήσατε	give way
+114	9	1	χωρέω	aor1	aor	act	ind	3rd pl	ἐχώρησαν	give way
+114	3	0	χωρέω	aor1	aor	act	ind	3rd sg	ἐχώρησε	give way
+114	2	0	χωρέω	aor1	aor	act	opt	3rd pl	χωρήσειαν	give way
+114	1	0	χωρέω	aor1	aor	act	part	masc acc pl	χωρήσαντας	give way
+114	7	0	χωρέω	aor1	aor	act	part	masc nom pl	χωρήσαντες	give way
+114	2	0	χωρέω	aor1	aor	act	part	masc nom sg	χωρήσας	give way
+114	1	0	χωρέω	aor1	aor	act	part	neut gen sg	χωρήσαντος	give way
+114	1	0	χωρέω	aor1	aor	act	subj	3rd pl	χωρήσωσι	give way
+114	2	0	χωρέω	aor1	aor	act	subj	3rd sg	χωρήσῃ	give way
+114	40	1	χωρέω	ew_pr	imperf	act	ind	3rd pl	ἐχώρουν	give way
+114	22	0	χωρέω	ew_pr	imperf	act	ind	3rd sg	ἐχώρει	give way
+114	1	0	χωρέω	ew_pr	pres	act	ind	1st pl	χωροῦμεν	give way
+114	1	0	χωρέω	ew_pr	pres	act	ind	2nd pl	χωρεῖτε	give way
+114	3	0	χωρέω	ew_pr	pres	act	ind	3rd pl	χωροῦσι	give way
+114	1	0	χωρέω	ew_pr	pres	act	ind	3rd sg	χωρεῖ	give way
+114	4	0	χωρέω	ew_pr	pres	act	inf		χωρεῖν	give way
+114	2	0	χωρέω	ew_pr	pres	act	opt	3rd sg	χωροίη	give way
+114	1	0	χωρέω	ew_pr	pres	act	part	masc acc pl	χωροῦντας	give way
+114	1	0	χωρέω	ew_pr	pres	act	part	masc acc sg	χωροῦντα	give way
+114	2	0	χωρέω	ew_pr	pres	act	part	masc nom pl	χωροῦντες	give way
+114	1	0	χωρέω	ew_pr	pres	act	part	neut acc sg	χωροῦν	give way
+114	1	0	χωρέω	ew_pr	pres	act	part	neut dat pl	χωροῦσι	give way
+114	1	0	χωρέω	ew_pr	pres	act	subj	3rd pl	χωρῶσι	give way
+42	11	2	ἀγγέλλω	aor_pass	aor	pass	ind	3rd sg	ἠγγέλθη	to bear a message
+42	1	0	ἀγγέλλω	aor_pass	aor	pass	part	fem gen sg	ἀγγελθείσης	to bear a message
+42	1	0	ἀγγέλλω	aor_pass	aor	pass	part	neut gen sg	ἀγγελθέντος	to bear a message
+114	1	0	ἀδικέω	aor1	aor	act	ind	1st pl	ἠδικήσαμεν	to do wrong
+114	2	0	ἀδικέω	aor1	aor	act	ind	3rd pl	ἠδίκησαν	to do wrong
+114	1	0	ἀδικέω	aor1	aor	act	ind	3rd sg	ἠδίκησε	to do wrong
+114	1	0	ἀδικέω	aor1	aor	act	part	masc acc pl	ἀδικήσαντας	to do wrong
+114	3	1	ἀδικέω	aor1	aor	act	part	masc nom pl	ἀδικήσαντες	to do wrong
+114	1	0	ἀδικέω	aor1	aor	act	part	neut gen pl	ἀδικησάντων	to do wrong
+114	1	0	ἀδικέω	ew_pr	imperf	act	ind	1st pl	ἠδικοῦμεν	to do wrong
+114	3	0	ἀδικέω	ew_pr	imperf	act	ind	3rd pl	ἠδίκουν	to do wrong
+114	1	0	ἀδικέω	ew_pr	imperf	mp	ind	3rd pl	ἠδικοῦντο	to do wrong
+114	3	0	ἀδικέω	ew_pr	pres	act	ind	1st pl	ἀδικοῦμεν	to do wrong
+114	1	0	ἀδικέω	ew_pr	pres	act	ind	2nd pl	ἀδικεῖτε	to do wrong
+114	2	0	ἀδικέω	ew_pr	pres	act	ind	3rd pl	ἀδικοῦσι	to do wrong
+114	3	0	ἀδικέω	ew_pr	pres	act	ind	3rd sg	ἀδικεῖ	to do wrong
+114	27	1	ἀδικέω	ew_pr	pres	act	inf		ἀδικεῖν	to do wrong
+114	1	0	ἀδικέω	ew_pr	pres	act	opt	1st pl	ἀδικοῖμεν	to do wrong
+114	1	0	ἀδικέω	ew_pr	pres	act	opt	3rd pl	ἀδικοῖεν	to do wrong
+114	6	0	ἀδικέω	ew_pr	pres	act	part	masc acc pl	ἀδικοῦντας	to do wrong
+114	2	0	ἀδικέω	ew_pr	pres	act	part	masc acc sg	ἀδικοῦντα	to do wrong
+114	3	0	ἀδικέω	ew_pr	pres	act	part	neut dat pl	ἀδικοῦσι	to do wrong
+114	1	0	ἀδικέω	ew_pr	pres	act	part	neut gen sg	ἀδικοῦντος	to do wrong
+114	1	0	ἀδικέω	ew_pr	pres	act	subj	1st pl	ἀδικῶμεν	to do wrong
+114	2	0	ἀδικέω	ew_pr	pres	act	subj	3rd pl	ἀδικῶσι	to do wrong
+114	2	0	ἀδικέω	ew_pr	pres	mp	ind	1st pl	ἀδικούμεθα	to do wrong
+114	1	0	ἀδικέω	ew_pr	pres	mp	ind	1st sg	ἀδικοῦμαι	to do wrong
+114	1	0	ἀδικέω	ew_pr	pres	mp	ind	3rd sg	ἀδικεῖται	to do wrong
+114	8	0	ἀδικέω	ew_pr	pres	mp	inf		ἀδικεῖσθαι	to do wrong
+114	3	0	ἀδικέω	ew_pr	pres	mp	opt	3rd pl	ἀδικοῖντο	to do wrong
+114	1	0	ἀδικέω	ew_pr	pres	mp	part	fem nom sg	ἀδικουμένη	to do wrong
+114	4	0	ἀδικέω	ew_pr	pres	mp	part	masc acc pl	ἀδικουμένους	to do wrong
+114	7	0	ἀδικέω	ew_pr	pres	mp	part	masc nom pl	ἀδικούμενοι	to do wrong
+114	5	0	ἀδικέω	ew_pr	pres	mp	part	neut dat pl	ἀδικουμένοις	to do wrong
+114	1	0	ἀδικέω	ew_pr	pres	mp	part	neut gen pl	ἀδικουμένων	to do wrong
+114	2	0	ἀδικέω	ew_pr	pres	mp	subj	3rd pl	ἀδικῶνται	to do wrong
+4	2	1	ἀείδω	w_stem	imperf	act	ind	3rd pl	ᾖδον	to sing
+4	1	0	ἀείδω	w_stem	pres	mp	inf		ᾄδεσθαι	to sing
+13	2	0	ἀνέχω	w_stem	imperf	act	ind	3rd sg	ἀνεῖχε	to hold up; (mid.) endure
+13	2	0	ἀνέχω	w_stem	imperf	mp	ind	3rd pl	ἠνείχοντο	to hold up; (mid.) endure
+13	1	0	ἀνέχω	w_stem	pres	act	ind	3rd pl	ἀνέχουσι	to hold up; (mid.) endure
+13	2	0	ἀνέχω	w_stem	pres	act	ind	3rd sg	ἀνέχει	to hold up; (mid.) endure
+13	1	0	ἀνέχω	w_stem	pres	act	inf		ἀνέχειν	to hold up; (mid.) endure
+13	1	0	ἀνέχω	w_stem	pres	act	part	masc acc pl	ἀνέχοντας	to hold up; (mid.) endure
+13	1	1	ἀνέχω	w_stem	pres	act	part	masc acc sg	ἀνίσχοντα	nodef
+13	1	0	ἀνέχω	w_stem	pres	mp	imperat	3rd sg	ἀνεχέσθω	to hold up; (mid.) endure
+24	2	0	ἀναβαίνω	ath_h_aor	aor	act	ind	3rd sg	ἀνέβη	to go up
+24	2	0	ἀναβαίνω	ath_h_aor	aor	act	part	masc acc pl	ἀναβάντας	to go up
+24	9	1	ἀναβαίνω	ath_h_aor	aor	act	part	masc nom pl	ἀναβάντες	to go up
+24	4	0	ἀναβαίνω	ath_h_aor	aor	act	part	masc nom sg	ἀναβάς	to go up
+2	1	1	ἀναζητέω	ew_pr	imperf	mp	ind	3rd sg	ἀνεζητεῖτο	to examine into
+133	1	0	ἀναχωρέω	aor1	aor	act	ind	1st pl	ἀνεχωρήσαμεν	to go back
+133	56	1	ἀναχωρέω	aor1	aor	act	ind	3rd pl	ἀνεχώρησαν	to go back
+133	11	0	ἀναχωρέω	aor1	aor	act	ind	3rd sg	ἀνεχώρησε	to go back
+133	1	0	ἀναχωρέω	aor1	aor	act	part	fem nom sg	ἀναχωρήσασα	to go back
+133	1	0	ἀναχωρέω	aor1	aor	act	part	masc acc pl	ἀναχωρήσαντας	to go back
+133	1	1	ἀναχωρέω	aor1	aor	act	part	masc gen pl	ἀναχωρησάντων	to go back
+133	13	0	ἀναχωρέω	aor1	aor	act	part	masc nom pl	ἀναχωρήσαντες	to go back
+133	4	0	ἀναχωρέω	aor1	aor	act	part	masc nom sg	ἀναχωρήσας	to go back
+133	1	0	ἀναχωρέω	aor1	aor	act	part	neut acc sg	ἀναχωρῆσαν	to go back
+133	5	0	ἀναχωρέω	aor1	aor	act	part	neut gen pl	ἀναχωρησάντων	to go back
+133	2	0	ἀναχωρέω	aor1	aor	act	part	neut gen sg	ἀναχωρήσαντος	to go back
+133	1	0	ἀναχωρέω	aor1	aor	act	subj	3rd sg	ἀναχωρήσῃ	to go back
+2	1	1	ἀνειπεῖν	aor2	aor	act	ind	3rd sg	ἀνεῖπε	to say aloud
+2	1	0	ἀνειπεῖν	aor2	aor	act	part	masc nom sg	ἀνειπών	to say aloud
+15	1	1	ἀνοίγνυμι	aor1	aor	act	ind	3rd pl	ἀνέῳξαν	to open
+15	1	0	ἀνοίγνυμι	aor1	aor	act	part	masc nom pl	ἀνοίξαντες	to open
+15	1	0	ἀνοίγνυμι	aor1	aor	act	part	masc nom sg	ἀνοίξας	to open
+15	2	2	ἀνοίγνυμι	perfp_g	perf	mp	part	fem nom pl	ἀνεῳγμέναι	to open
+15	1	0	ἀνοίγνυμι	perfp_g	perf	mp	part	neut gen pl	ἀνεῳγμένων	to open
+11	1	1	ἀντιλαμβάνω	w_stem	pres	mp	ind	3rd pl	ἀντιλαμβάνονται	to receive instead of
+11	1	0	ἀντιλαμβάνω	w_stem	pres	mp	part	masc nom pl	ἀντιλαμβανόμενοι	to receive instead of
+11	1	0	ἀντιλαμβάνω	w_stem	pres	mp	part	masc nom sg	ἀντιλαμβανόμενος	to receive instead of
+11	1	0	ἀντιλαμβάνω	w_stem	pres	mp	subj	3rd pl	ἀντιλαμβάνωνται	to receive instead of
+48	3	0	ἀπέχω	w_stem	imperf	act	ind	3rd sg	ἀπεῖχε	to keep off
+48	1	0	ἀπέχω	w_stem	pres	act	ind	1st pl	ἀπέχομεν	to keep off
+48	19	1	ἀπέχω	w_stem	pres	act	ind	3rd sg	ἀπέχει	to keep off
+48	2	0	ἀπέχω	w_stem	pres	act	part	fem acc sg	ἀπέχουσαν	to keep off
+48	1	0	ἀπέχω	w_stem	pres	act	part	fem nom pl	ἀπέχουσαι	to keep off
+48	3	0	ἀπέχω	w_stem	pres	act	part	fem nom sg	ἀπέχουσα	to keep off
+48	3	0	ἀπέχω	w_stem	pres	act	part	masc acc sg	ἀπέχοντα	to keep off
+48	1	0	ἀπέχω	w_stem	pres	act	part	masc nom pl	ἀπέχοντες	to keep off
+48	5	0	ἀπέχω	w_stem	pres	act	part	neut acc sg	ἀπέχον	to keep off
+48	2	0	ἀπέχω	w_stem	pres	act	part	neut dat sg	ἀπέχοντι	to keep off
+48	1	0	ἀπέχω	w_stem	pres	act	part	neut gen pl	ἀπεχόντων	to keep off
+48	1	0	ἀπέχω	w_stem	pres	mp	part	masc nom pl	ἀπεχόμενοι	to keep off
+56	3	0	ἀποδίδωμι	omi_aor	aor	act	imperat	3rd pl	ἀποδόντων	to give back
+56	19	1	ἀποδίδωμι	omi_aor	aor	act	ind	3rd pl	ἀπέδοσαν	to give back
+56	1	0	ἀποδίδωμι	omi_aor	aor	act	inf		ἀποδόμεν	to give back
+56	3	0	ἀποδίδωμι	omi_aor	aor	act	part	masc acc pl	ἀποδόντας	to give back
+56	3	0	ἀποδίδωμι	omi_aor	aor	act	part	masc nom pl	ἀποδόντες	to give back
+56	1	0	ἀποδίδωμι	omi_aor	aor	act	part	neut dat pl	ἀποδοῦσι	to give back
+56	1	0	ἀποδίδωμι	omi_aor	aor	act	part	neut gen pl	ἀποδόντων	to give back
+56	2	0	ἀποδίδωμι	omi_aor	aor	act	subj	3rd pl	ἀποδῶσι	to give back
+56	2	0	ἀποδίδωμι	omi_aor	aor	mid	ind	3rd pl	ἀπέδοντο	to give back
+56	1	0	ἀποδίδωμι	reg_fut	fut	act	ind	1st pl	ἀποδώσομεν	to give back
+56	1	0	ἀποδίδωμι	reg_fut	fut	act	ind	3rd sg	ἀποδώσει	to give back
+56	7	2	ἀποδίδωμι	reg_fut	fut	act	inf		ἀποδώσειν	to give back
+56	1	0	ἀποδίδωμι	reg_fut	fut	act	part	masc nom sg	ἀποδώσων	to give back
+5	2	1	ἀποκρούω	aor1	aor	mid	ind	3rd pl	ἀπεκρούσαντο	to beat off from
+57	1	0	ἀποκτείνω	aor1	aor	act	ind	2nd pl	ἀπεκτείνατε	to kill
+57	30	1	ἀποκτείνω	aor1	aor	act	ind	3rd pl	ἀπέκτειναν	to kill
+57	6	0	ἀποκτείνω	aor1	aor	act	part	masc nom pl	ἀποκτείναντες	to kill
+57	1	0	ἀποκτείνω	aor1	aor	act	part	neut dat sg	ἀποκτείναντι	to kill
+57	3	1	ἀποκτείνω	ew_fut	fut	act	inf		ἀποκτενεῖν	to kill
+25	1	0	ἀπολαμβάνω	perfp_p	perf	mp	part	fem gen sg	ἀπειλημμένης	to take away
+25	1	1	ἀπολαμβάνω	perfp_p	perf	mp	part	masc acc pl	ἀπειλημμένους	to take away
+25	1	0	ἀπολαμβάνω	perfp_p	perf	mp	part	masc gen pl	ἀπειλημμένων	to take away
+25	1	0	ἀπολαμβάνω	perfp_p	perf	mp	part	masc nom pl	ἀπειλημμένοι	to take away
+25	1	0	ἀπολαμβάνω	perfp_p	perf	mp	part	neut acc sg	ἀπειλημμένον	to take away
+16	1	1	ἀπωθέω	ew_pr	imperf	mp	ind	3rd pl	ἀπεωθοῦντο	to thrust away
+16	1	0	ἀπωθέω	ew_pr	pres	mp	ind	3rd pl	ἀπωθοῦνται	to thrust away
+37	1	0	ἀπόλλυμι	umi_pr	imperf	mp	ind	1st pl	ἀπωλλύμεθα	to destroy
+37	6	1	ἀπόλλυμι	umi_pr	imperf	mp	ind	3rd pl	ἀπώλλυντο	to destroy
+37	4	0	ἀπόλλυμι	umi_pr	pres	act	ind	3rd pl	ἀπολλύασι	to destroy
+37	1	0	ἀπόλλυμι	umi_pr	pres	act	ind	3rd sg	ἀπόλλυσι	to destroy
+37	2	0	ἀπόλλυμι	umi_pr	pres	mp	ind	3rd sg	ἀπόλλυται	to destroy
+37	1	0	ἀπόλλυμι	umi_pr	pres	mp	part	masc acc pl	ἀπολλυμένους	to destroy
+37	1	0	ἀπόλλυμι	umi_pr	pres	mp	part	masc gen pl	ἀπολλυμένων	to destroy
+139	1	0	ἀφίστημι	ami_pr	imperf	mp	ind	3rd pl	ἀφίσταντο	to put away
+139	6	0	ἀφίστημι	ami_pr	pres	act	ind	3rd pl	ἀφιστᾶσι	to put away
+139	4	0	ἀφίστημι	ami_pr	pres	act	inf		ἀφιστάναι	to put away
+139	1	0	ἀφίστημι	ami_pr	pres	act	part	masc nom pl	ἀφιστάντες	to put away
+139	1	0	ἀφίστημι	ami_pr	pres	mp	ind	1st pl	ἀφιστάμεθα	to put away
+139	3	0	ἀφίστημι	ami_pr	pres	mp	ind	3rd pl	ἀφίστανται	to put away
+139	2	0	ἀφίστημι	ami_pr	pres	mp	ind	3rd sg	ἀφίσταται	to put away
+139	6	1	ἀφίστημι	ami_pr	pres	mp	inf		ἀφίστασθαι	to put away
+139	1	0	ἀφίστημι	ami_pr	pres	mp	part	fem nom sg	ἀφισταμένη	to put away
+139	4	0	ἀφίστημι	ami_pr	pres	mp	part	masc acc pl	ἀφισταμένους	to put away
+139	1	0	ἀφίστημι	ami_pr	pres	mp	part	masc nom pl	ἀφιστάμενοι	to put away
+139	2	0	ἀφίστημι	ami_pr	pres	mp	part	neut dat pl	ἀφισταμένοις	to put away
+139	1	0	ἀφίστημι	ami_pr	pres	mp	part	neut gen pl	ἀφισταμένων	to put away
+139	2	0	ἀφίστημι	ami_pr	pres	mp	subj	3rd pl	ἀφιστῶνται	to put away
+139	1	0	ἀφίστημι	ami_pr	pres	mp	subj	3rd sg	ἀφιστῆται	to put away
+181	1	0	ἀφικνέομαι	aor2	aor	mid	ind	1st pl	ἀφικόμεθα	to come to
+181	26	0	ἀφικνέομαι	aor2	aor	mid	ind	3rd pl	ἀφίκοντο	to come to
+181	10	0	ἀφικνέομαι	aor2	aor	mid	ind	3rd sg	ἀφίκετο	to come to
+181	1	0	ἀφικνέομαι	aor2	aor	mid	opt	1st pl	ἀφικοίμεθα	to come to
+181	1	0	ἀφικνέομαι	aor2	aor	mid	part	fem dat pl	ἀφικομέναις	to come to
+181	4	0	ἀφικνέομαι	aor2	aor	mid	part	fem gen sg	ἀφικομένης	to come to
+181	5	0	ἀφικνέομαι	aor2	aor	mid	part	masc acc pl	ἀφικομένους	to come to
+181	3	0	ἀφικνέομαι	aor2	aor	mid	part	masc gen pl	ἀφικομένων	to come to
+181	1	0	ἀφικνέομαι	aor2	aor	mid	part	masc gen sg	ἀφικομένου	to come to
+181	25	0	ἀφικνέομαι	aor2	aor	mid	part	masc nom pl	ἀφικόμενοι	to come to
+181	22	1	ἀφικνέομαι	aor2	aor	mid	part	masc nom sg	ἀφικόμενος	to come to
+181	1	0	ἀφικνέομαι	aor2	aor	mid	part	neut acc sg	ἀφικόμενον	to come to
+181	1	0	ἀφικνέομαι	aor2	aor	mid	part	neut dat sg	ἀφικομένῳ	to come to
+181	5	0	ἀφικνέομαι	aor2	aor	mid	part	neut gen pl	ἀφικομένων	to come to
+181	1	0	ἀφικνέομαι	aor2	aor	mid	part	neut gen sg	ἀφικομένου	to come to
+181	3	0	ἀφικνέομαι	aor2	aor	mp	subj	3rd pl	ἀφίκωνται	to come to
+108	4	0	ἄγω	aor2	aor	act	ind	3rd pl	ἤγαγον	to lead
+108	3	0	ἄγω	aor2	aor	act	ind	3rd sg	ἤγαγε	to lead
+108	5	1	ἄγω	aor2	aor	act	inf		ἀγαγεῖν	to lead
+108	5	0	ἄγω	aor2	aor	act	part	masc nom pl	ἀγαγόντες	to lead
+108	1	0	ἄγω	aor2	aor	act	part	masc nom sg	ἀγαγών	to lead
+108	1	0	ἄγω	aor2	aor	mid	inf		ἀγαγέσθαι	to lead
+198	1	1	ἄρχω	aor_pass	aor	pass	subj	3rd pl	ἀρχθῶσι	(to be first) to rule
+198	7	0	ἄρχω	w_stem	imperf	act	ind	3rd pl	ἦρχον	(to be first) to rule
+198	36	0	ἄρχω	w_stem	imperf	act	ind	3rd sg	ἦρχε	(to be first) to rule
+198	1	0	ἄρχω	w_stem	imperf	mp	ind	3rd pl	ἤρχοντο	(to be first) to rule
+198	1	0	ἄρχω	w_stem	imperf	mp	ind	3rd sg	ἤρχετο	(to be first) to rule
+198	4	0	ἄρχω	w_stem	pres	act	ind	1st pl	ἄρχομεν	(to be first) to rule
+198	1	0	ἄρχω	w_stem	pres	act	ind	1st sg	ἄρχω	(to be first) to rule
+198	8	0	ἄρχω	w_stem	pres	act	ind	3rd pl	ἄρχουσι	(to be first) to rule
+198	3	0	ἄρχω	w_stem	pres	act	ind	3rd sg	ἄρχει	(to be first) to rule
+198	39	0	ἄρχω	w_stem	pres	act	inf		ἄρχειν	(to be first) to rule
+198	1	0	ἄρχω	w_stem	pres	act	opt	1st pl	ἄρχοιμεν	(to be first) to rule
+198	1	0	ἄρχω	w_stem	pres	act	opt	2nd pl	ἄρχοιτε	(to be first) to rule
+198	1	0	ἄρχω	w_stem	pres	act	part	fem dat sg	ἀρχούσῃ	(to be first) to rule
+198	2	0	ἄρχω	w_stem	pres	act	part	masc acc pl	ἄρχοντας	(to be first) to rule
+198	1	0	ἄρχω	w_stem	pres	act	part	masc acc sg	ἄρχοντα	(to be first) to rule
+198	1	0	ἄρχω	w_stem	pres	act	part	masc gen pl	ἀρχόντων	(to be first) to rule
+198	4	0	ἄρχω	w_stem	pres	act	part	masc nom pl	ἄρχοντες	(to be first) to rule
+198	1	0	ἄρχω	w_stem	pres	act	part	neut dat pl	ἄρχουσι	(to be first) to rule
+198	3	0	ἄρχω	w_stem	pres	act	part	neut gen pl	ἀρχόντων	(to be first) to rule
+198	3	1	ἄρχω	w_stem	pres	mp	ind	3rd sg	ἄρχεται	(to be first) to rule
+198	1	0	ἄρχω	w_stem	pres	mp	part	fem acc sg	ἀρχομένην	(to be first) to rule
+198	2	0	ἄρχω	w_stem	pres	mp	part	masc acc pl	ἀρχομένους	(to be first) to rule
+198	1	0	ἄρχω	w_stem	pres	mp	part	masc acc sg	ἀρχόμενον	(to be first) to rule
+198	7	0	ἄρχω	w_stem	pres	mp	part	masc gen sg	ἀρχομένου	(to be first) to rule
+198	5	1	ἄρχω	w_stem	pres	mp	part	masc nom pl	ἀρχόμενοι	(to be first) to rule
+198	1	0	ἄρχω	w_stem	pres	mp	part	masc nom sg	ἀρχόμενος	(to be first) to rule
+198	1	0	ἄρχω	w_stem	pres	mp	part	neut acc sg	ἀρχόμενον	(to be first) to rule
+198	2	0	ἄρχω	w_stem	pres	mp	part	neut dat pl	ἀρχομένοις	(to be first) to rule
+198	3	1	ἄρχω	w_stem	pres	mp	part	neut dat sg	ἀρχομένῳ	(to be first) to rule
+198	1	0	ἄρχω	w_stem	pres	mp	part	neut gen pl	ἀρχομένων	(to be first) to rule
+198	4	0	ἄρχω	w_stem	pres	mp	part	neut gen sg	ἀρχομένου	(to be first) to rule
+15	3	0	ἅπτω	w_stem	imperf	mp	ind	3rd pl	ἥπτοντο	to fasten
+15	1	1	ἅπτω	w_stem	imperf	mp	ind	3rd sg	ἥπτετο	to fasten
+15	1	0	ἅπτω	w_stem	pres	mp	ind	3rd pl	ἅπτονται	to fasten
+15	1	0	ἅπτω	w_stem	pres	mp	ind	3rd sg	ἅπτεται	to fasten
+15	1	0	ἅπτω	w_stem	pres	mp	part	masc nom pl	ἁπτόμενοι	to fasten
+15	1	0	ἅπτω	w_stem	pres	mp	part	neut dat sg	ἁπτομένῳ	to fasten
+11	3	1	ἐγκαταλείπω	aor2	aor	act	ind	3rd pl	ἐγκατέλιπον	to leave behind
+11	2	0	ἐγκαταλείπω	aor2	aor	act	ind	3rd sg	ἐγκατέλιπε	to leave behind
+11	2	0	ἐγκαταλείπω	aor2	aor	act	part	masc nom pl	ἐγκαταλιπόντες	to leave behind
+11	2	0	ἐγκαταλείπω	aor2	aor	act	part	masc nom sg	ἐγκαταλιπών	to leave behind
+4	1	1	ἐκκομίζω	aor1	aor	act	ind	3rd pl	ἐξεκόμισαν	to carry out
+4	1	0	ἐκκομίζω	aor1	aor	mid	ind	3rd pl	ἐξεκομίσαντο	to carry out
+41	1	0	ἐκπέμπω	aor1	aor	act	ind	1st pl	ἐξεπέμψαμεν	to send out
+41	11	1	ἐκπέμπω	aor1	aor	act	ind	3rd pl	ἐξέπεμψαν	to send out
+41	1	0	ἐκπέμπω	aor1	aor	act	ind	3rd sg	ἐξέπεμψε	to send out
+41	4	0	ἐκπέμπω	aor1	aor	act	part	masc nom pl	ἐκπέμψαντες	to send out
+41	1	0	ἐκπέμπω	aor1	aor	act	part	neut dat pl	ἐκπέμψασι	to send out
+1	1	1	ἐκφεύγω	w_stem	pres	act	inf		ἐκφεύγειν	to flee out
+30	1	0	ἐλευθερόω	ow_pr	pres	act	ind	2nd pl	ἐλευθεροῦτε	to free
+30	1	1	ἐλευθερόω	ow_pr	pres	act	ind	3rd pl	ἐλευθεροῦσι	to free
+30	2	0	ἐλευθερόω	ow_pr	pres	act	part	masc acc pl	ἐλευθεροῦντας	to free
+30	1	0	ἐλευθερόω	ow_pr	pres	act	part	masc acc sg	ἐλευθεροῦντα	to free
+30	2	0	ἐλευθερόω	ow_pr	pres	act	part	masc nom pl	ἐλευθεροῦντες	to free
+30	1	0	ἐλευθερόω	ow_pr	pres	act	part	masc nom sg	ἐλευθερῶν	to free
+30	8	0	ἐλευθερόω	ow_pr	pres	act	part	neut acc sg	ἐλευθεροῦν	to free
+30	2	0	ἐλευθερόω	ow_pr	pres	mp	inf		ἐλευθεροῦσθαι	to free
+53	1	0	ἐλπίζω	w_stem	imperf	act	ind	1st pl	ἠλπίζομεν	to hope for
+53	14	1	ἐλπίζω	w_stem	imperf	act	ind	3rd pl	ἤλπιζον	to hope for
+53	3	0	ἐλπίζω	w_stem	imperf	act	ind	3rd sg	ἤλπιζε	to hope for
+53	2	0	ἐλπίζω	w_stem	pres	act	ind	1st sg	ἐλπίζω	to hope for
+53	1	0	ἐλπίζω	w_stem	pres	act	ind	3rd pl	ἐλπίζουσι	to hope for
+53	1	0	ἐλπίζω	w_stem	pres	act	ind	3rd sg	ἐλπίζει	to hope for
+53	4	0	ἐλπίζω	w_stem	pres	act	inf		ἐλπίζειν	to hope for
+53	8	0	ἐλπίζω	w_stem	pres	act	part	masc nom pl	ἐλπίζοντες	to hope for
+53	5	0	ἐλπίζω	w_stem	pres	act	part	masc nom sg	ἐλπίζων	to hope for
+53	1	0	ἐλπίζω	w_stem	pres	mp	part	neut acc pl	ἐλπιζόμενα	to hope for
+17	1	0	ἐμμένω	aor1	aor	act	imperat	2nd pl	ἐμμείνατε	to abide in
+17	4	1	ἐμμένω	aor1	aor	act	ind	3rd pl	ἐνέμειναν	to abide in
+17	4	0	ἐμμένω	aor1	aor	act	part	masc nom pl	ἐμμείναντες	to abide in
+17	1	0	ἐμμένω	aor1	aor	act	part	masc nom sg	ἐμμείνας	to abide in
+17	1	0	ἐμμένω	aor1	aor	act	part	neut gen pl	ἐμμεινάντων	to abide in
+13	4	0	ἐμπίμπρημι	aor1	aor	act	ind	3rd pl	ἐνέπρησαν	to kindle
+13	1	0	ἐμπίμπρημι	aor1	aor	act	part	masc gen sg	ἐμπρήσαντος	to kindle
+13	4	1	ἐμπίμπρημι	aor1	aor	act	part	masc nom pl	ἐμπρήσαντες	to kindle
+45	1	0	ἐξέρχομαι	aor2	aor	act	ind	1st pl	ἐξήλθομεν	to go out
+45	7	1	ἐξέρχομαι	aor2	aor	act	ind	3rd pl	ἐξῆλθον	to go out
+45	5	0	ἐξέρχομαι	aor2	aor	act	ind	3rd sg	ἐξῆλθε	to go out
+45	8	0	ἐξέρχομαι	aor2	aor	act	inf		ἐξελθεῖν	to go out
+45	1	0	ἐξέρχομαι	aor2	aor	act	opt	3rd pl	ἐξέλθοιεν	to go out
+45	2	0	ἐξέρχομαι	aor2	aor	act	part	masc acc pl	ἐξελθόντας	to go out
+45	1	0	ἐξέρχομαι	aor2	aor	act	part	masc gen pl	ἐξελθόντων	to go out
+45	10	0	ἐξέρχομαι	aor2	aor	act	part	masc nom pl	ἐξελθόντες	to go out
+45	3	0	ἐξέρχομαι	aor2	aor	act	part	masc nom sg	ἐξελθών	to go out
+45	1	0	ἐξέρχομαι	aor2	aor	act	part	neut acc pl	ἐξελθόντα	to go out
+45	1	0	ἐξέρχομαι	aor2	aor	act	part	neut gen pl	ἐξελθόντων	to go out
+45	1	0	ἐξέρχομαι	aor2	aor	act	subj	3rd pl	ἐξέλθωσι	to go out
+5	2	0	ἐξαπατάω	perfp_vow	perf	mp	inf		ἐξηπατῆσθαι	to deceive
+5	1	1	ἐξαπατάω	perfp_vow	perf	mp	part	masc nom pl	ἐξηπατημένοι	to deceive
+5	1	0	ἐξαπατάω	perfp_vow	perf	mp	part	masc nom sg	ἐξηπατημένος	to deceive
+14	1	1	ἐξαρτύω	w_stem	imperf	act	ind	3rd pl	ἐξήρτυον	to get ready
+14	3	0	ἐξαρτύω	w_stem	imperf	mp	ind	3rd pl	ἐξηρτύοντο	to get ready
+14	2	0	ἐξαρτύω	w_stem	imperf	mp	ind	3rd sg	ἐξηρτύετο	to get ready
+14	1	0	ἐξαρτύω	w_stem	pres	act	part	masc nom pl	ἐξαρτύοντες	to get ready
+3	1	1	ἐξετάζω	w_stem	imperf	act	ind	3rd pl	ἐξήταζον	to examine well
+3	1	0	ἐξετάζω	w_stem	imperf	mp	ind	3rd pl	ἐξητάζοντο	to examine well
+40	1	0	ἐπάγω	aor2	aor	act	ind	3rd pl	ἐπήγαγον	to bring on
+40	2	0	ἐπάγω	aor2	aor	act	inf		ἐπαγαγεῖν	to bring on
+40	2	0	ἐπάγω	aor2	aor	mid	ind	2nd pl	ἐπηγάγεσθε	to bring on
+40	5	1	ἐπάγω	aor2	aor	mid	ind	3rd pl	ἐπηγάγοντο	to bring on
+40	1	0	ἐπάγω	aor2	aor	mid	ind	3rd sg	ἐπηγάγετο	to bring on
+40	1	0	ἐπάγω	aor2	aor	mid	inf		ἐπαγαγέσθαι	to bring on
+40	2	0	ἐπάγω	aor2	aor	mid	part	masc nom pl	ἐπαγαγόμενοι	to bring on
+40	1	1	ἐπάγω	aor2	aor	mid	part	neut dat pl	ἐπαγαγομένοις	to bring on
+40	2	0	ἐπάγω	aor2	aor	mid	part	neut gen pl	ἐπαγαγομένων	to bring on
+40	1	0	ἐπάγω	aor2	aor	mp	subj	3rd pl	ἐπαγάγωνται	to bring on
+23	2	1	ἐπιβοηθέω	ew_pr	imperf	act	ind	3rd pl	ἐπεβοήθουν	to come to aid
+23	2	0	ἐπιβοηθέω	ew_pr	pres	act	ind	3rd pl	ἐπιβοηθοῦσι	to come to aid
+23	5	0	ἐπιβοηθέω	ew_pr	pres	act	inf		ἐπιβοηθεῖν	to come to aid
+23	3	0	ἐπιβοηθέω	ew_pr	pres	act	opt	3rd pl	ἐπιβοηθοῖεν	to come to aid
+23	1	0	ἐπιβοηθέω	ew_pr	pres	act	part	masc acc pl	ἐπιβοηθοῦντας	to come to aid
+23	1	0	ἐπιβοηθέω	ew_pr	pres	act	part	masc gen pl	ἐπιβοηθούντων	to come to aid
+23	1	0	ἐπιβοηθέω	ew_pr	pres	act	part	masc nom sg	ἐπιβοηθῶν	to come to aid
+23	1	0	ἐπιβοηθέω	ew_pr	pres	act	subj	3rd pl	ἐπιβοηθῶσι	to come to aid
+32	3	1	ἐπιβουλεύω	w_stem	imperf	act	ind	3rd pl	ἐπεβούλευον	to plot against
+32	1	0	ἐπιβουλεύω	w_stem	imperf	act	ind	3rd sg	ἐπεβούλευε	to plot against
+32	1	0	ἐπιβουλεύω	w_stem	imperf	mp	ind	3rd pl	ἐπεβουλεύοντο	to plot against
+32	1	0	ἐπιβουλεύω	w_stem	imperf	mp	ind	3rd sg	ἐπεβουλεύετο	to plot against
+32	1	0	ἐπιβουλεύω	w_stem	pres	act	ind	3rd pl	ἐπιβουλεύουσι	to plot against
+32	1	0	ἐπιβουλεύω	w_stem	pres	act	ind	3rd sg	ἐπιβουλεύει	to plot against
+32	1	0	ἐπιβουλεύω	w_stem	pres	act	inf		ἐπιβουλεύειν	to plot against
+32	1	0	ἐπιβουλεύω	w_stem	pres	act	part	fem acc sg	ἐπιβουλεύουσαν	to plot against
+32	4	0	ἐπιβουλεύω	w_stem	pres	act	part	masc acc pl	ἐπιβουλεύοντας	to plot against
+32	1	0	ἐπιβουλεύω	w_stem	pres	act	part	masc dat pl	ἐπιβουλεύουσι	to plot against
+32	3	0	ἐπιβουλεύω	w_stem	pres	act	part	masc nom pl	ἐπιβουλεύοντες	to plot against
+32	1	0	ἐπιβουλεύω	w_stem	pres	act	part	masc nom sg	ἐπιβουλεύων	to plot against
+32	1	0	ἐπιβουλεύω	w_stem	pres	act	part	neut dat pl	ἐπιβουλεύουσι	to plot against
+32	3	0	ἐπιβουλεύω	w_stem	pres	mp	ind	1st pl	ἐπιβουλευόμεθα	to plot against
+32	2	0	ἐπιβουλεύω	w_stem	pres	mp	part	fem acc sg	ἐπιβουλευομένην	to plot against
+32	1	0	ἐπιβουλεύω	w_stem	pres	mp	part	neut acc pl	ἐπιβουλευόμενα	to plot against
+71	8	1	ἐπιγίγνομαι	aor2	aor	mid	ind	3rd sg	ἐπεγένετο	to be born after
+71	1	0	ἐπιγίγνομαι	aor2	aor	mid	opt	3rd pl	ἐπιγένοιντο	to be born after
+71	3	0	ἐπιγίγνομαι	aor2	aor	mid	part	fem gen sg	ἐπιγενομένης	to be born after
+71	1	0	ἐπιγίγνομαι	aor2	aor	mid	part	fem nom sg	ἐπιγενομένη	to be born after
+71	3	0	ἐπιγίγνομαι	aor2	aor	mid	part	masc nom pl	ἐπιγενόμενοι	to be born after
+71	2	0	ἐπιγίγνομαι	aor2	aor	mid	part	masc nom sg	ἐπιγενόμενος	to be born after
+71	2	1	ἐπιγίγνομαι	aor2	aor	mid	part	neut gen sg	ἐπιγενομένου	to be born after
+6	2	1	ἐπιμίσγω	umi_pr	imperf	mp	ind	3rd pl	ἐπεμείγνυντο	have intercourse
+6	1	0	ἐπιμίσγω	umi_pr	pres	act	part	masc nom pl	ἐπιμειγνύντες	have intercourse
+14	4	1	ἐπινοέω	ew_pr	imperf	act	ind	3rd pl	ἐπενόουν	to think on
+14	4	0	ἐπινοέω	ew_pr	imperf	act	ind	3rd sg	ἐπενόει	to think on
+14	1	0	ἐπινοέω	ew_pr	pres	act	ind	1st pl	ἐπινοοῦμεν	to think on
+14	1	0	ἐπινοέω	ew_pr	pres	act	ind	3rd pl	ἐπινοοῦσι	to think on
+15	1	1	ἐπιστέλλω	w_stem	imperf	act	ind	3rd pl	ἐπέστελλον	to send to
+15	1	0	ἐπιστέλλω	w_stem	pres	act	ind	3rd sg	ἐπιστέλλει	to send to
+15	1	0	ἐπιστέλλω	w_stem	pres	act	inf		ἐπιστέλλειν	to send to
+15	1	0	ἐπιστέλλω	w_stem	pres	act	part	masc dat pl	ἐπιστέλλουσι	to send to
+11	1	1	ἐπιτάσσω	aor_pass	aor	pass	ind	3rd sg	ἐπετάχθη	to put upon one as a duty
+11	1	0	ἐπιτάσσω	aor_pass	fut	pass	ind	2nd pl	ἐπιταχθήσεσθε	to put upon one as a duty
+29	2	0	ἐπιτίθημι	emi_aor	aor	act	ind	3rd pl	ἐπέθεσαν	to lay
+29	3	0	ἐπιτίθημι	emi_aor	aor	act	part	masc nom pl	ἐπιθέντες	to lay
+29	5	0	ἐπιτίθημι	emi_aor	aor	mid	ind	3rd pl	ἐπέθεντο	to lay
+29	1	0	ἐπιτίθημι	emi_aor	aor	mid	opt	1st pl	ἐπιθοίμεθα	to lay
+29	1	0	ἐπιτίθημι	emi_aor	aor	mid	opt	3rd pl	ἐπιθοῖντο	to lay
+29	1	0	ἐπιτίθημι	emi_aor	aor	mid	part	masc gen pl	ἐπιθεμένων	to lay
+29	3	1	ἐπιτίθημι	emi_aor	aor	mid	part	masc nom pl	ἐπιθέμενοι	to lay
+29	1	0	ἐπιτίθημι	emi_aor	aor	mid	part	masc nom sg	ἐπιθέμενος	to lay
+29	1	0	ἐπιτίθημι	emi_aor	aor	mid	part	neut gen pl	ἐπιθεμένων	to lay
+78	1	0	ἐρῶ	aor_pass	aor	pass	part	fem acc sg	ῥηθεῖσαν	[I will say]
+78	1	0	ἐρῶ	aor_pass	aor	pass	part	fem gen pl	ῥηθεισῶν	[I will say]
+78	1	1	ἐρῶ	aor_pass	aor	pass	part	fem gen sg	ῥηθείσης	[I will say]
+78	1	0	ἐρῶ	aor_pass	aor	pass	part	masc nom sg	ῥηθείς	[I will say]
+78	3	0	ἐρῶ	aor_pass	aor	pass	part	neut acc pl	ῥηθέντα	[I will say]
+78	1	0	ἐρῶ	aor_pass	aor	pass	part	neut gen pl	ῥηθέντων	[I will say]
+78	1	0	ἐρῶ	aor_pass	fut	pass	ind	3rd sg	ῥηθήσεται	[I will say]
+78	1	0	ἐρῶ	aor_pass	fut	pass	part	neut acc pl	ῥηθησόμενα	[I will say]
+78	8	0	ἐρῶ	perfp_vow	perf	mp	ind	3rd sg	εἴρηται	[I will say]
+78	3	0	ἐρῶ	perfp_vow	perf	mp	inf		εἰρῆσθαι	[I will say]
+78	2	1	ἐρῶ	perfp_vow	perf	mp	part	masc acc sg	εἰρημένον	[I will say]
+78	3	0	ἐρῶ	perfp_vow	perf	mp	part	neut acc pl	εἰρημένα	[I will say]
+78	6	0	ἐρῶ	perfp_vow	perf	mp	part	neut acc sg	εἰρημένον	[I will say]
+78	2	0	ἐρῶ	perfp_vow	perf	mp	part	neut gen pl	εἰρημένων	[I will say]
+78	30	0	ἐρῶ	perfp_vow	plup	mp	ind	3rd sg	εἴρητο	[I will say]
+14	2	0	ἑτοιμάζω	w_stem	imperf	act	ind	3rd pl	ἡτοίμαζον	to make ready
+14	1	0	ἑτοιμάζω	w_stem	imperf	mp	ind	3rd pl	ἡτοιμάζοντο	to make ready
+14	1	0	ἑτοιμάζω	w_stem	imperf	mp	ind	3rd sg	ἡτοιμάζετο	to make ready
+14	2	1	ἑτοιμάζω	w_stem	pres	act	inf		ἑτοιμάζειν	to make ready
+14	2	0	ἑτοιμάζω	w_stem	pres	act	part	masc nom sg	ἑτοιμάζων	to make ready
+14	1	0	ἑτοιμάζω	w_stem	pres	mp	ind	3rd sg	ἑτοιμάζεται	to make ready
+15	3	0	ἔξειμι1	irreg_mi	imperf	act	ind	3rd pl	ἐξῇσαν	go out
+15	3	1	ἔξειμι1	irreg_mi	imperf	act	ind	3rd sg	ἐξῄει	go out
+15	1	0	ἔξειμι1	irreg_mi	pres	act	ind	3rd pl	ἐξίασι	go out
+15	1	0	ἔξειμι1	irreg_mi	pres	act	part	masc acc pl	ἐξιόντας	go out
+15	1	0	ἔξειμι1	irreg_mi	pres	act	part	masc gen pl	ἐξιόντων	go out
+15	3	0	ἔξειμι1	irreg_mi	pres	act	part	masc nom pl	ἐξιόντες	go out
+15	2	0	ἔξειμι1	irreg_mi	pres	act	part	masc nom sg	ἐξιών	go out
+15	1	0	ἔξειμι1	irreg_mi	pres	act	part	neut dat pl	ἐξιοῦσι	go out
+271	1	0	ἔρχομαι	aor2	aor	act	imperat	3rd pl	ἐλθόντων	to come
+271	5	0	ἔρχομαι	aor2	aor	act	ind	1st pl	ἤλθομεν	to come
+271	1	0	ἔρχομαι	aor2	aor	act	ind	2nd pl	ἤλθετε	to come
+271	66	0	ἔρχομαι	aor2	aor	act	ind	3rd pl	ἦλθον	to come
+271	28	0	ἔρχομαι	aor2	aor	act	ind	3rd sg	ἦλθε	to come
+271	35	1	ἔρχομαι	aor2	aor	act	inf		ἐλθεῖν	to come
+271	1	0	ἔρχομαι	aor2	aor	act	inf		ἐλθῆν	to come
+271	6	0	ἔρχομαι	aor2	aor	act	opt	3rd pl	ἔλθοιεν	to come
+271	2	0	ἔρχομαι	aor2	aor	act	opt	3rd sg	ἔλθοι	to come
+271	1	0	ἔρχομαι	aor2	aor	act	part	fem gen pl	ἐλθουσῶν	to come
+271	4	0	ἔρχομαι	aor2	aor	act	part	fem gen sg	ἐλθούσης	to come
+271	3	0	ἔρχομαι	aor2	aor	act	part	fem nom pl	ἐλθοῦσαι	to come
+271	1	0	ἔρχομαι	aor2	aor	act	part	fem nom sg	ἐλθοῦσα	to come
+271	10	0	ἔρχομαι	aor2	aor	act	part	masc acc pl	ἐλθόντας	to come
+271	2	0	ἔρχομαι	aor2	aor	act	part	masc acc sg	ἐλθόντα	to come
+271	4	0	ἔρχομαι	aor2	aor	act	part	masc gen pl	ἐλθόντων	to come
+271	3	0	ἔρχομαι	aor2	aor	act	part	masc gen sg	ἐλθόντος	to come
+271	41	0	ἔρχομαι	aor2	aor	act	part	masc nom pl	ἐλθόντες	to come
+271	17	0	ἔρχομαι	aor2	aor	act	part	masc nom sg	ἐλθών	to come
+271	1	0	ἔρχομαι	aor2	aor	act	part	neut acc sg	ἐλθόν	to come
+271	4	0	ἔρχομαι	aor2	aor	act	part	neut dat pl	ἐλθοῦσι	to come
+271	9	0	ἔρχομαι	aor2	aor	act	part	neut gen pl	ἐλθόντων	to come
+271	2	0	ἔρχομαι	aor2	aor	act	part	neut gen sg	ἐλθόντος	to come
+271	1	0	ἔρχομαι	aor2	aor	act	subj	1st pl	ἔλθωμεν	to come
+271	7	0	ἔρχομαι	aor2	aor	act	subj	3rd pl	ἔλθωσι	to come
+271	3	0	ἔρχομαι	aor2	aor	act	subj	3rd sg	ἔλθῃ	to come
+769	1	0	ἔχω	w_stem	imperf	act	ind	1st pl	εἴχομεν	to have
+769	1	0	ἔχω	w_stem	imperf	act	ind	1st sg	εἶχον	to have
+769	2	0	ἔχω	w_stem	imperf	act	ind	2nd pl	εἴχετε	to have
+769	108	1	ἔχω	w_stem	imperf	act	ind	3rd pl	εἶχον	to have
+769	47	0	ἔχω	w_stem	imperf	act	ind	3rd sg	εἶχε	to have
+769	3	0	ἔχω	w_stem	imperf	mp	ind	3rd pl	εἴχοντο	to have
+769	2	0	ἔχω	w_stem	imperf	mp	ind	3rd sg	εἴχετο	to have
+769	1	0	ἔχω	w_stem	pres	act	imperat	3rd sg	ἐχέτω	to have
+769	23	0	ἔχω	w_stem	pres	act	ind	1st pl	ἔχομεν	to have
+769	5	0	ἔχω	w_stem	pres	act	ind	1st sg	ἔχω	to have
+769	10	0	ἔχω	w_stem	pres	act	ind	2nd pl	ἔχετε	to have
+769	30	3	ἔχω	w_stem	pres	act	ind	3rd pl	ἔχουσι	to have
+769	27	0	ἔχω	w_stem	pres	act	ind	3rd sg	ἔχει	to have
+769	73	1	ἔχω	w_stem	pres	act	inf		ἔχειν	to have
+769	3	0	ἔχω	w_stem	pres	act	opt	3rd pl	ἔχοιεν	to have
+769	7	0	ἔχω	w_stem	pres	act	opt	3rd sg	ἔχοι	to have
+769	2	0	ἔχω	w_stem	pres	act	part	fem acc pl	ἐχούσας	to have
+769	9	0	ἔχω	w_stem	pres	act	part	fem acc sg	ἔχουσαν	to have
+769	1	0	ἔχω	w_stem	pres	act	part	fem dat pl	ἐχούσαις	to have
+769	2	0	ἔχω	w_stem	pres	act	part	fem dat sg	ἐχούσῃ	to have
+769	3	0	ἔχω	w_stem	pres	act	part	fem gen pl	ἐχουσῶν	to have
+769	1	0	ἔχω	w_stem	pres	act	part	fem gen sg	ἐχούσης	to have
+769	3	0	ἔχω	w_stem	pres	act	part	fem nom pl	ἔχουσαι	to have
+769	8	0	ἔχω	w_stem	pres	act	part	fem nom sg	ἔχουσα	to have
+769	32	0	ἔχω	w_stem	pres	act	part	masc acc pl	ἔχοντας	to have
+769	9	0	ἔχω	w_stem	pres	act	part	masc acc sg	ἔχοντα	to have
+769	8	0	ἔχω	w_stem	pres	act	part	masc gen pl	ἐχόντων	to have
+769	1	0	ἔχω	w_stem	pres	act	part	masc gen sg	ἔχοντος	to have
+769	97	2	ἔχω	w_stem	pres	act	part	masc nom pl	ἔχοντες	to have
+769	62	0	ἔχω	w_stem	pres	act	part	masc nom sg	ἔχων	to have
+769	2	0	ἔχω	w_stem	pres	act	part	neut acc pl	ἔχοντα	to have
+769	12	0	ἔχω	w_stem	pres	act	part	neut acc sg	ἔχον	to have
+769	8	0	ἔχω	w_stem	pres	act	part	neut dat pl	ἔχουσι	to have
+769	5	0	ἔχω	w_stem	pres	act	part	neut dat sg	ἔχοντι	to have
+769	15	0	ἔχω	w_stem	pres	act	part	neut gen pl	ἐχόντων	to have
+769	5	0	ἔχω	w_stem	pres	act	part	neut gen sg	ἔχοντος	to have
+769	1	0	ἔχω	w_stem	pres	act	subj	1st pl	ἔχωμεν	to have
+769	7	0	ἔχω	w_stem	pres	act	subj	3rd pl	ἔχωσι	to have
+769	2	0	ἔχω	w_stem	pres	act	subj	3rd sg	ἔχῃ	to have
+769	1	0	ἔχω	w_stem	pres	mp	ind	1st sg	ἔχομαι	to have
+769	1	0	ἔχω	w_stem	pres	mp	ind	3rd pl	ἔχονται	to have
+769	1	0	ἔχω	w_stem	pres	mp	ind	3rd sg	ἔχεται	to have
+769	5	0	ἔχω	w_stem	pres	mp	part	fem gen sg	ἐχομένης	to have
+769	1	0	ἔχω	w_stem	pres	mp	part	fem nom sg	ἐχομένη	to have
+769	1	0	ἔχω	w_stem	pres	mp	part	masc nom pl	ἐχόμενοι	to have
+769	1	0	ἔχω	w_stem	pres	mp	part	masc nom sg	ἐχόμενος	to have
+769	1	0	ἔχω	w_stem	pres	mp	part	neut acc sg	ἐχόμενον	to have
+769	1	0	ἔχω	w_stem	pres	mp	part	neut dat sg	ἐχομένῳ	to have
+769	2	1	ἔχω	w_stem	pres	mp	part	neut gen pl	ἐχομένων	to have
+769	1	0	ἔχω	w_stem	pres	mp	part	neut gen sg	ἐχομένου	to have
+127	2	0	ἡγέομαι	ew_pr	imperf	mid	ind	1st pl	ἡγούμεθα	to lead; to consider
+127	1	0	ἡγέομαι	ew_pr	imperf	mid	ind	2nd pl	ἡγῆσθε	to lead; to consider
+127	10	1	ἡγέομαι	ew_pr	imperf	mid	ind	3rd pl	ἡγοῦντο	to lead; to consider
+127	16	1	ἡγέομαι	ew_pr	imperf	mid	ind	3rd sg	ἡγεῖτο	to lead; to consider
+127	9	0	ἡγέομαι	ew_pr	pres	mid	ind	1st sg	ἡγοῦμαι	to lead; to consider
+127	3	0	ἡγέομαι	ew_pr	pres	mid	ind	2nd pl	ἡγεῖσθε	to lead; to consider
+127	1	0	ἡγέομαι	ew_pr	pres	mid	ind	2nd sg	ἡγεῖ	to lead; to consider
+127	8	0	ἡγέομαι	ew_pr	pres	mid	ind	3rd pl	ἡγοῦνται	to lead; to consider
+127	4	0	ἡγέομαι	ew_pr	pres	mid	ind	3rd sg	ἡγεῖται	to lead; to consider
+127	4	0	ἡγέομαι	ew_pr	pres	mid	inf		ἡγεῖσθαι	to lead; to consider
+127	1	0	ἡγέομαι	ew_pr	pres	mid	part	masc gen pl	ἡγουμένων	to lead; to consider
+127	6	0	ἡγέομαι	ew_pr	pres	mid	part	masc gen sg	ἡγουμένου	to lead; to consider
+127	27	0	ἡγέομαι	ew_pr	pres	mid	part	masc nom pl	ἡγούμενοι	to lead; to consider
+127	3	0	ἡγέομαι	ew_pr	pres	mid	part	masc nom sg	ἡγούμενος	to lead; to consider
+127	1	0	ἡγέομαι	ew_pr	pres	mid	part	neut acc sg	ἡγούμενον	to lead; to consider
+127	1	0	ἡγέομαι	ew_pr	pres	mid	part	neut dat sg	ἡγουμένῳ	to lead; to consider
+127	2	0	ἡγέομαι	ew_pr	pres	mid	part	neut gen sg	ἡγουμένου	to lead; to consider
+127	1	0	ἡγέομαι	ew_pr	pres	mid	subj	3rd sg	ἡγῆται	to lead; to consider
+87	29	1	ἡσυχάζω	w_stem	imperf	act	ind	3rd pl	ἡσύχαζον	to be still
+87	7	0	ἡσυχάζω	w_stem	imperf	act	ind	3rd sg	ἡσύχαζε	to be still
+87	4	0	ἡσυχάζω	w_stem	pres	act	imperat	2nd sg	ἡσύχαζε	to be still
+87	1	0	ἡσυχάζω	w_stem	pres	act	ind	1st pl	ἡσυχάζομεν	to be still
+87	2	0	ἡσυχάζω	w_stem	pres	act	ind	2nd pl	ἡσυχάζετε	to be still
+87	1	0	ἡσυχάζω	w_stem	pres	act	ind	3rd pl	ἡσυχάζουσι	to be still
+87	1	0	ἡσυχάζω	w_stem	pres	act	ind	3rd sg	ἡσυχάζει	to be still
+87	12	0	ἡσυχάζω	w_stem	pres	act	inf		ἡσυχάζειν	to be still
+87	1	0	ἡσυχάζω	w_stem	pres	act	opt	3rd pl	ἡσυχάζοιεν	to be still
+87	1	0	ἡσυχάζω	w_stem	pres	act	opt	3rd sg	ἡσυχάζοι	to be still
+87	1	0	ἡσυχάζω	w_stem	pres	act	part	fem dat sg	ἡσυχαζούσῃ	to be still
+87	1	0	ἡσυχάζω	w_stem	pres	act	part	fem gen pl	ἡσυχαζουσῶν	to be still
+87	3	1	ἡσυχάζω	w_stem	pres	act	part	masc acc pl	ἡσυχάζοντας	to be still
+87	1	0	ἡσυχάζω	w_stem	pres	act	part	masc acc sg	ἡσυχάζοντα	to be still
+87	2	0	ἡσυχάζω	w_stem	pres	act	part	masc gen pl	ἡσυχαζόντων	to be still
+87	2	0	ἡσυχάζω	w_stem	pres	act	part	masc nom pl	ἡσυχάζοντες	to be still
+87	1	0	ἡσυχάζω	w_stem	pres	act	part	masc nom sg	ἡσυχάζων	to be still
+87	1	0	ἡσυχάζω	w_stem	pres	act	part	neut acc sg	ἡσυχάζον	to be still
+87	2	0	ἡσυχάζω	w_stem	pres	act	part	neut gen pl	ἡσυχαζόντων	to be still
+87	1	0	ἡσυχάζω	w_stem	pres	act	subj	3rd sg	ἡσυχάζῃ	to be still
+1	1	1	ἱεράομαι	aw_pr	pres	mp	part	fem gen sg	ἱερωμένης	to be a priest
+16	1	0	ὁμολογέω	ew_pr	imperf	mp	ind	3rd sg	ὡμολογεῖτο	agree
+16	1	1	ὁμολογέω	ew_pr	pres	act	ind	3rd pl	ὁμολογοῦσι	agree
+16	2	0	ὁμολογέω	ew_pr	pres	act	inf		ὁμολογεῖν	agree
+16	2	0	ὁμολογέω	ew_pr	pres	mp	part	fem acc sg	ὁμολογουμένην	agree
+16	1	0	ὁμολογέω	ew_pr	pres	mp	part	fem gen sg	ὁμολογουμένης	agree
+155	1	0	ὁράω	aw_pr	imperf	act	ind	1st pl	ἑωρῶμεν	to see
+155	1	0	ὁράω	aw_pr	imperf	act	ind	1st sg	ἑώρων	to see
+155	8	0	ὁράω	aw_pr	imperf	act	ind	2nd pl	ὁρᾶτε	to see
+155	22	1	ὁράω	aw_pr	imperf	act	ind	3rd pl	ἑώρων	to see
+155	7	0	ὁράω	aw_pr	imperf	act	ind	3rd sg	ἑώρα	to see
+155	3	0	ὁράω	aw_pr	imperf	mp	ind	3rd pl	ἑωρῶντο	to see
+155	1	0	ὁράω	aw_pr	imperf	mp	ind	3rd sg	ἑωρᾶτο	to see
+155	1	0	ὁράω	aw_pr	pres	act	ind	2nd sg	ὁρᾷς	to see
+155	7	0	ὁράω	aw_pr	pres	act	inf		ὁρᾶν	to see
+155	1	0	ὁράω	aw_pr	pres	act	opt	3rd pl	ὁρῷεν	to see
+155	2	0	ὁράω	aw_pr	pres	act	opt	3rd sg	ὁρῴη	to see
+155	4	0	ὁράω	aw_pr	pres	act	part	masc acc pl	ὁρῶντας	to see
+155	1	0	ὁράω	aw_pr	pres	act	part	masc acc sg	ὁρῶντα	to see
+155	41	2	ὁράω	aw_pr	pres	act	part	masc nom pl	ὁρῶντες	to see
+155	1	0	ὁράω	aw_pr	pres	act	part	neut gen pl	ὁρώντων	to see
+155	6	0	ὁράω	aw_pr	pres	mid	imperat	2nd sg	ὁρῶ	to see
+155	2	0	ὁράω	aw_pr	pres	mid	part	neut gen pl	ὁρωμένων	to see
+155	1	0	ὁράω	aw_pr	pres	mid	part	neut gen sg	ὁρωμένου	to see
+155	4	0	ὁράω	aw_pr	pres	mid	subj	2nd sg	ὁρᾷ	to see
+98	2	0	ὁρμάω	perfp_vow	perf	mp	imperat	2nd pl	ὥρμησθε	to set in motion
+98	2	0	ὁρμάω	perfp_vow	perf	mp	ind	3rd pl	ὥρμηνται	to set in motion
+98	1	0	ὁρμάω	perfp_vow	perf	mp	ind	3rd pl	ὥρμηνται	to set in motion, urge
+98	3	0	ὁρμάω	perfp_vow	perf	mp	part	masc acc pl	ὡρμημένους	to set in motion
+98	2	0	ὁρμάω	perfp_vow	perf	mp	part	neut gen pl	ὡρμημένων	to set in motion
+98	1	0	ὁρμάω	perfp_vow	perf	mp	part	neut gen pl	ὡρμημένων	to set in motion, urge
+98	2	1	ὁρμάω	perfp_vow	plup	mp	ind	3rd pl	ὥρμηντο	to set in motion, urge
+94	6	0	ὑπάρχω	w_stem	imperf	act	ind	3rd pl	ὑπῆρχον	to begin; to exist
+94	10	0	ὑπάρχω	w_stem	imperf	act	ind	3rd sg	ὑπῆρχε	to begin; to exist
+94	1	0	ὑπάρχω	w_stem	pres	act	ind	1st pl	ὑπάρχομεν	to begin; to exist
+94	1	0	ὑπάρχω	w_stem	pres	act	ind	3rd pl	ὑπάρχουσι	to begin; to exist
+94	9	0	ὑπάρχω	w_stem	pres	act	ind	3rd sg	ὑπάρχει	to begin; to exist
+94	4	1	ὑπάρχω	w_stem	pres	act	inf		ὑπάρχειν	to begin; to exist
+94	1	0	ὑπάρχω	w_stem	pres	act	opt	3rd sg	ὑπάρχοι	to begin; to exist
+94	10	1	ὑπάρχω	w_stem	pres	act	part	fem acc sg	ὑπάρχουσαν	to begin; to exist
+94	2	1	ὑπάρχω	w_stem	pres	act	part	fem dat pl	ὑπαρχούσαις	to begin; to exist
+94	1	0	ὑπάρχω	w_stem	pres	act	part	fem dat sg	ὑπαρχούσῃ	to begin; to exist
+94	3	0	ὑπάρχω	w_stem	pres	act	part	fem gen pl	ὑπαρχουσῶν	to begin; to exist
+94	9	0	ὑπάρχω	w_stem	pres	act	part	fem gen sg	ὑπαρχούσης	to begin; to exist
+94	1	0	ὑπάρχω	w_stem	pres	act	part	fem nom pl	ὑπάρχουσαι	to begin; to exist
+94	1	0	ὑπάρχω	w_stem	pres	act	part	masc acc pl	ὑπάρχοντας	to begin; to exist
+94	1	0	ὑπάρχω	w_stem	pres	act	part	masc acc sg	ὑπάρχοντα	to begin; to exist
+94	1	0	ὑπάρχω	w_stem	pres	act	part	masc dat sg	ὑπάρχοντι	to begin; to exist
+94	1	0	ὑπάρχω	w_stem	pres	act	part	masc nom pl	ὑπάρχοντες	to begin; to exist
+94	7	0	ὑπάρχω	w_stem	pres	act	part	neut acc pl	ὑπάρχοντα	to begin; to exist
+94	6	0	ὑπάρχω	w_stem	pres	act	part	neut acc sg	ὑπάρχον	to begin; to exist
+94	3	0	ὑπάρχω	w_stem	pres	act	part	neut dat pl	ὑπάρχουσι	to begin; to exist
+94	1	0	ὑπάρχω	w_stem	pres	act	part	neut dat sg	ὑπάρχοντι	to begin; to exist
+94	9	0	ὑπάρχω	w_stem	pres	act	part	neut gen pl	ὑπαρχόντων	to begin; to exist
+94	1	0	ὑπάρχω	w_stem	pres	act	part	neut gen sg	ὑπάρχοντος	to begin; to exist
+6	5	1	ὑποτοπέω	aor1	aor	act	part	masc nom pl	ὑποτοπήσαντες	to suspect
+6	1	0	ὑποτοπέω	aor1	aor	act	part	masc nom sg	ὑποτοπήσας	to suspect
+7	2	1	ῥέω	aor2_pass	aor	pass	ind	3rd sg	ἐρρύη	to flow
+3	1	1	ῥίπτω	aor1	aor	act	ind	3rd pl	ἔρριψαν	to throw
+6	1	0	ῥώννυμι	perfp_vow	perf	mp	ind	3rd pl	ἔρρωνται	to strengthen
+6	1	0	ῥώννυμι	perfp_vow	plup	mp	ind	1st sg	ἐρρώμην	to strengthen
+6	2	1	ῥώννυμι	perfp_vow	plup	mp	ind	3rd pl	ἔρρωντο	to strengthen
+6	1	1	ῥώννυμι	perfp_vow	plup	mp	ind	3rd sg	ἔρρωτο	to strengthen

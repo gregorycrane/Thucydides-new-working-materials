@@ -1,0 +1,3794 @@
+2.11  ἄνδρες Πελοποννήσιοι καὶ ξύμμαχοι , καὶ οἱ πατέρες ἡμῶν πολλὰς στρατείας καὶ ἐν αὐτῇ Πελοποννήσῳ καὶ ἔξω ἐποιήσαντο , καὶ ἡμῶν αὐτῶν οἱ πρεσβύτεροι οὐκ ἄπειροι πολέμων εἰσίν
+[
+  [
+    {
+      "id": "1",
+      "text": "ἄνδρες",
+      "lemma": "ἀνήρ",
+      "upos": "NOUN",
+      "xpos": "n-p---mv-",
+      "feats": "Case=Voc|Gender=Masc|Number=Plur",
+      "head": 4,
+      "deprel": "vocative",
+      "misc": "start_char=1|end_char=7"
+    },
+    {
+      "id": "2",
+      "text": "Πελοποννήσιοι",
+      "lemma": "Πελοποννήσιοι",
+      "upos": "NOUN",
+      "xpos": "n-p---mv-",
+      "feats": "Case=Voc|Gender=Masc|Number=Plur",
+      "head": 4,
+      "deprel": "vocative",
+      "misc": "start_char=8|end_char=21"
+    },
+    {
+      "id": "3",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 4,
+      "deprel": "advmod",
+      "misc": "start_char=22|end_char=25"
+    },
+    {
+      "id": "4",
+      "text": "ξύμμαχοι ",
+      "lemma": "σύμμαχος",
+      "upos": "ADJ",
+      "xpos": "a-p---fn-",
+      "feats": "Case=Nom|Gender=Fem|Number=Plur",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=26|end_char=35"
+    },
+    {
+      "id": "5",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 4,
+      "deprel": "punct",
+      "misc": "start_char=35|end_char=36"
+    },
+    {
+      "id": "6",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 4,
+      "deprel": "cc",
+      "misc": "start_char=37|end_char=40"
+    },
+    {
+      "id": "7",
+      "text": "οἱ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---mn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur",
+      "head": 8,
+      "deprel": "det",
+      "misc": "start_char=41|end_char=43"
+    },
+    {
+      "id": "8",
+      "text": "πατέρες",
+      "lemma": "πατήρ",
+      "upos": "NOUN",
+      "xpos": "n-p---mn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur",
+      "head": 4,
+      "deprel": "conj",
+      "misc": "start_char=44|end_char=51"
+    },
+    {
+      "id": "9",
+      "text": "ἡμῶν",
+      "lemma": "ἐγώ",
+      "upos": "PRON",
+      "xpos": "p-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 8,
+      "deprel": "nmod",
+      "misc": "start_char=52|end_char=56"
+    },
+    {
+      "id": "10",
+      "text": "πολλὰς",
+      "lemma": "πολύς",
+      "upos": "ADJ",
+      "xpos": "a-p---fa-",
+      "feats": "Case=Acc|Gender=Fem|Number=Plur",
+      "head": 11,
+      "deprel": "nmod",
+      "misc": "start_char=57|end_char=63"
+    },
+    {
+      "id": "11",
+      "text": "στρατείας",
+      "lemma": "στρατεία",
+      "upos": "NOUN",
+      "xpos": "n-s---fg-",
+      "feats": "Case=Acc|Gender=Fem|Number=Sing",
+      "head": 4,
+      "deprel": "advmod",
+      "misc": "start_char=64|end_char=73"
+    },
+    {
+      "id": "12",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 4,
+      "deprel": "cc",
+      "misc": "start_char=74|end_char=77"
+    },
+    {
+      "id": "13",
+      "text": "ἐν",
+      "lemma": "ἐν",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 15,
+      "deprel": "case",
+      "misc": "start_char=78|end_char=80"
+    },
+    {
+      "id": "14",
+      "text": "αὐτῇ",
+      "lemma": "αὐτός",
+      "upos": "ADJ",
+      "xpos": "a-s---fd-",
+      "feats": "Case=Dat|Gender=Fem|Number=Sing",
+      "head": 15,
+      "deprel": "nmod",
+      "misc": "start_char=81|end_char=85"
+    },
+    {
+      "id": "15",
+      "text": "Πελοποννήσῳ",
+      "lemma": "Πελοπόννησος",
+      "upos": "NOUN",
+      "xpos": "n-s---fd-",
+      "feats": "Case=Dat|Gender=Fem|Number=Sing",
+      "head": 11,
+      "deprel": "nmod",
+      "misc": "start_char=86|end_char=97"
+    },
+    {
+      "id": "16",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 15,
+      "deprel": "cc",
+      "misc": "start_char=98|end_char=101"
+    },
+    {
+      "id": "17",
+      "text": "ἔξω",
+      "lemma": "ἔξω",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 18,
+      "deprel": "case",
+      "misc": "start_char=102|end_char=105"
+    },
+    {
+      "id": "18",
+      "text": "ἐποιήσαντο ",
+      "lemma": "ποιέω",
+      "upos": "VERB",
+      "xpos": "v-sapamg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act",
+      "head": 15,
+      "deprel": "conj",
+      "misc": "start_char=106|end_char=117"
+    },
+    {
+      "id": "19",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 4,
+      "deprel": "punct",
+      "misc": "start_char=117|end_char=118"
+    },
+    {
+      "id": "20",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 4,
+      "deprel": "cc",
+      "misc": "start_char=119|end_char=122"
+    },
+    {
+      "id": "21",
+      "text": "ἡμῶν",
+      "lemma": "ἐγώ",
+      "upos": "PRON",
+      "xpos": "p-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 24,
+      "deprel": "nmod",
+      "misc": "start_char=123|end_char=127"
+    },
+    {
+      "id": "22",
+      "text": "αὐτῶν",
+      "lemma": "αὐτός",
+      "upos": "PRON",
+      "xpos": "p-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 24,
+      "deprel": "nmod",
+      "misc": "start_char=128|end_char=133"
+    },
+    {
+      "id": "23",
+      "text": "οἱ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---mn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur",
+      "head": 24,
+      "deprel": "det",
+      "misc": "start_char=134|end_char=136"
+    },
+    {
+      "id": "24",
+      "text": "πρεσβύτεροι",
+      "lemma": "πρέσβυς",
+      "upos": "ADJ",
+      "xpos": "a-p---mnc",
+      "feats": "Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur",
+      "head": 26,
+      "deprel": "nsubj",
+      "misc": "start_char=137|end_char=148"
+    },
+    {
+      "id": "25",
+      "text": "οὐκ",
+      "lemma": "οὐ",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 26,
+      "deprel": "advmod",
+      "misc": "start_char=149|end_char=152"
+    },
+    {
+      "id": "26",
+      "text": "ἄπειροι",
+      "lemma": "ἄπειρος",
+      "upos": "ADJ",
+      "xpos": "a-p---mn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur",
+      "head": 4,
+      "deprel": "conj",
+      "misc": "start_char=153|end_char=160"
+    },
+    {
+      "id": "27",
+      "text": "πολέμων",
+      "lemma": "πόλεμος",
+      "upos": "NOUN",
+      "xpos": "n-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 26,
+      "deprel": "advmod",
+      "misc": "start_char=161|end_char=168"
+    },
+    {
+      "id": "28",
+      "text": "εἰσίν",
+      "lemma": "εἰμί",
+      "upos": "VERB",
+      "xpos": "v3ppia---",
+      "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "head": 26,
+      "deprel": "cop",
+      "misc": "start_char=169|end_char=174"
+    }
+  ]
+]
+2.11  ὅμως δὲ τῆσδε οὔπω μείζονα παρασκευὴν ἔχοντες ἐξήλθομεν , ἀλλὰ καὶ ἐπὶ πόλιν δυνατωτάτην νῦν ἐρχόμεθα καὶ αὐτοὶ πλεῖστοι καὶ ἄριστοι στρατεύοντες
+[
+  [
+    {
+      "id": "1",
+      "text": "ὅμως",
+      "lemma": "ὅμως",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 7,
+      "deprel": "advmod",
+      "misc": "start_char=1|end_char=5"
+    },
+    {
+      "id": "2",
+      "text": "δὲ",
+      "lemma": "δέ",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 16,
+      "deprel": "advmod",
+      "misc": "start_char=6|end_char=8"
+    },
+    {
+      "id": "3",
+      "text": "τῆσδε",
+      "lemma": "ὅδε",
+      "upos": "PRON",
+      "xpos": "p-s---fg-",
+      "feats": "Case=Gen|Gender=Fem|Number=Sing",
+      "head": 5,
+      "deprel": "advmod",
+      "misc": "start_char=9|end_char=14"
+    },
+    {
+      "id": "4",
+      "text": "οὔπω",
+      "lemma": "οὔπω",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 5,
+      "deprel": "advmod",
+      "misc": "start_char=15|end_char=19"
+    },
+    {
+      "id": "5",
+      "text": "μείζονα",
+      "lemma": "μέγας",
+      "upos": "ADJ",
+      "xpos": "a-s---fac",
+      "feats": "Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing",
+      "head": 6,
+      "deprel": "amod",
+      "misc": "start_char=20|end_char=27"
+    },
+    {
+      "id": "6",
+      "text": "παρασκευὴν",
+      "lemma": "παρασκευή",
+      "upos": "NOUN",
+      "xpos": "n-s---fa-",
+      "feats": "Case=Acc|Gender=Fem|Number=Sing",
+      "head": 7,
+      "deprel": "obj",
+      "misc": "start_char=28|end_char=38"
+    },
+    {
+      "id": "7",
+      "text": "ἔχοντες",
+      "lemma": "ἔχω",
+      "upos": "VERB",
+      "xpos": "v-pppamn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act",
+      "head": 16,
+      "deprel": "advcl",
+      "misc": "start_char=39|end_char=46"
+    },
+    {
+      "id": "8",
+      "text": "ἐξήλθομεν ",
+      "lemma": "ἐξέρχομαι",
+      "upos": "VERB",
+      "xpos": "v-papmfn-",
+      "feats": "Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid",
+      "head": 16,
+      "deprel": "advcl",
+      "misc": "start_char=47|end_char=57"
+    },
+    {
+      "id": "9",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 16,
+      "deprel": "punct",
+      "misc": "start_char=57|end_char=58"
+    },
+    {
+      "id": "10",
+      "text": "ἀλλὰ",
+      "lemma": "ἀλλά",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 8,
+      "deprel": "cc",
+      "misc": "start_char=59|end_char=63"
+    },
+    {
+      "id": "11",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 13,
+      "deprel": "advmod",
+      "misc": "start_char=64|end_char=67"
+    },
+    {
+      "id": "12",
+      "text": "ἐπὶ",
+      "lemma": "ἐπί",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 13,
+      "deprel": "case",
+      "misc": "start_char=68|end_char=71"
+    },
+    {
+      "id": "13",
+      "text": "πόλιν",
+      "lemma": "πόλις",
+      "upos": "NOUN",
+      "xpos": "n-s---fa-",
+      "feats": "Case=Acc|Gender=Fem|Number=Sing",
+      "head": 16,
+      "deprel": "obl",
+      "misc": "start_char=72|end_char=77"
+    },
+    {
+      "id": "14",
+      "text": "δυνατωτάτην",
+      "lemma": "δυνατός",
+      "upos": "ADJ",
+      "xpos": "a-s---fas",
+      "feats": "Case=Acc|Degree=Sup|Gender=Fem|Number=Sing",
+      "head": 13,
+      "deprel": "nmod",
+      "misc": "start_char=78|end_char=89"
+    },
+    {
+      "id": "15",
+      "text": "νῦν",
+      "lemma": "νῦν",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 16,
+      "deprel": "advmod",
+      "misc": "start_char=90|end_char=93"
+    },
+    {
+      "id": "16",
+      "text": "ἐρχόμεθα",
+      "lemma": "ἔρχομαι",
+      "upos": "VERB",
+      "xpos": "v1ppie---",
+      "feats": "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=94|end_char=102"
+    },
+    {
+      "id": "17",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 19,
+      "deprel": "advmod",
+      "misc": "start_char=103|end_char=106"
+    },
+    {
+      "id": "18",
+      "text": "αὐτοὶ",
+      "lemma": "αὐτός",
+      "upos": "ADJ",
+      "xpos": "a-p---mn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur",
+      "head": 19,
+      "deprel": "xcomp",
+      "misc": "start_char=107|end_char=112"
+    },
+    {
+      "id": "19",
+      "text": "πλεῖστοι",
+      "lemma": "πλεῖστος",
+      "upos": "ADJ",
+      "xpos": "a-p---mn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur",
+      "head": 16,
+      "deprel": "nsubj",
+      "misc": "start_char=113|end_char=121"
+    },
+    {
+      "id": "20",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 19,
+      "deprel": "cc",
+      "misc": "start_char=122|end_char=125"
+    },
+    {
+      "id": "21",
+      "text": "ἄριστοι",
+      "lemma": "ἄριστος",
+      "upos": "ADJ",
+      "xpos": "a-p---mn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur",
+      "head": 19,
+      "deprel": "conj",
+      "misc": "start_char=126|end_char=133"
+    },
+    {
+      "id": "22",
+      "text": "στρατεύοντες",
+      "lemma": "στρατεύω",
+      "upos": "VERB",
+      "xpos": "v-pppamn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act",
+      "head": 21,
+      "deprel": "nmod",
+      "misc": "start_char=134|end_char=146"
+    }
+  ]
+]
+2.11  δίκαιον οὖν ἡμᾶς μήτε τῶν πατέρων χείρους φαίνεσθαι μήτε ἡμῶν αὐτῶν τῆς δόξης ἐνδεεστέρους
+[
+  [
+    {
+      "id": "1",
+      "text": "δίκαιον",
+      "lemma": "δίκαιος",
+      "upos": "ADJ",
+      "xpos": "a-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 8,
+      "deprel": "advmod",
+      "misc": "start_char=1|end_char=8"
+    },
+    {
+      "id": "2",
+      "text": "οὖν",
+      "lemma": "οὖν",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 1,
+      "deprel": "advmod",
+      "misc": "start_char=9|end_char=12"
+    },
+    {
+      "id": "3",
+      "text": "ἡμᾶς",
+      "lemma": "ἐγώ",
+      "upos": "PRON",
+      "xpos": "p1p---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur|Person=1",
+      "head": 8,
+      "deprel": "nsubj",
+      "misc": "start_char=13|end_char=17"
+    },
+    {
+      "id": "4",
+      "text": "μήτε",
+      "lemma": "μήτε",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 6,
+      "deprel": "advmod",
+      "misc": "start_char=18|end_char=22"
+    },
+    {
+      "id": "5",
+      "text": "τῶν",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 6,
+      "deprel": "det",
+      "misc": "start_char=23|end_char=26"
+    },
+    {
+      "id": "6",
+      "text": "πατέρων",
+      "lemma": "πατήρ",
+      "upos": "NOUN",
+      "xpos": "n-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 7,
+      "deprel": "advmod",
+      "misc": "start_char=27|end_char=34"
+    },
+    {
+      "id": "7",
+      "text": "χείρους",
+      "lemma": "χείρων",
+      "upos": "ADJ",
+      "xpos": "a-p---mac",
+      "feats": "Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur",
+      "head": 8,
+      "deprel": "xcomp",
+      "misc": "start_char=35|end_char=42"
+    },
+    {
+      "id": "8",
+      "text": "φαίνεσθαι",
+      "lemma": "φαίνω",
+      "upos": "VERB",
+      "xpos": "v--pne---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Mid",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=43|end_char=52"
+    },
+    {
+      "id": "9",
+      "text": "μήτε",
+      "lemma": "μήτε",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 10,
+      "deprel": "advmod",
+      "misc": "start_char=53|end_char=57"
+    },
+    {
+      "id": "10",
+      "text": "ἡμῶν",
+      "lemma": "ἐγώ",
+      "upos": "PRON",
+      "xpos": "p-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 7,
+      "deprel": "advmod",
+      "misc": "start_char=58|end_char=62"
+    },
+    {
+      "id": "11",
+      "text": "αὐτῶν",
+      "lemma": "αὐτός",
+      "upos": "PRON",
+      "xpos": "p-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 10,
+      "deprel": "nmod",
+      "misc": "start_char=63|end_char=68"
+    },
+    {
+      "id": "12",
+      "text": "τῆς",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---fg-",
+      "feats": "Case=Gen|Gender=Fem|Number=Sing",
+      "head": 13,
+      "deprel": "det",
+      "misc": "start_char=69|end_char=72"
+    },
+    {
+      "id": "13",
+      "text": "δόξης",
+      "lemma": "δόξα",
+      "upos": "NOUN",
+      "xpos": "n-s---fg-",
+      "feats": "Case=Gen|Gender=Fem|Number=Sing",
+      "head": 10,
+      "deprel": "conj",
+      "misc": "start_char=73|end_char=78"
+    },
+    {
+      "id": "14",
+      "text": "ἐνδεεστέρους",
+      "lemma": "ἐνδεής",
+      "upos": "ADJ",
+      "xpos": "a-p---mac",
+      "feats": "Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur",
+      "head": 13,
+      "deprel": "nmod",
+      "misc": "start_char=79|end_char=91"
+    }
+  ]
+]
+2.11  ἡ γὰρ Ἑλλὰς πᾶσα τῇδε τῇ ὁρμῇ ἐπῆρται καὶ προσέχει τὴν γνώμην , εὔνοιαν ἔχουσα διὰ τὸ Ἀθηναίων ἔχθος πρᾶξαι ἡμᾶς ἃ ἐπινοοῦμεν
+[
+  [
+    {
+      "id": "1",
+      "text": "ἡ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---fn-",
+      "feats": "Case=Nom|Gender=Fem|Number=Sing",
+      "head": 3,
+      "deprel": "det",
+      "misc": "start_char=1|end_char=2"
+    },
+    {
+      "id": "2",
+      "text": "γὰρ",
+      "lemma": "γάρ",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 8,
+      "deprel": "advmod",
+      "misc": "start_char=3|end_char=6"
+    },
+    {
+      "id": "3",
+      "text": "Ἑλλὰς",
+      "lemma": "Ἑλλάς",
+      "upos": "NOUN",
+      "xpos": "n-s---fn-",
+      "feats": "Case=Nom|Gender=Fem|Number=Sing",
+      "head": 8,
+      "deprel": "nsubj",
+      "misc": "start_char=7|end_char=12"
+    },
+    {
+      "id": "4",
+      "text": "πᾶσα",
+      "lemma": "πᾶς",
+      "upos": "ADJ",
+      "xpos": "a-s---fn-",
+      "feats": "Case=Nom|Gender=Fem|Number=Sing",
+      "head": 3,
+      "deprel": "nmod",
+      "misc": "start_char=13|end_char=17"
+    },
+    {
+      "id": "5",
+      "text": "τῇδε",
+      "lemma": "ὅδε",
+      "upos": "PRON",
+      "xpos": "p-s---fd-",
+      "feats": "Case=Dat|Gender=Fem|Number=Sing",
+      "head": 7,
+      "deprel": "nmod",
+      "misc": "start_char=18|end_char=22"
+    },
+    {
+      "id": "6",
+      "text": "τῇ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---fd-",
+      "feats": "Case=Dat|Gender=Fem|Number=Sing",
+      "head": 7,
+      "deprel": "det",
+      "misc": "start_char=23|end_char=25"
+    },
+    {
+      "id": "7",
+      "text": "ὁρμῇ",
+      "lemma": "ὁρμή",
+      "upos": "NOUN",
+      "xpos": "n-s---fd-",
+      "feats": "Case=Dat|Gender=Fem|Number=Sing",
+      "head": 8,
+      "deprel": "advmod",
+      "misc": "start_char=26|end_char=30"
+    },
+    {
+      "id": "8",
+      "text": "ἐπῆρται",
+      "lemma": "ἐπαρτέω",
+      "upos": "VERB",
+      "xpos": "v3srie---",
+      "feats": "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=31|end_char=38"
+    },
+    {
+      "id": "9",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 8,
+      "deprel": "cc",
+      "misc": "start_char=39|end_char=42"
+    },
+    {
+      "id": "10",
+      "text": "προσέχει",
+      "lemma": "προσέχω",
+      "upos": "VERB",
+      "xpos": "v3spia---",
+      "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "head": 8,
+      "deprel": "conj",
+      "misc": "start_char=43|end_char=51"
+    },
+    {
+      "id": "11",
+      "text": "τὴν",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---fa-",
+      "feats": "Case=Acc|Gender=Fem|Number=Sing",
+      "head": 12,
+      "deprel": "det",
+      "misc": "start_char=52|end_char=55"
+    },
+    {
+      "id": "12",
+      "text": "γνώμην ",
+      "lemma": "γνώμην",
+      "upos": "NOUN",
+      "xpos": "n-s---fa-",
+      "feats": "Case=Acc|Gender=Fem|Number=Sing",
+      "head": 10,
+      "deprel": "obj",
+      "misc": "start_char=56|end_char=63"
+    },
+    {
+      "id": "13",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 15,
+      "deprel": "punct",
+      "misc": "start_char=63|end_char=64"
+    },
+    {
+      "id": "14",
+      "text": "εὔνοιαν",
+      "lemma": "εὔνοια",
+      "upos": "NOUN",
+      "xpos": "n-s---fa-",
+      "feats": "Case=Acc|Gender=Fem|Number=Sing",
+      "head": 15,
+      "deprel": "obj",
+      "misc": "start_char=65|end_char=72"
+    },
+    {
+      "id": "15",
+      "text": "ἔχουσα",
+      "lemma": "ἔχω",
+      "upos": "VERB",
+      "xpos": "v-sppafn-",
+      "feats": "Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act",
+      "head": 8,
+      "deprel": "advcl",
+      "misc": "start_char=73|end_char=79"
+    },
+    {
+      "id": "16",
+      "text": "διὰ",
+      "lemma": "διά",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 19,
+      "deprel": "case",
+      "misc": "start_char=80|end_char=83"
+    },
+    {
+      "id": "17",
+      "text": "τὸ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 19,
+      "deprel": "det",
+      "misc": "start_char=84|end_char=86"
+    },
+    {
+      "id": "18",
+      "text": "Ἀθηναίων",
+      "lemma": "Ἀθήναιος",
+      "upos": "NOUN",
+      "xpos": "n-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 19,
+      "deprel": "nmod",
+      "misc": "start_char=87|end_char=95"
+    },
+    {
+      "id": "19",
+      "text": "ἔχθος",
+      "lemma": "ἔχθος",
+      "upos": "NOUN",
+      "xpos": "n-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 15,
+      "deprel": "obl",
+      "misc": "start_char=96|end_char=101"
+    },
+    {
+      "id": "20",
+      "text": "πρᾶξαι",
+      "lemma": "πράσσω",
+      "upos": "VERB",
+      "xpos": "v--ana---",
+      "feats": "Tense=Past|VerbForm=Inf|Voice=Act",
+      "head": 15,
+      "deprel": "ccomp",
+      "misc": "start_char=102|end_char=108"
+    },
+    {
+      "id": "21",
+      "text": "ἡμᾶς",
+      "lemma": "ἐγώ",
+      "upos": "PRON",
+      "xpos": "p-p---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur",
+      "head": 20,
+      "deprel": "obj",
+      "misc": "start_char=109|end_char=113"
+    },
+    {
+      "id": "22",
+      "text": "ἃ",
+      "lemma": "ὅς",
+      "upos": "PRON",
+      "xpos": "p-p---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Plur",
+      "head": 20,
+      "deprel": "obj",
+      "misc": "start_char=114|end_char=115"
+    },
+    {
+      "id": "23",
+      "text": "ἐπινοοῦμεν",
+      "lemma": "ἐπινοέω",
+      "upos": "VERB",
+      "xpos": "v1ppia---",
+      "feats": "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "head": 20,
+      "deprel": "xcomp",
+      "misc": "start_char=116|end_char=126"
+    }
+  ]
+]
+2.11  οὔκουν χρή , εἴ τῳ καὶ δοκοῦμεν πλήθει ἐπιέναι καὶ ἀσφάλεια πολλὴ εἶναι μὴ ἂν ἐλθεῖν τοὺς ἐναντίους ἡμῖν διὰ μάχης , τούτων ἕνεκα ἀμελέστερόν τι παρεσκευασμένους χωρεῖν , ἀλλὰ καὶ πόλεως ἑκάστης ἡγεμόνα καὶ στρατιώτην τὸ καθ’ αὑτὸν αἰεὶ προσδέχεσθαι ἐς κίνδυνόν τινα ἥξειν
+[
+  [
+    {
+      "id": "1",
+      "text": "οὔκουν",
+      "lemma": "οὔκουν",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 2,
+      "deprel": "advmod",
+      "misc": "start_char=1|end_char=7"
+    },
+    {
+      "id": "2",
+      "text": "χρή ",
+      "lemma": "χρή",
+      "upos": "VERB",
+      "xpos": "v1spia---",
+      "feats": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=8|end_char=12"
+    },
+    {
+      "id": "3",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 4,
+      "deprel": "punct",
+      "misc": "start_char=12|end_char=13"
+    },
+    {
+      "id": "4",
+      "text": "εἴ",
+      "lemma": "εἰ",
+      "upos": "SCONJ",
+      "xpos": "c--------",
+      "head": 7,
+      "deprel": "mark",
+      "misc": "start_char=14|end_char=16"
+    },
+    {
+      "id": "5",
+      "text": "τῳ",
+      "lemma": "τις",
+      "upos": "PRON",
+      "xpos": "p-s---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Sing",
+      "head": 9,
+      "deprel": "obj",
+      "misc": "start_char=17|end_char=19"
+    },
+    {
+      "id": "6",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 7,
+      "deprel": "advmod",
+      "misc": "start_char=20|end_char=23"
+    },
+    {
+      "id": "7",
+      "text": "δοκοῦμεν",
+      "lemma": "δοκέω",
+      "upos": "VERB",
+      "xpos": "v1ppia---",
+      "feats": "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "head": 2,
+      "deprel": "advcl",
+      "misc": "start_char=24|end_char=32"
+    },
+    {
+      "id": "8",
+      "text": "πλήθει",
+      "lemma": "πλῆθος",
+      "upos": "NOUN",
+      "xpos": "n-s---nd-",
+      "feats": "Case=Dat|Gender=Neut|Number=Sing",
+      "head": 9,
+      "deprel": "advmod",
+      "misc": "start_char=33|end_char=39"
+    },
+    {
+      "id": "9",
+      "text": "ἐπιέναι",
+      "lemma": "ἔπειμι",
+      "upos": "VERB",
+      "xpos": "v--pna---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Act",
+      "head": 7,
+      "deprel": "xcomp",
+      "misc": "start_char=40|end_char=47"
+    },
+    {
+      "id": "10",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 9,
+      "deprel": "cc",
+      "misc": "start_char=48|end_char=51"
+    },
+    {
+      "id": "11",
+      "text": "ἀσφάλεια",
+      "lemma": "ἀσφάλεια",
+      "upos": "NOUN",
+      "xpos": "n-s---fn-",
+      "feats": "Case=Nom|Gender=Fem|Number=Sing",
+      "head": 7,
+      "deprel": "nsubj",
+      "misc": "start_char=52|end_char=60"
+    },
+    {
+      "id": "12",
+      "text": "πολλὴ",
+      "lemma": "πολύς",
+      "upos": "ADJ",
+      "xpos": "a-s---fn-",
+      "feats": "Case=Nom|Gender=Fem|Number=Sing",
+      "head": 11,
+      "deprel": "nmod",
+      "misc": "start_char=61|end_char=66"
+    },
+    {
+      "id": "13",
+      "text": "εἶναι",
+      "lemma": "εἰμί",
+      "upos": "VERB",
+      "xpos": "v--pna---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Act",
+      "head": 12,
+      "deprel": "cop",
+      "misc": "start_char=67|end_char=72"
+    },
+    {
+      "id": "14",
+      "text": "μὴ",
+      "lemma": "μή",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 16,
+      "deprel": "advmod",
+      "misc": "start_char=73|end_char=75"
+    },
+    {
+      "id": "15",
+      "text": "ἂν",
+      "lemma": "ἄν",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 16,
+      "deprel": "advmod",
+      "misc": "start_char=76|end_char=78"
+    },
+    {
+      "id": "16",
+      "text": "ἐλθεῖν",
+      "lemma": "ἔρχομαι",
+      "upos": "VERB",
+      "xpos": "v--ana---",
+      "feats": "Tense=Past|VerbForm=Inf|Voice=Act",
+      "head": 12,
+      "deprel": "xcomp",
+      "misc": "start_char=79|end_char=85"
+    },
+    {
+      "id": "17",
+      "text": "τοὺς",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur",
+      "head": 18,
+      "deprel": "det",
+      "misc": "start_char=86|end_char=90"
+    },
+    {
+      "id": "18",
+      "text": "ἐναντίους",
+      "lemma": "ἐναντίος",
+      "upos": "ADJ",
+      "xpos": "a-p---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur",
+      "head": 16,
+      "deprel": "obj",
+      "misc": "start_char=91|end_char=100"
+    },
+    {
+      "id": "19",
+      "text": "ἡμῖν",
+      "lemma": "ἐγώ",
+      "upos": "PRON",
+      "xpos": "p1p---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Plur|Person=1",
+      "head": 16,
+      "deprel": "obj",
+      "misc": "start_char=101|end_char=105"
+    },
+    {
+      "id": "20",
+      "text": "διὰ",
+      "lemma": "διά",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 21,
+      "deprel": "case",
+      "misc": "start_char=106|end_char=109"
+    },
+    {
+      "id": "21",
+      "text": "μάχης",
+      "lemma": "μάχη",
+      "upos": "NOUN",
+      "xpos": "n-s---fg-",
+      "feats": "Case=Gen|Gender=Fem|Number=Sing",
+      "head": 16,
+      "deprel": "obl",
+      "misc": "start_char=110|end_char=115"
+    },
+    {
+      "id": "22",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 16,
+      "deprel": "punct",
+      "misc": "start_char=116|end_char=117"
+    },
+    {
+      "id": "23",
+      "text": "τούτων",
+      "lemma": "οὗτος",
+      "upos": "PRON",
+      "xpos": "p-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 28,
+      "deprel": "obl",
+      "misc": "start_char=118|end_char=124"
+    },
+    {
+      "id": "24",
+      "text": "ἕνεκα",
+      "lemma": "ἕνεκα",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 23,
+      "deprel": "case",
+      "misc": "start_char=125|end_char=130"
+    },
+    {
+      "id": "25",
+      "text": "ἀμελέστερόν",
+      "lemma": "ἀμελής",
+      "upos": "ADJ",
+      "xpos": "a-s---nac",
+      "feats": "Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing",
+      "head": 26,
+      "deprel": "nmod",
+      "misc": "start_char=131|end_char=142"
+    },
+    {
+      "id": "26",
+      "text": "τι",
+      "lemma": "τις",
+      "upos": "PRON",
+      "xpos": "p-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 27,
+      "deprel": "obj",
+      "misc": "start_char=143|end_char=145"
+    },
+    {
+      "id": "27",
+      "text": "παρεσκευασμένους",
+      "lemma": "παρασκευάζω",
+      "upos": "VERB",
+      "xpos": "v-prpema-",
+      "feats": "Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid",
+      "head": 28,
+      "deprel": "advcl",
+      "misc": "start_char=146|end_char=162"
+    },
+    {
+      "id": "28",
+      "text": "χωρεῖν ",
+      "lemma": "χωρέω",
+      "upos": "VERB",
+      "xpos": "v--pna---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Act",
+      "head": 16,
+      "deprel": "conj",
+      "misc": "start_char=163|end_char=170"
+    },
+    {
+      "id": "29",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 28,
+      "deprel": "punct",
+      "misc": "start_char=170|end_char=171"
+    },
+    {
+      "id": "30",
+      "text": "ἀλλὰ",
+      "lemma": "ἀλλά",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 28,
+      "deprel": "cc",
+      "misc": "start_char=172|end_char=176"
+    },
+    {
+      "id": "31",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 32,
+      "deprel": "advmod",
+      "misc": "start_char=177|end_char=180"
+    },
+    {
+      "id": "32",
+      "text": "πόλεως",
+      "lemma": "πόλις",
+      "upos": "NOUN",
+      "xpos": "n-s---fg-",
+      "feats": "Case=Gen|Gender=Fem|Number=Sing",
+      "head": 34,
+      "deprel": "nmod",
+      "misc": "start_char=181|end_char=187"
+    },
+    {
+      "id": "33",
+      "text": "ἑκάστης",
+      "lemma": "ἕκαστος",
+      "upos": "ADJ",
+      "xpos": "a-s---fg-",
+      "feats": "Case=Gen|Gender=Fem|Number=Sing",
+      "head": 32,
+      "deprel": "nmod",
+      "misc": "start_char=188|end_char=195"
+    },
+    {
+      "id": "34",
+      "text": "ἡγεμόνα",
+      "lemma": "ἡγεμών",
+      "upos": "NOUN",
+      "xpos": "n-s---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Sing",
+      "head": 41,
+      "deprel": "nsubj",
+      "misc": "start_char=196|end_char=203"
+    },
+    {
+      "id": "35",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 34,
+      "deprel": "cc",
+      "misc": "start_char=204|end_char=207"
+    },
+    {
+      "id": "36",
+      "text": "στρατιώτην",
+      "lemma": "στρατιώτης",
+      "upos": "NOUN",
+      "xpos": "n-s---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Sing",
+      "head": 34,
+      "deprel": "conj",
+      "misc": "start_char=208|end_char=218"
+    },
+    {
+      "id": "37",
+      "text": "τὸ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 36,
+      "deprel": "det",
+      "misc": "start_char=219|end_char=221"
+    },
+    {
+      "id": "38",
+      "text": "καθ’",
+      "lemma": "κάθος",
+      "upos": "NOUN",
+      "xpos": "n-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 36,
+      "deprel": "nmod",
+      "misc": "start_char=222|end_char=226"
+    },
+    {
+      "id": "39",
+      "text": "αὑτὸν",
+      "lemma": "ἑαυτοῦ",
+      "upos": "PRON",
+      "xpos": "p-s---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Sing",
+      "head": 41,
+      "deprel": "nsubj",
+      "misc": "start_char=227|end_char=232"
+    },
+    {
+      "id": "40",
+      "text": "αἰεὶ",
+      "lemma": "ἀεί",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 41,
+      "deprel": "advmod",
+      "misc": "start_char=233|end_char=237"
+    },
+    {
+      "id": "41",
+      "text": "προσδέχεσθαι",
+      "lemma": "προσδέχομαι",
+      "upos": "VERB",
+      "xpos": "v--pne---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Mid",
+      "head": 28,
+      "deprel": "conj",
+      "misc": "start_char=238|end_char=250"
+    },
+    {
+      "id": "42",
+      "text": "ἐς",
+      "lemma": "εἰς",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 43,
+      "deprel": "case",
+      "misc": "start_char=251|end_char=253"
+    },
+    {
+      "id": "43",
+      "text": "κίνδυνόν",
+      "lemma": "κίνδυνος",
+      "upos": "NOUN",
+      "xpos": "n-s---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Sing",
+      "head": 41,
+      "deprel": "obl",
+      "misc": "start_char=254|end_char=262"
+    },
+    {
+      "id": "44",
+      "text": "τινα",
+      "lemma": "τις",
+      "upos": "PRON",
+      "xpos": "p-s---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Sing",
+      "head": 45,
+      "deprel": "obj",
+      "misc": "start_char=263|end_char=267"
+    },
+    {
+      "id": "45",
+      "text": "ἥξειν",
+      "lemma": "ἥκω",
+      "upos": "VERB",
+      "xpos": "v--fna---",
+      "feats": "Tense=Fut|VerbForm=Inf|Voice=Act",
+      "head": 41,
+      "deprel": "xcomp",
+      "misc": "start_char=268|end_char=273"
+    }
+  ]
+]
+2.11  ἄδηλα γὰρ τὰ τῶν πολέμων , καὶ ἐξ ὀλίγου τὰ πολλὰ καὶ δῐ ὀργῆς αἱ ἐπιχειρήσεις γίγνονται
+[
+  [
+    {
+      "id": "1",
+      "text": "ἄδηλα",
+      "lemma": "ἄδηλος",
+      "upos": "ADJ",
+      "xpos": "a-p---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Plur",
+      "head": 16,
+      "deprel": "advmod",
+      "misc": "start_char=1|end_char=6"
+    },
+    {
+      "id": "2",
+      "text": "γὰρ",
+      "lemma": "γάρ",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 16,
+      "deprel": "advmod",
+      "misc": "start_char=7|end_char=10"
+    },
+    {
+      "id": "3",
+      "text": "τὰ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Plur",
+      "head": 1,
+      "deprel": "det",
+      "misc": "start_char=11|end_char=13"
+    },
+    {
+      "id": "4",
+      "text": "τῶν",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 5,
+      "deprel": "det",
+      "misc": "start_char=14|end_char=17"
+    },
+    {
+      "id": "5",
+      "text": "πολέμων ",
+      "lemma": "πολέμων",
+      "upos": "NOUN",
+      "xpos": "n-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 1,
+      "deprel": "nmod",
+      "misc": "start_char=18|end_char=26"
+    },
+    {
+      "id": "6",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 16,
+      "deprel": "punct",
+      "misc": "start_char=26|end_char=27"
+    },
+    {
+      "id": "7",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 1,
+      "deprel": "cc",
+      "misc": "start_char=28|end_char=31"
+    },
+    {
+      "id": "8",
+      "text": "ἐξ",
+      "lemma": "ἐκ",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 9,
+      "deprel": "case",
+      "misc": "start_char=32|end_char=34"
+    },
+    {
+      "id": "9",
+      "text": "ὀλίγου",
+      "lemma": "ὀλίγος",
+      "upos": "ADJ",
+      "xpos": "a-s---ng-",
+      "feats": "Case=Gen|Gender=Neut|Number=Sing",
+      "head": 16,
+      "deprel": "obl",
+      "misc": "start_char=35|end_char=41"
+    },
+    {
+      "id": "10",
+      "text": "τὰ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Plur",
+      "head": 11,
+      "deprel": "det",
+      "misc": "start_char=42|end_char=44"
+    },
+    {
+      "id": "11",
+      "text": "πολλὰ",
+      "lemma": "πολύς",
+      "upos": "ADJ",
+      "xpos": "a-p---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Plur",
+      "head": 1,
+      "deprel": "conj",
+      "misc": "start_char=45|end_char=50"
+    },
+    {
+      "id": "12",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 9,
+      "deprel": "cc",
+      "misc": "start_char=51|end_char=54"
+    },
+    {
+      "id": "13",
+      "text": "δῐ",
+      "lemma": "δος",
+      "upos": "DET",
+      "xpos": "l-s---fg-",
+      "feats": "Case=Gen|Gender=Fem|Number=Sing",
+      "head": 14,
+      "deprel": "det",
+      "misc": "start_char=55|end_char=57"
+    },
+    {
+      "id": "14",
+      "text": "ὀργῆς",
+      "lemma": "ὀργή",
+      "upos": "NOUN",
+      "xpos": "n-s---fg-",
+      "feats": "Case=Gen|Gender=Fem|Number=Sing",
+      "head": 9,
+      "deprel": "conj",
+      "misc": "start_char=58|end_char=63"
+    },
+    {
+      "id": "15",
+      "text": "αἱ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---fn-",
+      "feats": "Case=Nom|Gender=Fem|Number=Plur",
+      "head": 16,
+      "deprel": "det",
+      "misc": "start_char=64|end_char=66"
+    },
+    {
+      "id": "16",
+      "text": "ἐπιχειρήσεις",
+      "lemma": "ἐπιχειρέω",
+      "upos": "VERB",
+      "xpos": "v2sfia---",
+      "feats": "Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=67|end_char=79"
+    },
+    {
+      "id": "17",
+      "text": "γίγνονται",
+      "lemma": "γίγνομαι",
+      "upos": "VERB",
+      "xpos": "v3ppie---",
+      "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid",
+      "head": 16,
+      "deprel": "punct",
+      "misc": "start_char=80|end_char=89"
+    }
+  ]
+]
+2.11  πολλάκις τε τὸ ἔλασσον πλῆθος δεδιὸς ἄμεινον ἠμύνατο τοὺς πλέονας διὰ τὸ καταφρονοῦντας ἀπαρασκεύους γενέσθαι
+[
+  [
+    {
+      "id": "1",
+      "text": "πολλάκις",
+      "lemma": "πολλάκις",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 8,
+      "deprel": "advmod",
+      "misc": "start_char=1|end_char=9"
+    },
+    {
+      "id": "2",
+      "text": "τε",
+      "lemma": "τε",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 8,
+      "deprel": "advmod",
+      "misc": "start_char=10|end_char=12"
+    },
+    {
+      "id": "3",
+      "text": "τὸ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 5,
+      "deprel": "det",
+      "misc": "start_char=13|end_char=15"
+    },
+    {
+      "id": "4",
+      "text": "ἔλασσον",
+      "lemma": "ἐλάσσων",
+      "upos": "ADJ",
+      "xpos": "a-s---nac",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 5,
+      "deprel": "nmod",
+      "misc": "start_char=16|end_char=23"
+    },
+    {
+      "id": "5",
+      "text": "πλῆθος",
+      "lemma": "πλῆθος",
+      "upos": "NOUN",
+      "xpos": "n-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 6,
+      "deprel": "obj",
+      "misc": "start_char=24|end_char=30"
+    },
+    {
+      "id": "6",
+      "text": "δεδιὸς",
+      "lemma": "δείδω",
+      "upos": "VERB",
+      "xpos": "v-srpamn-",
+      "feats": "Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act",
+      "head": 8,
+      "deprel": "advcl",
+      "misc": "start_char=31|end_char=37"
+    },
+    {
+      "id": "7",
+      "text": "ἄμεινον",
+      "lemma": "ἀμείνων",
+      "upos": "ADJ",
+      "xpos": "a-s---nac",
+      "feats": "Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing",
+      "head": 8,
+      "deprel": "advmod",
+      "misc": "start_char=38|end_char=45"
+    },
+    {
+      "id": "8",
+      "text": "ἠμύνατο",
+      "lemma": "ἀμύνω",
+      "upos": "VERB",
+      "xpos": "v3saim---",
+      "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=46|end_char=53"
+    },
+    {
+      "id": "9",
+      "text": "τοὺς",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur",
+      "head": 10,
+      "deprel": "det",
+      "misc": "start_char=54|end_char=58"
+    },
+    {
+      "id": "10",
+      "text": "πλέονας",
+      "lemma": "πλείων",
+      "upos": "ADJ",
+      "xpos": "a-p---mac",
+      "feats": "Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur",
+      "head": 8,
+      "deprel": "obj",
+      "misc": "start_char=59|end_char=66"
+    },
+    {
+      "id": "11",
+      "text": "διὰ",
+      "lemma": "διά",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 14,
+      "deprel": "case",
+      "misc": "start_char=67|end_char=70"
+    },
+    {
+      "id": "12",
+      "text": "τὸ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 13,
+      "deprel": "det",
+      "misc": "start_char=71|end_char=73"
+    },
+    {
+      "id": "13",
+      "text": "καταφρονοῦντας",
+      "lemma": "καταφρονέω",
+      "upos": "VERB",
+      "xpos": "v-pppama-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act",
+      "head": 14,
+      "deprel": "nmod",
+      "misc": "start_char=74|end_char=88"
+    },
+    {
+      "id": "14",
+      "text": "ἀπαρασκεύους",
+      "lemma": "ἀπαρασκεύος",
+      "upos": "ADJ",
+      "xpos": "a-p---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur",
+      "head": 8,
+      "deprel": "obl",
+      "misc": "start_char=89|end_char=101"
+    },
+    {
+      "id": "15",
+      "text": "γενέσθαι",
+      "lemma": "γίγνομαι",
+      "upos": "VERB",
+      "xpos": "v--anm---",
+      "feats": "Tense=Past|VerbForm=Inf|Voice=Mid",
+      "head": 14,
+      "deprel": "csubj",
+      "misc": "start_char=102|end_char=110"
+    }
+  ]
+]
+2.11  χρὴ δὲ αἰεὶ ἐν τῇ πολεμίᾳ τῇ μὲν γνώμῃ θαρσαλέους στρατεύειν , τῷ δ’ ἔργῳ δεδιότας παρεσκευάσθαι
+[
+  [
+    {
+      "id": "1",
+      "text": "χρὴ",
+      "lemma": "χρή",
+      "upos": "VERB",
+      "xpos": "v3spia---",
+      "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=1|end_char=4"
+    },
+    {
+      "id": "2",
+      "text": "δὲ",
+      "lemma": "δέ",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 1,
+      "deprel": "advmod",
+      "misc": "start_char=5|end_char=7"
+    },
+    {
+      "id": "3",
+      "text": "αἰεὶ",
+      "lemma": "ἀεί",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 1,
+      "deprel": "advmod",
+      "misc": "start_char=8|end_char=12"
+    },
+    {
+      "id": "4",
+      "text": "ἐν",
+      "lemma": "ἐν",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 6,
+      "deprel": "case",
+      "misc": "start_char=13|end_char=15"
+    },
+    {
+      "id": "5",
+      "text": "τῇ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---fd-",
+      "feats": "Case=Dat|Gender=Fem|Number=Sing",
+      "head": 6,
+      "deprel": "det",
+      "misc": "start_char=16|end_char=18"
+    },
+    {
+      "id": "6",
+      "text": "πολεμίᾳ",
+      "lemma": "πολέμιος",
+      "upos": "NOUN",
+      "xpos": "n-s---fd-",
+      "feats": "Case=Dat|Gender=Fem|Number=Sing",
+      "head": 11,
+      "deprel": "obl",
+      "misc": "start_char=19|end_char=26"
+    },
+    {
+      "id": "7",
+      "text": "τῇ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---fd-",
+      "feats": "Case=Dat|Gender=Fem|Number=Sing",
+      "head": 9,
+      "deprel": "det",
+      "misc": "start_char=27|end_char=29"
+    },
+    {
+      "id": "8",
+      "text": "μὲν",
+      "lemma": "μέν",
+      "upos": "PART",
+      "xpos": "g--------",
+      "head": 11,
+      "deprel": "advmod",
+      "misc": "start_char=30|end_char=33"
+    },
+    {
+      "id": "9",
+      "text": "γνώμῃ",
+      "lemma": "γνώμη",
+      "upos": "NOUN",
+      "xpos": "n-s---fd-",
+      "feats": "Case=Dat|Gender=Fem|Number=Sing",
+      "head": 11,
+      "deprel": "advmod",
+      "misc": "start_char=34|end_char=39"
+    },
+    {
+      "id": "10",
+      "text": "θαρσαλέους",
+      "lemma": "θαρσαλέος",
+      "upos": "ADJ",
+      "xpos": "a-p---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur",
+      "head": 11,
+      "deprel": "xcomp",
+      "misc": "start_char=40|end_char=50"
+    },
+    {
+      "id": "11",
+      "text": "στρατεύειν ",
+      "lemma": "στρατεύνω",
+      "upos": "VERB",
+      "xpos": "v--pna---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Act",
+      "head": 1,
+      "deprel": "csubj",
+      "misc": "start_char=51|end_char=62"
+    },
+    {
+      "id": "12",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 16,
+      "deprel": "punct",
+      "misc": "start_char=62|end_char=63"
+    },
+    {
+      "id": "13",
+      "text": "τῷ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---nd-",
+      "feats": "Case=Dat|Gender=Neut|Number=Sing",
+      "head": 15,
+      "deprel": "det",
+      "misc": "start_char=64|end_char=66"
+    },
+    {
+      "id": "14",
+      "text": "δ’",
+      "lemma": "δ’",
+      "upos": "ADJ",
+      "xpos": "a-s---nd-",
+      "feats": "Case=Dat|Gender=Neut|Number=Sing",
+      "head": 15,
+      "deprel": "nmod",
+      "misc": "start_char=67|end_char=69"
+    },
+    {
+      "id": "15",
+      "text": "ἔργῳ",
+      "lemma": "ἔργον",
+      "upos": "NOUN",
+      "xpos": "n-s---nd-",
+      "feats": "Case=Dat|Gender=Neut|Number=Sing",
+      "head": 16,
+      "deprel": "advmod",
+      "misc": "start_char=70|end_char=74"
+    },
+    {
+      "id": "16",
+      "text": "δεδιότας",
+      "lemma": "δείδω",
+      "upos": "VERB",
+      "xpos": "v-prpama-",
+      "feats": "Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act",
+      "head": 11,
+      "deprel": "advcl",
+      "misc": "start_char=75|end_char=83"
+    },
+    {
+      "id": "17",
+      "text": "παρεσκευάσθαι",
+      "lemma": "παρασκευάζω",
+      "upos": "VERB",
+      "xpos": "v--rne---",
+      "feats": "Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid",
+      "head": 16,
+      "deprel": "csubj",
+      "misc": "start_char=84|end_char=97"
+    }
+  ]
+]
+2.11  οὕτω γὰρ πρός τε τὸ ἐπιέναι τοῖς ἐναντίοις εὐψυχότατοι ἂν εἶεν πρός τε τὸ ἐπιχειρεῖσθαι ἀσφαλέστατοι
+[
+  [
+    {
+      "id": "1",
+      "text": "οὕτω",
+      "lemma": "οὕτως",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 9,
+      "deprel": "advmod",
+      "misc": "start_char=1|end_char=5"
+    },
+    {
+      "id": "2",
+      "text": "γὰρ",
+      "lemma": "γάρ",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 9,
+      "deprel": "advmod",
+      "misc": "start_char=6|end_char=9"
+    },
+    {
+      "id": "3",
+      "text": "πρός",
+      "lemma": "πρός",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 6,
+      "deprel": "case",
+      "misc": "start_char=10|end_char=14"
+    },
+    {
+      "id": "4",
+      "text": "τε",
+      "lemma": "τε",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 6,
+      "deprel": "advmod",
+      "misc": "start_char=15|end_char=17"
+    },
+    {
+      "id": "5",
+      "text": "τὸ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 6,
+      "deprel": "det",
+      "misc": "start_char=18|end_char=20"
+    },
+    {
+      "id": "6",
+      "text": "ἐπιέναι",
+      "lemma": "ἔπειμι",
+      "upos": "VERB",
+      "xpos": "v--pna---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Act",
+      "head": 9,
+      "deprel": "obl",
+      "misc": "start_char=21|end_char=28"
+    },
+    {
+      "id": "7",
+      "text": "τοῖς",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Plur",
+      "head": 8,
+      "deprel": "det",
+      "misc": "start_char=29|end_char=33"
+    },
+    {
+      "id": "8",
+      "text": "ἐναντίοις",
+      "lemma": "ἐναντίος",
+      "upos": "ADJ",
+      "xpos": "a-p---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Plur",
+      "head": 6,
+      "deprel": "obj",
+      "misc": "start_char=34|end_char=43"
+    },
+    {
+      "id": "9",
+      "text": "εὐψυχότατοι",
+      "lemma": "εὔψυχος",
+      "upos": "ADJ",
+      "xpos": "a-p---mn-",
+      "feats": "Case=Nom|Degree=Sup|Gender=Masc|Number=Plur",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=44|end_char=55"
+    },
+    {
+      "id": "10",
+      "text": "ἂν",
+      "lemma": "ἄν",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 9,
+      "deprel": "advmod",
+      "misc": "start_char=56|end_char=58"
+    },
+    {
+      "id": "11",
+      "text": "εἶεν",
+      "lemma": "εἰμί",
+      "upos": "VERB",
+      "xpos": "v3ppoa---",
+      "feats": "Mood=Opt|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "head": 9,
+      "deprel": "cop",
+      "misc": "start_char=59|end_char=63"
+    },
+    {
+      "id": "12",
+      "text": "πρός",
+      "lemma": "πρός",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 15,
+      "deprel": "case",
+      "misc": "start_char=64|end_char=68"
+    },
+    {
+      "id": "13",
+      "text": "τε",
+      "lemma": "τε",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 15,
+      "deprel": "advmod",
+      "misc": "start_char=69|end_char=71"
+    },
+    {
+      "id": "14",
+      "text": "τὸ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 15,
+      "deprel": "det",
+      "misc": "start_char=72|end_char=74"
+    },
+    {
+      "id": "15",
+      "text": "ἐπιχειρεῖσθαι",
+      "lemma": "ἐπιχειρέω",
+      "upos": "VERB",
+      "xpos": "v--pne---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Mid",
+      "head": 9,
+      "deprel": "csubj",
+      "misc": "start_char=75|end_char=88"
+    },
+    {
+      "id": "16",
+      "text": "ἀσφαλέστατοι",
+      "lemma": "ἀσφαλής",
+      "upos": "ADJ",
+      "xpos": "a-p---mns",
+      "feats": "Case=Nom|Degree=Sup|Gender=Masc|Number=Plur",
+      "head": 15,
+      "deprel": "nmod",
+      "misc": "start_char=89|end_char=101"
+    }
+  ]
+]
+2.11  ἡμεῖς δὲ οὐδ’ ἐπὶ ἀδύνατον ἀμύνεσθαι οὕτω πόλιν ἐρχόμεθα , ἀλλὰ τοῖς πᾶσιν ἄριστα παρεσκευασμένην , ὥστε χρὴ καὶ πάνυ ἐλπίζειν διὰ μάχης ἰέναι αὐτούς , εἰ μὴ καὶ νῦν ὥρμηνται ἐν ᾧ οὔπω πάρεσμεν , ἀλλ’ ὅταν ἐν τῇ γῇ ὁρῶσιν ἡμᾶς δῃοῦντάς τε καὶ τἀκείνων φθείροντας
+[
+  [
+    {
+      "id": "1",
+      "text": "ἡμεῖς",
+      "lemma": "ἐγώ",
+      "upos": "PRON",
+      "xpos": "p1p---mn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur|Person=1",
+      "head": 9,
+      "deprel": "nsubj",
+      "misc": "start_char=1|end_char=6"
+    },
+    {
+      "id": "2",
+      "text": "δὲ",
+      "lemma": "δέ",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 9,
+      "deprel": "advmod",
+      "misc": "start_char=7|end_char=9"
+    },
+    {
+      "id": "3",
+      "text": "οὐδ’",
+      "lemma": "οὐδ’",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 9,
+      "deprel": "advmod",
+      "misc": "start_char=10|end_char=14"
+    },
+    {
+      "id": "4",
+      "text": "ἐπὶ",
+      "lemma": "ἐπί",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 5,
+      "deprel": "case",
+      "misc": "start_char=15|end_char=18"
+    },
+    {
+      "id": "5",
+      "text": "ἀδύνατον",
+      "lemma": "ἀδύνατος",
+      "upos": "ADJ",
+      "xpos": "a-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 6,
+      "deprel": "obl",
+      "misc": "start_char=19|end_char=27"
+    },
+    {
+      "id": "6",
+      "text": "ἀμύνεσθαι",
+      "lemma": "ἀμύνω",
+      "upos": "VERB",
+      "xpos": "v--pne---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Mid",
+      "head": 9,
+      "deprel": "xcomp",
+      "misc": "start_char=28|end_char=37"
+    },
+    {
+      "id": "7",
+      "text": "οὕτω",
+      "lemma": "οὕτως",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 9,
+      "deprel": "advmod",
+      "misc": "start_char=38|end_char=42"
+    },
+    {
+      "id": "8",
+      "text": "πόλιν",
+      "lemma": "πόλις",
+      "upos": "NOUN",
+      "xpos": "n-s---fa-",
+      "feats": "Case=Acc|Gender=Fem|Number=Sing",
+      "head": 9,
+      "deprel": "obj",
+      "misc": "start_char=43|end_char=48"
+    },
+    {
+      "id": "9",
+      "text": "ἐρχόμεθα ",
+      "lemma": "ἔρχομαι",
+      "upos": "VERB",
+      "xpos": "v1ppie---",
+      "feats": "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=49|end_char=58"
+    },
+    {
+      "id": "10",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 9,
+      "deprel": "punct",
+      "misc": "start_char=58|end_char=59"
+    },
+    {
+      "id": "11",
+      "text": "ἀλλὰ",
+      "lemma": "ἀλλά",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 9,
+      "deprel": "cc",
+      "misc": "start_char=60|end_char=64"
+    },
+    {
+      "id": "12",
+      "text": "τοῖς",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Plur",
+      "head": 13,
+      "deprel": "det",
+      "misc": "start_char=65|end_char=69"
+    },
+    {
+      "id": "13",
+      "text": "πᾶσιν",
+      "lemma": "πᾶς",
+      "upos": "ADJ",
+      "xpos": "a-p---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Plur",
+      "head": 14,
+      "deprel": "nmod",
+      "misc": "start_char=70|end_char=75"
+    },
+    {
+      "id": "14",
+      "text": "ἄριστα",
+      "lemma": "ἄριστος",
+      "upos": "ADJ",
+      "xpos": "a-p---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Plur",
+      "head": 15,
+      "deprel": "obj",
+      "misc": "start_char=76|end_char=82"
+    },
+    {
+      "id": "15",
+      "text": "παρεσκευασμένην ",
+      "lemma": "παρασκευάζω",
+      "upos": "VERB",
+      "xpos": "v-srpefa-",
+      "feats": "Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid",
+      "head": 6,
+      "deprel": "conj",
+      "misc": "start_char=83|end_char=99"
+    },
+    {
+      "id": "16",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 17,
+      "deprel": "punct",
+      "misc": "start_char=99|end_char=100"
+    },
+    {
+      "id": "17",
+      "text": "ὥστε",
+      "lemma": "ὥστε",
+      "upos": "SCONJ",
+      "xpos": "c--------",
+      "head": 18,
+      "deprel": "mark",
+      "misc": "start_char=101|end_char=105"
+    },
+    {
+      "id": "18",
+      "text": "χρὴ",
+      "lemma": "χρή",
+      "upos": "VERB",
+      "xpos": "v3spia---",
+      "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "head": 9,
+      "deprel": "advcl",
+      "misc": "start_char=106|end_char=109"
+    },
+    {
+      "id": "19",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 18,
+      "deprel": "cc",
+      "misc": "start_char=110|end_char=113"
+    },
+    {
+      "id": "20",
+      "text": "πάνυ",
+      "lemma": "πάνυ",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 21,
+      "deprel": "advmod",
+      "misc": "start_char=114|end_char=118"
+    },
+    {
+      "id": "21",
+      "text": "ἐλπίζειν",
+      "lemma": "ἐλπίζω",
+      "upos": "VERB",
+      "xpos": "v--pna---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Act",
+      "head": 15,
+      "deprel": "conj",
+      "misc": "start_char=119|end_char=127"
+    },
+    {
+      "id": "22",
+      "text": "διὰ",
+      "lemma": "διά",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 23,
+      "deprel": "case",
+      "misc": "start_char=128|end_char=131"
+    },
+    {
+      "id": "23",
+      "text": "μάχης",
+      "lemma": "μάχη",
+      "upos": "NOUN",
+      "xpos": "n-s---fg-",
+      "feats": "Case=Gen|Gender=Fem|Number=Sing",
+      "head": 24,
+      "deprel": "obl",
+      "misc": "start_char=132|end_char=137"
+    },
+    {
+      "id": "24",
+      "text": "ἰέναι",
+      "lemma": "εἶμι",
+      "upos": "VERB",
+      "xpos": "v--pna---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Act",
+      "head": 21,
+      "deprel": "xcomp",
+      "misc": "start_char=138|end_char=143"
+    },
+    {
+      "id": "25",
+      "text": "αὐτούς",
+      "lemma": "αὐτός",
+      "upos": "PRON",
+      "xpos": "p-p---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur",
+      "head": 24,
+      "deprel": "obj",
+      "misc": "start_char=144|end_char=150"
+    },
+    {
+      "id": "26",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 27,
+      "deprel": "punct",
+      "misc": "start_char=151|end_char=152"
+    },
+    {
+      "id": "27",
+      "text": "εἰ",
+      "lemma": "εἰ",
+      "upos": "SCONJ",
+      "xpos": "c--------",
+      "head": 31,
+      "deprel": "mark",
+      "misc": "start_char=153|end_char=155"
+    },
+    {
+      "id": "28",
+      "text": "μὴ",
+      "lemma": "μή",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 31,
+      "deprel": "advmod",
+      "misc": "start_char=156|end_char=158"
+    },
+    {
+      "id": "29",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 30,
+      "deprel": "advmod",
+      "misc": "start_char=159|end_char=162"
+    },
+    {
+      "id": "30",
+      "text": "νῦν",
+      "lemma": "νῦν",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 31,
+      "deprel": "advmod",
+      "misc": "start_char=163|end_char=166"
+    },
+    {
+      "id": "31",
+      "text": "ὥρμηνται",
+      "lemma": "ὁρμάω",
+      "upos": "VERB",
+      "xpos": "v3prie---",
+      "feats": "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid",
+      "head": 24,
+      "deprel": "advcl",
+      "misc": "start_char=167|end_char=175"
+    },
+    {
+      "id": "32",
+      "text": "ἐν",
+      "lemma": "ἐν",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 33,
+      "deprel": "case",
+      "misc": "start_char=176|end_char=178"
+    },
+    {
+      "id": "33",
+      "text": "ᾧ",
+      "lemma": "ὅς",
+      "upos": "PRON",
+      "xpos": "p-s---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Sing",
+      "head": 31,
+      "deprel": "obl",
+      "misc": "start_char=179|end_char=180"
+    },
+    {
+      "id": "34",
+      "text": "οὔπω",
+      "lemma": "οὔπω",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 35,
+      "deprel": "advmod",
+      "misc": "start_char=181|end_char=185"
+    },
+    {
+      "id": "35",
+      "text": "πάρεσμεν ",
+      "lemma": "πάρειμι",
+      "upos": "VERB",
+      "xpos": "v-pppefn-",
+      "feats": "Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid",
+      "head": 31,
+      "deprel": "advcl",
+      "misc": "start_char=186|end_char=195"
+    },
+    {
+      "id": "36",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 38,
+      "deprel": "punct",
+      "misc": "start_char=195|end_char=196"
+    },
+    {
+      "id": "37",
+      "text": "ἀλλ’",
+      "lemma": "ἀλλ’",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 31,
+      "deprel": "advmod",
+      "misc": "start_char=197|end_char=201"
+    },
+    {
+      "id": "38",
+      "text": "ὅταν",
+      "lemma": "ὅταν",
+      "upos": "SCONJ",
+      "xpos": "c--------",
+      "head": 42,
+      "deprel": "mark",
+      "misc": "start_char=202|end_char=206"
+    },
+    {
+      "id": "39",
+      "text": "ἐν",
+      "lemma": "ἐν",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 41,
+      "deprel": "case",
+      "misc": "start_char=207|end_char=209"
+    },
+    {
+      "id": "40",
+      "text": "τῇ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---fd-",
+      "feats": "Case=Dat|Gender=Fem|Number=Sing",
+      "head": 41,
+      "deprel": "det",
+      "misc": "start_char=210|end_char=212"
+    },
+    {
+      "id": "41",
+      "text": "γῇ",
+      "lemma": "γῆ",
+      "upos": "NOUN",
+      "xpos": "n-s---fd-",
+      "feats": "Case=Dat|Gender=Fem|Number=Sing",
+      "head": 42,
+      "deprel": "obl",
+      "misc": "start_char=213|end_char=215"
+    },
+    {
+      "id": "42",
+      "text": "ὁρῶσιν",
+      "lemma": "ὁράω",
+      "upos": "VERB",
+      "xpos": "v3ppia---",
+      "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "head": 37,
+      "deprel": "advcl",
+      "misc": "start_char=216|end_char=222"
+    },
+    {
+      "id": "43",
+      "text": "ἡμᾶς",
+      "lemma": "ἐγώ",
+      "upos": "PRON",
+      "xpos": "p1p---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur",
+      "head": 44,
+      "deprel": "nsubj",
+      "misc": "start_char=223|end_char=227"
+    },
+    {
+      "id": "44",
+      "text": "δῃοῦντάς",
+      "lemma": "δηιόω",
+      "upos": "VERB",
+      "xpos": "v-pppama-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act",
+      "head": 42,
+      "deprel": "ccomp",
+      "misc": "start_char=228|end_char=236"
+    },
+    {
+      "id": "45",
+      "text": "τε",
+      "lemma": "τε",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 44,
+      "deprel": "advmod",
+      "misc": "start_char=237|end_char=239"
+    },
+    {
+      "id": "46",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 44,
+      "deprel": "cc",
+      "misc": "start_char=240|end_char=243"
+    },
+    {
+      "id": "47",
+      "text": "τἀκείνων",
+      "lemma": "τἀκείνων",
+      "upos": "ADJ",
+      "xpos": "a-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 44,
+      "deprel": "conj",
+      "misc": "start_char=244|end_char=252"
+    },
+    {
+      "id": "48",
+      "text": "φθείροντας",
+      "lemma": "φθείρω",
+      "upos": "VERB",
+      "xpos": "v-pppama-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act",
+      "head": 44,
+      "deprel": "conj",
+      "misc": "start_char=253|end_char=263"
+    }
+  ]
+]
+2.11  πᾶσι γὰρ ἐν τοῖς ὄμμασι καὶ ἐν τῷ παραυτίκα ὁρᾶν πάσχοντάς τι ἄηθες ὀργὴ προσπίπτει
+[
+  [
+    {
+      "id": "1",
+      "text": "πᾶσι",
+      "lemma": "πᾶς",
+      "upos": "ADJ",
+      "xpos": "a-p---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Plur",
+      "head": 5,
+      "deprel": "nmod",
+      "misc": "start_char=1|end_char=5"
+    },
+    {
+      "id": "2",
+      "text": "γὰρ",
+      "lemma": "γάρ",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 5,
+      "deprel": "advmod",
+      "misc": "start_char=6|end_char=9"
+    },
+    {
+      "id": "3",
+      "text": "ἐν",
+      "lemma": "ἐν",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 5,
+      "deprel": "case",
+      "misc": "start_char=10|end_char=12"
+    },
+    {
+      "id": "4",
+      "text": "τοῖς",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---nd-",
+      "feats": "Case=Dat|Gender=Neut|Number=Plur",
+      "head": 5,
+      "deprel": "det",
+      "misc": "start_char=13|end_char=17"
+    },
+    {
+      "id": "5",
+      "text": "ὄμμασι",
+      "lemma": "ὄμμα",
+      "upos": "NOUN",
+      "xpos": "n-p---nd-",
+      "feats": "Case=Dat|Gender=Neut|Number=Plur",
+      "head": 14,
+      "deprel": "nmod",
+      "misc": "start_char=18|end_char=24"
+    },
+    {
+      "id": "6",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 5,
+      "deprel": "cc",
+      "misc": "start_char=25|end_char=28"
+    },
+    {
+      "id": "7",
+      "text": "ἐν",
+      "lemma": "ἐν",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 9,
+      "deprel": "case",
+      "misc": "start_char=29|end_char=31"
+    },
+    {
+      "id": "8",
+      "text": "τῷ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---nd-",
+      "feats": "Case=Dat|Gender=Neut|Number=Sing",
+      "head": 10,
+      "deprel": "det",
+      "misc": "start_char=32|end_char=34"
+    },
+    {
+      "id": "9",
+      "text": "παραυτίκα",
+      "lemma": "παραυτίκα",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 10,
+      "deprel": "advmod",
+      "misc": "start_char=35|end_char=44"
+    },
+    {
+      "id": "10",
+      "text": "ὁρᾶν",
+      "lemma": "ὁράω",
+      "upos": "VERB",
+      "xpos": "v--pna---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Act",
+      "head": 5,
+      "deprel": "conj",
+      "misc": "start_char=45|end_char=49"
+    },
+    {
+      "id": "11",
+      "text": "πάσχοντάς",
+      "lemma": "πάσχω",
+      "upos": "VERB",
+      "xpos": "v-pppama-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act",
+      "head": 10,
+      "deprel": "advcl",
+      "misc": "start_char=50|end_char=59"
+    },
+    {
+      "id": "12",
+      "text": "τι",
+      "lemma": "τις",
+      "upos": "PRON",
+      "xpos": "p-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 11,
+      "deprel": "advmod",
+      "misc": "start_char=60|end_char=62"
+    },
+    {
+      "id": "13",
+      "text": "ἄηθες",
+      "lemma": "ἄηθος",
+      "upos": "NOUN",
+      "xpos": "n-s---fn-",
+      "feats": "Case=Nom|Gender=Fem|Number=Sing",
+      "head": 14,
+      "deprel": "nmod",
+      "misc": "start_char=63|end_char=68"
+    },
+    {
+      "id": "14",
+      "text": "ὀργὴ",
+      "lemma": "ὀργή",
+      "upos": "NOUN",
+      "xpos": "n-s---fn-",
+      "feats": "Case=Nom|Gender=Fem|Number=Sing",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=69|end_char=73"
+    },
+    {
+      "id": "15",
+      "text": "προσπίπτει",
+      "lemma": "προσπίτνω",
+      "upos": "VERB",
+      "xpos": "v3spia---",
+      "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "head": 14,
+      "deprel": "nmod",
+      "misc": "start_char=74|end_char=84"
+    }
+  ]
+]
+2.11  καὶ οἱ λογισμῷ ἐλάχιστα χρώμενοι θυμῷ πλεῖστα ἐς ἔργον καθίστανται
+[
+  [
+    {
+      "id": "1",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 5,
+      "deprel": "advmod",
+      "misc": "start_char=1|end_char=4"
+    },
+    {
+      "id": "2",
+      "text": "οἱ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---mn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur",
+      "head": 5,
+      "deprel": "det",
+      "misc": "start_char=5|end_char=7"
+    },
+    {
+      "id": "3",
+      "text": "λογισμῷ",
+      "lemma": "λογισμός",
+      "upos": "NOUN",
+      "xpos": "n-s---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Sing",
+      "head": 5,
+      "deprel": "advmod",
+      "misc": "start_char=8|end_char=15"
+    },
+    {
+      "id": "4",
+      "text": "ἐλάχιστα",
+      "lemma": "ἐλάχιστος",
+      "upos": "ADJ",
+      "xpos": "a-p---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Plur",
+      "head": 5,
+      "deprel": "obj",
+      "misc": "start_char=16|end_char=24"
+    },
+    {
+      "id": "5",
+      "text": "χρώμενοι",
+      "lemma": "χράω",
+      "upos": "VERB",
+      "xpos": "v-pppemn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=25|end_char=33"
+    },
+    {
+      "id": "6",
+      "text": "θυμῷ",
+      "lemma": "θυμός",
+      "upos": "NOUN",
+      "xpos": "n-s---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Sing",
+      "head": 5,
+      "deprel": "advmod",
+      "misc": "start_char=34|end_char=38"
+    },
+    {
+      "id": "7",
+      "text": "πλεῖστα",
+      "lemma": "πλεῖστος",
+      "upos": "ADJ",
+      "xpos": "a-p---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Plur",
+      "head": 5,
+      "deprel": "obj",
+      "misc": "start_char=39|end_char=46"
+    },
+    {
+      "id": "8",
+      "text": "ἐς",
+      "lemma": "εἰς",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 9,
+      "deprel": "case",
+      "misc": "start_char=47|end_char=49"
+    },
+    {
+      "id": "9",
+      "text": "ἔργον",
+      "lemma": "ἔργον",
+      "upos": "NOUN",
+      "xpos": "n-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 5,
+      "deprel": "obl",
+      "misc": "start_char=50|end_char=55"
+    },
+    {
+      "id": "10",
+      "text": "καθίστανται",
+      "lemma": "καθίστημι",
+      "upos": "VERB",
+      "xpos": "v3ppie---",
+      "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid",
+      "head": 9,
+      "deprel": "nmod",
+      "misc": "start_char=56|end_char=67"
+    }
+  ]
+]
+2.11  Ἀθηναίους δὲ καὶ πλέον τι τῶν ἄλλων εἰκὸς τοῦτο δρᾶσαι , οἳ ἄρχειν τε τῶν ἄλλων ἀξιοῦσι καὶ ἐπιόντες τὴν τῶν πέλας δῃοῦν μᾶλλον ἢ τὴν αὑτῶν ὁρᾶν
+[
+  [
+    {
+      "id": "1",
+      "text": "Ἀθηναίους",
+      "lemma": "Ἀθήναιος",
+      "upos": "NOUN",
+      "xpos": "n-p---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur",
+      "head": 10,
+      "deprel": "nsubj",
+      "misc": "start_char=1|end_char=10"
+    },
+    {
+      "id": "2",
+      "text": "δὲ",
+      "lemma": "δέ",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 17,
+      "deprel": "advmod",
+      "misc": "start_char=11|end_char=13"
+    },
+    {
+      "id": "3",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 4,
+      "deprel": "advmod",
+      "misc": "start_char=14|end_char=17"
+    },
+    {
+      "id": "4",
+      "text": "πλέον",
+      "lemma": "πλείων",
+      "upos": "ADJ",
+      "xpos": "a-s---nac",
+      "feats": "Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing",
+      "head": 8,
+      "deprel": "advmod",
+      "misc": "start_char=18|end_char=23"
+    },
+    {
+      "id": "5",
+      "text": "τι",
+      "lemma": "τις",
+      "upos": "PRON",
+      "xpos": "p-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 10,
+      "deprel": "obj",
+      "misc": "start_char=24|end_char=26"
+    },
+    {
+      "id": "6",
+      "text": "τῶν",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 7,
+      "deprel": "det",
+      "misc": "start_char=27|end_char=30"
+    },
+    {
+      "id": "7",
+      "text": "ἄλλων",
+      "lemma": "ἄλλος",
+      "upos": "PRON",
+      "xpos": "p-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 5,
+      "deprel": "nmod",
+      "misc": "start_char=31|end_char=36"
+    },
+    {
+      "id": "8",
+      "text": "εἰκὸς",
+      "lemma": "ἔοικα",
+      "upos": "VERB",
+      "xpos": "v-srpana-",
+      "feats": "Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act",
+      "head": 17,
+      "deprel": "advcl",
+      "misc": "start_char=37|end_char=42"
+    },
+    {
+      "id": "9",
+      "text": "τοῦτο",
+      "lemma": "οὗτος",
+      "upos": "PRON",
+      "xpos": "p-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 10,
+      "deprel": "obj",
+      "misc": "start_char=43|end_char=48"
+    },
+    {
+      "id": "10",
+      "text": "δρᾶσαι ",
+      "lemma": "δράω",
+      "upos": "VERB",
+      "xpos": "v--ana---",
+      "feats": "Tense=Past|VerbForm=Inf|Voice=Act",
+      "head": 8,
+      "deprel": "xcomp",
+      "misc": "start_char=49|end_char=56"
+    },
+    {
+      "id": "11",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 17,
+      "deprel": "punct",
+      "misc": "start_char=56|end_char=57"
+    },
+    {
+      "id": "12",
+      "text": "οἳ",
+      "lemma": "ὁ",
+      "upos": "PRON",
+      "xpos": "p-p---mn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur",
+      "head": 17,
+      "deprel": "nsubj",
+      "misc": "start_char=58|end_char=60"
+    },
+    {
+      "id": "13",
+      "text": "ἄρχειν",
+      "lemma": "ἄρχω",
+      "upos": "VERB",
+      "xpos": "v--pna---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Act",
+      "head": 17,
+      "deprel": "xcomp",
+      "misc": "start_char=61|end_char=67"
+    },
+    {
+      "id": "14",
+      "text": "τε",
+      "lemma": "τε",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 13,
+      "deprel": "advmod",
+      "misc": "start_char=68|end_char=70"
+    },
+    {
+      "id": "15",
+      "text": "τῶν",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 16,
+      "deprel": "det",
+      "misc": "start_char=71|end_char=74"
+    },
+    {
+      "id": "16",
+      "text": "ἄλλων",
+      "lemma": "ἄλλος",
+      "upos": "PRON",
+      "xpos": "p-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 13,
+      "deprel": "obj",
+      "misc": "start_char=75|end_char=80"
+    },
+    {
+      "id": "17",
+      "text": "ἀξιοῦσι",
+      "lemma": "ἀξιόω",
+      "upos": "VERB",
+      "xpos": "v3ppia---",
+      "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=81|end_char=88"
+    },
+    {
+      "id": "18",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 13,
+      "deprel": "cc",
+      "misc": "start_char=89|end_char=92"
+    },
+    {
+      "id": "19",
+      "text": "ἐπιόντες",
+      "lemma": "ἔπειμι",
+      "upos": "VERB",
+      "xpos": "v-pppamn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act",
+      "head": 17,
+      "deprel": "conj",
+      "misc": "start_char=93|end_char=101"
+    },
+    {
+      "id": "20",
+      "text": "τὴν",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---fa-",
+      "feats": "Case=Acc|Gender=Fem|Number=Sing",
+      "head": 19,
+      "deprel": "det",
+      "misc": "start_char=102|end_char=105"
+    },
+    {
+      "id": "21",
+      "text": "τῶν",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 23,
+      "deprel": "det",
+      "misc": "start_char=106|end_char=109"
+    },
+    {
+      "id": "22",
+      "text": "πέλας",
+      "lemma": "πέλας",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 21,
+      "deprel": "nmod",
+      "misc": "start_char=110|end_char=115"
+    },
+    {
+      "id": "23",
+      "text": "δῃοῦν",
+      "lemma": "δηιόω",
+      "upos": "VERB",
+      "xpos": "v--pna---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Act",
+      "head": 19,
+      "deprel": "xcomp",
+      "misc": "start_char=116|end_char=121"
+    },
+    {
+      "id": "24",
+      "text": "μᾶλλον",
+      "lemma": "μᾶλλον",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 23,
+      "deprel": "advmod",
+      "misc": "start_char=122|end_char=128"
+    },
+    {
+      "id": "25",
+      "text": "ἢ",
+      "lemma": "ἤ",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 23,
+      "deprel": "cc",
+      "misc": "start_char=129|end_char=130"
+    },
+    {
+      "id": "26",
+      "text": "τὴν",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-s---fa-",
+      "feats": "Case=Acc|Gender=Fem|Number=Sing",
+      "head": 28,
+      "deprel": "det",
+      "misc": "start_char=131|end_char=134"
+    },
+    {
+      "id": "27",
+      "text": "αὑτῶν",
+      "lemma": "ἑαυτοῦ",
+      "upos": "PRON",
+      "xpos": "p-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 26,
+      "deprel": "nmod",
+      "misc": "start_char=135|end_char=140"
+    },
+    {
+      "id": "28",
+      "text": "ὁρᾶν",
+      "lemma": "ὁράω",
+      "upos": "VERB",
+      "xpos": "v--pna---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Act",
+      "head": 23,
+      "deprel": "conj",
+      "misc": "start_char=141|end_char=145"
+    }
+  ]
+]
+2.11  ὡς οὖν ἐπὶ τοσαύτην πόλιν στρατεύοντες καὶ μεγίστην δόξαν οἰσόμενοι τοῖς τε προγόνοις καὶ ἡμῖν αὐτοῖς ἐπ’ ἀμφότερα ἐκ τῶν ἀποβαινόντων , ἕπεσθ’ ὅπῃ ἄν τις ἡγῆται , κόσμον καὶ φυλακὴν περὶ παντὸς ποιούμενοι καὶ τὰ παραγγελλόμενα ὀξέως δεχόμενοι
+[
+  [
+    {
+      "id": "1",
+      "text": "ὡς",
+      "lemma": "ὡς",
+      "upos": "SCONJ",
+      "xpos": "c--------",
+      "head": 17,
+      "deprel": "mark",
+      "misc": "start_char=1|end_char=3"
+    },
+    {
+      "id": "2",
+      "text": "οὖν",
+      "lemma": "οὖν",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 23,
+      "deprel": "advmod",
+      "misc": "start_char=4|end_char=7"
+    },
+    {
+      "id": "3",
+      "text": "ἐπὶ",
+      "lemma": "ἐπί",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 5,
+      "deprel": "case",
+      "misc": "start_char=8|end_char=11"
+    },
+    {
+      "id": "4",
+      "text": "τοσαύτην",
+      "lemma": "τοσοῦτος",
+      "upos": "ADJ",
+      "xpos": "a-s---fa-",
+      "feats": "Case=Acc|Gender=Fem|Number=Sing",
+      "head": 5,
+      "deprel": "nmod",
+      "misc": "start_char=12|end_char=20"
+    },
+    {
+      "id": "5",
+      "text": "πόλιν",
+      "lemma": "πόλις",
+      "upos": "NOUN",
+      "xpos": "n-s---fa-",
+      "feats": "Case=Acc|Gender=Fem|Number=Sing",
+      "head": 6,
+      "deprel": "obl",
+      "misc": "start_char=21|end_char=26"
+    },
+    {
+      "id": "6",
+      "text": "στρατεύοντες",
+      "lemma": "στρατεύω",
+      "upos": "VERB",
+      "xpos": "v-pppamn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act",
+      "head": 17,
+      "deprel": "advcl",
+      "misc": "start_char=27|end_char=39"
+    },
+    {
+      "id": "7",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 6,
+      "deprel": "cc",
+      "misc": "start_char=40|end_char=43"
+    },
+    {
+      "id": "8",
+      "text": "μεγίστην",
+      "lemma": "μέγας",
+      "upos": "ADJ",
+      "xpos": "a-s---fas",
+      "feats": "Case=Acc|Degree=Sup|Gender=Fem|Number=Sing",
+      "head": 9,
+      "deprel": "nmod",
+      "misc": "start_char=44|end_char=52"
+    },
+    {
+      "id": "9",
+      "text": "δόξαν",
+      "lemma": "δόξα",
+      "upos": "NOUN",
+      "xpos": "n-s---fa-",
+      "feats": "Case=Acc|Gender=Fem|Number=Sing",
+      "head": 10,
+      "deprel": "obj",
+      "misc": "start_char=53|end_char=58"
+    },
+    {
+      "id": "10",
+      "text": "οἰσόμενοι",
+      "lemma": "φέρω",
+      "upos": "VERB",
+      "xpos": "v-pfpmmn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur|Tense=Fut|VerbForm=Part|Voice=Mid",
+      "head": 6,
+      "deprel": "conj",
+      "misc": "start_char=59|end_char=68"
+    },
+    {
+      "id": "11",
+      "text": "τοῖς",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Plur",
+      "head": 13,
+      "deprel": "det",
+      "misc": "start_char=69|end_char=73"
+    },
+    {
+      "id": "12",
+      "text": "τε",
+      "lemma": "τε",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 13,
+      "deprel": "advmod",
+      "misc": "start_char=74|end_char=76"
+    },
+    {
+      "id": "13",
+      "text": "προγόνοις",
+      "lemma": "πρόγονος",
+      "upos": "NOUN",
+      "xpos": "n-p---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Plur",
+      "head": 17,
+      "deprel": "advmod",
+      "misc": "start_char=77|end_char=86"
+    },
+    {
+      "id": "14",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 13,
+      "deprel": "cc",
+      "misc": "start_char=87|end_char=90"
+    },
+    {
+      "id": "15",
+      "text": "ἡμῖν",
+      "lemma": "ἐγώ",
+      "upos": "PRON",
+      "xpos": "p1p---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Plur|Person=1",
+      "head": 13,
+      "deprel": "conj",
+      "misc": "start_char=91|end_char=95"
+    },
+    {
+      "id": "16",
+      "text": "αὐτοῖς",
+      "lemma": "αὐτός",
+      "upos": "PRON",
+      "xpos": "p-p---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Plur",
+      "head": 13,
+      "deprel": "conj",
+      "misc": "start_char=96|end_char=102"
+    },
+    {
+      "id": "17",
+      "text": "ἐπ’",
+      "lemma": "ἔπειμι",
+      "upos": "VERB",
+      "xpos": "v3piia---",
+      "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act",
+      "head": 23,
+      "deprel": "advcl",
+      "misc": "start_char=103|end_char=106"
+    },
+    {
+      "id": "18",
+      "text": "ἀμφότερα",
+      "lemma": "ἀμφότερος",
+      "upos": "ADJ",
+      "xpos": "a-p---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Plur",
+      "head": 17,
+      "deprel": "obj",
+      "misc": "start_char=107|end_char=115"
+    },
+    {
+      "id": "19",
+      "text": "ἐκ",
+      "lemma": "ἐκ",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 21,
+      "deprel": "case",
+      "misc": "start_char=116|end_char=118"
+    },
+    {
+      "id": "20",
+      "text": "τῶν",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur",
+      "head": 21,
+      "deprel": "det",
+      "misc": "start_char=119|end_char=122"
+    },
+    {
+      "id": "21",
+      "text": "ἀποβαινόντων ",
+      "lemma": "ἀποβαίνω",
+      "upos": "VERB",
+      "xpos": "v-pppamg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act",
+      "head": 17,
+      "deprel": "obl",
+      "misc": "start_char=123|end_char=136"
+    },
+    {
+      "id": "22",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 1,
+      "deprel": "punct",
+      "misc": "start_char=136|end_char=137"
+    },
+    {
+      "id": "23",
+      "text": "ἕπεσθ’",
+      "lemma": "ἕπομαι",
+      "upos": "VERB",
+      "xpos": "v2ppie---",
+      "feats": "Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=138|end_char=144"
+    },
+    {
+      "id": "24",
+      "text": "ὅπῃ",
+      "lemma": "ὅπη",
+      "upos": "SCONJ",
+      "xpos": "c--------",
+      "head": 27,
+      "deprel": "mark",
+      "misc": "start_char=145|end_char=148"
+    },
+    {
+      "id": "25",
+      "text": "ἄν",
+      "lemma": "ἄν",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 27,
+      "deprel": "advmod",
+      "misc": "start_char=149|end_char=151"
+    },
+    {
+      "id": "26",
+      "text": "τις",
+      "lemma": "τις",
+      "upos": "PRON",
+      "xpos": "p-s---mn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Sing",
+      "head": 27,
+      "deprel": "nsubj",
+      "misc": "start_char=152|end_char=155"
+    },
+    {
+      "id": "27",
+      "text": "ἡγῆται ",
+      "lemma": "ἡγέομαι",
+      "upos": "VERB",
+      "xpos": "v3sase---",
+      "feats": "Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid",
+      "head": 23,
+      "deprel": "advcl",
+      "misc": "start_char=156|end_char=163"
+    },
+    {
+      "id": "28",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 24,
+      "deprel": "punct",
+      "misc": "start_char=163|end_char=164"
+    },
+    {
+      "id": "29",
+      "text": "κόσμον",
+      "lemma": "κόσμος",
+      "upos": "NOUN",
+      "xpos": "n-s---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Sing",
+      "head": 34,
+      "deprel": "obj",
+      "misc": "start_char=165|end_char=171"
+    },
+    {
+      "id": "30",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 29,
+      "deprel": "cc",
+      "misc": "start_char=172|end_char=175"
+    },
+    {
+      "id": "31",
+      "text": "φυλακὴν",
+      "lemma": "φυλακή",
+      "upos": "NOUN",
+      "xpos": "n-s---fa-",
+      "feats": "Case=Acc|Gender=Fem|Number=Sing",
+      "head": 34,
+      "deprel": "obj",
+      "misc": "start_char=176|end_char=183"
+    },
+    {
+      "id": "32",
+      "text": "περὶ",
+      "lemma": "περί",
+      "upos": "ADP",
+      "xpos": "r--------",
+      "head": 33,
+      "deprel": "case",
+      "misc": "start_char=184|end_char=188"
+    },
+    {
+      "id": "33",
+      "text": "παντὸς",
+      "lemma": "πᾶς",
+      "upos": "ADJ",
+      "xpos": "a-s---mg-",
+      "feats": "Case=Gen|Gender=Masc|Number=Sing",
+      "head": 34,
+      "deprel": "obl",
+      "misc": "start_char=189|end_char=195"
+    },
+    {
+      "id": "34",
+      "text": "ποιούμενοι",
+      "lemma": "ποιέω",
+      "upos": "VERB",
+      "xpos": "v-pppemn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid",
+      "head": 23,
+      "deprel": "advcl",
+      "misc": "start_char=196|end_char=206"
+    },
+    {
+      "id": "35",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 34,
+      "deprel": "cc",
+      "misc": "start_char=207|end_char=210"
+    },
+    {
+      "id": "36",
+      "text": "τὰ",
+      "lemma": "ὁ",
+      "upos": "DET",
+      "xpos": "l-p---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Plur",
+      "head": 37,
+      "deprel": "det",
+      "misc": "start_char=211|end_char=213"
+    },
+    {
+      "id": "37",
+      "text": "παραγγελλόμενα",
+      "lemma": "παραγγέλλω",
+      "upos": "VERB",
+      "xpos": "v-pppena-",
+      "feats": "Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid",
+      "head": 34,
+      "deprel": "conj",
+      "misc": "start_char=214|end_char=228"
+    },
+    {
+      "id": "38",
+      "text": "ὀξέως",
+      "lemma": "ὀξεως",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 37,
+      "deprel": "advmod",
+      "misc": "start_char=229|end_char=234"
+    },
+    {
+      "id": "39",
+      "text": "δεχόμενοι",
+      "lemma": "δέχομαι",
+      "upos": "VERB",
+      "xpos": "v-pppemn-",
+      "feats": "Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid",
+      "head": 34,
+      "deprel": "conj",
+      "misc": "start_char=235|end_char=244"
+    }
+  ]
+]
+2.11  κάλλιστον γὰρ τόδε καὶ ἀσφαλέστατον , πολλοὺς ὄντας ἑνὶ κόσμῳ χρωμένους φαίνεσθαι
+[
+  [
+    {
+      "id": "1",
+      "text": "κάλλιστον",
+      "lemma": "καλός",
+      "upos": "ADJ",
+      "xpos": "a-s---nn-",
+      "feats": "Case=Nom|Gender=Neut|Number=Sing",
+      "head": 0,
+      "deprel": "root",
+      "misc": "start_char=1|end_char=10"
+    },
+    {
+      "id": "2",
+      "text": "γὰρ",
+      "lemma": "γάρ",
+      "upos": "ADV",
+      "xpos": "d--------",
+      "head": 1,
+      "deprel": "advmod",
+      "misc": "start_char=11|end_char=14"
+    },
+    {
+      "id": "3",
+      "text": "τόδε",
+      "lemma": "ὅδε",
+      "upos": "PRON",
+      "xpos": "p-s---na-",
+      "feats": "Case=Acc|Gender=Neut|Number=Sing",
+      "head": 1,
+      "deprel": "advmod",
+      "misc": "start_char=15|end_char=19"
+    },
+    {
+      "id": "4",
+      "text": "καὶ",
+      "lemma": "καί",
+      "upos": "CCONJ",
+      "xpos": "c--------",
+      "head": 1,
+      "deprel": "cc",
+      "misc": "start_char=20|end_char=23"
+    },
+    {
+      "id": "5",
+      "text": "ἀσφαλέστατον ",
+      "lemma": "ἀσφαλής",
+      "upos": "ADJ",
+      "xpos": "a-s---nas",
+      "feats": "Case=Acc|Degree=Sup|Gender=Masc|Number=Sing",
+      "head": 1,
+      "deprel": "conj",
+      "misc": "start_char=24|end_char=37"
+    },
+    {
+      "id": "6",
+      "text": ",",
+      "lemma": ",",
+      "upos": "PUNCT",
+      "xpos": "u--------",
+      "head": 11,
+      "deprel": "punct",
+      "misc": "start_char=37|end_char=38"
+    },
+    {
+      "id": "7",
+      "text": "πολλοὺς",
+      "lemma": "πολύς",
+      "upos": "ADJ",
+      "xpos": "a-p---ma-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur",
+      "head": 11,
+      "deprel": "obj",
+      "misc": "start_char=39|end_char=46"
+    },
+    {
+      "id": "8",
+      "text": "ὄντας",
+      "lemma": "εἰμί",
+      "upos": "VERB",
+      "xpos": "v-pppama-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act",
+      "head": 7,
+      "deprel": "cop",
+      "misc": "start_char=47|end_char=52"
+    },
+    {
+      "id": "9",
+      "text": "ἑνὶ",
+      "lemma": "εἷς",
+      "upos": "ADJ",
+      "xpos": "a-s---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Sing",
+      "head": 10,
+      "deprel": "nmod",
+      "misc": "start_char=53|end_char=56"
+    },
+    {
+      "id": "10",
+      "text": "κόσμῳ",
+      "lemma": "κόσμος",
+      "upos": "NOUN",
+      "xpos": "n-s---md-",
+      "feats": "Case=Dat|Gender=Masc|Number=Sing",
+      "head": 11,
+      "deprel": "advmod",
+      "misc": "start_char=57|end_char=62"
+    },
+    {
+      "id": "11",
+      "text": "χρωμένους",
+      "lemma": "χράομαι",
+      "upos": "VERB",
+      "xpos": "v-pppema-",
+      "feats": "Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid",
+      "head": 1,
+      "deprel": "advcl",
+      "misc": "start_char=63|end_char=72"
+    },
+    {
+      "id": "12",
+      "text": "φαίνεσθαι",
+      "lemma": "φαίνω",
+      "upos": "VERB",
+      "xpos": "v--pne---",
+      "feats": "Tense=Pres|VerbForm=Inf|Voice=Mid",
+      "head": 11,
+      "deprel": "xcomp",
+      "misc": "start_char=73|end_char=82"
+    }
+  ]
+]

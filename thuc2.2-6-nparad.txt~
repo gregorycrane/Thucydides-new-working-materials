@@ -1,0 +1,169 @@
+ 151 2507	20800	20291	ὁ	the	article</NL>
+  23 357	3066	2889	αὐτός	unemph. 3rd pers.pronoun; -self; [the] same 	art_adj</NL>
+  13 224	1458	1813	ὅς	who	relative</NL>
+   6 151	1512	1222	Ἀθηναῖος	Athenian	os_h_on</NL>
+   8 140	1164	1133	οὗτος	this; that	pron_adj1</NL>
+  12 136	842	1100	πόλις	a city	is_ews</NL>
+  10 134	1073	1084	τις	any one	indef</NL>
+   5 128	957	1036	ἄλλος	other	art_adj</NL>
+   6 110	798	890	πολύς	much	os_h_on</NL>
+   3 87	616	704	πρότερος	before	os_h_on</NL>
+   1 76	513	615	πᾶς	all	irreg_adj3</NL>
+   2 75	319	607	γῆ	earth	eh_ehs</NL>
+   9 59	560	477	σφεῖς	personal and (ind.) reflexive pronoun	pron3</NL>
+   2 59	386	477	πόλεμος	battle	os_ou</NL>
+   2 55	381	445	μέγας	big	irreg_adj3</NL>
+   4 50	305	404	οὐδείς	not one	pron_adj3</NL>
+   3 47	342	380	ὅσος	as much/many as	os_h_on</NL>
+   1 45	356	364	ἑαυτοῦ	himself	art_adj</NL>
+  11 44	294	356	ἀνήρ	a man	irreg_decl3</NL>
+   1 44	227	356	ἕκαστος	every	os_h_on</NL>
+   4 40	284	323	πλείων	more	wn_on_comp</NL>
+   1 32	150	259	ἔργον	work	os_ou</NL>
+   1 30	175	242	γνώμη	a means of knowing	h_hs</NL>
+   2 29	243	234	ὕστερος	latter	os_h_on</NL>
+   1 28	167	226	εἷς	one	irreg_decl3</NL>
+   2 26	230	210	λόγος	the word	os_ou</NL>
+   1 26	218	210	ὀλίγος	few	os_h_on</NL>
+   1 25	155	202	πλεῖστος	most	os_h_on</NL>
+   3 24	207	194	τεῖχος	a wall	hs_eos</NL>
+   1 20	160	161	μάχη	battle	h_hs</NL>
+   2 20	116	161	ἄνθρωπος	man	os_ou</NL>
+   6 19	36	153	Πλαταιεύς	inhabitant of Plataeae	eus_ews</NL>
+  15 18	50	145	Θηβαῖος	Theban	os_h_on</NL>
+   1 18	164	145	τοιοῦτος	such as this	art_adj</NL>
+   1 17	83	137	ἴδιος	one's own	os_h_on</NL>
+   1 17	59	137	Ἀττική	Attica	h_hs</NL>
+   1 17	124	137	μόνος	alone	os_h_on</NL>
+   1 16	92	129	μηδείς	(and not one); not one	pron_adj3</NL>
+   1 16	138	129	δύναμις	power	is_ews</NL>
+   1 16	131	129	πλῆθος	a great number	hs_eos</NL>
+   1 15	155	121	ἀλλήλων	of one another	art_adj</NL>
+   1 15	108	121	Ἀθῆναι	the city of Athens	h_hs</NL>
+   1 14	92	113	χώρα	land	h_hs</NL>
+   1 13	94	105	οἷος	(such a kind) as; for οἷός τε see οἷος III.2	os_h_on</NL>
+   1 13	86	105	κακός	bad	os_h_on</NL>
+   1 13	45	105	παῖς	a child	irreg_decl3</NL>
+   3 13	34	105	γυνή	a woman	irreg_decl3</NL>
+   3 12	97	97	ἔτος	a year	hs_eos</NL>
+   1 12	94	97	φυλακή	a watching	h_hs</NL>
+   2 12	88	97	δυνατός	strong	os_on</NL>
+   6 12	101	97	νύξ	the night	c_ktos</NL>
+   2 11	83	89	τάχος	swiftness	hs_eos</NL>
+   2 11	59	89	ποταμός	a river	os_ou</NL>
+   3 11	34	89	οἰκία	a building	h_hs</NL>
+   5 11	22	89	Πλαταιός	nodef	os_h_on</NL>
+   6 11	17	89	Πλάταια	Plataea	a_hs</NL>
+   1 11	111	89	δύο	two	numeral</NL>
+   1 11	103	89	κοινός	common	os_on</NL>
+   1 11	102	89	ῥᾴδιος	easy	wn_on_comp</NL>
+   1 10	92	80	ἴσος	equal to	os_h_on</NL>
+   1 10	90	80	σφέτερος	their own	os_h_on</NL>
+   3 10	57	80	ὁδός	a way	os_ou</NL>
+   1 10	39	80	Ποτείδαια	Potidea	a_hs</NL>
+   1 9	36	72	ἐρῆμος	desolate	os_on</NL>
+   1 9	15	72	ἀγρός	fields	os_ou</NL>
+   2 9	136	72	Βοιωτός	a Boeotian	os_ou</NL>
+   1 8	75	64	ἐπιτήδειος	suitable; useful	os_h_on</NL>
+   1 8	58	64	Ἄργος	Argos	hs_eos</NL>
+   1 8	57	64	νεκρός	a dead body	os_ou</NL>
+   1 8	111	64	τρόπος	a turn	os_ou</NL>
+   1 7	90	56	ταχύς	quick	us_eia_u</NL>
+   1 7	90	56	ἥσσων	less	wn_on_comp</NL>
+   1 7	47	56	σῖτος	corn	os_ou</NL>
+   3 7	41	56	μείς	a month	n_nos</NL>
+   1 7	32	56	ὕδωρ	water	irreg_decl3</NL>
+   4 7	102	56	ὅπλον	a tool	os_ou</NL>
+   1 6	13	48	κατασκευή	preparation	h_hs</NL>
+   1 5	58	40	τριακόσιοι	three hundred	os_h_on</NL>
+   2 5	53	40	φανερός	open to sight	os_on</NL>
+   1 5	47	40	Εὔβοια	Euboea	h_hs</NL>
+   1 5	42	40	χείρ	the hand	irreg_decl3</NL>
+   2 5	39	40	εἰρήνη	peace	h_hs</NL>
+   1 5	39	40	τέλος	the fulfilment	hs_eos</NL>
+   1 5	34	40	στάδιον	a stade	os_ou</NL>
+   4 5	33	40	κῆρυξ	a herald	c_kos</NL>
+   1 5	25	40	ὑπόσπονδος	under a treaty	os_on</NL>
+   1 5	19	40	δεύτερος	second	os_h_on</NL>
+   1 5	15	40	ἀπροσδόκητος	unexpected	os_on</NL>
+   1 4	8	32	ἀχρεῖος	useless	os_on</NL>
+   1 4	61	32	ἑτοῖμος	at hand	os_on</NL>
+   1 4	51	32	ἄρχων	a ruler	wn_ontos</NL>
+   4 4	36	32	πύλη	one wing of a pair of double gates	h_hs</NL>
+   1 4	30	32	τέσσαρες	four	r_ros</NL>
+   1 4	24	32	φιλία	friendly love	h_hs</NL>
+   1 4	17	32	ἄπειρος1	without trial	os_on</NL>
+   1 4	15	32	ἔμπειρος	experienced	os_on</NL>
+   1 4	15	32	συμμαχίς	allied	is_idos</NL>
+   1 4	10	32	ἔξοδος1	a going out; an exit	os_ou</NL>
+   2 3	7	24	δίοδος	a way through	os_ou</NL>
+   1 3	5	24	θαρσαλέος	bold	os_h_on</NL>
+   1 3	31	24	διάφορος	different	os_on</NL>
+   1 3	30	24	πολίτης	(fellow) citizen	hs_ou</NL>
+   1 3	3	24	αἴσθησις	perception by the senses	is_ews</NL>
+   2 3	27	24	σύμβασις	an agreement	is_ews</NL>
+   1 3	23	24	πάτριος	of one’s father	os_on</NL>
+   1 3	20	24	προσβολή	a putting to	h_hs</NL>
+   1 3	17	24	ἐμπειρία	experience	h_hs</NL>
+   1 3	17	24	Σπάρτη	Sparta	h_hs</NL>
+   2 3	155	24	σπονδή	drink-offering; (pl.) truce	h_hs</NL>
+   1 3	14	24	πανστρατιά	a levy of the whole army	h_hs</NL>
+   3 3	14	24	οἴκημα	any inhabited place	ma_matos</NL>
+   1 2	8	16	ὅσιος	hallowed	os_on</NL>
+   1 2	6	16	πηλός	clay	os_ou</NL>
+   2 2	5	16	θύρα	a door	h_hs</NL>
+   1 2	48	16	ἐχθρός	hated	os_h_on</NL>
+   1 2	4	16	ὑποζύγιον	a beast for the yoke	os_ou</NL>
+   1 2	4	16	ὕπνος	sleep	os_ou</NL>
+   1 2	3	16	τοῖχος	the wall of a house	os_ou</NL>
+   2 2	3	16	μοχλός	a bar	os_ou</NL>
+   2 2	3	16	ὑετός	rain	os_ou</NL>
+   1 2	28	16	ἔαρ	spring	r_ros</NL>
+   1 2	26	16	ἀγορά	an assembly of the people	h_hs</NL>
+   1 2	24	16	λίθος	a stone	os_ou</NL>
+   1 2	20	16	σύμφορος	accompanying; suitable	os_on</NL>
+   1 2	20	16	Βοιωτία	Boeotia	h_hs</NL>
+   2 2	2	16	Εὐρύμαχος	Eurymachus	os_ou</NL>
+   2 2	17	16	ἄγγελος	a messenger	os_ou</NL>
+   1 2	15	16	θόρυβος	a noise	os_ou</NL>
+   1 2	14	16	φοβερός	fearful	os_h_on</NL>
+   1 2	13	16	δέκατος	tenth	os_h_on</NL>
+   1 2	10	16	ἄμαξα	a wagon	a_hs</NL>
+   1 1	9	8	Πυθόδωρος	pr.n.	os_ou</NL>
+   1 1	8	8	ἕκτος	sixth	os_h_on</NL>
+   1 1	7	8	κήρυγμα	that which is cried by a herald	ma_matos</NL>
+   1 1	7	8	Θῆβαι	Thebes (usu. plural)	h_hs</NL>
+   1 1	5	8	τριακονταετής	nodef	hs_es</NL>
+   1 1	5	8	ἀκόντιον	javelin	os_ou</NL>
+   1 1	4	8	οἰκέτης	a house-slave	hs_ou</NL>
+   1 1	4	8	σποράς	scattered	s_dos</NL>
+   1 1	4	8	Χρυσίς	Chrysis	is_idos</NL>
+   1 1	3	8	κέραμος	potter's earth	os_ou</NL>
+   1 1	3	8	σκότος	darkness	os_ou</NL>
+   1 1	3	8	ἔσοδος	a way in	os_ou</NL>
+   1 1	3	8	κραυγή	a crying	h_hs</NL>
+   1 1	20	8	φρουρός	a watcher	os_ou</NL>
+   1 1	20	8	ἔφορος	an overseer	os_ou</NL>
+   1 1	2	8	ἐπιχειρητέον	one must attempt	verb_adj2</NL>
+   1 1	2	8	νεώτερος	younger	os_h_on</NL>
+   1 1	2	8	ἄλλῃ	in another place	art_adj</NL>
+   1 1	14	8	ἀγγελία	a message	h_hs</NL>
+   1 1	13	8	ἅλωσις	a taking	is_ews</NL>
+   1 1	11	8	πέμπτος	the fifth	os_h_on</NL>
+   1 1	11	8	βραδύς	slow	os_h_on</NL>
+   1 1	1	8	περίορθρος	towards morning	os_on</NL>
+   1 1	1	8	ὑπεναντίος	set over against	os_h_on</NL>
+   1 1	1	8	Πυθάγγελος	pr.n.	os_ou</NL>
+   1 1	1	8	Ὀνητορίδης	nodef	hs_ou</NL>
+   1 1	1	8	Ναυκλείδης	Nauclides	hs_ou</NL>
+   1 1	1	8	Λεοντιάδης	Leontiades	hs_ou</NL>
+   1 1	1	8	στυράκιον	the spike at the lower end of a spear-shaft	os_ou</NL>
+   1 1	1	8	Διέμπορος	Diemporus	os_ou</NL>
+   1 1	1	8	διαβατός	to be crossed	os_h_on</NL>
+   1 1	1	8	Φυλεΐδης	son of Phyleus	hs_ou</NL>
+   1 1	1	8	Αἰνησίας	Aenesias	hs_ou</NL>
+   1 1	1	8	ὀλολυγή	any loud cry	h_hs</NL>
+   1 1	1	8	πέλεκυς	an axe	us_uos</NL>
+   1 1	1	8	βάλανος	an acorn	os_ou</NL>
+   1 1	1	8	Ἀσωπός	Asopus	os_ou</NL>
+   1 1	1	8	φάος	light	irreg_decl3</NL>

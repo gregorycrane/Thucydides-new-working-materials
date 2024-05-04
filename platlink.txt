@@ -1,0 +1,6 @@
+Source	Transliteration	Classification	
+Topos Translation	Plataea	2.2	place	382233PPla	long="23.2733" lat="38.2213
+Perseus Greek	Plataia	2.2.1	place	Πλάταια	Πλάταιαν	fem:acc	
+fuzzmatch	86
+decision	keep 
+

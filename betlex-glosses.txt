@@ -1,0 +1,7236 @@
+1	transportare	9
+2	omnino	8
+3	mittere	8
+4	exspectare	7
+5	aperte	7
+6	relinquere	7
+7	colligere	6
+8	solvere	6
+9	opem ferre	6
+10	pertinere	6
+11	adhortatio	6
+12	parare	6
+13	valere	6
+14	insolescere	6
+15	afferre	6
+16	convenire	6
+17	conciliare	6
+18	fortis	5
+19	abducere	5
+20	existimare	5
+21	securitas	5
+22	extimescere	5
+23	eligere	5
+24	collectio	5
+25	ignavia	5
+26	exigere	5
+27	fortitudo	5
+28	experiri	5
+29	finitimus	5
+30	praesidium	5
+31	in posterum	5
+32	cedere	5
+33	premi	5
+34	accedere	5
+35	intelligere	5
+36	accusare	5
+37	persequi	5
+38	exsequi	5
+39	auxilia	5
+40	constituere	5
+41	expellere	5
+42	permanere	5
+43	deponere	5
+44	descendere	5
+45	reliquus	5
+46	conspicuus	5
+47	ducere	4
+48	adducere	4
+49	incertus	4
+50	emittere	4
+51	suscipere	4
+52	reverti	4
+53	versari	4
+54	recessus	4
+55	deplorare	4
+56	recta	4
+57	nobilis	4
+58	existimatio	4
+59	discedere	4
+60	unusquisque	4
+61	interficere	4
+62	dimittere	4
+63	defectio	4
+64	effugere	4
+65	imperium	4
+66	vicissim	4
+67	proficisci	4
+68	comprobare	4
+69	animus	4
+70	transitus	4
+71	conservare	4
+72	fossa	4
+73	copia	4
+74	deprehendere	4
+75	adoriri	4
+76	dicere	4
+77	progredi	4
+78	polliceri	4
+79	advocare	4
+80	ingredi	4
+81	imponere	4
+82	cura	4
+83	confirmare	4
+84	advenire	4
+85	accipere	4
+86	irasci	4
+87	clades	4
+88	audacia	4
+89	appellere (<hi rend="italic">navem</hi>)	4
+90	deducere	4
+91	appulsus	4
+92	instrui	4
+93	contemptus	4
+94	adire	4
+95	pacisci	4
+96	accidere	4
+97	munitio	4
+98	ad paucorum imperium	4
+99	ulterius	4
+100	proponere	4
+101	suspicari	4
+102	nuntiare	3
+103	ignarus	3
+104	anceps	3
+105	occultus	3
+106	insolentia	3
+107	solvere (<hi rend="italic">navem</hi>)	3
+108	causa	3
+109	repente	3
+110	comitari	3
+111	molestus	3
+112	revera	3
+113	vires	3
+114	simul	3
+115	cogere	3
+116	necessitas	3
+117	inscribere	3
+118	revocare	3
+119	asportare	3
+120	repelli	3
+121	impensa	3
+122	recordari	3
+123	sententiam mutare	3
+124	attollere	3
+125	interrogare	3
+126	prohibere	3
+127	flos	3
+128	posteri	3
+129	restituere	3
+130	opponere	3
+131	assequi	3
+132	inutilis	3
+133	consentaneus	3
+134	velle	3
+135	abscedere	3
+136	decipere	3
+137	abesse	3
+138	deesse	3
+139	ostendere	3
+140	vendere	3
+141	mori	3
+142	colonus	3
+143	cunctari	3
+144	receptus	3
+145	respondere	3
+146	asper	3
+147	usus	3
+148	paulum abesse	3
+149	perdere	3
+150	indigere	3
+151	dispergi	3
+152	privare	3
+153	subtrahere	3
+154	missio	3
+155	detrahere	3
+156	circummunitio	3
+157	numerus	3
+158	diripere	3
+159	veteres	3
+160	aegrotare	3
+161	uter	3
+162	augere	3
+163	sua sponte	3
+164	deserere	3
+165	excedere	3
+166	pondus	3
+167	certo	3
+168	tarditas	3
+169	cibaria	3
+170	terra,	3
+171	implere	3
+172	senex	3
+173	periculum	3
+174	impetus	3
+175	huc	3
+176	deinde	3
+177	velle,	3
+178	publice	3
+179	traiicere	3
+180	ordinare	3
+181	cunctatio	3
+182	transmittere	3
+183	circumspicere	3
+184	praestare	3
+185	poenas dare	3
+186	iudicium	3
+187	exspectatio	3
+188	optimates	3
+189	prope	3
+190	excitare	3
+191	invadere	3
+192	inclinari	3
+193	iure, merito	3
+194	defectus	3
+195	comparare sibi	3
+196	indicium	3
+197	mercede conductus	3
+198	incidere	3
+199	ubi	3
+200	iniicere	3
+201	producere	3
+202	finis, exitus	3
+203	impellere	3
+204	inferre	3
+205	redire	3
+206	delectatio	3
+207	auxilium	3
+208	incursio	3
+209	victoria	3
+210	obtestari	3
+211	observare	3
+212	aggredi	3
+213	nominare	3
+214	aemulatio	3
+215	aditus	3
+216	benevolentia	3
+217	permittere	3
+218	prospicere	3
+219	collocare	3
+220	continere	3
+221	appellere	3
+222	aequam partem habere	3
+223	auctorem esse	3
+224	maxime	3
+225	operam dare	3
+226	famulus	3
+227	sepulcrum	3
+228	sepultura	3
+229	audax	3
+230	sacrificium	3
+231	morari	3
+232	demittere	3
+233	comburere	3
+234	infestare	3
+235	improbus	3
+236	male	3
+237	laborare	3
+238	componere	3
+239	instruere	3
+240	apparatus	3
+241	urgere	3
+242	confugere	3
+243	contemnere	3
+244	populari	3
+245	claudere	3
+246	communicare	3
+247	participem esse	3
+248	circuitus	3
+249	praecipere	3
+250	praedas agere	3
+251	oraculum	3
+252	molestia	3
+253	commodum	3
+254	disciplina	3
+255	longe	3
+256	magis	3
+257	mutare	3
+258	pars	3
+259	moderatio	3
+260	nondum	3
+261	monumentum	3
+262	cognatio	3
+263	conscribere	3
+264	propemodum	3
+265	spolia.	3
+266	tantillum	3
+267	cavere	3
+268	statio	3
+269	tectum	3
+270	cohortari	3
+271	exhibere	3
+272	plurimi	3
+273	superare	3
+274	incidere in	3
+275	maior pars	3
+276	in fugam vertere	3
+277	se recipere	3
+278	expeditionem facere	3
+279	oppidum	3
+280	antea	3
+281	praetendere	3
+282	praesidio esse	3
+283	cautio	3
+284	considerare	3
+285	agger	3
+286	exercitus	3
+287	locus	3
+288	tanto	3
+289	suspicio	3
+290	utilitas	3
+291	gloriari	2
+292	nimium	2
+293	vas	2
+294	nuntiari	2
+295	vicus	2
+296	repentinus	2
+297	discrimen	2
+298	iudicio contendere	2
+299	certatio	2
+300	commissio	2
+301	occulte	2
+302	violare	2
+303	violari	2
+304	in iniuriae loco ponere	2
+305	semper	2
+306	ab omni tempore,	2
+307	coacervatio	2
+308	littus	2
+309	castra movere	2
+310	expugnare	2
+311	a vertice	2
+312	anteponere	2
+313	expugnatio	2
+314	cognitio	2
+315	turpis	2
+316	erubescere	2
+317	dedecus	2
+318	rogare	2
+319	rogatio	2
+320	in culpa esse, accusari	2
+321	captivus	2
+322	capere	2
+323	remittere	2
+324	integer	2
+325	sine periculo	2
+326	iaculari	2
+327	iaculum	2
+328	audire	2
+329	invitus	2
+330	promontorium	2
+331	accurate	2
+332	auditio	2
+333	extremus	2
+334	illini	2
+335	verus	2
+336	verum	2
+337	debellari	2
+338	sceleratus	2
+339	commutare	2
+340	alii homines	2
+341	multi et alii	2
+342	alienare	2
+343	praesertim	2
+344	sine ratione	2
+345	expugnabilis	2
+346	inter	2
+347	simul cum,	2
+348	prima luce	2
+349	ubi illuxit	2
+350	plaustrum	2
+351	frustrari	2
+352	erratum, lapsus	2
+353	error	2
+354	negligere	2
+355	pugnare	2
+356	controversus	2
+357	ascendere	2
+358	necesse est	2
+359	tenuis	2
+360	edicere	2
+361	edocere	2
+362	edere	2
+363	ad sepulturam,	2
+364	vocare	2
+365	quaestionem habere	2
+366	inhibitio	2
+367	recuperare	2
+368	laxamentum	2
+369	sumptus facere	2
+370	impendere	2
+371	admonere	2
+372	requiescere	2
+373	exercere se	2
+374	imparatus	2
+375	perfringere	2
+376	confirmari	2
+377	colligere vasa	2
+378	sursum trahere	2
+379	regnare	2
+380	vastare	2
+381	conversio	2
+382	consecrare	2
+383	committere	2
+384	conspici	2
+385	domum reverti	2
+386	fortiter	2
+387	remissio	2
+388	sustinere	2
+389	tolerare	2
+390	captivos.	2
+391	resistere	2
+392	humanitus	2
+393	dementia	2
+394	aperire	2
+395	permutare	2
+396	referre, rependere	2
+397	prehensio	2
+398	contrarius	2
+399	hostis	2
+400	obstrepere	2
+401	e regione	2
+402	vindicare sibi	2
+403	adversarius	2
+404	desuper	2
+405	meritus	2
+406	honorari	2
+407	inermis	2
+408	renuntiare	2
+409	abstrahere,	2
+410	incolumis	2
+411	liberatio	2
+412	absumere	2
+413	obviam ire	2
+414	simplicitas	2
+415	abigere	2
+416	inconsiderate	2
+417	abstinere se	2
+418	transire (<hi rend="italic">ad hostes</hi>)	2
+419	discedere (<hi rend="italic">ex lite</hi>)	2
+420	diffidentia	2
+421	evenire, exitum habere	2
+422	respicere	2
+423	absumi, perire	2
+424	desperatio	2
+425	creare	2
+426	dicere (<hi rend="italic">sententiam</hi>)	2
+427	ostentare	2
+428	demonstratio	2
+429	recipere	2
+430	reddere	2
+431	solutio	2
+432	receptio	2
+433	periclitatio	2
+434	intercludere	2
+435	excludi	2
+436	enatare	2
+437	repellere	2
+438	occultare	2
+439	capite multare	2
+440	intercipere	2
+441	frui	2
+442	absistere	2
+443	omittere	2
+444	electus	2
+445	perire	2
+446	liberare	2
+447	sine labore	2
+448	tentare, experiri	2
+449	explere	2
+450	difficultas	2
+451	in incerto	2
+452	privatio	2
+453	praecludere	2
+454	effugium	2
+455	sufficienter	2
+456	otium	2
+457	reiicere,	2
+458	procul	2
+459	optime	2
+460	prandere	2
+461	fortissimus	2
+462	maxime idoneus	2
+463	antiquitus	2
+464	incipere	2
+465	ducem esse	2
+466	sub imperio esse	2
+467	magistratus	2
+468	salutaris	2
+469	dubie	2
+470	infirmitas, imbecillitas	2
+471	aegrotatio	2
+472	civis	2
+473	tuto	2
+474	perturbatio	2
+475	infamia	2
+476	ignominia	2
+477	rursus	2
+478	porro	2
+479	fistula	2
+480	confestim, repente	2
+481	praesens tempus	2
+482	illinc	2
+483	sui iuris	2
+484	ut servos suos fugitivos quaerant.	2
+485	illuc	2
+486	siccitas	2
+487	finem facere	2
+488	delere	2
+489	opulentus	2
+490	molestia, dolor	2
+491	altitudo	2
+492	gravis	2
+493	vehemens	2
+494	victus	2
+495	vivere	2
+496	impedire	2
+497	clamor	2
+498	verbo tenus	2
+499	alere	2
+500	malle,	2
+501	tarde	2
+502	tardus	2
+503	paululum	2
+504	paulatim	2
+505	brevitas	2
+506	aetas	2
+507	generositas	2
+508	gens	2
+509	senior	2
+510	terra	2
+511	effici	2
+512	haberi,	2
+513	agnoscere	2
+514	errare	2
+515	lingua	2
+516	contra rationem	2
+517	sententia	2
+518	epistola	2
+519	metus	2
+520	vespera	2
+521	pavor	2
+522	opus esse	2
+523	decere	2
+524	in vincula coniicere	2
+525	coenare	2
+526	carcer	2
+527	alter	2
+528	inferior	2
+529	imperata	2
+530	percipere	2
+531	publicare	2
+532	in concione	2
+533	vastare, populari	2
+534	transire	2
+535	invidiose	2
+536	deliberare	2
+537	traducere	2
+538	degere	2
+539	decertare	2
+540	distribuere	2
+541	per vices	2
+542	inter se partiri	2
+543	suspectus	2
+544	conturbare	2
+545	transportatio	2
+546	exornare	2
+547	distare	2
+548	intermitti,	2
+549	dissolvere	2
+550	impleri	2
+551	curare	2
+552	celeriter,	2
+553	atterere	2
+554	interesse	2
+555	profligari	2
+556	pernicies	2
+557	strages	2
+558	inimicitia, odium	2
+559	mutatio	2
+560	hiemare	2
+561	offerre	2
+562	percurrere	2
+563	festum diem celebrare	2
+564	iure	2
+565	iudex	2
+566	deserto vadimonio	2
+567	dupliciter	2
+568	sitis	2
+569	opinio	2
+570	praeter exspectationem	2
+571	in servitutem redigere	2
+572	falx	2
+573	urinari	2
+574	pro viribus	2
+575	copiae	2
+576	potentia	2
+577	malevolus	2
+578	accessu difficilis	2
+579	adversa fortuna uti	2
+580	patiens,	2
+581	quadratus	2
+582	constitui	2
+583	obstringere	2
+584	instare	2
+585	firmus	2
+586	firme	2
+587	pugio	2
+588	tradere	2
+589	voluntarius	2
+590	ut probabile est	2
+591	facere	2
+592	consuetudo	2
+593	ubique	2
+594	quaeque domus	2
+595	impetum facere	2
+596	illic	2
+597	agere	2
+598	fructum percipere	2
+599	declinare	2
+600	exportare	2
+601	excidere	2
+602	obtinere, praevalere	2
+603	emissio	2
+604	eruptionem facere	2
+605	subministrare	2
+606	castra locare	2
+607	extra	2
+608	excogitare	2
+609	pauciores	2
+610	minus	2
+611	superari, victum discedere	2
+612	iter facere	2
+613	minime	2
+614	arguere	2
+615	exponere	2
+616	impedimentum	2
+617	inhabitare	2
+618	ex aperto	2
+619	contra	2
+620	inopia	2
+621	manifestus	2
+622	apertissime	2
+623	domesticus	2
+624	afferre, praebere	2
+625	intus	2
+626	annuus	2
+627	annus	2
+628	insistere	2
+629	incola	2
+630	tunc	2
+631	tum vero	2
+632	intra, citra	2
+633	licere	2
+634	I,	2
+635	expeditio	2
+636	habitari	2
+637	exules	2
+638	praeter	2
+639	extra fines	2
+640	in suffragia mittere	2
+641	impellere, excitare	2
+642	criminari	2
+643	insequi	2
+644	exaudire	2
+645	opitulari	2
+646	reducere	2
+647	supervenire	2
+648	praeterea	2
+649	ultra	2
+650	obsequi	2
+651	inhibere	2
+652	obtestari, obsecrare	2
+653	insidiari	2
+654	consilium capere	2
+655	adscribere	2
+656	significare	2
+657	aequus	2
+658	moderatus	2
+659	deprecari	2
+660	cupere	2
+661	cupiditas	2
+662	obsidere	2
+663	adhortari	2
+664	periculosus	2
+665	inundare	2
+666	auxilio venire	2
+667	auxiliator	2
+668	superior	2
+669	deficere	2
+670	commercium habere, commeare	2
+671	navale	2
+672	consilium inire	2
+673	facultas impetus faciendi	2
+674	instruere (<hi rend="italic">navem</hi>)	2
+675	mandare	2
+676	imperare	2
+677	accelerare	2
+678	munitio in agro hostili	2
+679	amicus, familiaris	2
+680	omen	2
+681	invidia	2
+682	aggressio	2
+683	prospectus	2
+684	nomen	2
+685	collatio	2
+686	remex	2
+687	munitus	2
+688	introducere	2
+689	in naves imponere	2
+690	impetus, aggressio	2
+691	vestis	2
+692	in concionem	2
+693	prudens	2
+694	felicitas	2
+695	expeditus	2
+696	deinceps	2
+697	cubile	2
+698	in Ath	2
+699	prudentius	2
+700	parsimonia	2
+701	prospere succedere	2
+702	vota nuncupare	2
+703	appetere	2
+704	dare.	2
+705	simultates	2
+706	habitare	2
+707	obtinere	2
+708	in animo habere	2
+709	servare	2
+710	se habere,	2
+711	odium	2
+712	inimicitia	2
+713	inimicus	2
+714	validus	2
+715	aemulari	2
+716	mulcta	2
+717	damno affici	2
+718	conari	2
+719	ordo	2
+720	congregari	2
+721	gratia	2
+722	quotidie	2
+723	consistere	2
+724	mari	2
+725	nauticus	2
+726	mors	2
+727	confidere	2
+728	spectare	2
+729	conspicere	2
+730	turbulentus	2
+731	tumultus	2
+732	ianua	2
+733	modus, ratio	2
+734	forma	2
+735	considere (<hi rend="italic">de exercitu</hi>)	2
+736	sedem habere	2
+737	supplicare	2
+738	ex aequo	2
+739	pari conditione	2
+740	vehementer	2
+741	fortasse	2
+742	demolitio	2
+743	sedere	2
+744	dormire	2
+745	monstrare viam	2
+746	considere	2
+747	fugam capessere	2
+748	reditus	2
+749	quomodo	2
+750	novus	2
+751	dolor	2
+752	fruges	2
+753	labores perferre	2
+754	condemnare	2
+755	frangere	2
+756	decurrere	2
+757	assentiri	2
+758	occupare	2
+759	deligere	2
+760	lapidibus obruere	2
+761	defigere	2
+762	prodere	2
+763	parari	2
+764	communiri	2
+765	speculatio	2
+766	speculator	2
+767	mansio	2
+768	subigere	2
+769	in custodiam tradere	2
+770	conterere	2
+771	deferre	2
+772	perfugium	2
+773	premere, coercere	2
+774	occupari	2
+775	denuntiare	2
+776	applicare (<hi rend="italic">navem</hi>)	2
+777	habitatio	2
+778	collocare, deducere	2
+779	frequentari incolis	2
+780	aestus	2
+781	tegula	2
+782	in periculum venire	2
+783	movere	2
+784	moveri	2
+785	motus	2
+786	sortiri	2
+787	sinus	2
+788	communiter	2
+789	res publica	2
+790	particeps	2
+791	atteri	2
+792	ferre, portare	2
+793	iactatio	2
+794	puella	2
+795	levamentum	2
+796	levis	2
+797	navem retro inhibere	2
+798	clam	2
+799	aedificatio	2
+800	actio circumveniendi	2
+801	decretum	2
+802	incurrere in	2
+803	militiae detrectatio	2
+804	pestilens	2
+805	post longum tempus	2
+806	testis	2
+807	bellicosus	2
+808	magnopere	2
+809	magnitudo	2
+810	in maius	2
+811	manere	2
+812	regio	2
+813	poenitentia	2
+814	migratio	2
+815	migrare	2
+816	concidere	2
+817	transferre	2
+818	tractare	2
+819	conscium esse	2
+820	mensura	2
+821	nusquam	2
+822	nullus, nemo	2
+823	nunquam	2
+824	non amplius	2
+825	parvus	2
+826	decem millia	2
+827	mysteria	2
+828	navalis	2
+829	res novare	2
+830	aedes	2
+831	nuper	2
+832	parva insula	2
+833	nunc	2
+834	noctu	2
+835	a tergo	2
+836	peregrinus	2
+837	venia	2
+838	convocare	2
+839	conglobari	2
+840	una condere	2
+841	convenire, pacisci	2
+842	coetus	2
+843	lignum	2
+844	evenire	2
+845	contingit,	2
+846	ad pactionem pertinens	2
+847	societas, foedus	2
+848	socii	2
+849	coniuratio	2
+850	una mittere	2
+851	concurrere, congredi	2
+852	contrahere	2
+853	comparare	2
+854	casus	2
+855	conciliatio	2
+856	conflare	2
+857	consentire	2
+858	una aggredi	2
+859	consilium, prudentia	2
+860	constare	2
+861	congressus	2
+862	confiteri	2
+863	coniecturam facere	2
+864	societas	2
+865	cominus	2
+866	iter	2
+867	unde	2
+868	arbitrari	2
+869	domum	2
+870	domus	2
+871	qualis	2
+872	sagitta	2
+873	paulum	2
+874	turba	2
+875	oculus	2
+876	iurare	2
+877	similis	2
+878	vicinitas	2
+879	praetextus	2
+880	fama	2
+881	celebrari	2
+882	in armis consistere (<gloss>clypeis ad genua positis	2
+883	armatura	2
+884	quantus	2
+885	vergere, spectare	2
+886	ira	2
+887	iusiurandum	2
+888	avis	2
+889	terminus	2
+890	timor	2
+891	fodere	2
+892	percutere	2
+893	olim	2
+894	in omnes partes	2
+895	proiicere	2
+896	imperatum	2
+897	decipi	2
+898	assidere	2
+899	praeparare	2
+900	praestare, efficere	2
+901	gerere se	2
+902	adequitare	2
+903	accolere	2
+904	accola	2
+905	paternus	2
+906	crassitudo	2
+907	pedestris	2
+908	pellicere	2
+909	quinquaginta annorum	2
+910	circumducere	2
+911	circumvehi	2
+912	applicare	2
+913	reliquum esse,	2
+914	superstitem esse, servari,	2
+915	superiorem esse,	2
+916	contingere	2
+917	circumdare	2
+918	reliquiae	2
+919	circumcludere	2
+920	castellum	2
+921	certus	2
+922	navigare	2
+923	vulgus	2
+924	agi	2
+925	in suam potestatem redigere	2
+926	edoceri	2
+927	docere	2
+928	sibi vindicare	2
+929	res bellicae	2
+930	ad bellum compellere	2
+931	obsidio	2
+932	varius	2
+933	multum	2
+934	plurimum	2
+935	plerique	2
+936	diutissime	2
+937	labor	2
+938	praebere	2
+939	flumen	2
+940	oportere	2
+941	legatio	2
+942	legatus	2
+943	prius perire	2
+944	praemitti	2
+945	praemittere	2
+946	procedere	2
+947	in ius vocare	2
+948	auspicari	2
+949	propugnare	2
+950	mandatum	2
+951	admovere	2
+952	adsciscere (<gloss>socios	2
+953	adipisci	2
+954	congredi	2
+955	imperare, iubere	2
+956	adhibere	2
+957	imponi	2
+958	amicus	2
+959	prior	2
+960	antevertere	2
+961	proponi	2
+962	proferre, allegare	2
+963	praesidiaria (<gloss>navis	2
+964	pugilatus	2
+965	rivus	2
+966	silentium	2
+967	tenebrae	2
+968	spolia	2
+969	libare	2
+970	festinatio	2
+971	festinanter	2
+972	stadium	2
+973	vallum	2
+974	angustiae	2
+975	militia	2
+976	militare	2
+977	salus	2
+978	sapere	2
+979	celeriter, brevi tempore	2
+980	coniectura	2
+981	attritus	2
+982	interea	2
+983	custodire	2
+984	custodiri	2
+985	custodia	2
+986	honor	2
+987	qualis mox dicetur	2
+988	triginta annorum	2
+989	tertia pars	2
+990	fuga	2
+991	subesse	2
+992	subire	2
+993	recordatio	2
+994	murus substructus	2
+995	posterior	2
+996	tardius venire	2
+997	parcere	2
+998	gratificari	2
+999	natura	2
+1000	frigidus	2
+1001	utilis	2
+1002	aurum	2
+1003	sine disquisitione	1
+1004	sine rege vivens	1
+1005	foedera sine fraude custodienda	1
+1006	sine fraude	1
+1007	consilii inopia	1
+1008	inconsultior	1
+1009	delicatus victus	1
+1010	bonus.	1
+1011	praestans, excellens in suo genere,	1
+1012	fortem,	1
+1013	omnino bonum	1
+1014	eximium se praebere,	1
+1015	honestus, innocens	1
+1016	viri fortis.	1
+1017	optimates.	1
+1018	bonos honestosque.	1
+1019	commodus,	1
+1020	prosperus	1
+1021	quod felix faustumque sit	1
+1022	probus	1
+1023	bonum, commodum	1
+1024	bonum, beneficium, officium	1
+1025	bono consilio,	1
+1026	cum alicuius emolumento	1
+1027	bona terrae,	1
+1028	gaudere, exsultare	1
+1029	simulacrum	1
+1030	indignari	1
+1031	indignalio	1
+1032	contentum esse	1
+1033	nuntius, res quae nuntiatur	1
+1034	maiora quam pro vero de nobis nuntientur.	1
+1035	nuntius	1
+1036	nuntius, is qui nuntiat	1
+1037	legati.	1
+1038	res quae nuntiatur	1
+1039	perducere (<hi rend="italic">in concionem</hi>)	1
+1040	ducere (<hi rend="italic">exercitum</hi>), <gloss>agere	1
+1041	iter facientes.	1
+1042	vehere (<hi rend="italic">curru</hi>)	1
+1043	ducere (<hi rend="italic">murum, fossam</hi>)	1
+1044	regere, moderari,	1
+1045	ducere, impellere	1
+1046	trahere, allicere	1
+1047	abducere, elicere	1
+1048	agere pacem	1
+1049	diem festum celebrare,	1
+1050	agile	1
+1051	uxorem ducere	1
+1052	senectutis expers	1
+1053	ancora	1
+1054	non agnoscere	1
+1055	ignorare	1
+1056	ignorantia	1
+1057	ignotus	1
+1058	ignoratio	1
+1059	forum	1
+1060	forum frequens	1
+1061	forum rerum venalium	1
+1062	in foro versari	1
+1063	haberi (<hi rend="italic">de oratione</hi>)	1
+1064	piaculum	1
+1065	non scriptus	1
+1066	non adscriptus foederi	1
+1067	feritas maior	1
+1068	agri	1
+1069	praedia, fundi	1
+1070	agrestis	1
+1071	insomnia	1
+1072	pene par	1
+1073	aequo Marte	1
+1074	perductio	1
+1075	profectio (<hi rend="italic">exercitus</hi>)	1
+1076	dux	1
+1077	ludicrum, ludi publici	1
+1078	ludos celebrare	1
+1079	contentio, certamen, proelium	1
+1080	proelium committere	1
+1081	contentio (<hi rend="italic">solertiae, opinionis</hi>)	1
+1082	actio forensis	1
+1083	anxietas	1
+1084	certare (<hi rend="italic">in ludis</hi>)	1
+1085	contendere, pugnare	1
+1086	eniti, contendere	1
+1087	praemium	1
+1088	facinus praeclarum	1
+1089	certator	1
+1090	certamini praeesse	1
+1091	metu vacuus, securus	1
+1092	non metuendus	1
+1093	maiorem securitatem	1
+1094	impunitas	1
+1095	dantes	1
+1096	obtinentem	1
+1097	canere	1
+1098	soror	1
+1099	filius fratris <hi rend="italic">vel</hi> sororis	1
+1100	frater	1
+1101	libera custodia	1
+1102	sine metu	1
+1103	iniuste agere	1
+1104	egisse,	1
+1105	iniuriam inferre	1
+1106	dum suas iniurias ulcisci volunt.	1
+1107	iniuriam pati	1
+1108	pati iniuriam inferri sibi.	1
+1109	ne laedantur.	1
+1110	delictum, iniuria	1
+1111	iniustitia, iniuria	1
+1112	iniustus, iniquus	1
+1113	iniuste	1
+1114	inopinatus	1
+1115	inopinata aggressio	1
+1116	de improviso	1
+1117	praeter opinionem	1
+1118	foedera sine dolo custodienda	1
+1119	sine dolo	1
+1120	existimatio mala	1
+1121	imbecillitas	1
+1122	facundiae inopia.	1
+1123	potestatem nullam habens, imbecillis	1
+1124	invalidus ad rem aliquam gerendam, qui non potest	1
+1125	quod fieri nequit	1
+1126	incorruptissimus	1
+1127	prout, ut quisque	1
+1128	alii aliis numero maiores.	1
+1129	quid quoque tempore sit opportunum.	1
+1130	ut quisque traiiciebat.	1
+1131	quidquid intentatum relinquebant.	1
+1132	in aeternum	1
+1133	cuius aeterna futura est memoria	1
+1134	multa vacuus, innoxius	1
+1135	luscinia	1
+1136	insolitus, insuetus	1
+1137	praeter consuetudinem	1
+1138	qui victus non fuit	1
+1139	athleta	1
+1140	tanquam athletae victori.	1
+1141	miserior	1
+1142	praemium (<hi rend="italic">certaminis</hi>)	1
+1143	non alium quempiam, nisi eum, qui victoriam illis praebuerit, pro praemio accipient.	1
+1144	cernere	1
+1145	in unum congregare	1
+1146	in unum congregatus, coniunctus, cunctus	1
+1147	animum despondere	1
+1148	animi deiectio	1
+1149	perpetuus	1
+1150	in perpetuum	1
+1151	PLUR pudenda	1
+1152	pudor	1
+1153	foeditas	1
+1154	maceria	1
+1155	cruentari	1
+1156	sanguine infectus,	1
+1157	sanguinolentus	1
+1158	tollere, extollere	1
+1159	bellum suscipere	1
+1160	per vim	1
+1161	impetu facto	1
+1162	primo clamore alque impetu	1
+1163	capere (<hi rend="italic">naves, captivos</hi>)	1
+1164	assequi,	1
+1165	sumere (<hi rend="italic">cibum, somnum</hi>)	1
+1166	partes amplecti	1
+1167	creare, designare	1
+1168	optio	1
+1169	electio (<hi rend="italic">magistratuum</hi>)	1
+1170	sentire	1
+1171	intelligere, animadvertere, cognoscere, audire,	1
+1172	certior factus	1
+1173	sensibus integris	1
+1174	sensus	1
+1175	significationem praebere	1
+1176	foedissimo	1
+1177	turpitudo	1
+1178	turpiter	1
+1179	dedecorare	1
+1180	ne tarditatis... vos pudeat.	1
+1181	dedecoris metuentes.	1
+1182	revereri	1
+1183	verecundia	1
+1184	poscere	1
+1185	mutuum petere	1
+1186	primus huius rei auctor est.	1
+1187	rei alicuius causa	1
+1188	reprehensio, criminatio	1
+1189	culpam in aliquem conferre	1
+1190	accusare aliquem	1
+1191	crimen	1
+1192	accusare, criminari	1
+1193	is qui rei alicuius auctor vel causa est	1
+1194	is in quo est culpa, accusandus, sons	1
+1195	id quod repentinum est	1
+1196	aevum	1
+1197	suspensum teneri	1
+1198	intempestivus	1
+1199	parva linter	1
+1200	linter	1
+1201	sine caduceatoris ministerio	1
+1202	periculo vacuus	1
+1203	immotus	1
+1204	non clausus	1
+1205	non vocatus	1
+1206	florere, vigere, adultum esse	1
+1207	flos, vigor	1
+1208	auditus	1
+1209	auditio, fama	1
+1210	auditiones, rumores	1
+1211	aures	1
+1212	licentia	1
+1213	sententiam sequi	1
+1214	pedisequus	1
+1215	sine ullo certamine	1
+1216	iaculo petiit.	1
+1217	iaculator	1
+1218	laudari, vituperari	1
+1219	non voluntarius	1
+1220	invite	1
+1221	praeter nullius voluntatem.	1
+1222	locus altior	1
+1223	impotens	1
+1224	immoderatus	1
+1225	diligenlia	1
+1226	accuratus, exactus	1
+1227	diligens, severus	1
+1228	citra ius summum.	1
+1229	ex omni parte perfectum	1
+1230	diligentem curam.	1
+1231	ut accurate loquamur.	1
+1232	severe, summo iure	1
+1233	indemnatus, indicta causa	1
+1234	dum belli eventus adhuc in incerto est.	1
+1235	ancipiti Marte	1
+1236	auscultare	1
+1237	obedire	1
+1238	obedientia	1
+1239	auditor	1
+1240	velitari	1
+1241	velitatio	1
+1242	primitiae manubiarum	1
+1243	arx	1
+1244	extrema	1
+1245	suprema pars,	1
+1246	extrema pars versiculi	1
+1247	extrema pars follis	1
+1248	extremae partes corporis	1
+1249	irritus	1
+1250	vagari	1
+1251	dolere	1
+1252	propulsare vim	1
+1253	veritas, verum	1
+1254	iustus	1
+1255	vere	1
+1256	molitus	1
+1257	minus expugnabilis	1
+1258	importuosus	1
+1259	expugnari	1
+1260	capi	1
+1261	comprehendi, deprehendi	1
+1262	virtus bellica	1
+1263	robur, firmitas	1
+1264	ad vim propulsandam se convertere	1
+1265	salire	1
+1266	in aliam partem	1
+1267	alia ratione	1
+1268	alibi,	1
+1269	alia via	1
+1270	alteri alteri alterorum, inter se	1
+1271	ambo simul.	1
+1272	mutuam	1
+1273	aliunde	1
+1274	alibi	1
+1275	alienior	1
+1276	alienatus est animus.	1
+1277	alienari	1
+1278	monstruosus, inauditus	1
+1279	rem inusitalae saevitiae.	1
+1280	alius	1
+1281	nil nisi, nihil aliud nisi,	1
+1282	alter, novus	1
+1283	non idem	1
+1284	caeterus, reliquus,	1
+1285	caetera pars	1
+1286	caeteri	1
+1287	caetera	1
+1288	praeter caetera.	1
+1289	caeteris in rebus	1
+1290	alio	1
+1291	alias	1
+1292	alienus	1
+1293	terra aliena	1
+1294	privantes.	1
+1295	alienatio	1
+1296	alienigena	1
+1297	aliter	1
+1298	alioquin	1
+1299	quum aliter	1
+1300	quum omnino	1
+1301	... tum	1
+1302	nequidquam	1
+1303	vanum nomen, nihil nisi nomen.	1
+1304	salsus, salmacidus	1
+1305	absurditas	1
+1306	inconsultus, inconsideratus	1
+1307	inconsulta ratio	1
+1308	inconsulte	1
+1309	absurdus	1
+1310	haud probabilis	1
+1311	spem fallens	1
+1312	catena	1
+1313	farina et puls hordacea	1
+1314	captura	1
+1315	post eos captos.	1
+1316	eodem tempore	1
+1317	una	1
+1318	quum convenissent.	1
+1319	praeterea, insuper, pariter	1
+1320	simul et... et, non solum... sed et	1
+1321	simul... simul, cum... tum	1
+1322	primo diluculo	1
+1323	ineunte vere	1
+1324	indoctus, imperitus	1
+1325	inscitia, imperitia	1
+1326	indocte	1
+1327	temere	1
+1328	impedimenta.	1
+1329	aberrare, falli	1
+1330	errare, per errorem labi	1
+1331	peccare, delinquere	1
+1332	aberratio	1
+1333	peccatum, delictum	1
+1334	culpa	1
+1335	culpam eluere.	1
+1336	sine testimonio	1
+1337	sine pugna	1
+1338	frangi	1
+1339	qui obcalluit	1
+1340	tardior	1
+1341	frangere ac debilitare	1
+1342	melior, praestanlior	1
+1343	id quod magis expedit	1
+1344	satius esse videtur	1
+1345	melius,	1
+1346	negligentia	1
+1347	negligenter	1
+1348	expers	1
+1349	in angustiis esse	1
+1350	qui sociari non potest	1
+1351	certamen, contentio	1
+1352	certare inter se, aemulari	1
+1353	de iis, inter quos commercium s. societas nulla est	1
+1354	pedites equitibus intermixti,	1
+1355	immemorem esse	1
+1356	cuius memoria deleta est	1
+1357	coniunctim, una,	1
+1358	quovis modo,	1
+1359	vitis	1
+1360	obscurus, exilis	1
+1361	defendere rem.	1
+1362	se defendere ab aliquo, propulsare aliquem	1
+1363	ulcisci	1
+1364	rependere, par pari referre	1
+1365	linter binis remis acta	1
+1366	qui telis undique petitur	1
+1367	telis undique peti	1
+1368	pro incertis habent.	1
+1369	victoria anceps	1
+1370	controversiae	1
+1371	quaestiones dubiae	1
+1372	amphora	1
+1373	utrique	1
+1374	ab utraque regione.	1
+1375	utraque res	1
+1376	terra marique	1
+1377	in utramque partem	1
+1378	sententiis discrepantes.	1
+1379	utraque parte	1
+1380	ratione,	1
+1381	terra marique.	1
+1382	duabus de causis.	1
+1383	utrinque	1
+1384	ab ora maritima in mediterraneas regiones proficisci	1
+1385	egerere	1
+1386	in aliud tempus differre	1
+1387	PASS, differri	1
+1388	ascensus	1
+1389	in navem imponere	1
+1390	exclamare	1
+1391	dilatio	1
+1392	ex acie reducere	1
+1393	ducere, celebrare	1
+1394	proficisci mari,	1
+1395	legere	1
+1396	recitavit	1
+1397	eo necessitatis venimus.	1
+1398	coaclus	1
+1399	quam committere cogimur.	1
+1400	necessarius	1
+1401	commoda, quae res et natura postulat.	1
+1402	minime curiosis rebus.	1
+1403	quia necesse est	1
+1404	coactus	1
+1405	necessario	1
+1406	per necessitatem	1
+1407	inscriptus	1
+1408	profectio (<hi rend="italic">navis</hi>)	1
+1409	viritim dividere	1
+1410	redimire, coronare	1
+1411	religare	1
+1412	religare ex suis navibus,	1
+1413	remulco trahere,	1
+1414	recipere, spondere	1
+1415	restituendus	1
+1416	movere, proficisci	1
+1417	inquirere	1
+1418	fiduciam recipere	1
+1419	donarium	1
+1420	examinatus	1
+1421	evertere	1
+1422	tollere, movere	1
+1423	respondere (<hi rend="italic">de oraculis</hi>)	1
+1424	recipere, colligere	1
+1425	tollere, colligere	1
+1426	non intelligens	1
+1427	non perceptus	1
+1428	stupor, negligentia	1
+1429	sine sensu, negligenter	1
+1430	impudenter agere	1
+1431	impudens	1
+1432	evocare ad se	1
+1433	suspensus, consecratus	1
+1434	repositus,	1
+1435	per praeconem proclamari	1
+1436	revellere, sursum attollendo convellere	1
+1437	invocatio	1
+1438	inhibere remis	1
+1439	diligenter observare	1
+1440	indutiae	1
+1441	retardatio	1
+1442	sumere secum, assumere	1
+1443	recipere (<hi rend="italic">in navem</hi>)	1
+1444	sumere (<hi rend="italic">copias</hi>)	1
+1445	recipere ad se	1
+1446	recipere, recuperare	1
+1447	sumere arma	1
+1448	expetere poenam	1
+1449	reficere se, convalescere	1
+1450	tardior ad irascendum	1
+1451	reparatio	1
+1452	reputare	1
+1453	reputatio	1
+1454	consumere	1
+1455	interimere	1
+1456	non captus	1
+1457	proelium instaurare	1
+1458	promiscue	1
+1459	indubitatus	1
+1460	renovare	1
+1461	renovatio	1
+1462	cui nemo se in certamine opponit	1
+1463	cui nullus obstat aemulus	1
+1464	indignus, qui non meruit	1
+1465	requiescere sinere	1
+1466	requies	1
+1467	remissio, laxamentum	1
+1468	perpellere, persuadere	1
+1469	in mediterranea mittere	1
+1470	infici (<hi rend="italic">morbo</hi>)	1
+1471	coneidere, animo frangi	1
+1472	recedunt	1
+1473	contrario flumine vebi	1
+1474	ad plenitudinem orbis sui redire	1
+1475	nullius imperio subiectus	1
+1476	in aleam dare	1
+1477	periculum subire,	1
+1478	nimia licentia, immodestia	1
+1479	sursum quassare	1
+1480	compilare	1
+1481	expendere	1
+1482	subductas.	1
+1483	aquam e puteo bauslam.	1
+1484	revellere	1
+1485	actio exsurgendi	1
+1486	profectio	1
+1487	ex agris in urbem.	1
+1488	sedibus suis pulsus	1
+1489	in crucem tolli	1
+1490	reprimere, submovere	1
+1491	subvertere	1
+1492	convertere se	1
+1493	rem non amplius tolerandam indicare	1
+1494	attribuere	1
+1495	cursu ascendere	1
+1496	erigere, reereare	1
+1497	referre	1
+1498	sursum portare	1
+1499	recedere, redire	1
+1500	tergiversabatur.	1
+1501	canere recessui	1
+1502	facto foedere, abeundi facultatem dare	1
+1503	de recessu decernere	1
+1504	refugium, perfugium,	1
+1505	mittere denuo in suffragia	1
+1506	fortitudinem expedire, exhibere	1
+1507	probitas	1
+1508	probitatis nomen sectari	1
+1509	sub hasta vendere, in servitutem redigere	1
+1510	suas servas fecerunt	1
+1511	mancipatio	1
+1512	propter suos in servitutem traditos.	1
+1513	mancipium	1
+1514	III,	1
+1515	fortitudo,	1
+1516	statua	1
+1517	in augustum compelli	1
+1518	remissus	1
+1519	remisse	1
+1520	exitu carens	1
+1521	tolerandus	1
+1522	de quo nulla est habita quaestio	1
+1523	a nullo refutatus	1
+1524	a mari in terram	1
+1525	subducere navem	1
+1526	qui non sperat 	1
+1527	exspectat aliquid futurum,	1
+1528	nunquam in minore spe fuerunt.	1
+1529	insperatus, praeter spem accidens	1
+1530	quod sperari nequit	1
+1531	spei defectus	1
+1532	ad desperationem.	1
+1533	ventus	1
+1534	nullis argumentis comprobatus	1
+1535	incompertus	1
+1536	sine molestia	1
+1537	vacuitas ab insidiis	1
+1538	iniquior	1
+1539	sine criminatione	1
+1540	non obnoxius	1
+1541	imperitia	1
+1542	imperitus	1
+1543	nemini mancipatus	1
+1544	parum idoneus	1
+1545	ab omni invidia remotus	1
+1546	crimini dari non potest,	1
+1547	sine invidia	1
+1548	irritari, concitari	1
+1549	rationibus reddendis non obnoxius	1
+1550	comperiri	1
+1551	diffidens sibi ipsi	1
+1552	morari,	1
+1553	eminere, prominere	1
+1554	consobrinus	1
+1555	insanabilis	1
+1556	non parere	1
+1557	vir	1
+1558	vir bonus et fortis	1
+1559	virum fortem se praebere	1
+1560	cum ipsis hominibus,	1
+1561	amicorum.	1
+1562	imperatorem.	1
+1563	hospitem.	1
+1564	tirones.	1
+1565	quinqueviri	1
+1566	sufficere	1
+1567	capessere, curam suscipere	1
+1568	florere	1
+1569	capessendum	1
+1570	retrahere	1
+1571	vicisssim cedere	1
+1572	ex adverso slatuere, opponere	1
+1573	parum prospere cedere	1
+1574	stationem adversam habere	1
+1575	carbo	1
+1576	humanus, ad hominem pertinens	1
+1577	hominis naturae consentaneus	1
+1578	humana natura, homines	1
+1579	humanus	1
+1580	homo	1
+1581	incolae,	1
+1582	custodes,	1
+1583	ii, qui vehuntur,	1
+1584	populi,	1
+1585	homines,	1
+1586	vicissim in ius vocare	1
+1587	vicissim in suspicionem incidere	1
+1588	ascendere (<hi rend="italic">ab ora maritima in mediterraneas regiones</hi>)	1
+1589	remittere, omittere, negligere	1
+1590	cessare ab	1
+1591	ad surgendum permovere (<hi rend="italic">supplicem</hi>)	1
+1592	excitare (<hi rend="italic">copias ad bellum</hi>)	1
+1593	proficisci iubere,	1
+1594	expellere, sedibus pellere	1
+1595	surgere	1
+1596	castra movere, proficisci	1
+1597	expelli, sedibus suis pelli, commigrare in aliam regionem	1
+1598	migrationibus obnoxia.	1
+1599	sol oriens	1
+1600	exaequatio	1
+1601	dementia est,	1
+1602	remotius a mari habitatum se conferre	1
+1603	restituere (<hi rend="italic">muros</hi>)	1
+1604	gemitum edere	1
+1605	apertio	1
+1606	tractus in altum	1
+1607	legum violatio	1
+1608	non pariter	1
+1609	nefarius	1
+1610	nefario	1
+1611	morbis vacuus	1
+1612	obluctari	1
+1613	concertare	1
+1614	contra attollere	1
+1615	vicissim poscere	1
+1616	quum, permutato more, Lacedaemonii e terra quasi navalem pugnam, Athenienses e navibus pedestrem, facerent	1
+1617	vim sibi illatam propellere et ulcisci	1
+1618	adversus hostem in altum ducere	1
+1619	adversus hostem provehi	1
+1620	vicissim exspectare	1
+1621	ex adverso surgere	1
+1622	vicissim requirere	1
+1623	vicissim repetere	1
+1624	par pari.	1
+1625	mutua redditio	1
+1626	vicissim ostendere	1
+1627	parem esse ad resistendum	1
+1628	classe obviam exire	1
+1629	denuo sperare	1
+1630	alterius loco in navem imponere	1
+1631	adversa navium statio	1
+1632	obviam hostibus copias ducere	1
+1633	vicissim aciem extendere	1
+1634	ex adverso procurrere	1
+1635	aggredientibus hostibus obviam exire	1
+1636	vicissim insidiari	1
+1637	aggredientibus hostibus obviam ire	1
+1638	vicissim imperare	1
+1639	munitiones munitionibus opponere	1
+1640	vicissim mandare	1
+1641	obdurare	1
+1642	permanere, suppetere	1
+1643	applicare se, operam dare	1
+1644	anterides, tibicines	1
+1645	missilia vicissim coniicere	1
+1646	opem vicissim ferre	1
+1647	ex altera parte auxiliari	1
+1648	obsecratio	1
+1649	rescribi	1
+1650	poenas vicissim dare	1
+1651	castra ex adverso ponere	1
+1652	restituere, reponere	1
+1653	adversa acie consistere	1
+1654	adversarium esse	1
+1655	vicissim iubere	1
+1656	secus cedere	1
+1657	vicissim capere	1
+1658	vicissim accipere	1
+1659	prebendere	1
+1660	capessere	1
+1661	contra dicere	1
+1662	non negare,	1
+1663	mutua acceptio	1
+1664	controversia, disceptatio	1
+1665	contra pugnare	1
+1666	vicissim cunctari	1
+1667	vicissim machinari	1
+1668	adversariorum imitatio	1
+1669	naves vicissim aedificare	1
+1670	in navium aedificatione vicissim machinari.	1
+1671	viribus par	1
+1672	aequatus, respondens	1
+1673	mutuns timor.	1
+1674	virium aequabilitas	1
+1675	res aequare	1
+1676	id quod aemulum est	1
+1677	aequatis viribus	1
+1678	vicissim excitare	1
+1679	vicissim hortari	1
+1680	vicissim infestare	1
+1681	ex adverso praetervehi	1
+1682	vicissim parare se	1
+1683	adversus apparatus	1
+1684	ex adverso copias in aciem educere	1
+1685	acie contra instructa	1
+1686	vicissim praebere	1
+1687	vicissim pati	1
+1688	contra mittere	1
+1689	in alterius locum mittere	1
+1690	obviam navigare	1
+1691	vicissim complere (<hi rend="italic">naves</hi>)	1
+1692	bellum vicissim inferre	1
+1693	inter se bellare,	1
+1694	vicissim obsidere	1
+1695	legatos vicissim mittere	1
+1696	obviam progredi	1
+1697	proram hostibus obversam habens	1
+1698	parem esse	1
+1699	hostium praetor	1
+1700	castra ex adverse ponere	1
+1701	vicissim confirmare	1
+1702	aciei adversus hostes instructio	1
+1703	ex adverso aciem instruere	1
+1704	oppositos, ex adverso instructos esse,	1
+1705	vires oppositae	1
+1706	munitio opposita	1
+1707	adversa machinatio	1
+1708	obiicere.	1
+1709	vicissim ulcisci	1
+1710	contra audere, audaciam audaciae opponere	1
+1711	vicissim adipisci	1
+1712	mutua cautio	1
+1713	contrarium suffragium ferre	1
+1714	vicissim miserari	1
+1715	nomen mutare	1
+1716	accepti beneficii gratiam debere	1
+1717	aquae inopia	1
+1718	minus suspectus	1
+1719	sine suspicione	1
+1720	proficere	1
+1721	viam conficere	1
+1722	sursum	1
+1723	in summo muro.	1
+1724	in superiorem Asiam	1
+1725	superiorem Asiam versus	1
+1726	urbs superior,	1
+1727	protrudere	1
+1728	qui in superiori loco versantur,	1
+1729	superne	1
+1730	coelitus	1
+1731	inaequalitas	1
+1732	noxius, gravis	1
+1733	aequum, meritum	1
+1734	dignitas	1
+1735	memoratu dignus	1
+1736	alicuius pretii.	1
+1737	par ad resistendum	1
+1738	dignus 	1
+1739	i. q.	1
+1740	magni, parvi pretii	1
+1741	qui meretur,	1
+1742	dignus,	1
+1743	aequum est,	1
+1744	aequum censere, postulare, petere	1
+1745	audere	1
+1746	contendere, affirmare	1
+1747	dignum haberi	1
+1748	existimari	1
+1749	indignum iudicare, nolle	1
+1750	satis amplus	1
+1751	satis idoneus	1
+1752	diguitas	1
+1753	species	1
+1754	digne	1
+1755	convenienter, modo consentaneo	1
+1756	dignatio, dignitas	1
+1757	existimationem	1
+1758	postulatio, petitio	1
+1759	significatio	1
+1760	tumultuarius	1
+1761	conditionum pacis detrectatio	1
+1762	incommodus, perniciosus	1
+1763	detrimentum	1
+1764	imprudentia, ineptia	1
+1765	imprudens, ineptus	1
+1766	imperitiores.	1
+1767	incompositus	1
+1768	cantus	1
+1769	vates, poeta	1
+1770	impiger	1
+1771	nullis terminis definitus	1
+1772	nuntiatio	1
+1773	deducere, removere	1
+1774	auferre (<hi rend="italic">mortuos</hi>)	1
+1775	debitum solvere	1
+1776	interdicere, vetare	1
+1777	defatigari	1
+1778	suspendere se	1
+1779	illiberalitas	1
+1780	ancoram solvere, proficisci	1
+1781	repetere	1
+1782	deplorandi finem facere	1
+1783	discessio	1
+1784	cupere liberari	1
+1785	dimittere, missum facere	1
+1786	amovere	1
+1787	alterius locum supplere	1
+1788	liberari	1
+1789	finem facere, abstinere	1
+1790	decedere, defungi	1
+1791	liberum, alienum esse	1
+1792	removere	1
+1793	e sedibus suis migrare	1
+1794	obsidionem solvere	1
+1795	obviam fieri	1
+1796	occurrere, in locum praestitutum convenire	1
+1797	semel	1
+1798	indignum habere	1
+1799	implacabiliter	1
+1800	non advocatus	1
+1801	deturbare	1
+1802	displicere	1
+1803	computatio, enumeratio	1
+1804	renuere	1
+1805	suspendi, pendere	1
+1806	primitiae	1
+1807	cunctus, omnis	1
+1808	omnes (<hi rend="italic">nullo excepto</hi>)	1
+1809	de summa rerum.	1
+1810	dolus	1
+1811	qui sedari nequit	1
+1812	transfugere	1
+1813	planus	1
+1814	parum obediens	1
+1815	immerito	1
+1816	minari	1
+1817	minae	1
+1818	remotorum	1
+1819	arcere	1
+1820	imperitia, experientiae defectus	1
+1821	i. e. belli, quod expertus non sit.	1
+1822	imperitus, inexpertus	1
+1823	imperitius	1
+1824	sine fine	1
+1825	quum nihil efficeretur.	1
+1826	negligens	1
+1827	inconsideratus	1
+1828	excoctum aurum, obrussa probatum	1
+1829	abesse, distare	1
+1830	in odium venire	1
+1831	subsolanus	1
+1832	mittere,	1
+1833	abire	1
+1834	dimilti	1
+1835	fidem non habere, non credere, in dubium vocare	1
+1836	diffidere	1
+1837	in dubium venire	1
+1838	dubitatio	1
+1839	incredibilis	1
+1840	qui parum obtinet fidei	1
+1841	infidus	1
+1842	diffidens	1
+1843	incredibiliter	1
+1844	diffidenter	1
+1845	forliter abnegare	1
+1846	navigandi difficultas, adversa tempestas	1
+1847	inhabilis ad navigandum	1
+1848	simplex	1
+1849	ut paucis complectar, postremo	1
+1850	prorsus	1
+1851	scalae, quibus fit descensio e navi	1
+1852	escendere, exire	1
+1853	praebere se	1
+1854	eventus	1
+1855	amittere	1
+1856	exscensio (<hi rend="italic">e navi</hi>)	1
+1857	in appulsu littoris.	1
+1858	exscensionem facere	1
+1859	per vim exscensionem facere	1
+1860	locus ad exscensionem aptus	1
+1861	exponere (<hi rend="italic">in terram</hi>)	1
+1862	moriens	1
+1863	mortuus	1
+1864	portio avulsa	1
+1865	demonstrare, comprobare	1
+1866	septingenta.	1
+1867	admittere, probare	1
+1868	peregrinator	1
+1869	urbem captam.	1
+1870	efficere ut reddatur,	1
+1871	dare, concedere	1
+1872	reddere (<hi rend="italic">litteras</hi>)	1
+1873	referre (<hi rend="italic">gratiam</hi>)	1
+1874	rependere,	1
+1875	solvere, pendere	1
+1876	clam aufugere	1
+1877	pellere	1
+1878	redditio	1
+1879	vestem deponere	1
+1880	vitam tolerare	1
+1881	eminus	1
+1882	apotheca, receptaculum	1
+1883	capite multari.	1
+1884	occidi	1
+1885	in acie cadere	1
+1886	mortui, occisi	1
+1887	longius habitare	1
+1888	colonia	1
+1889	coloniam deducere	1
+1890	constitnere	1
+1891	deducendam edicere	1
+1892	missa colonia condere (<hi rend="italic">urbem</hi>)	1
+1893	obstruere, obsepire	1
+1894	egestio	1
+1895	decutere	1
+1896	periculum subire	1
+1897	in periculum committi	1
+1898	claudere,	1
+1899	quominus exirent.	1
+1900	occludi	1
+1901	sorte legere	1
+1902	obstructio,	1
+1903	interclusio	1
+1904	exclusio	1
+1905	detreclare	1
+1906	metu desistere	1
+1907	detreclatio	1
+1908	reverti, se recipere	1
+1909	abruptus	1
+1910	separari, discedere	1
+1911	secedere (<hi rend="italic">in aliud</hi>)	1
+1912	converti,	1
+1913	responsio	1
+1914	abscondere se, e conspectu abire	1
+1915	secernere, seligere	1
+1916	deserere (<hi rend="italic">stationem</hi>)	1
+1917	relinquere (<hi rend="italic">foedus</hi>)	1
+1918	derelictio	1
+1919	quod nostri nos deseruerint.	1
+1920	interceptio	1
+1921	in lubrico labi	1
+1922	amittero	1
+1923	patria excidere.	1
+1924	interfici	1
+1925	excusare se	1
+1926	excusatio	1
+1927	absolvere (<hi rend="italic">crimine</hi>)	1
+1928	dimittere (<hi rend="italic">captivum</hi>)	1
+1929	divelli, dirimere se	1
+1930	diluere (<hi rend="italic">culpam</hi>)	1
+1931	defendere se	1
+1932	memori animo referre (<hi rend="italic">gratiam</hi>)	1
+1933	elocare	1
+1934	iure iurando promittere	1
+1935	desperatus	1
+1936	exsiccare	1
+1937	experimentum	1
+1938	efficere, ut quispiam dimittatur	1
+1939	decidere	1
+1940	classe proficisci	1
+1941	incertum esse, nescire quid consilii sit capiendum	1
+1942	angustiae, difficultas	1
+1943	inopia, penuria	1
+1944	omni consilio atque ope destitutus	1
+1945	inops	1
+1946	quocum difficile est ad manus venire,	1
+1947	quod fere eftici non potest	1
+1948	abrumpere, avellere	1
+1949	periculosius	1
+1950	in salo navem tenere in ancoris	1
+1951	obscure significare	1
+1952	deflectere (<hi rend="italic">in transversum actis navibus</hi>)	1
+1953	abstrahi, avelli	1
+1954	distrahi, divelli	1
+1955	contra niti, studiose impedire	1
+1956	ab Atheniensibus	1
+1957	abscessio	1
+1958	absistendum	1
+1959	vallo claudere	1
+1960	repellere, submovere	1
+1961	adimere facultatem	1
+1962	redire iubere	1
+1963	avertere (<hi rend="italic">a consilio s. incepto</hi>)	1
+1964	receptus, refugium	1
+1965	obtruncare	1
+1966	obsepire, circummunire	1
+1967	munitio (<hi rend="italic">qua circumvallatur</hi>)	1
+1968	absolvi, perfici	1
+1969	rescindere, auferre sibi	1
+1970	seponere, negligere	1
+1971	fortunae se committere	1
+1972	avertere, dehortari	1
+1973	averti, converti, reverti	1
+1974	deterreri	1
+1975	alienatus animo	1
+1976	vis deterrendi	1
+1977	detrectatio	1
+1978	absentia	1
+1979	designare	1
+1980	demonstrare, confirmare	1
+1981	auferre	1
+1982	pendere (<hi rend="italic">tributum</hi>)	1
+1983	deferri (<hi rend="italic">tempestate</hi>)	1
+1984	obsepire	1
+1985	abuti, multum et libere uti	1
+1986	conficere, interficere	1
+1987	claudum fieri	1
+1988	abscedere, discedere	1
+1989	longius a castris. 	1
+1990	exanimari	1
+1991	otii studium	1
+1992	negotiis vacuus, otii studiosus	1
+1993	qui nihil impetravit	1
+1994	re infecta discedere	1
+1995	re infecta	1
+1996	indecorus, contumeliosus	1
+1997	dedecus, status contumeliosus,	1
+1998	segnis	1
+1999	qui non exspectat	1
+2000	inexspectatus, improvisus	1
+2001	id quod improvisum est	1
+2002	ex improviso	1
+2003	promptissimus	1
+2004	sine cunctatione, animo alacri	1
+2005	a quo praccavere nemo potest	1
+2006	accendere	1
+2007	tangere	1
+2008	attingere	1
+2009	suscipere, capessere, animum adpellere ad	1
+2010	deiicere	1
+2011	repellere (<hi rend="italic">a se</hi>)	1
+2012	repulsio	1
+2013	incultus	1
+2014	iners, inefficax	1
+2015	argenti fodinae	1
+2016	argentum, pecunia	1
+2017	coactiones argentarias facere	1
+2018	navis ad cogendas pecunias missa	1
+2019	argentum	1
+2020	argenteus	1
+2021	placere	1
+2022	acquiescere in, probare,	1
+2023	virtus, praestantia	1
+2024	probitas, innocentia	1
+2025	meritum, liberalitas	1
+2026	virtutis nomen, laus	1
+2027	egregia facinora,	1
+2028	numerare	1
+2029	sinister	1
+2030	a sinistra	1
+2031	excellere	1
+2032	optimatium imperium	1
+2033	prandium	1
+2034	optimus, praestantissimus	1
+2035	optime meritus	1
+2036	maximum bonum	1
+2037	id quod maxime conducit	1
+2038	optima fortuna uti	1
+2039	satis esse	1
+2040	haec mihi sufficiunt, his contentus sum	1
+2041	sufficere (<hi rend="italic">de hominibus</hi>)	1
+2042	suppetere, permanere	1
+2043	satis, abunde	1
+2044	satis erit.	1
+2045	arcturus	1
+2046	currus	1
+2047	harmosta	1
+2048	infitiari	1
+2049	direptio	1
+2050	rapere	1
+2051	diripiebant	1
+2052	rapinas faciebant.	1
+2053	abreptus	1
+2054	languor	1
+2055	languidior	1
+2056	mas	1
+2057	suspendere	1
+2058	modo, nuper	1
+2059	nunc ipsum, quum maxime	1
+2060	panis	1
+2061	artynae, magistratus Argivorum	1
+2062	antiqua et saepius repetita memorare	1
+2063	antiquus	1
+2064	vetus consuetudo	1
+2065	obsoletus	1
+2066	initium facere, auctorem esse	1
+2067	cum imperio esse, magistratum gerere	1
+2068	Archon fuit	1
+2069	Archontes fuerunt	1
+2070	imperare, regere, praeesse	1
+2071	arbitrum esse	1
+2072	imperatu.	1
+2073	imperatu	1
+2074	principatum habere,	1
+2075	agressi sunt.	1
+2076	initium	1
+2077	fundamenta	1
+2078	initio	1
+2079	principio	1
+2080	omnino,	1
+2081	is qui magistratu fungitur	1
+2082	provincia, imperium	1
+2083	principatus, imperium	1
+2084	in alios	1
+2085	in vos.	1
+2086	regis	1
+2087	Apollinis principis ara	1
+2088	imperator	1
+2089	familia princeps	1
+2090	is qui cum imperio est, praefectus, imperator, magistratus	1
+2091	Archon (<hi rend="italic">Athenis</hi>)	1
+2092	incertus, dubius	1
+2093	sine causa manifesta	1
+2094	impie facere	1
+2095	impie factum	1
+2096	illunis	1
+2097	non signatus	1
+2098	infirmus, imbecillus	1
+2099	aeger	1
+2100	ieiunus	1
+2101	exercitatio	1
+2102	libens, libenter	1
+2103	clipeus	1
+2104	nullo foedere icto	1
+2105	absentia foederis	1
+2106	instabilis	1
+2107	instabilitas	1
+2108	seditionum immunis	1
+2109	absentia tecti	1
+2110	stella	1
+2111	urbana Dionysia	1
+2112	fulgur	1
+2113	urbs	1
+2114	firmitas	1
+2115	securitas, absentia periculi	1
+2116	secure.	1
+2117	certam fiduciam	1
+2118	in tuto ponere.	1
+2119	cum securitate, securitatis causa	1
+2120	tutus	1
+2121	tutum, locus tutus	1
+2122	certus, erroris expers, firmus	1
+2123	res in tuto est	1
+2124	certo, sine errore, caute, prudenter	1
+2125	negotium	1
+2126	inordinatus, inconditus	1
+2127	sine ordine	1
+2128	indiligens	1
+2129	arrogantia	1
+2130	insepultus	1
+2131	utpote, quippe	1
+2132	immunitus	1
+2133	munitas urbes non habens	1
+2134	non occlusus vallo	1
+2135	inexploratus	1
+2136	imperfectus	1
+2137	minus gratus	1
+2138	ab honoribus excludere	1
+2139	parvi ducere	1
+2140	infamis	1
+2141	expers (<hi rend="italic">honoris</hi>)	1
+2142	sine vindice, nullo opem ferente	1
+2143	inultus, impunitus	1
+2144	non devastatus	1
+2145	parum audax	1
+2146	singularis casus	1
+2147	insolitus	1
+2148	inepte	1
+2149	sagitta,	1
+2150	trames	1
+2151	non tritus	1
+2152	ab Atheniensibus stare	1
+2153	in Athenienses studia	1
+2154	ubi tyrannus nunquam fuit	1
+2155	non consequi	1
+2156	repulsam ferre	1
+2157	iterum.	1
+2158	denuo,	1
+2159	ex altera parte, vicissim, contra	1
+2160	neque insuper, neque vero,	1
+2161	arrogantior	1
+2162	ex voluntate pendens, ultro susceptus	1
+2163	auctor caedis	1
+2164	eo ipso die	1
+2165	rursus, iterum, denuo	1
+2166	rursus, item	1
+2167	porro, deinceps	1
+2168	quum maxime	1
+2169	tibicen	1
+2170	pernoctare, commorari	1
+2171	crescere	1
+2172	incrementum	1
+2173	ipse nuntians	1
+2174	sibi sufficiens, per se validus	1
+2175	idoneum.	1
+2176	ipse remex	1
+2177	suis auribus audiens	1
+2178	iam iamque	1
+2179	hoc ipso tempore	1
+2180	primo clamore atque impetu	1
+2181	ipsis	1
+2182	totis decem,	1
+2183	domestico indice utens	1
+2184	ex ipsa regione (<hi rend="italic">ubi res agitur</hi>)	1
+2185	regionis illius incolae (<hi rend="italic">in qua bellum geritur</hi>)	1
+2186	hinc, ex eo ipso loco	1
+2187	qui hic est	1
+2188	ibi	1
+2189	arbiter	1
+2190	ex arbitrio cuiusque pendens	1
+2191	decretorio.	1
+2192	plenam liberamque potestatem habens	1
+2193	cum liberis mandatis.	1
+2194	sua sponte accedens	1
+2195	fortuito	1
+2196	transfugere, transire	1
+2197	transfugium, transitio	1
+2198	transfuga	1
+2199	suis legibus vivere	1
+2200	potestas suis legibus vivendi	1
+2201	suis legibus vivens	1
+2202	sine ullo rectore, arbitrio suo vivens	1
+2203	liber et solutus	1
+2204	ex tempore agere	1
+2205	sibi soli vectigal pendens	1
+2206	ibi, eo ipso loco	1
+2207	hic	1
+2208	in illis ipsis locis	1
+2209	ipse opus faciens, sua	1
+2210	opera utens,	1
+2211	nativus	1
+2212	in ipso facto deprehensus	1
+2213	indigena	1
+2214	gloriatio, superbia	1
+2215	gloratio	1
+2216	auferre, detrahere	1
+2217	privari, spoliari	1
+2218	eripere, adimere, ademptum ad se trahere	1
+2219	urbi nostrae libertatem eripiemus	1
+2220	eripi sinemus.	1
+2221	obscuritas	1
+2222	qui nusquam apparet	1
+2223	obscurus, occultus, abditus	1
+2224	ex occulto	1
+2225	in obscuro	1
+2226	incerta custodia	1
+2227	incertus eventus	1
+2228	e conspectu tollere	1
+2229	obscurare	1
+2230	evanescere	1
+2231	obscurari	1
+2232	non parcere	1
+2233	non parcus sibi, incautus	1
+2234	abstrahere	1
+2235	copiosus	1
+2236	abunde	1
+2237	navem solvere	1
+2238	absistere (<hi rend="italic">foedere</hi>)	1
+2239	permittere, sinere	1
+2240	solvi (<hi rend="italic">periculo</hi>)	1
+2241	pervenire, advenire	1
+2242	pervenire, redigi,	1
+2243	avertere	1
+2244	impellere ad defectionem	1
+2245	nihil recusabunt.	1
+2246	desciscere, deficere	1
+2247	suadente Tissapherne.	1
+2248	profugere	1
+2249	subito	1
+2250	intolerabilis	1
+2251	locus unde fit impetus	1
+2252	non septus	1
+2253	inermis, imparatus	1
+2254	dementia, mentis inopia	1
+2255	demens	1
+2256	non custoditus	1
+2257	incautus	1
+2258	custodiae negligentia	1
+2259	non subactus	1
+2260	moleste ferre, gravari, succensere	1
+2261	inhabilis militiae, imbellis	1
+2262	infirmitas	1
+2263	pecuniae inopia	1
+2264	nefas tangi	1
+2265	gradi	1
+2266	scipio	1
+2267	pessulus	1
+2268	ferire, petere	1
+2269	barbaricus	1
+2270	barbari	1
+2271	barbarus	1
+2272	Medus (<hi rend="italic">utpote qui Graeciae bellum intulerit</hi>)	1
+2273	gravari	1
+2274	taedio affici	1
+2275	accurate examinare	1
+2276	per tormenta interrogari	1
+2277	regia potestas, regnum	1
+2278	regius	1
+2279	regnum adipisci,	1
+2280	rex	1
+2281	rex Persarum,	1
+2282	firmus, stabilis	1
+2283	certus, firmus, constans,	1
+2284	ratum, immotum	1
+2285	stabiles, statarias	1
+2286	certiorem spem de iis haberemus, fore ut, etc.	1
+2287	firmitas, fidentia	1
+2288	tutus, securus	1
+2289	cui bene creditur, fidelis	1
+2290	firmitas, firma cautio	1
+2291	praesidii causa.	1
+2292	confirmare, stabilire	1
+2293	corroborare	1
+2294	confirmare sibi	1
+2295	firme, solide	1
+2296	modo firmo ac stabili, constanter,	1
+2297	firme.	1
+2298	confirmatio	1
+2299	profanus	1
+2300	telum	1
+2301	melius	1
+2302	optime,	1
+2303	melior	1
+2304	bonus exitus	1
+2305	optimus,	1
+2306	praestantissimi, honestissimi	1
+2307	optimum quemque.	1
+2308	optima	1
+2309	suggestum	1
+2310	tussis	1
+2311	per vim, vi adhibita	1
+2312	cum impetu, impetu facto	1
+2313	violenter, imperio duro	1
+2314	invito aliquo	1
+2315	violenter agere	1
+2316	violare, vim inferre,	1
+2317	vi repellere	1
+2318	vi efficere	1
+2319	vi contendere, conari,	1
+2320	vi perrumpere, impetum facere	1
+2321	vim pati	1
+2322	cogi	1
+2323	violentus	1
+2324	coactus, necessitate expressus	1
+2325	violenter	1
+2326	per vim, necessitate expressa	1
+2327	vehementer, impetu	1
+2328	vita, aetas	1
+2329	vitae ratio	1
+2330	vita, rerum cursus	1
+2331	vivere, vitam tolerare	1
+2332	damnum, noxa, detrimentum	1
+2333	cum alicuius incommodo	1
+2334	nocere alicui	1
+2335	nihil nocet	1
+2336	damno afficere, nocere	1
+2337	detrimentum afferre, laedere	1
+2338	germinare	1
+2339	inspicere	1
+2340	clamare	1
+2341	bubulus	1
+2342	clamorem edere	1
+2343	adversus hostes concursus	1
+2344	in expeditionem adversus Chium. 	1
+2345	auxilium ferendum	1
+2346	auxilia, auxilio missae copise	1
+2347	adversus hostes concurrere, auxilio venire	1
+2348	ad prohibendum, quominus aqua in ipsorum regionem diverteretur.	1
+2349	opem ferre,	1
+2350	tueri, defendere,	1
+2351	auxilio veniens, auxiliaris	1
+2352	boeotarchae munere fungi	1
+2353	boeotarchae, praetores apud Boeotos	1
+2354	iactus	1
+2355	aquilo	1
+2356	septentrio	1
+2357	invitos	1
+2358	voluntate	1
+2359	ex animi sententia.	1
+2360	in lidem et potestatem.	1
+2361	pro cuiusque praefecti arbitrio.	1
+2362	cupere,	1
+2363	quicunque velit, quivis, quilibet	1
+2364	volenti mihi est, volo	1
+2365	voluntas	1
+2366	consultare, consilium capere	1
+2367	consilia dare, suadere	1
+2368	deliberare, statuere	1
+2369	constitutum habere,	1
+2370	consultum, decretum	1
+2371	deliberandum,	1
+2372	curia, senatus	1
+2373	senator	1
+2374	senatus	1
+2375	deliberatio	1
+2376	senator (<hi rend="italic">apud Corcyraeos</hi>)	1
+2377	voluntas, propositum	1
+2378	raucitas	1
+2379	vada	1
+2380	breviter, brevi tempore	1
+2381	paucis verbis	1
+2382	brevis	1
+2383	exigua	1
+2384	exiguus, levis,	1
+2385	exigua pars	1
+2386	exigua res	1
+2387	modico intervallo	1
+2388	modice	1
+2389	per breve tempus,	1
+2390	tenuitas	1
+2391	tonitrus	1
+2392	laqueus	1
+2393	dense	1
+2394	ara	1
+2395	maris tranquillitas	1
+2396	ducere (<hi rend="italic">uxorem</hi>)	1
+2397	nuptialia	1
+2398	voce contendere	1
+2399	vicinus	1
+2400	risus	1
+2401	plenum	1
+2402	onustum esse,	1
+2403	generosus	1
+2404	innatus	1
+2405	genus	1
+2406	progenies	1
+2407	praemium, honos	1
+2408	gustare	1
+2409	pons	1
+2410	latifundiorium possessores (<hi rend="italic">Sami</hi>)	1
+2411	colere (<hi rend="italic">agrum</hi>)	1
+2412	agricultura	1
+2413	agricola	1
+2414	orbis terrarum,	1
+2415	solum, humus,	1
+2416	regio.	1
+2417	ager, regio, fines	1
+2418	Tellus	1
+2419	senectus	1
+2420	fieri, esse	1
+2421	creari,	1
+2422	se praebere	1
+2423	fieri,	1
+2424	nasci, vivere	1
+2425	degentes	1
+2426	fuerunt oriundi	1
+2427	commorari, durare	1
+2428	se coniunxisse	1
+2429	pertinere, esse	1
+2430	esse sub ditione ac potestate alicuius,	1
+2431	fieri posse, licere	1
+2432	evenire, contingere	1
+2433	quae gignuntur e terra,	1
+2434	succedere, procedere, contingere	1
+2435	pervenire, venire	1
+2436	efficere, conficere, esse,	1
+2437	oriri, geri,	1
+2438	committi,	1
+2439	pangi,	1
+2440	oriri,	1
+2441	cognoscere, scire, discere, compertum habere	1
+2442	re cognita	1
+2443	existimare, censere, iudicare	1
+2444	eo usque iudico, 	1
+2445	tantum abest ut ita sentiam,	1
+2446	consilium capere, decernere, statuere	1
+2447	avere	1
+2448	sermo	1
+2449	orc, verbo	1
+2450	flectere,	1
+2451	legitimus, germanus	1
+2452	alienis animis	1
+2453	reconciliati sunt animis	1
+2454	animo inclinare,	1
+2455	advertere animum, attendere	1
+2456	ingenium	1
+2457	ratio, iudicium, prudentia	1
+2458	contra animi sententiam,	1
+2459	consilium, voluntas	1
+2460	eo consilio castellum aedificabatur	1
+2461	propositum habere,	1
+2462	opinio, sententia	1
+2463	alterius arbitrio	1
+2464	uno consensu	1
+2465	consultare coeperunt	1
+2466	praeter voluntatem	1
+2467	contra animi sententiam	1
+2468	contra opinionem	1
+2469	exspectationem,	1
+2470	partes,	1
+2471	sententia, mens, sensus	1
+2472	iudex, aestimator	1
+2473	notus	1
+2474	littera	1
+2475	scriptum, articulus	1
+2476	litterae, epistola,	1
+2477	scribae publici munus obire	1
+2478	scriba	1
+2479	scribere	1
+2480	scriptura	1
+2481	levis armatura	1
+2482	gymnicus	1
+2483	gymnopaediae, ludus solemnis Lacedaemone,	1
+2484	nudus	1
+2485	nuda, clypeo non tectae corporis partes	1
+2486	nudare corpora	1
+2487	nudatio	1
+2488	muliebris	1
+2489	mulier	1
+2490	uxor	1
+2491	angulosus	1
+2492	divinus, divinitus accidens	1
+2493	numen	1
+2494	lacrimae	1
+2495	foenerari	1
+2496	mutuari,	1
+2497	sumptibus conficere	1
+2498	expensam pecuniam	1
+2499	prodigus	1
+2500	daricus (<hi rend="italic">stater</hi>)	1
+2501	fax (<hi rend="italic">collective</hi>)	1
+2502	spissus, arboribus consitus	1
+2503	metuere	1
+2504	ostendere, monstrare	1
+2505	demonstrare, probare, experimentum dare	1
+2506	demonstrare, declarare	1
+2507	aliis in rebus	1
+2508	timiditas, ignavia	1
+2509	timidus, ignavus	1
+2510	oportere, debere	1
+2511	opportunum esse, tempus esse	1
+2512	unde, duode,	1
+2513	id quod fieri oportet, officium	1
+2514	utilia, commoda,	1
+2515	ligare	1
+2516	terribilis, metuendus	1
+2517	gravis, asper, miser	1
+2518	prudens, solers	1
+2519	indignum est,	1
+2520	indignum existimare, indignari	1
+2521	metuendum est ne	1
+2522	terriculum	1
+2523	malum, miseria	1
+2524	asperitas, acerbitas	1
+2525	eloquentia	1
+2526	rei atrocitatem addere	1
+2527	supervacaneum habere	1
+2528	orare, rogare	1
+2529	decem	1
+2530	decennis	1
+2531	decem plethrorum	1
+2532	decimus	1
+2533	delphinum	1
+2534	ferens,	1
+2535	arbor	1
+2536	arbores caedere	1
+2537	dexter	1
+2538	solers	1
+2539	dextrum cornu	1
+2540	ad dextram	1
+2541	a dextra habere	1
+2542	dextrorsum	1
+2543	solertia	1
+2544	ob metum nostri	1
+2545	ob reverentiam	1
+2546	ob metum ab iis	1
+2547	a Syracusanis	1
+2548	corium	1
+2549	vinculum	1
+2550	qui in vinculis est	1
+2551	dominus	1
+2552	usque ad hoc tempus	1
+2553	alter, secundus	1
+2554	iterum	1
+2555	altero loco	1
+2556	accipere (<hi rend="italic">data, oblata, proposita</hi>)	1
+2557	excipere (<hi rend="italic">impetum hostium</hi>)	1
+2558	excipere (<hi rend="italic">amice</hi>)	1
+2559	recipere, admittere	1
+2560	aequo iure disceptare, 	1
+2561	decem dierum	1
+2562	conspicuus, manifestus	1
+2563	constat, apparet	1
+2564	demonstrare	1
+2565	manifestum facere, declarare, demonstrare	1
+2566	qui nuntiarent	1
+2567	declarare, narrare	1
+2568	significare, indicare	1
+2569	declarari, demonstrari	1
+2570	declaratios, demonstratio	1
+2571	gratia et auctoritas, qua quis apud populum valet	1
+2572	quod populum suis concionibus ductaret. 	1
+2573	concionator	1
+2574	magistratus apud Mantineos et Eleos	1
+2575	populari imperio uti	1
+2576	populare imperium	1
+2577	populus	1
+2578	plebs, factio popularis	1
+2579	imperium populare	1
+2580	pagus Atticae	1
+2581	publicus	1
+2582	publicum, commune	1
+2583	in carcere publico	1
+2584	publico decreto	1
+2585	sumptu,	1
+2586	publicis sumptibus factus	1
+2587	popularis	1
+2588	opinor	1
+2589	quaeso, age	1
+2590	traiicere, transgredi	1
+2591	traducere, perstringere, invidiam adducere	1
+2592	in invidiam adduci	1
+2593	invidiam concipere, inimicum esse	1
+2594	facultas	1
+2595	actio transeundi,	1
+2596	locus ubi flumen traiici solet	1
+2597	sacrificia pro felici finium transitu,	1
+2598	qui transiri potest	1
+2599	clamitare	1
+2600	maligna criminatio, obtrectatio, invidia	1
+2601	rimosus, aquam recipiens	1
+2602	nuutiare	1
+2603	internuntius	1
+2604	tempus extrahere, ducere	1
+2605	aetatem omnem agere	1
+2606	discernere, dignoscere	1
+2607	perspicere, cognoscere	1
+2608	diiudicare, de re cognoscere	1
+2609	statuere, constituere, decernere	1
+2610	deliberatio, decretum	1
+2611	distinctio	1
+2612	iure disceptare	1
+2613	qui facile internosci potest	1
+2614	dilabi, diffugere	1
+2615	probare	1
+2616	successio	1
+2617	successor	1
+2618	successurae	1
+2619	furtim introire	1
+2620	subligaculum	1
+2621	subligaculo cincti,	1
+2622	discurrere	1
+2623	perturbare	1
+2624	divulgare	1
+2625	dividere, intercidere, refringere	1
+2626	distingui	1
+2627	qui distingui potest	1
+2628	vita, vitae genus et institutio	1
+2629	victus, cultus	1
+2630	curatio medica	1
+2631	habitatio, mansio	1
+2632	vitam agere, instituere	1
+2633	habitare, vivere	1
+2634	vitae institutum, disciplina	1
+2635	affectum esse	1
+2636	animo,	1
+2637	in invidia esse	1
+2638	hortari	1
+2639	vacuum spatium, intervallum	1
+2640	per caduceatorem agere	1
+2641	periculum adire	1
+2642	rem in periculum non adduci	1
+2643	subripi	1
+2644	sorte inter se partiri, sortiri	1
+2645	transportare ad se, recipere	1
+2646	ministerium	1
+2647	minister	1
+2648	diffindere	1
+2649	ducenti	1
+2650	instructio	1
+2651	discerni, distingui	1
+2652	dirimi, discedere	1
+2653	disceptare iure	1
+2654	disceptandum	1
+2655	impedire, prohibere	1
+2656	remissio, sustentatio	1
+2657	delitescere	1
+2658	colloqui	1
+2659	in colloquio dixerunt	1
+2660	intermittere	1
+2661	pacis conciliator, pacificator	1
+2662	reconciliare	1
+2663	diversum esse,	1
+2664	diversitas,	1
+2665	diversus,	1
+2666	dirimere (<hi rend="italic">controversias, bellum</hi>)	1
+2667	dissolvi	1
+2668	dimitti	1
+2669	digredi	1
+2670	dirimi	1
+2671	dirimere (<hi rend="italic">suas controversias</hi>)	1
+2672	dissolutio	1
+2673	confectio	1
+2674	discedere (<hi rend="italic">a pugna</hi>)	1
+2675	dissolutor	1
+2676	aberrare	1
+2677	aberratio, error	1
+2678	errore commisso in diebus	1
+2679	diffodere	1
+2680	dimicare, armis decernere	1
+2681	constanter pugnare	1
+2682	oratione contendere,	1
+2683	commemorare,	1
+2684	navali proelio decertare	1
+2685	separatus	1
+2686	mente agitare, in animo habere, consilium capere	1
+2687	animus, consilium, cogitatio	1
+2688	perpetuo,	1
+2689	sua transmittere	1
+2690	dimittere, in varia loca mittere	1
+2691	nave traiicere	1
+2692	per locum vehi	1
+2693	traiectus	1
+2694	transitus (<hi rend="italic">navium</hi>)	1
+2695	bellum sustinere	1
+2696	debellare	1
+2697	confectio belli	1
+2698	in obsidione permanere	1
+2699	dimissio	1
+2700	transmarinus	1
+2701	proficisci per locum, transire	1
+2702	depopulari, devastare	1
+2703	transigere, conficere	1
+2704	praeclarus, eximius	1
+2705	splendor, splendidus apparatus	1
+2706	sufficiens, satis amplus	1
+2707	alvi profluvium	1
+2708	disiicere, dissipare	1
+2709	divelli, disiungi	1
+2710	disiunctio, dissociatio	1
+2711	vallo intercludere	1
+2712	conservari, effugere, incofumem pervenire	1
+2713	saluti suae consulere	1
+2714	conservare sibi	1
+2715	disponere, instruere	1
+2716	his rebus ita dispositis	1
+2717	ordinem capere	1
+2718	murus intercludens	1
+2719	intersepiens,	1
+2720	peragere, consumere	1
+2721	aetatem agere, permanere	1
+2722	disponere	1
+2723	haberi, tractari	1
+2724	nutriri	1
+2725	percurrere, cursu transire	1
+2726	absumi	1
+2727	tempus terere, morari, cunctari,	1
+2728	mora, dilatio	1
+2729	apparere	1
+2730	manifesto	1
+2731	in diversum ferre	1
+2732	perferre, tolerare	1
+2733	differre, diversum esse,	1
+2734	quod interest, commoda	1
+2735	dissidere, inimicitias exercere,	1
+2736	aliter, diverse	1
+2737	summopere	1
+2738	effugere, elabi, periculo subtrahere se	1
+2739	elapsi per castra	1
+2740	perfugere, confugere	1
+2741	evitare	1
+2742	ex morbo evadere	1
+2743	fuga, effugium	1
+2744	interimere, occidere	1
+2745	frangere, pessumdare	1
+2746	pervertere, corrumpere, diruere	1
+2747	perdi, perire, interire	1
+2748	interimi, occidi	1
+2749	frangi, pessumire	1
+2750	corrumpi, vitiari	1
+2751	transitum dare	1
+2752	diversitas	1
+2753	dissensio, simultas, controversia	1
+2754	post altercationem	1
+2755	perferri, pervenire	1
+2756	diversus	1
+2757	dissentiens, inimicus	1
+2758	eximius, commodus	1
+2759	controversia	1
+2760	dissidium, dissidii causa	1
+2761	quod interest	1
+2762	diverse	1
+2763	alieno animo, contrarie	1
+2764	paries intersepiens	1
+2765	diffugere	1
+2766	administratio	1
+2767	diffundi, dilabi	1
+2768	suffragia ferre	1
+2769	exsiccare, reficere	1
+2770	bilinguis	1
+2771	schola	1
+2772	institutio, admonitio, documentum	1
+2773	nobis demonstratione opus esset, qua vos rerum ignaros doceremus	1
+2774	docens	1
+2775	magister, suasor	1
+2776	docere, monere, suadere	1
+2777	elocutus	1
+2778	suadentibus	1
+2779	admonitio, documentum	1
+2780	disciplina, institutio	1
+2781	dare, tribuere, offerre	1
+2782	in matrimonium	1
+2783	dedere se	1
+2784	experimentum dare	1
+2785	fidem dare	1
+2786	iudicibus rem diiudicandam permittere	1
+2787	permittere, concedere	1
+2788	potestalem facere	1
+2789	dari, tribui, offerri	1
+2790	quum offertur	1
+2791	dedi, tradi	1
+2792	permitti	1
+2793	duas drachmas diurnas mereus	1
+2794	sponsione data liberatus,	1
+2795	dirimere, separare	1
+2796	VI	1
+2797	perrumpere classem hostilem	1
+2798	impetus ad perrumpendam classem hostilem factus	1
+2799	transitus, exitus	1
+2800	transire, pervadere	1
+2801	exitus	1
+2802	totum annum durans	1
+2803	narrare	1
+2804	transire, permeare	1
+2805	praeterire	1
+2806	dimanare	1
+2807	oratione persequi, percurrere	1
+2808	pertingere, ferire	1
+2809	diducere, separare	1
+2810	dissociare	1
+2811	dividere se	1
+2812	discessionem facere	1
+2813	in contrarias partes abire, disiungi, dissidere	1
+2814	iudicare, pronuntiare	1
+2815	iustus, aequus, legitimus	1
+2816	aequus, modicus	1
+2817	aequum est ut, debeo, ius habeo,	1
+2818	aequum est	1
+2819	ab	1
+2820	ius, iustitia	1
+2821	ut par erat	1
+2822	iustitia	1
+2823	aequum censere	1
+2824	existimare,	1
+2825	contendebant	1
+2826	condemuare	1
+2827	iusta ratio, causae praesidium	1
+2828	titulus, species, aequitatis confirmatio	1
+2829	iuste	1
+2830	merito, iure	1
+2831	postulatio	1
+2832	in ius vocatio, actio	1
+2833	iudicium, tribunal	1
+2834	 ius	1
+2835	iniuria	1
+2836	in ius provocantibus	1
+2837	causa, lis	1
+2838	iudidicibus rem diiudicandam permittere	1
+2839	poenas dare,	1
+2840	regere	1
+2841	regimen	1
+2842	muro dividere, intersepire	1
+2843	transversam porticum aedificaverunt	1
+2844	plane perdere	1
+2845	tolerare nequeunt	1
+2846	perfodere	1
+2847	duplex, duplo maior	1
+2848	duplicari	1
+2849	duplex, geminus	1
+2850	bis	1
+2851	duo millia	1
+2852	pellis	1
+2853	bifariam	1
+2854	bipartito, separatim	1
+2855	singulatim	1
+2856	in contrariam partem	1
+2857	repellere (<hi rend="italic">a se invicem</hi>)	1
+2858	consectari, appetere	1
+2859	persecutio	1
+2860	arbitrari, putare	1
+2861	videri, putari	1
+2862	ut mihi videtur	1
+2863	mea sententia	1
+2864	probabile esse	1
+2865	placet, decernitur, censetur,	1
+2866	decretum, placitum	1
+2867	decreta	1
+2868	fama, suspicio	1
+2869	post donorum receptionem	1
+2870	probare, explorare	1
+2871	approbari	1
+2872	trabs	1
+2873	 opinio, sententia, existimatio	1
+2874	gloriam	1
+2875	gloria, fama	1
+2876	decernere, sententiam ferre	1
+2877	de se sentire consuevit	1
+2878	opinio, ratiocinatio	1
+2879	hasta	1
+2880	vi capere, armis parare	1
+2881	comitari (<hi rend="italic">de satellitibus</hi>)	1
+2882	satelles	1
+2883	donatio	1
+2884	servitus	1
+2885	servitia	1
+2886	servire	1
+2887	inservire,	1
+2888	servus	1
+2889	inserviens,	1
+2890	constringere, frangere,	1
+2891	subiicere sibi	1
+2892	in servitutem adactio	1
+2893	facere, agere	1
+2894	exsequutus est	1
+2895	id quod agitur, factum, res gerenda	1
+2896	committere (<hi rend="italic">scelus</hi>)	1
+2897	auctor delicti	1
+2898	benigne facere, malum inferre alicui	1
+2899	benefactorum	1
+2900	promptus, impiger	1
+2901	prompta et parata in agendo celeritas, strenuitas	1
+2902	drachma	1
+2903	falci similis	1
+2904	cursus	1
+2905	cursu ferri	1
+2906	citato cursu contendere	1
+2907	vires (<hi rend="italic">corporis</hi>)	1
+2908	facultas,	1
+2909	omnibus viribus	1
+2910	supra vires	1
+2911	vis, efficacia	1
+2912	potentia, opes	1
+2913	potentia eminere	1
+2914	vi armorum	1
+2915	magna manu	1
+2916	ditio	1
+2917	ditione tenere,	1
+2918	pretium	1
+2919	posse, potestatem habere	1
+2920	viribus pollere	1
+2921	potentes, optimates	1
+2922	dominatio	1
+2923	optimatum dominatu	1
+2924	dominationem obtinere	1
+2925	id quod dominatur	1
+2926	dynastes, regulus	1
+2927	validus, potens	1
+2928	firmus, incolumis,	1
+2929	qui facere potest, qui rei alicuius habet potestatem	1
+2930	facultatem,	1
+2931	ea quae fieri possunt	1
+2932	quod fieri potest	1
+2933	fieri potest ut	1
+2934	quantum fieri potest	1
+2935	pro facultate	1
+2936	duo	1
+2937	valde dolere	1
+2938	conqueri,	1
+2939	difficilis aditus	1
+2940	perdite amans	1
+2941	introitu difficillimus	1
+2942	occasus	1
+2943	transitu difficilis	1
+2944	infelicissimus	1
+2945	adversa fortuna	1
+2946	gravate accipere	1
+2947	graviter olens	1
+2948	duodecim	1
+2949	duodecimus	1
+2950	munus, gratia	1
+2951	donum	1
+2952	sinere	1
+2953	vetare, prohibere, obstare	1
+2954	praetermittere	1
+2955	valere iubere	1
+2956	ver	1
+2957	intra septem dies aliquid agens	1
+2958	septuaginta	1
+2959	septimus	1
+2960	consenescere	1
+2961	innasci, inesse, oriri in	1
+2962	obtingere	1
+2963	intermitti (<hi rend="italic">de tempore</hi>)	1
+2964	e propinquo	1
+2965	e proximo	1
+2966	circiter	1
+2967	insidere, castra ponere	1
+2968	in portum invehi	1
+2969	arguere, criminari	1
+2970	ornamentum	1
+2971	ad perpendiculum directus	1
+2972	perseverare, perstare	1
+2973	congeri, inseri	1
+2974	deprehensio	1
+2975	inaedificari	1
+2976	causa, crimen, accusatio	1
+2977	qui aliquid habet in potestate	1
+2978	confirmaverunt	1
+2979	admovere manum operi, incipere, aggredi	1
+2980	rerum gerendarum tractatio	1
+2981	suscipere (<hi rend="italic">periculum</hi>)	1
+2982	cunctari, morari	1
+2983	indigena, domesticus	1
+2984	domestico more	1
+2985	area, fundamentum	1
+2986	solo tenus	1
+2987	desidia, commoratio	1
+2988	esculentus	1
+2989	assuetus	1
+2990	velle, non abnuere, paratum esse ad aliquid agendum	1
+2991	nolle, abnuere,	1
+2992	solere, posse	1
+2993	voluntarie	1
+2994	ultro	1
+2995	voluntarius hospes publicus	1
+2996	assuescere	1
+2997	assuetus,	1
+2998	mos, consuetudo	1
+2999	nosse, scire	1
+3000	scire, compertum habere,	1
+3001	gratiam habere	1
+3002	modus, species	1
+3003	specie discriminata.	1
+3004	status, forma civitatis	1
+3005	ratio, modus agendi	1
+3006	coniicere, coniecturam facere	1
+3007	nesciebant quid opinarentur.	1
+3008	comparare, conferre	1
+3009	coniici	1
+3010	coniector	1
+3011	cedere, non repugnare	1
+3012	succumbimus.	1
+3013	loco cedere	1
+3014	id quod aequum et verisimile est,	1
+3015	ut aequum et verisimile est	1
+3016	ut sperare fas est.	1
+3017	ut verisimile est	1
+3018	praeter aequum, contra rationem	1
+3019	aequum, verisimile, rationi consentaneum est	1
+3020	ut verisimile, rationi consentaneum est,	1
+3021	viginti	1
+3022	vicesimus	1
+3023	vicesima	1
+3024	arcere, prohibere	1
+3025	usu terrae, maris, prohibere	1
+3026	praesidiis obsessum tenere	1
+3027	carcere constringere	1
+3028	remigatio	1
+3029	pacificus	1
+3030	pax	1
+3031	pacem agere	1
+3032	unus	1
+3033	statuere, consecrare	1
+3034	intro, in interiora	1
+3035	solere, consuesse	1
+3036	solet,	1
+3037	solitus, ordinarius	1
+3038	undique	1
+3039	quocunque, in quemque locum	1
+3040	quisque	1
+3041	gens quaeque	1
+3042	cuiusque civitatis oratores.	1
+3043	civium ordines	1
+3044	unusquisque,	1
+3045	singulatim,	1
+3046	pro se quisque,	1
+3047	uterque	1
+3048	ex utraque parte, utrinque	1
+3049	centum pedes latus	1
+3050	centum	1
+3051	centesimus	1
+3052	egredi	1
+3053	eiicere	1
+3054	educere (<hi rend="italic">e navi</hi>)	1
+3055	exponere in terram,	1
+3056	eruptio (<hi rend="italic">in hostes</hi>)	1
+3057	eruptio (<hi rend="italic">frumenti</hi>)	1
+3058	exitus (<hi rend="italic">fluminis</hi>)	1
+3059	ostium,	1
+3060	excessus, degressio	1
+3061	filii, liberi	1
+3062	longinquus	1
+3063	desciscere (<hi rend="italic">a disciplina</hi>)	1
+3064	dedere	1
+3065	collocare, nuptum dare	1
+3066	aufugere	1
+3067	excursores	1
+3068	excursor	1
+3069	illo modo	1
+3070	induciae	1
+3071	inducias facere	1
+3072	sedecim	1
+3073	prae taedio ac lassitudine desinere	1
+3074	questum facere,	1
+3075	concio, concilium	1
+3076	concionem advocare	1
+3077	concio habetur	1
+3078	concionem habere	1
+3079	eradere, expungere	1
+3080	exportare (<hi rend="italic">sua</hi>)	1
+3081	evadere	1
+3082	suspendere se alicui	1
+3083	seligere	1
+3084	exigere, colligere	1
+3085	relinquere, deserere, excedere	1
+3086	non servare,	1
+3087	remittere, relaxare	1
+3088	abesse, deesse,	1
+3089	deficere, deliquium pati	1
+3090	praetermissus	1
+3091	reputare, considerare	1
+3092	qui sua sponte aliquid facit	1
+3093	sponte	1
+3094	sponte, ultro	1
+3095	absistere, desinere	1
+3096	eiici, delabi	1
+3097	spe destitui	1
+3098	patria eiici, expelli	1
+3099	eiecta fuerat, et in regionem amicam confugerat	1
+3100	exire (<hi rend="italic">navibus</hi>), <gloss>proficisci	1
+3101	effugere, 	1
+3102	exterreri	1
+3103	formidolosus	1
+3104	formido, consternatio	1
+3105	formidare.	1
+3106	formidine quam incusserat.	1
+3107	admiratio, stupor	1
+3108	percellere, perterrefacere	1
+3109	excutere	1
+3110	memoriae obficit.	1
+3111	percelli, consternari	1
+3112	stupere, extimescere	1
+3113	profectio (<hi rend="italic">classis</hi>)	1
+3114	exitus, eruptio,	1
+3115	expeditionem.	1
+3116	spirare ex (<hi rend="italic">de vento</hi>)	1
+3117	e medio	1
+3118	bello abesse, neutris mittere auxilia.	1
+3119	bello petere, bellum inferre	1
+3120	hostis fieri	1
+3121	hostem facere, in inimicitias coniicere	1
+3122	elaborare, excolere	1
+3123	inhonestior, indignior	1
+3124	indecore	1
+3125	insigniter	1
+3126	serra exsecare	1
+3127	is cuius adventus fama nuntiatus est	1
+3128	poculum	1
+3129	vehementer invehi, graviter increpare	1
+3130	exclusus a foedere	1
+3131	in expeditionem exire	1
+3132	communire (<hi rend="italic">ad finem usque</hi>)	1
+3133	comminisci	1
+3134	exsolvere	1
+3135	sextus	1
+3136	divertere, derivare	1
+3137	excurrere	1
+3138	derivatio	1
+3139	extenuare, atterere	1
+3140	conspicuum fieri	1
+3141	efferri, eiici	1
+3142	animo efferri,	1
+3143	perterrefacere	1
+3144	funus	1
+3145	pecunias exigere	1
+3146	qui voluntate sua aliquid facit	1
+3147	invitus, qui aegre aliquid patitur	1
+3148	oliva	1
+3149	oleum	1
+3150	expulsio	1
+3151	minuere	1
+3152	minui	1
+3153	inferiori conditione esse, iura eadem non habere, damno affici, victum discedere	1
+3154	minor, inferior	1
+3155	levior, minoris momenti	1
+3156	minor numerus	1
+3157	brevius	1
+3158	minori intervalle	1
+3159	minus alicui tribuere	1
+3160	remigare,	1
+3161	minimus, brevissimus	1
+3162	satis amplus, haud spernendus	1
+3163	paucissimi	1
+3164	minima pars	1
+3165	brevissime	1
+3166	praecipue	1
+3167	quam minimum	1
+3168	minimo temporis spatio	1
+3169	minimum abesse	1
+3170	elogium	1
+3171	argui	1
+3172	in paludibus degens	1
+3173	misericordia	1
+3174	libertas	1
+3175	Iupiter liberator	1
+3176	liber	1
+3177	liberlas,	1
+3178	liberare, in libertatem vindicare	1
+3179	libere	1
+3180	trahere	1
+3181	longam tunicam habens,	1
+3182	ulcus	1
+3183	exulceratio	1
+3184	splendescere, illustrari	1
+3185	inferiorem esse	1
+3186	defici, destitui	1
+3187	delinquere, deesse	1
+3188	Graeco sermone uti	1
+3189	Hellenotamiae, quaestores Graeciae	1
+3190	cui deest aliquid, imperfectus	1
+3191	inferiores.	1
+3192	ne memoria eos deficeret	1
+3193	inopia,	1
+3194	palus	1
+3195	sperare, exspectare	1
+3196	confidere, existimare,	1
+3197	sperare,	1
+3198	confidere,	1
+3199	sperari	1
+3200	spes, exspectatio	1
+3201	spes de vobis conceptae	1
+3202	spem adiungere	1
+3203	addere.	1
+3204	existimationem.	1
+3205	in spe esse	1
+3206	in spem venire	1
+3207	praeter spem	1
+3208	palustris	1
+3209	coniicere	1
+3210	impressionem facere	1
+3211	imponere (<hi rend="italic">in navem</hi>)	1
+3212	clamorem tollere	1
+3213	impressio (<hi rend="italic">de navibus</hi>)	1
+3214	a latere facta impressio,	1
+3215	a fronte	1
+3216	rostra navium	1
+3217	caput arietis	1
+3218	rostrum navis	1
+3219	immorari	1
+3220	stare,	1
+3221	perseverare in	1
+3222	servare (<hi rend="italic">fidem, foedus</hi>)	1
+3223	implicari	1
+3224	ex diversa parte	1
+3225	praebere, permittere	1
+3226	peritia, experientia	1
+3227	peritus, expertus	1
+3228	maior peritia	1
+3229	incendere	1
+3230	coniici, demitti	1
+3231	vehi (<hi rend="italic">nave</hi>)	1
+3232	dementer, temere	1
+3233	spirans	1
+3234	impedimento	1
+3235	id quod obstat	1
+3236	causam esse, afferre, efficere	1
+3237	mercaturam facere	1
+3238	mercatura	1
+3239	forum, emporium	1
+3240	mercator	1
+3241	apertus	1
+3242	obstruere, praecludere	1
+3243	custodias agere in loco	1
+3244	cordatus, prudens	1
+3245	animans	1
+3246	suadere, instigare	1
+3247	nongenti	1
+3248	commercium habere	1
+3249	coram	1
+3250	adversus, oppositus	1
+3251	id quod obvium est	1
+3252	ex adversa fronte	1
+3253	qui adversatur	1
+3254	adversarii, hostes	1
+3255	adversus	1
+3256	obsistere, adversari	1
+3257	contraria evenerant.	1
+3258	discrepare	1
+3259	contradictio	1
+3260	ob ea, quae in contrariam sententiam a se dicta fuerant.	1
+3261	immori	1
+3262	fractum inhaerere	1
+3263	intra novem dies aliquid agens	1
+3264	nonus	1
+3265	pernoctare in	1
+3266	indigens	1
+3267	cui aliquid deest, parum sufficiens	1
+3268	modicum	1
+3269	id quod deest,	1
+3270	demonstrare, ostentare	1
+3271	undecim	1
+3272	intra undecim dies aliquid agens	1
+3273	undecimus	1
+3274	accipere, admittere, probare	1
+3275	licet, fieri potest,	1
+3276	parum, minus quam opus sit	1
+3277	qui non latet, conspectus	1
+3278	domi manens	1
+3279	terere tempus, immorari	1
+3280	in manus tradere	1
+3281	cedere,	1
+3282	loco cedere, inclinari	1
+3283	dubitare	1
+3284	dubia eorum fides est.	1
+3285	induere	1
+3286	insidiae	1
+3287	subsidere in insidiis	1
+3288	implicare	1
+3289	inesse	1
+3290	oportuisset	1
+3291	interesse, interiici,	1
+3292	inest	1
+3293	nonaginta	1
+3294	nonagesimus	1
+3295	rei agendae idoneus	1
+3296	innexio	1
+3297	beate vivere in	1
+3298	haec loca (<hi rend="italic">ubi est is qui loquitur</hi>)	1
+3299	hinc et inde	1
+3300	hinc	1
+3301	animo concipere	1
+3302	cogitare, considerare, reputare, recordari	1
+3303	cogitatio	1
+3304	religio	1
+3305	in religionem vertere	1
+3306	motis in religionem animis.	1
+3307	quotannis	1
+3308	annuum imperium habere	1
+3309	immittere, incitare	1
+3310	obsistere	1
+3311	construi (<hi rend="italic">de navibus</hi>)	1
+3312	novem	1
+3313	novemviae, nomen vetus Amphipoleos	1
+3314	legitimus, legibus consentaneus	1
+3315	inhabitatio	1
+3316	inaedificare	1
+3317	animadvertere	1
+3318	iureiurando obstrictus	1
+3319	foedere consociatus	1
+3320	foederi adscriptus	1
+3321	castra locare in	1
+3322	moenibus cingere	1
+3323	emori	1
+3324	absolutus, integer, solidus	1
+3325	hostias ferire	1
+3326	inde	1
+3327	parere in	1
+3328	sectio	1
+3329	intente, vehementer	1
+3330	ex interiori	1
+3331	interiora	1
+3332	in medio collocare,	1
+3333	urbi includere	1
+3334	in medio habere	1
+3335	ingressum esse	1
+3336	occurrere, incidere in	1
+3337	qui primus occurrit, quilibet	1
+3338	qui praeest huic numero militum	1
+3339	qui dicitur	1
+3340	enomotia, militum numerus in exercitu Laconico	1
+3341	sex	1
+3342	nuntius, index	1
+3343	cuius adventus nuntiatus est	1
+3344	educere	1
+3345	impellere, concitare	1
+3346	I	1
+3347	seponere, eximere	1
+3348	exscindere	1
+3349	abiicere	1
+3350	seponere, eximere, excipere	1
+3351	repente, subito	1
+3352	sex millia	1
+3353	sexcenti	1
+3354	subducere	1
+3355	peccare	1
+3356	solvere (<hi rend="italic">de navi</hi>)	1
+3357	efflorescere	1
+3358	exsurgere	1
+3359	subducere se	1
+3360	in pecuniam redigere	1
+3361	assurgi, praealtum esse	1
+3362	instruere, parare	1
+3363	prohiberi, excludi	1
+3364	excurrere (<hi rend="italic">equo</hi>)	1
+3365	comperiri, argui	1
+3366	absolvere	1
+3367	excoli (<hi rend="italic">de terra</hi>)	1
+3368	recensere	1
+3369	recensio	1
+3370	invenire, comperire	1
+3371	praeesse, imperare	1
+3372	explicare, enarrare	1
+3373	explicatio	1
+3374	sexaginta	1
+3375	sexagesimus	1
+3376	ordine	1
+3377	exire, egredi	1
+3378	in expeditionem proficisci	1
+3379	confecerunt.	1
+3380	excedere,	1
+3381	influere, infundi	1
+3382	aequare	1
+3383	caeteros imitati.	1
+3384	excedere, demoveri	1
+3385	exitus, via qua exitus est	1
+3386	egressio, eruptio	1
+3387	sedibus pellere	1
+3388	iusiurandum accipere	1
+3389	facultas, licentia	1
+3390	interdictionem	1
+3391	extra rem propositam.	1
+3392	cum extraneis	1
+3393	ii qui in agris sunt,	1
+3394	obsidentes	1
+3395	ea quae in agris sunt	1
+3396	exterior pars	1
+3397	compellere	1
+3398	extrahi	1
+3399	extrinsecus, ab exteriori parte	1
+3400	exterius	1
+3401	exteriora	1
+3402	qui extra numerum sunt, alii	1
+3403	similem esse	1
+3404	ut videtur	1
+3405	festus dies	1
+3406	iubere, indicere	1
+3407	edicere, denuntiare	1
+3408	adversus hostes ducere	1
+3409	arcessere, vocare ad se 	1
+3410	concitare in se	1
+3411	advehere ad se	1
+3412	persuadere	1
+3413	sociorum	1
+3414	auxiliarium arcessitus,	1
+3415	subvectio	1
+3416	blandus, ad pelliciendum idoneus	1
+3417	laudare, probare	1
+3418	laudator	1
+3419	laus	1
+3420	laudationem	1
+3421	impelli, excitari	1
+3422	efferri, inflari	1
+3423	erectum	1
+3424	suspensum esse,	1
+3425	queri	1
+3426	reus	1
+3427	vituperabilis	1
+3428	advecticius, importatus	1
+3429	verum declarare, confirmare	1
+3430	pinna, propugnaculum muri	1
+3431	ambiguum se praebere	1
+3432	ascendere facere	1
+3433	provehi (<hi rend="italic">navibus</hi>)	1
+3434	impetum facere,	1
+3435	urgere, cogere	1
+3436	edicto proponere	1
+3437	impetus, eruptio	1
+3438	concussio, quassatio	1
+3439	rebellio, tumultus	1
+3440	recedere, recipere se	1
+3441	exaequare	1
+3442	rebellionem facere, cooriri	1
+3443	rursus erigere	1
+3444	editus, acclivis	1
+3445	e locis mediterraneis	1
+3446	exsecrabilis	1
+3447	libationes ad foedus iciendum facere	1
+3448	iis diebus, quibus ultro citroque ibant legati de pace agentes	1
+3449	pernoctare (<hi rend="italic">in loco pugnae</hi>)	1
+3450	gravis, molestus	1
+3451	festinare, properare	1
+3452	maturare,	1
+3453	esse super	1
+3454	locus ad introducendum accommodatus	1
+3455	adportari	1
+3456	supervenire (<hi rend="italic">de navibus</hi>)	1
+3457	deinde,	1
+3458	in futurum	1
+3459	posterum tempus	1
+3460	apud posteros	1
+3461	posteri,	1
+3462	e navibus escendere	1
+3463	adversus hostes excurrere	1
+3464	oram ulteriorem	1
+3465	in hostes excurrere	1
+3466	navibus eruptionem facere	1
+3467	in spem inducere	1
+3468	sperare	1
+3469	educere copias in hostem	1
+3470	extendere aciem	1
+3471	actio extendendi (<hi rend="italic">aciem</hi>)	1
+3472	nova recensio	1
+3473	hostibus obviam exire	1
+3474	progredi, efferri, evehi	1
+3475	ultionem persequi	1
+3476	oratione persequi	1
+3477	eruptio	1
+3478	cultura	1
+3479	interrogatum	1
+3480	interrogatio	1
+3481	sequi, comitari	1
+3482	consequi, consectarium esse	1
+3483	portum intrare (<hi rend="italic">ad hostem aggrediendum</hi>)	1
+3484	retinere, morari	1
+3485	rem coeptam omittere	1
+3486	ne ultra progrediatur impedire,	1
+3487	aliquantum subsistere,	1
+3488	occupare, obtinere	1
+3489	tendere contra, insistere	1
+3490	obumbrare, occultare	1
+3491	advena	1
+3492	contumelia	1
+3493	conscendere	1
+3494	imponere, addere	1
+3495	imponere sibi	1
+3496	miles classiarius	1
+3497	vector	1
+3498	imponere (<hi rend="italic">in naves</hi>)	1
+3499	superstitem esse	1
+3500	inclamare	1
+3501	increpari, maledictis lacessi	1
+3502	inclamatio	1
+3503	maledictis obnoxius	1
+3504	iniectio	1
+3505	operimentum	1
+3506	stratum, ordo laterum superimpositorum	1
+3507	ratio rei aggrediendae	1
+3508	insidiis peti	1
+3509	attente secum deliberare	1
+3510	consilium (<hi rend="italic">proditionis</hi>)	1
+3511	insidiae, consilium	1
+3512	coitionem	1
+3513	supernasci, succrescere	1
+3514	supervenire, contingere	1
+3515	insequi,	1
+3516	recentiora	1
+3517	cognoscere	1
+3518	excogitare (<hi rend="italic">aliquid novi</hi>)	1
+3519	statuere, decernere	1
+3520	inscriptio	1
+3521	inscribendum curare	1
+3522	obdormiscere	1
+3523	domi esse	1
+3524	epidemiurgi, praefecti quidam apud Potidaeatas	1
+3525	insuper traiici	1
+3526	sponte dare, largiri, permittere	1
+3527	crescere, augeri, incrementa capere	1
+3528	insequi, persequi	1
+3529	novarum rerum acceptio	1
+3530	aequitas	1
+3531	clementia	1
+3532	aequitas, moderatio,	1
+3533	advenire, supervenire	1
+3534	prodire (<hi rend="italic">in concionem aut simil.</hi>)	1
+3535	obire, invisere, peragrare	1
+3536	exsequi, perficere,	1
+3537	aggredi, invadere	1
+3538	adventantibus	1
+3539	damnosus	1
+3540	ad mare situs	1
+3541	deos obtestari	1
+3542	deorum obtestatio	1
+3543	operam dare alicui rei	1
+3544	colere, obsequi	1
+3545	omnino diruere	1
+3546	opportunus, commodus	1
+3547	accusare, crimini dare	1
+3548	vocare ad se (<hi rend="italic">auxilii causa</hi>)	1
+3549	invocare	1
+3550	vocare ante se	1
+3551	appellere (<hi rend="italic">post alteram navem</hi>)	1
+3552	rem falso augere	1
+3553	impositum esse (<hi rend="italic">de poena</hi>)	1
+3554	imminere	1
+3555	premere, aggredi	1
+3556	caduceatorem mittere, de foedere agere	1
+3557	periculose	1
+3558	animo frangi	1
+3559	appellatio, nomen	1
+3560	advocatus (<hi rend="italic">in auxilium</hi>)	1
+3561	inclinatus,	1
+3562	proclivis	1
+3563	inundatio	1
+3564	iactare, ostentare	1
+3565	auxiliaris	1
+3566	vincere, superare	1
+3567	potiri, obtinere	1
+3568	vincere sententiis,	1
+3569	praevalere, superiorem esse,	1
+3570	impendere, imminere	1
+3571	occultare se	1
+3572	parare nova	1
+3573	ratum facere	1
+3574	deprehendere, occupare, invadere	1
+3575	intervenire	1
+3576	adipisci, attingere	1
+3577	prehendere	1
+3578	insuper dicere, addere dictis	1
+3579	discere postea	1
+3580	obtestatio	1
+3581	societas belli subsidiaria	1
+3582	oppugnatu facilis	1
+3583	curam habere	1
+3584	curam habere, operam dare	1
+3585	interest	1
+3586	denuo arcessere	1
+3587	mentionem facere	1
+3588	commercium, commeatus	1
+3589	commoratio	1
+3590	depasci	1
+3591	mente agitare	1
+3592	consilium, propositum	1
+3593	accumulare, superstruere	1
+3594	insuper adesse	1
+3595	venire ad, accedere	1
+3596	denuo mittere	1
+3597	missio (<hi rend="italic">copiarum</hi>)	1
+3598	incidere, irruere	1
+3599	incurrere, repente adoriri	1
+3600	invadere, ingruere,	1
+3601	supellex	1
+3602	navigare in, esse in navi	1
+3603	adnavigare	1
+3604	classe invadere, adversus hostem navigare	1
+3605	supplere (<hi rend="italic">numerum nautarum</hi>)	1
+3606	classis hostilis adventus	1
+3607	navium impetus, aggressio	1
+3608	navibus impetum facere	1
+3609	classis, expeditio maritima	1
+3610	in superficie	1
+3611	operosus	1
+3612	aegre, cum labore	1
+3613	notam et indicium praebere	1
+3614	signatus	1
+3615	insignis	1
+3616	cibaria sumere	1
+3617	considerandum (<hi rend="italic">est</hi>)	1
+3618	reficere	1
+3619	reficiendarum navium copia	1
+3620	attrahere, adducere, allicere	1
+3621	pati se trahi et duci aliquo	1
+3622	pertrahi	1
+3623	rursus invehi	1
+3624	foedus renovare	1
+3625	foedus post alterum factum	1
+3626	scire, perspectum et cognitum habere	1
+3627	epistatae munere fungi	1
+3628	scientia, ars, peritia	1
+3629	peritus	1
+3630	expeditio in	1
+3631	expeditionem facere in, adoriri	1
+3632	convertere	1
+3633	flectere viam	1
+3634	calamitas altera	1
+3635	subsidia	1
+3636	novos labores perpeti	1
+3637	adversus collocare	1
+3638	in subsidiis collocari	1
+3639	in subsidiis collocare	1
+3640	munimenta aedificare in agro hostili	1
+3641	munimentum in agro hostili	1
+3642	 perficere, effectum reddere, absolvere	1
+3643	exsequi (<hi rend="italic">quod decretum vel promissum est</hi>)	1
+3644	effectus, peractus	1
+3645	novarum rerum inventio	1
+3646	idoneus, commodus	1
+3647	favens, aequus,	1
+3648	obnoxius	1
+3649	commeatus, res necessariae	1
+3650	ad sepulturam	1
+3651	ad muniendum	1
+3652	ad omnem cultum	1
+3653	commode, convenienter	1
+3654	de industria	1
+3655	sectari, institutum habere	1
+3656	institutum	1
+3657	mores, vitae genus,	1
+3658	agendi ratio	1
+3659	indicere, statuere	1
+3660	adoriri, aggredi 	1
+3661	admovere manum, aggredi	1
+3662	reprehendere, cum exprobratione dicere	1
+3663	reprehensio	1
+3664	honestus, is cui ad honores accedere licet	1
+3665	ortus annuus (<hi rend="italic">sideris</hi>)	1
+3666	committere, tradere	1
+3667	rem sibi commissam habere,	1
+3668	permittere (<hi rend="italic">rem disceptandam</hi>)	1
+3669	sinere, permittere	1
+3670	incurrere, impetum facere	1
+3671	tutorem esse	1
+3672	disceptatio (<hi rend="italic">litis</hi>)	1
+3673	tutor	1
+3674	nancisci, incidere in	1
+3675	rem ex sententia gerere	1
+3676	apparere, conspici	1
+3677	clarus, illustris	1
+3678	augere, addere	1
+3679	obiicere, in crimine ponere	1
+3680	adoriri, invadere	1
+3681	invidiae obnoxious	1
+3682	inflammare	1
+3683	assidue versari	1
+3684	crebris incursionibus.	1
+3685	extraordinarium stipendium	1
+3686	ferens (<hi rend="italic">de vento</hi>)	1
+3687	gaudium afferens	1
+3688	hieme permanere	1
+3689	suscipere, experiri	1
+3690	aggredi, adoriri	1
+3691	susceptum	1
+3692	ut vos deinceps aggrediantur.	1
+3693	aggrediendum	1
+3694	promptus ad aggrediendum	1
+3695	in terris habitans	1
+3696	abuti	1
+3697	demigrare	1
+3698	patrius, domesticus	1
+3699	mos patrius	1
+3700	populares	1
+3701	habitare iuxta (<hi rend="italic">de infesta et hostili vicinitate</hi>)	1
+3702	superstruere	1
+3703	colonus (<hi rend="italic">in locum iam antea habitatum missus</hi>)	1
+3704	illidere (<hi rend="italic">navem</hi>)	1
+3705	illidi	1
+3706	iure iurando confirmare	1
+3707	carmen	1
+3708	verborum ornamenta	1
+3709	debere (<hi rend="italic">reliqua</hi>)	1
+3710	septem	1
+3711	decimus septimus	1
+3712	septem millia	1
+3713	septingenti	1
+3714	epotides, ligna ex utraque prorae parte prominentia	1
+3715	amator	1
+3716	operam navare, elaborare	1
+3717	terram colere,	1
+3718	instrumenta	1
+3719	opera	1
+3720	factum, actio, res gesta, res ipsa	1
+3721	facinus, inceptum, egregie factum	1
+3722	proelium	1
+3723	opus, labor	1
+3724	opera, munus	1
+3725	negotium (<hi rend="italic">de re prius memorata</hi>)	1
+3726	opificium	1
+3727	magna res, res magni momenti	1
+3728	nihil necesse est	1
+3729	solitudo, vastitas	1
+3730	de praesidio	1
+3731	auxilio,	1
+3732	penuria	1
+3733	vastus, desertus	1
+3734	praesidio vacuus	1
+3735	solus, desertus ab aliis, sine sociis	1
+3736	carens, non instructus,	1
+3737	vastare, desolare, vacuum facere	1
+3738	litigare	1
+3739	lis, contentio	1
+3740	scopulus latens	1
+3741	Hermae, statuae Mercurii Athenis	1
+3742	oratione docere	1
+3743	rubor	1
+3744	munimentum, propugnaculum	1
+3745	castellum, locus munitus	1
+3746	cupido	1
+3747	quaestio	1
+3748	amatorius	1
+3749	amatorie	1
+3750	admittere in urbem	1
+3751	accipere proposita, obtemperare	1
+3752	conscendere (<hi rend="italic">navem</hi>)	1
+3753	insinuare se	1
+3754	irruptionem facere (<hi rend="italic">in agrum hostilem</hi>)	1
+3755	in planitiem Argolicam	1
+3756	impetum facere (<hi rend="italic">de equitibus</hi>)	1
+3757	influere	1
+3758	conscensus (<hi rend="italic">navium</hi>)	1
+3759	ad quod aditus patet	1
+3760	aditus, fauces	1
+3761	invasio	1
+3762	adscribendum curare	1
+3763	admittere, intromittere	1
+3764	auctorem esse, suadere, proponere	1
+3765	suasio	1
+3766	quod rei omnis auctores essent.	1
+3767	suadendum	1
+3768	auctor	1
+3769	vestimentum	1
+3770	visere	1
+3771	subire, in mentem venire	1
+3772	adscribi (<hi rend="italic">foederi</hi>)	1
+3773	impositum esse (<hi rend="italic">in navibus</hi>)	1
+3774	importatio	1
+3775	inferre, invehere	1
+3776	inducere.	1
+3777	importare, comportare 	1
+3778	innatare	1
+3779	ingressio, introitus	1
+3780	in murum inserere	1
+3781	occidens	1
+3782	occidentalis	1
+3783	irruere, invehi	1
+3784	intrare (<hi rend="italic">mari</hi>), <gloss>importari	1
+3785	aditus (<hi rend="italic">portus</hi>)	1
+3786	super transitus inter naves relictos	1
+3787	exactio	1
+3788	ut sacrificium exigerent.	1
+3789	focus	1
+3790	convivium	1
+3791	addere, applicare, immittere	1
+3792	incurrere	1
+3793	conferre (<hi rend="italic">pecuniam</hi>)	1
+3794	ferre ad populum	1
+3795	senatum,	1
+3796	inferre se	1
+3797	in urbem comportare	1
+3798	collatio pecuniae	1
+3799	intus ferre	1
+3800	extremitas, extremum	1
+3801	extrema pars	1
+3802	sodalitium	1
+3803	sodalis	1
+3804	civis,	1
+3805	post eos	1
+3806	alteruter	1
+3807	altera pars, adversarii	1
+3808	magis quam quisquam alius	1
+3809	qualis non alter	1
+3810	alter tantus	1
+3811	anniversarius	1
+3812	adhuc	1
+3813	dum adhuc tempus est	1
+3814	usque tunc.	1
+3815	nunc adhuc	1
+3816	amplius	1
+3817	etiam,	1
+3818	praeterea, insuper	1
+3819	olim, denuo, in posterum	1
+3820	paratus,	1
+3821	paratus, expeditus	1
+3822	promptus, paratus	1
+3823	quod in promptu est, commodus, facilis	1
+3824	parato animo	1
+3825	classem praebentes	1
+3826	uno quoque anno	1
+3827	bene, scite	1
+3828	probe scire	1
+3829	bene consulere, bene disponere	1
+3830	rite	1
+3831	prospere, feliciter	1
+3832	prospera fortuna uti	1
+3833	beneficio afficere	1
+3834	beneficio uti	1
+3835	exscensu facilior	1
+3836	circumvallatu facilis	1
+3837	prudentia, bonum consilium	1
+3838	omnium rerum copia florere	1
+3839	res prosperae, rerum copia	1
+3840	locuples	1
+3841	existimationem habere	1
+3842	optimam famam habens	1
+3843	bonam spem habens	1
+3844	aggressu facilis	1
+3845	beneficium, meritum	1
+3846	bene meritus	1
+3847	statim	1
+3848	multari, condemnari	1
+3849	rectus	1
+3850	statim, protinus	1
+3851	vixdum, simul ac,	1
+3852	deinceps, proxime	1
+3853	ab initio	1
+3854	qui facilius vinci potest	1
+3855	qui facile accusari potest	1
+3856	gloria	1
+3857	bene ordinatus	1
+3858	bonus ordo, modestia	1
+3859	vomer,	1
+3860	araturum esse,	1
+3861	captu facilis	1
+3862	laudatio	1
+3863	probabilis	1
+3864	rationi consentaneus	1
+3865	recta ratio	1
+3866	propitius	1
+3867	qui facile debellari potest	1
+3868	tabernacula, castra	1
+3869	bene moratum esse	1
+3870	benevolus, bene affectus	1
+3871	erga aliquem,	1
+3872	moderate	1
+3873	ius iurandum servare	1
+3874	foederi consentaneus	1
+3875	posse	1
+3876	adiumenta habere	1
+3877	facilitas	1
+3878	adiumenta, opes	1
+3879	facilis, commodus	1
+3880	copiose	1
+3881	rebus secundis frui	1
+3882	laetus eventus, res secundae	1
+3883	species, pulcritudo	1
+3884	honestis nominibus	1
+3885	decorus, pulcher	1
+3886	speciosus, honestus	1
+3887	honesto vocabulo	1
+3888	honeste, decore	1
+3889	affabilis	1
+3890	honestum praetextum habens	1
+3891	inveniendus	1
+3892	fortuitum bonum	1
+3893	Euripus	1
+3894	invenire, nancisci	1
+3895	comperire, investigando et inquirendo consequi	1
+3896	adipisci, impetrare	1
+3897	apertus et propatulus locus (<hi rend="italic">de mari</hi>)	1
+3898	pietas	1
+3899	tutissimus	1
+3900	modum et disciplinam servare	1
+3901	bene ordinatus, compositus	1
+3902	bonus ordo	1
+3903	levior	1
+3904	lepide, venuste	1
+3905	secunda fortuna uti	1
+3906	felix	1
+3907	secunda fortuna	1
+3908	ore fausto	1
+3909	custoditu facilis	1
+3910	optare	1
+3911	votum, precatio	1
+3912	sinister (<hi rend="italic">de exercitus cornu</hi>)	1
+3913	trahere post se	1
+3914	allici	1
+3915	sequi, subsequi	1
+3916	sententiam alterius sequi	1
+3917	unum diem durans	1
+3918	electus ad alterius locum supplendum	1
+3919	ingruere, adoriri	1
+3920	viaticum	1
+3921	commeatus	1
+3922	adventus	1
+3923	aditu facillimus	1
+3924	blandus, permulcens	1
+3925	aspicere	1
+3926	inspicere, observare	1
+3927	Ephori munere fungi	1
+3928	stationem adversam tenere	1
+3929	navibus obsidere	1
+3930	adversa navium statio, obsessio	1
+3931	ad stationem naves adpellere	1
+3932	statio in portu	1
+3933	navium statio	1
+3934	qui in statione est	1
+3935	Ephorus	1
+3936	contumeliosas voces iacere	1
+3937	posterius fieri	1
+3938	idoneus	1
+3939	habere, possidere	1
+3940	secum afferre.	1
+3941	satis habere	1
+3942	dignum esse	1
+3943	habere in sua potestate, armis obtinere, potiri	1
+3944	in vinculis habere	1
+3945	secum habere	1
+3946	tenere	1
+3947	a dextra, a sinistra habere	1
+3948	gerere, portare	1
+3949	pati	1
+3950	habere uxorem	1
+3951	consuescere cum	1
+3952	habere ut	1
+3953	quae acceperimus	1
+3954	accusare,	1
+3955	carum habere	1
+3956	posse, facultatem habere	1
+3957	meliori esse conditione, rem bene gerere	1
+3958	proximum esse, proxime sequi	1
+3959	in acie	1
+3960	adhaerere, permanere in	1
+3961	capessere, aggredi	1
+3962	in eum	1
+3963	in Lac	1
+3964	in Rheginos	1
+3965	in Br	1
+3966	in tuto	1
+3967	solis ortus	1
+3968	claustra	1
+3969	reficere (<hi rend="italic">navem</hi>)	1
+3970	iugum, par	1
+3971	bigae	1
+3972	mulctare	1
+3973	quaerere, indagari	1
+3974	indagatio, inquisitio	1
+3975	vivum capere	1
+3976	puberem esse	1
+3977	adolescere	1
+3978	pubertas	1
+3979	praeire, praecedere	1
+3980	ducere, viam monstrare	1
+3981	principatum tenere	1
+3982	sub principatu esse	1
+3983	imperium, ductus	1
+3984	principatus	1
+3985	dux (<hi rend="italic">viae</hi>)	1
+3986	ductor, praeses	1
+3987	dux (<hi rend="italic">exercitus</hi>)	1
+3988	imperator,	1
+3989	princeps	1
+3990	princeps (<hi rend="italic">reipublicae</hi>)	1
+3991	delectari	1
+3992	cum delectatione	1
+3993	iam	1
+3994	abhinc, exinde	1
+3995	iam nunc	1
+3996	statim, sine mora	1
+3997	voluptas, delectatio	1
+3998	grati erant.	1
+3999	gratificantes	1
+4000	incundus	1
+4001	mores,	1
+4002	adesse, advenisse	1
+4003	advenerant	1
+4004	venturum esse,	1
+4005	in constanti, media aetate.	1
+4006	iuventus	1
+4007	iuvenes	1
+4008	sol	1
+4009	solis aestus	1
+4010	dies	1
+4011	in diem	1
+4012	toto die	1
+4013	in unum diem	1
+4014	tertia die post eius adventum.	1
+4015	orto die	1
+4016	interdin	1
+4017	vespere	1
+4018	semifactus	1
+4019	semideus	1
+4020	semimortuus	1
+4021	dimidius, dimidia pars	1
+4022	semiperfectus	1
+4023	auriga	1
+4024	continens ferra	1
+4025	continentem fieri	1
+4026	in continenti habitans	1
+4027	qui in continenti habitant	1
+4028	quae ad continentem pertinet	1
+4029	mitior	1
+4030	profecto	1
+4031	herois monumentum	1
+4032	heros	1
+4033	vinci, superari	1
+4034	nihilo secius	1
+4035	minor	1
+4036	deterior, inferior	1
+4037	minus potens	1
+4038	conquiescere	1
+4039	non moveri	1
+4040	a motu et agitatione absistere	1
+4041	in statione manere, adversus hostes non progredi	1
+4042	pacem et tranquillitatem agere, a bello se abstinere	1
+4043	nihil novi moliri	1
+4044	placari	1
+4045	quietem capere	1
+4046	quies,	1
+4047	tranquille	1
+4048	quies, tranquillitas	1
+4049	prae tranquillitatis studio	1
+4050	quietum se tenere	1
+4051	oliose	1
+4052	ut Corinthus pacata csset	1
+4053	cessatio	1
+4054	dulcedo	1
+4055	tranquillus	1
+4056	tranquillitas,	1
+4057	remex infimi ordinis	1
+4058	mare	1
+4059	a mari,	1
+4060	in littore maris,	1
+4061	procul a mari, in mediterraneis locis,	1
+4062	in mari, inter navigandum	1
+4063	regiones maritimae	1
+4064	in mari versari	1
+4065	maris imperium tenere	1
+4066	maris imperium tenens	1
+4067	miraculum	1
+4068	nex	1
+4069	capitis condemnatio	1
+4070	capitalis poena	1
+4071	sepelire	1
+4072	fiducia plenus, audax, securus	1
+4073	securitas,	1
+4074	fidenter, sine metu	1
+4075	audacem	1
+4076	securum esse,	1
+4077	fiducia	1
+4078	fiducia, audacia	1
+4079	animum erigere	1
+4080	altera pars	1
+4081	admiratio	1
+4082	admirari, admiratione prosequi	1
+4083	cultu et observantia prosequi	1
+4084	mirari, stupere	1
+4085	mirus	1
+4086	spectatio, conspectus	1
+4087	spectaculum	1
+4088	spectator	1
+4089	religionibus uti	1
+4090	religiones	1
+4091	currere	1
+4092	sulfur	1
+4093	divinus	1
+4094	numen,	1
+4095	fundamentum	1
+4096	deus	1
+4097	Apollo Delphicus	1
+4098	dea, Minerva	1
+4099	simulacrum deae	1
+4100	Eumenides	1
+4101	cultus, observantia, obsequium	1
+4102	curatio aegroti	1
+4103	colere, excolere, observare	1
+4104	curare, consulere	1
+4105	providere (<hi rend="italic">se ménager</hi>)	1
+4106	curare aegrotum	1
+4107	ardor	1
+4108	calidus	1
+4109	aestas	1
+4110	situs	1
+4111	magistratus apud Eleos	1
+4112	spectare, ludis interesse	1
+4113	conspectus	1
+4114	ludorum frequentatio	1
+4115	legatus ad sacra solemnia	1
+4116	Delphos	1
+4117	magistratus apud Mantinenses	1
+4118	proletarius	1
+4119	remex summi ordinis	1
+4120	audacius	1
+4121	capillus	1
+4122	rumor	1
+4123	filia	1
+4124	immolare, sacra facere	1
+4125	libamenta	1
+4126	ira,	1
+4127	thuribulum	1
+4128	animi impetu, iracunde	1
+4129	loricari	1
+4130	lorica	1
+4131	remedium	1
+4132	mederi	1
+4133	medicus	1
+4134	species, genus	1
+4135	privatim	1
+4136	privatus, proprius	1
+4137	privatus homo	1
+4138	rudis, imperitus	1
+4139	collocare (<hi rend="italic">castra</hi>)	1
+4140	ponere, statuere	1
+4141	ire, venire	1
+4142	redierunt.	1
+4143	quum rediissent.	1
+4144	quum rediissent	1
+4145	sacerdotio fungi	1
+4146	sacerdos, antistita	1
+4147	victima	1
+4148	mensis sacer, dies festi	1
+4149	templum	1
+4150	de Colono	1
+4151	sacer	1
+4152	sacra	1
+4153	subsidere	1
+4154	idoneus, sufficiens	1
+4155	qui potest, par, aptus	1
+4156	ad aliquid agendum	1
+4157	supplicatio	1
+4158	supplicandi modus	1
+4159	supplex	1
+4160	congruens, iustus,	1
+4161	propitium esse	1
+4162	navis equis transportandis idonea,	1
+4163	equitum praefectus	1
+4164	eques	1
+4165	ordo equitum	1
+4166	equitatus	1
+4167	certamen equestre	1
+4168	equestri praelio superari	1
+4169	equestre praelium committere	1
+4170	equestre praelium	1
+4171	equus	1
+4172	equitatus,	1
+4173	eques sagittarius	1
+4174	sumptus in equis alendis	1
+4175	ludi Isthmici	1
+4176	Isthmica foedera	1
+4177	isthmus	1
+4178	Isthmus Corinthiacus	1
+4179	isthmi formam habens	1
+4180	pari vitae cultu utens	1
+4181	aeque paratus ad discrimen	1
+4182	aequalis partitio	1
+4183	aequo iure cum caeteris vivere	1
+4184	iuris aequabilitas	1
+4185	aequo iure utens	1
+4186	aequabilis, par	1
+4187	par latitudine	1
+4188	par numero	1
+4189	par, exaequatus	1
+4190	par, aequalis	1
+4191	par numerus	1
+4192	solitus	1
+4193	aequus, neutri favens	1
+4194	aequum ius	1
+4195	aequa pars, idem	1
+4196	ius suum obtinere,	1
+4197	aeque, perinde	1
+4198	de aequa re	1
+4199	pari iure ac conditione	1
+4200	par in suffragiis ferendis	1
+4201	statuere	1
+4202	statui	1
+4203	stare	1
+4204	bene ferri	1
+4205	velum	1
+4206	habere, obtinere	1
+4207	valere, pollere	1
+4208	validus, firmus, vehemens	1
+4209	vires, potentia,	1
+4210	vis	1
+4211	cundum	1
+4212	uti, quemadmodum	1
+4213	purgare, lustrare	1
+4214	destruere, diruere	1
+4215	evertere, devincere, tollere e medio,	1
+4216	abrogare, rescindere	1
+4217	evertendus	1
+4218	eversor, debellator	1
+4219	quemadmodum	1
+4220	perstringere, incessere	1
+4221	purus	1
+4222	integer, sine admixtione	1
+4223	purgatio, lustratio	1
+4224	mora	1
+4225	consessum facere	1
+4226	concludere	1
+4227	deducere (<hi rend="italic">navem</hi>)	1
+4228	conservatio	1
+4229	insidere (<hi rend="italic">de exercitu</hi>)	1
+4230	collocare (<hi rend="italic">exercitum</hi>)	1
+4231	instituere, creare	1
+4232	efficere, reddere, exhibere	1
+4233	acquare	1
+4234	addacere, coniicere	1
+4235	dum parant necessaria	1
+4236	constitui,	1
+4237	magistratum inire	1
+4238	quaeque obiit.	1
+4239	esse, fieri	1
+4240	venire, deduci	1
+4241	oriri, coeptum esse,	1
+4242	praesenti	1
+4243	bellum instituere, suscipere	1
+4244	in colloquium venire	1
+4245	in concionem prodire	1
+4246	constare, firmum esse	1
+4247	constaus aetas	1
+4248	tempestas praesens	1
+4249	usu venit, solet, in usu est	1
+4250	denuo	1
+4251	novitas	1
+4252	novari	1
+4253	opportunus	1
+4254	tempus, momentum	1
+4255	ubi tempus adfuit. 	1
+4256	opportunitas, occasio	1
+4257	de loci opportunitate	1
+4258	commoditas	1
+4259	in tempore, opportune	1
+4260	intempestive	1
+4261	malitia	1
+4262	increpare, reprehendere	1
+4263	versutior	1
+4264	afflictatio	1
+4265	mala pati	1
+4266	rebus adversis uti	1
+4267	res adversae	1
+4268	malus	1
+4269	improbus,	1
+4270	iniquus	1
+4271	ignavus	1
+4272	impar alicui rei,	1
+4273	malum, incommodum,	1
+4274	malum, maleficium, iniuria illata	1
+4275	calamitas	1
+4276	malo consilio	1
+4277	cum alicuius detrimento	1
+4278	morum pravitas	1
+4279	malo afficere, frangere, debilitare	1
+4280	frangi, debilitari	1
+4281	malum facere, improbe agere	1
+4282	laedere, nocere	1
+4283	infestari	1
+4284	maleficium, improbitas	1
+4285	praedo, latro	1
+4286	peior, versutior	1
+4287	maleficus, sons	1
+4288	misere	1
+4289	parum, non satis	1
+4290	malum inferre	1
+4291	malo affici	1
+4292	male se habere	1
+4293	asperis rebus uti	1
+4294	probro affici	1
+4295	noxa, offensio	1
+4296	conditio peior, depravatio	1
+4297	labor, angustiae	1
+4298	calamus	1
+4299	vocare, advocare	1
+4300	revocari	1
+4301	dici, vocari	1
+4302	volutari	1
+4303	magnifice loqui	1
+4304	pulcritudo	1
+4305	pulcher, eximius	1
+4306	adspectu pulcher, speciosus	1
+4307	idoncus	1
+4308	commodus, opportunus	1
+4309	commode,	1
+4310	bonus	1
+4311	laeta, secunda	1
+4312	praeclarus, gloriosus	1
+4313	honestus, decorus	1
+4314	honestum est	1
+4315	honestum, decus	1
+4316	tugurium	1
+4317	funiculus	1
+4318	funis	1
+4319	recte, ut decet	1
+4320	ornate, diserte	1
+4321	praeclare, honorifice	1
+4322	honeste, cum dignitate	1
+4323	firmiter	1
+4324	prospere	1
+4325	opportune	1
+4326	bene se habere	1
+4327	defuncti,	1
+4328	flecti	1
+4329	canistrum	1
+4330	fumus	1
+4331	ventriculus	1
+4332	frui,	1
+4333	arduus, natura munitus,	1
+4334	gravis, atrox,	1
+4335	deiicere, diruere	1
+4336	proiici	1
+4337	descensio, locus ubi descenditur	1
+4338	vi compellere	1
+4339	conviciis insectari	1
+4340	convicium, criminatio	1
+4341	corio contegere	1
+4342	is de quo aliquid nunciatur	1
+4343	reducere (<hi rend="italic">exsulem</hi>)	1
+4344	adducere in periculum	1
+4345	derideri	1
+4346	iudicare (<hi rend="italic">contemptim</hi>)	1
+4347	condemnatio	1
+4348	denunciare	1
+4349	appulsus (<hi rend="italic">in portum</hi>)	1
+4350	diversorium	1
+4351	perdomare	1
+4352	manifestus, compertus	1
+4353	latam sententiam.	1
+4354	servitus imponenda	1
+4355	deprimere (<hi rend="italic">navem</hi>)	1
+4356	insimulare	1
+4357	advocari	1
+4358	includere	1
+4359	intercluserunt	1
+4360	in sinum deflectere	1
+4361	deportatio	1
+4362	deportare	1
+4363	iaculis confodere	1
+4364	caedere, obtruncare	1
+4365	praevalere, imperium obtinere	1
+4366	contrahere, incurrere	1
+4367	deprehendere, invenire	1
+4368	deprehendere, incessere	1
+4369	accidere, contingere,	1
+4370	assumere	1
+4371	posteris tradere	1
+4372	qui obtineri potest	1
+4373	actus assequendi	1
+4374	ita ut eum assequi posset.	1
+4375	in gratiam redire	1
+4376	enumeratio	1
+4377	delectus	1
+4378	tabulae conscribendis militum nominibus	1
+4379	evertere, dissolvere	1
+4380	profligare	1
+4381	eluere	1
+4382	belli exitum facere	1
+4383	reconciliari,	1
+4384	divertere	1
+4385	eversio	1
+4386	belli exitus	1
+4387	reconciliatio	1
+4388	obiurgare	1
+4389	obiurgatio	1
+4390	cogere, compellere	1
+4391	distribuere inter se	1
+4392	ediscere	1
+4393	conculcare	1
+4394	abrogare, privare imperio	1
+4395	compescere	1
+4396	decidere, corruere	1
+4397	secundo flumine navigare	1
+4398	consternatio	1
+4399	percellere	1
+4400	bello infestare	1
+4401	urgere, impugnare,	1
+4402	debellare, devincere	1
+4403	detrudi	1
+4404	collabi, concidere	1
+4405	corruere	1
+4406	quassare	1
+4407	subruere, demoliri	1
+4408	speculari	1
+4409	fabricari, conficere	1
+4410	providere sibi domicilium	1
+4411	structura, aedificium	1
+4412	supellex, domesticus apparatus	1
+4413	detrahi	1
+4414	institutio, constitutio	1
+4415	rerum status	1
+4416	subactio	1
+4417	vitae exitus	1
+4418	tabulatum navis	1
+4419	ponere, collocare	1
+4420	finem belli facere	1
+4421	gratiam conferre	1
+4422	componere, finem facere,	1
+4423	sagittis confodere	1
+4424	vulneribus conficere	1
+4425	perforare,	1
+4426	hostiliter incarsare	1
+4427	conspicuum esse	1
+4428	manifestius	1
+4429	in aperto esse,	1
+4430	deflagrare	1
+4431	territare	1
+4432	tectus, constratus	1
+4433	cum contemptu putare	1
+4434	intelligere, deprehendere	1
+4435	arguere, indicio esse	1
+4436	ferri (<hi rend="italic">de sententia</hi>)	1
+4437	conficere, exsequi	1
+4438	profligare, devincere	1
+4439	retinere, detinere	1
+4440	continere, cohibere	1
+4441	occupatum tenere	1
+4442	continere se	1
+4443	retinere	1
+4444	obtinere, praevalere,	1
+4445	applicare navem,	1
+4446	detineri	1
+4447	contineri, coerceri	1
+4448	accusatio	1
+4449	accusari	1
+4450	moestitia	1
+4451	exoriri,	1
+4452	redire in patriam,	1
+4453	gentes	1
+4454	frequentare incolis	1
+4455	sedem collocare	1
+4456	deductio (<hi rend="italic">coloniae</hi>)	1
+4457	cunctari, cessare	1
+4458	non pati	1
+4459	pone, a tergo	1
+4460	rem prospere gerere	1
+4461	defodere	1
+4462	deorsum	1
+4463	ad mare	1
+4464	ex inferiori parte	1
+4465	glarea	1
+4466	iacere	1
+4467	situm esse	1
+4468	positum esse,	1
+4469	depositum esse	1
+4470	propositum esse,	1
+4471	constitutum esse,	1
+4472	iubere, suadere, invitare ad	1
+4473	iussus	1
+4474	hortator, qui celeusma canit	1
+4475	celox, navis actuaria	1
+4476	celox, cymba	1
+4477	vacuus	1
+4478	singultus irritus, qui nihil eiiciat	1
+4479	in vanum	1
+4480	vacuum fieri	1
+4481	pungi	1
+4482	tigillum	1
+4483	antenna	1
+4484	miscere	1
+4485	cornu (<hi rend="italic">aciei</hi>)	1
+4486	in cornu, a latere	1
+4487	cornu praeeunte, longo agmine	1
+4488	cornu Nili	1
+4489	lucrum facere	1
+4490	quaestuosus	1
+4491	cum lucro	1
+4492	lucrmn	1
+4493	abscondere	1
+4494	summa	1
+4495	summatim	1
+4496	summam rei paucis complecti	1
+4497	caput	1
+4498	locus in Cithaerone	1
+4499	curam gerere	1
+4500	nuptiae	1
+4501	hortulus	1
+4502	praeconium	1
+4503	praeconium facere	1
+4504	caduceus	1
+4505	praeco	1
+4506	Ceryces, familia praeconum Athenis	1
+4507	per praeconem edicere	1
+4508	in periculo versari	1
+4509	periclitator	1
+4510	mutare, novare,	1
+4511	agitare, tentare,	1
+4512	movere se	1
+4513	agitari	1
+4514	agitatio	1
+4515	furtum	1
+4516	celebritas famae	1
+4517	furari	1
+4518	palmes	1
+4519	portio agri dividendi	1
+4520	colonus, qui agros sorte dividendos obtinet	1
+4521	praeclusio	1
+4522	claustrum,	1
+4523	clausus	1
+4524	scala	1
+4525	lectus	1
+4526	mare fluctuosum	1
+4527	cavare	1
+4528	alvus	1
+4529	cavus	1
+4530	cava Elis	1
+4531	participem esse,	1
+4532	communi opera.	1
+4533	communi consilio.	1
+4534	communi sumptu	1
+4535	communicare consilia	1
+4536	communis	1
+4537	casus communes seu ancipites, qui utrisque possunt accidere	1
+4538	murus intergerinus	1
+4539	aequus, medius, neutri favens,	1
+4540	publicus,	1
+4541	cummune, publicum	1
+4542	in commune, in publicum,	1
+4543	in reipublicae salutem	1
+4544	in publico, in aerario,	1
+4545	impertire	1
+4546	cum aliquo,	1
+4547	communiter agere	1
+4548	consociatio	1
+4549	castigare	1
+4550	castigatio	1
+4551	urinator	1
+4552	transvectio	1
+4553	reddendum cnrare	1
+4554	transportari	1
+4555	adduci	1
+4556	vehi, iter facere	1
+4557	reverti, revehi	1
+4558	recuperari	1
+4559	consequi, obtinere	1
+4560	redditum accipere	1
+4561	iactari	1
+4562	gloriosus	1
+4563	pulvis excitatus	1
+4564	pulvis	1
+4565	contus	1
+4566	lassitudo	1
+4567	caedere, concidere	1
+4568	tundere	1
+4569	vulnerare, perforare	1
+4570	vertex	1
+4571	decus	1
+4572	ordo, modus, lex	1
+4573	sine modo	1
+4574	rerum ordo, status	1
+4575	mensura uncias novem capiens	1
+4576	exonerare	1
+4577	consolationem capere	1
+4578	levitas verborum	1
+4579	leviter	1
+4580	praevalere, superare, vincere	1
+4581	potiri,	1
+4582	imperium, obtinere	1
+4583	superari, vinci	1
+4584	obtineri	1
+4585	crater	1
+4586	praestantissimus, optimus	1
+4587	peritissimus	1
+4588	optimum,	1
+4589	imperium obtinere	1
+4590	potestas, arbitrium	1
+4591	totis viribus, acerrime	1
+4592	vi, impetu	1
+4593	firmiorem reddere, munire	1
+4594	caro	1
+4595	praestantior, melior,	1
+4596	praestat	1
+4597	validior, potentior,	1
+4598	victor,	1
+4599	locus praeruptus	1
+4600	praeruptus	1
+4601	fons	1
+4602	hordeum	1
+4603	iudicare	1
+4604	probari	1
+4605	rem conficere, decernere	1
+4606	collidi	1
+4607	celare	1
+4608	condere	1
+4609	glacies	1
+4610	nodus crinium in cervice	1
+4611	acquirere, comparare	1
+4612	possidere,	1
+4613	occidere	1
+4614	res, opus	1
+4615	praedium, fundus	1
+4616	acquisitio	1
+4617	occupatio	1
+4618	possessio	1
+4619	condere, aedificare	1
+4620	fragor	1
+4621	faba	1
+4622	senatus qui fabarum scrutinio legebatur.	1
+4623	gubernator	1
+4624	magistratus, qui Cytheriorum iudex vocabatur	1
+4625	circulus	1
+4626	murus orbicularis	1
+4627	in orbem	1
+4628	circumvenire	1
+4629	circumveniri	1
+4630	fluctus	1
+4631	fluctuare	1
+4632	cupressinus	1
+4633	is cuius potestas vel ius est aliquid agendi	1
+4634	ratus	1
+4635	potestas	1
+4636	ratum facere, decernere	1
+4637	nihil decernebatur.	1
+4638	canis	1
+4639	tintinnabulum	1
+4640	prohibere, obstare	1
+4641	obstaculum	1
+4642	impeditio	1
+4643	is qui prohibet	1
+4644	remus	1
+4645	remis actus	1
+4646	sortes ducere,	1
+4647	sorte obtinere,	1
+4648	potiti	1
+4649	sumere, secum capere	1
+4650	devincere	1
+4651	auferre, tollere	1
+4652	percipere, experiri	1
+4653	concipere	1
+4654	animo accipere, iudicare,	1
+4655	nancisci	1
+4656	invadere,	1
+4657	experimentum facere	1
+4658	veniam obtinere	1
+4659	sumere poenas	1
+4660	altiorem fieri	1
+4661	appetere,	1
+4662	petere, assequi	1
+4663	fax	1
+4664	splendidus	1
+4665	florens	1
+4666	egregius	1
+4667	splendor, magnificentia	1
+4668	magnificentiam ostentare	1
+4669	egregic	1
+4670	latere	1
+4671	arca	1
+4672	olerum collectio	1
+4673	lebes, pelvis	1
+4674	ut ita dicam	1
+4675	ut paucis omnia complectar	1
+4676	quod dictu dignum sit	1
+4677	dicere aliquid probabile	1
+4678	iubere	1
+4679	eloqui	1
+4680	verba facere	1
+4681	suadere (<hi rend="italic">legem</hi>)	1
+4682	dici	1
+4683	fama ferri	1
+4684	mandatum, praeceptum est	1
+4685	convenit, pactum est,	1
+4686	ut proverbium est	1
+4687	praeda	1
+4688	pratum	1
+4689	laevis	1
+4690	relinqui	1
+4691	libertas relicta nobis est.	1
+4692	reliquum esse, superesse	1
+4693	inferiorem esse, superari	1
+4694	abcedere	1
+4695	destitui	1
+4696	animo deficere	1
+4697	nomen collis in Sicilia	1
+4698	cuius solum tenue est	1
+4699	desinere	1
+4700	oblivio	1
+4701	dicere,	1
+4702	latrocinium	1
+4703	a praedonibus infestari	1
+4704	praedo	1
+4705	latrocinia	1
+4706	praedones	1
+4707	magis latrocinii more	1
+4708	praedatorius	1
+4709	captio	1
+4710	lapideus	1
+4711	qui lapides mittit	1
+4712	qui lapides legit	1
+4713	lapis	1
+4714	qui lapides elaborat	1
+4715	lapides comportare	1
+4716	portus	1
+4717	lacus, stagnum	1
+4718	ad lacum pertinens	1
+4719	fames	1
+4720	lineus	1
+4721	linum	1
+4722	oleum, unguentum	1
+4723	delecta manus	1
+4724	lecte	1
+4725	computare	1
+4726	spectare, ratiocinari, rationem habere	1
+4727	computatio	1
+4728	ratiocinatio, ratio habenda	1
+4729	rerum scriptor	1
+4730	ficta fabulari	1
+4731	dictum, verbum	1
+4732	dicto,	1
+4733	facto,	1
+4734	sermo, oratio	1
+4735	colloquium	1
+4736	ex compacto aliquo	1
+4737	proposita, conditiones	1
+4738	fama, rumor	1
+4739	mentio	1
+4740	memorabilis, nobilis	1
+4741	maior quam ut verbis enarrari possit	1
+4742	argumentum, id de quo agitur seu narratur aliquid	1
+4743	causa, ratio	1
+4744	increpare	1
+4745	convicium	1
+4746	pestilentia	1
+4747	reliqua pars,	1
+4748	collis	1
+4749	praefectus cohortis	1
+4750	insidias locare	1
+4751	in insidiis collocare	1
+4752	insidiis excipi	1
+4753	fruticosus	1
+4754	cohors	1
+4755	singultus	1
+4756	rescindere	1
+4757	solvere vinculis	1
+4758	captivitate	1
+4759	componere bellum	1
+4760	abrogare, antiquare	1
+4761	frangere, rumpere	1
+4762	perniciem afferre	1
+4763	dolore afficere	1
+4764	angere, conficere	1
+4765	laedere	1
+4766	moerere	1
+4767	moeror	1
+4768	redemptionis pretium	1
+4769	lucerna	1
+4770	erudiri	1
+4771	beatum praedicare	1
+4772	longiori oratione uti	1
+4773	longus	1
+4774	longinquus, diuturnus	1
+4775	longius, in maius, 	1
+4776	quam longissime	1
+4777	admodum	1
+4778	hoc ipso tempore,	1
+4779	mollitia, segnitia	1
+4780	mollem, segnem esse	1
+4781	mollis, segnis	1
+4782	leviores	1
+4783	molliter, segniter	1
+4784	in primis	1
+4785	optime, facillime	1
+4786	in ipso tempore	1
+4787	loco,	1
+4788	ad summum gradum	1
+4789	potius	1
+4790	melius, facilius	1
+4791	discere	1
+4792	furiosus	1
+4793	oraculum consulere	1
+4794	divinatio	1
+4795	vates	1
+4796	marcescere	1
+4797	testimonium	1
+4798	flagellifer	1
+4799	gladio armatus	1
+4800	qui nobiscum pugnaverunt	1
+4801	pugna	1
+4802	locus pugnae	1
+4803	genus pugnae	1
+4804	res militaris	1
+4805	ad pugnam habilis	1
+4806	amplificare, augere	1
+4807	exaggerare	1
+4808	oratione extollere	1
+4809	magnus	1
+4810	quod maximum est	1
+4811	murorum	1
+4812	pars habenda est	1
+4813	deducere de sententia	1
+4814	depellere	1
+4815	ad defectionem compellere	1
+4816	summovere	1
+4817	relegare	1
+4818	transire, deduci	1
+4819	desciscere	1
+4820	confinis	1
+4821	confinium	1
+4822	confinia	1
+4823	classem traiicere	1
+4824	curae esse	1
+4825	meditari, exercere se	1
+4826	rem navalem	1
+4827	meditatio, exercitatio	1
+4828	futurum esse	1
+4829	futurum,	1
+4830	futura	1
+4831	cunctari,	1
+4832	futurum esse,	1
+4833	exspectationem	1
+4834	quod futuri erant agrum invadere	1
+4835	cunctator	1
+4836	subactus, pinsus	1
+4837	melle mixtus	1
+4838	pollutus	1
+4839	reprehensione dignus	1
+4840	reprehendere.	1
+4841	stare, permanere	1
+4842	hostilem impetum excipere, sustinere	1
+4843	moram patiens	1
+4844	pro rata parte	1
+4845	aliqua ex parte	1
+4846	ex parte	1
+4847	alternis vicibus	1
+4848	pro rata portione	1
+4849	plus tribuere	1
+4850	meridies	1
+4851	meridianus	1
+4852	mediterranea regio	1
+4853	medius	1
+4854	qui neutras partes sequitur	1
+4855	arbitro	1
+4856	mediae conditionis	1
+4857	media nox	1
+4858	dimidia pars	1
+4859	intercidere	1
+4860	esse in medio	1
+4861	mediocriter	1
+4862	mutari	1
+4863	partes 	1
+4864	sententiam mutare,	1
+4865	commercium	1
+4866	scripturam mutare	1
+4867	in aliam linguam transferre	1
+4868	translatio	1
+4869	qui mutari potest	1
+4870	metalli fodina	1
+4871	poenitentia, mutatio consilii	1
+4872	poenitere	1
+4873	intervallum	1
+4874	arcessere	1
+4875	arcessendus	1
+4876	arcessitus	1
+4877	spatium inter duas turres	1
+4878	rerum mutatio	1
+4879	in alias partes transire	1
+4880	in alium locum se conferre, discedere	1
+4881	in sublime tollere	1
+4882	in altum provehi	1
+4883	sublimis, qui terram non tangit	1
+4884	suspensus,	1
+4885	cuius res firmae non sunt.	1
+4886	persequi, ulcisci	1
+4887	consectari	1
+4888	civis inquilinus	1
+4889	mutare nomen	1
+4890	autumnalis	1
+4891	autumnus	1
+4892	moderate agere	1
+4893	modicus, moderatus	1
+4894	modice, moderate	1
+4895	onus	1
+4896	adversis frontibus	1
+4897	frons	1
+4898	nihil	1
+4899	neutri	1
+4900	in neutram partem	1
+4901	Medorum partes sequi	1
+4902	in Medos studia	1
+4903	longitudo	1
+4904	producere, protrahere	1
+4905	papaver	1
+4906	mensis	1
+4907	lunae speciem habens	1
+4908	curvatus in cornua	1
+4909	indicare, indicium deferre	1
+4910	index	1
+4911	praemium indicii	1
+4912	mater	1
+4913	metropolis	1
+4914	machinari, consilium inire	1
+4915	parare, procurare	1
+4916	machina	1
+4917	machinatio, artificium	1
+4918	levis, parvi momenti	1
+4919	imitari	1
+4920	imitatio	1
+4921	reminisci	1
+4922	mentionem facere, memorare	1
+4923	odisse	1
+4924	stipendii solutio	1
+4925	merces, stipendium	1
+4926	mercede conducere	1
+4927	stipendium	1
+4928	mercedem capere	1
+4929	mercedem capere oportet	1
+4930	mina	1
+4931	memoria	1
+4932	memorari	1
+4933	memorem esse iniuriae	1
+4934	procus	1
+4935	id quod alicuius naturae proprium est	1
+4936	plumbum	1
+4937	vix, aegre	1
+4938	qui solus imperat	1
+4939	mansurus	1
+4940	solum	1
+4941	solus	1
+4942	per se ipsum, sine ullo auxilio	1
+4943	seiungi a ceteris	1
+4944	tantummodo	1
+4945	musica	1
+4946	musicus	1
+4947	vectis	1
+4948	commentitius	1
+4949	pistrinum	1
+4950	onus decem millium talentorum ferens	1
+4951	stultitia	1
+4952	tabulae navis fractae	1
+4953	imperium navale	1
+4954	ut adiret s. capesseret imperium.	1
+4955	praefectus classis (<hi rend="italic">apud Lacedaemonios</hi>)	1
+4956	qui navem conscendit, nauta	1
+4957	dominus navis	1
+4958	classe superare	1
+4959	classe superior	1
+4960	in statione navium observare	1
+4961	praelium navale committere	1
+4962	navalis praelii studio teneri	1
+4963	navale praelium	1
+4964	naves aedificare	1
+4965	navibus aedificandis idoneus	1
+4966	navium aedificatio	1
+4967	navium aedificator	1
+4968	navis	1
+4969	statio navalis	1
+4970	nauta	1
+4971	navales copiae, classis	1
+4972	res navalis	1
+4973	adolescentulus	1
+4974	struere	1
+4975	natare	1
+4976	mortuus, cadaver	1
+4977	tribuere	1
+4978	dividendo tribuere	1
+4979	tenere, frui	1
+4980	gerere, administrare	1
+4981	possidere, fructum percipere	1
+4982	libertinus (<hi rend="italic">apud Lacedaemonios</hi>)	1
+4983	recens constitutus	1
+4984	recens conditus	1
+4985	iuvenis	1
+4986	iuventus, iuvenes	1
+4987	nutus	1
+4988	renium valetudo	1
+4989	aedificia subducendis navibus	1
+4990	corpora varie movebant.	1
+4991	rerum novarum studium	1
+4992	rerum novarum studiosus	1
+4993	insulanus	1
+4994	insulanorum status	1
+4995	insula	1
+4996	vincere	1
+4997	superiorem esse	1
+4998	vinci	1
+4999	superari	1
+5000	nothus	1
+5001	putare	1
+5002	habere	1
+5003	in more habere	1
+5004	putari	1
+5005	haberi	1
+5006	in more esse	1
+5007	legitimus, iustus	1
+5008	ius	1
+5009	instituta	1
+5010	legitime	1
+5011	observantia	1
+5012	legumlator	1
+5013	lex	1
+5014	morbus	1
+5015	pluvius	1
+5016	auster	1
+5017	initium mensis	1
+5018	nocturnus	1
+5019	praelium nocturnum	1
+5020	nox	1
+5021	tergum	1
+5022	dux peregrinorum militum	1
+5023	peregrinorum expulsio	1
+5024	ius hospitii	1
+5025	hospitum exceptio	1
+5026	liospes	1
+5027	peregrinos milites alere	1
+5028	siccare	1
+5029	siccum	1
+5030	cognatus	1
+5031	cognatio,	1
+5032	convenire, congredi	1
+5033	consentire, assentiri	1
+5034	commune habere	1
+5035	qui ignoscit	1
+5036	venia dignus	1
+5037	subscribere (<hi rend="italic">de foedere</hi>)	1
+5038	a scribendis legibus	1
+5039	scriptura (<hi rend="italic">de foedere</hi>)	1
+5040	historia	1
+5041	una diruere	1
+5042	una evertere, devincere,	1
+5043	una sedere	1
+5044	una constituere	1
+5045	una descendere	1
+5046	una in fugam agi	1
+5047	una in servitutem redigere	1
+5048	una occupare	1
+5049	una relinquere	1
+5050	una evertere	1
+5051	una colere	1
+5052	exsequi, conficere	1
+5053	una subigere	1
+5054	una conficere	1
+5055	una frequentare incolis	1
+5056	in pristinas sedes reducere	1
+5057	constare, compositum esse	1
+5058	pactum et compositum	1
+5059	una iubere	1
+5060	commisceri	1
+5061	una periclitari	1
+5062	aciem coniungere	1
+5063	concludere (<hi rend="italic">concionem</hi>)	1
+5064	coniunctio	1
+5065	convena	1
+5066	consociare	1
+5067	temperamentum	1
+5068	collidere	1
+5069	collisio	1
+5070	una comparare	1
+5071	confundere	1
+5072	confusio	1
+5073	concedere	1
+5074	ligneus	1
+5075	comprehendere	1
+5076	adiuvare	1
+5077	comprehensio	1
+5078	materia, contignatio	1
+5079	convenire, statui	1
+5080	aptum esse, congruere	1
+5081	manus conserere	1
+5082	conferre, proferre	1
+5083	compositionis desiderio teneri	1
+5084	compositio, pactio	1
+5085	ad auxilium ferendum convenire	1
+5086	controversia de pactis	1
+5087	suadere	1
+5088	praescribere	1
+5089	suadendus	1
+5090	consultor	1
+5091	testimonio confirmare	1
+5092	socium belli esse	1
+5093	una pugnare	1
+5094	conciliavit	1
+5095	actum de	1
+5096	conciliaret	1
+5097	sociorum regio	1
+5098	foederum arbiter	1
+5099	socia	1
+5100	sociorum regio, socii	1
+5101	socius	1
+5102	una manere	1
+5103	commetiri	1
+5104	commixtus	1
+5105	convenarum turbam	1
+5106	manus conserere, congredi	1
+5107	coniungi (<hi rend="italic">de exercitibus</hi>)	1
+5108	contributus	1
+5109	auxilio adesse	1
+5110	una adesse	1
+5111	universus, omnis	1
+5112	totus, 	1
+5113	universi, simul cuncti	1
+5114	ut omnia paucis absolvam	1
+5115	inter se collidi	1
+5116	una navigare	1
+5117	connectere	1
+5118	complere (<hi rend="italic">naves</hi>)	1
+5119	una bellum gerere	1
+5120	una obsidere	1
+5121	una rempublicam administrare	1
+5122	itineris socium esse	1
+5123	consilii socium atque adintorem esse	1
+5124	legatos una mittere	1
+5125	legationis socius	1
+5126	adniti	1
+5127	una comitari	1
+5128	conferre	1
+5129	succedere	1
+5130	prodesse	1
+5131	emolumentum	1
+5132	commoda	1
+5133	convenire, consentire	1
+5134	obvenire, obtingere	1
+5135	una terreri	1
+5136	casus, eventus	1
+5137	calamitas, clades	1
+5138	comportare	1
+5139	commodus, utilis	1
+5140	commode, utiliter	1
+5141	exsilii socius	1
+5142	custodiae consors	1
+5143	congregare	1
+5144	eandem sententiam tueri	1
+5145	concionari	1
+5146	certaminis ac periculi participem esse	1
+5147	iniuriae participem esse	1
+5148	paucis complecti,	1
+5149	una suscipere, partem capere	1
+5150	simul utrique	1
+5151	everti, collabi	1
+5152	simul hortari	1
+5153	simul perdere	1
+5154	simul perire	1
+5155	simul nutare	1
+5156	coniungere	1
+5157	coaptare	1
+5158	cohaerere	1
+5159	socium esse in imperio	1
+5160	captivum cum aliis liberare	1
+5161	ad defectionem simul impellere	1
+5162	una deficere	1
+5163	nexus	1
+5164	captivitatis socius	1
+5165	una transire	1
+5166	una transmittere	1
+5167	una accusari	1
+5168	una degere	1
+5169	bellum una tolerare	1
+5170	una persequi	1
+5171	simul cum aliis placere	1
+5172	una agere	1
+5173	consessor	1
+5174	esse cum, conversari	1
+5175	consuctus	1
+5176	coagmentatus	1
+5177	una proficisci mari	1
+5178	una efferre	1
+5179	una in libertatem vindicare	1
+5180	una exscindere	1
+5181	una delinquere	1
+5182	una exire	1
+5183	una inducere	1
+5184	accire	1
+5185	Brasidam	1
+5186	instigare	1
+5187	una accusare	1
+5188	simul cum aliis opem ferre	1
+5189	una desciscere	1
+5190	vota simul facere	1
+5191	auxiliari, adiuvare	1
+5192	una curare	1
+5193	arma simul inferre	1
+5194	simul adoriri	1
+5195	adiutor	1
+5196	una invadere	1
+5197	una intrare	1
+5198	una irrumpere	1
+5199	una praepositus	1
+5200	continuus	1
+5201	continuitas	1
+5202	continue	1
+5203	consuetus	1
+5204	conventio, pactum	1
+5205	signum	1
+5206	ex composito	1
+5207	tessera militaris	1
+5208	conflari, committi	1
+5209	confligere	1
+5210	qui eadem lingua utebantur.	1
+5211	ad societatem impellere	1
+5212	consociare se, coire	1
+5213	conspirare, coniurare	1
+5214	conflari	1
+5215	implicari, deduci in	1
+5216	navali praelio una dimicare	1
+5217	coacervatus	1
+5218	nebulosus	1
+5219	conventus	1
+5220	una habitare	1
+5221	domus meritoria, in qua plures una habitant	1
+5222	festus dies Athenis, in memoriam commigrationis Atheniensium in unam urbem sub Theseo	1
+5223	in unam urbem congregare	1
+5224	congregatio civium in unam urbem	1
+5225	eiusdem urbis aut regionis incola	1
+5226	in socictatem urbis adsciverunt.	1
+5227	simul cum aliis iurare	1
+5228	coniurare	1
+5229	compositio	1
+5230	conturbari	1
+5231	in unum ordinem componere	1
+5232	instruere ordines	1
+5233	componi,	1
+5234	una sepultus	1
+5235	una munire	1
+5236	contributum esse	1
+5237	praecidere, minuere	1
+5238	construere	1
+5239	rem inter se constituere, pacisci	1
+5240	brevissimus	1
+5241	concurrere	1
+5242	usitatus	1
+5243	obvenire	1
+5244	quem fors tulerit,	1
+5245	eventus, casus	1
+5246	constructus	1
+5247	sodalitas	1
+5248	coniuratus	1
+5249	ad manus venire	1
+5250	erumpere	1
+5251	contubernalis	1
+5252	advesperascere	1
+5253	una servare	1
+5254	factionis participem esse	1
+5255	conflictus	1
+5256	circumcidere	1
+5257	una militare	1
+5258	collega in imperio	1
+5259	obolus	1
+5260	octoginta	1
+5261	magistratus Argivorum	1
+5262	octogesimus	1
+5263	octavus	1
+5264	via	1
+5265	Novemviae, nomen priscum Amphipoleos	1
+5266	unde maxime, ex quo ipso loco	1
+5267	habitare, incolere	1
+5268	vivere, degere,	1
+5269	administrare, regere,	1
+5270	publico,	1
+5271	alieno,	1
+5272	externo,	1
+5273	partria	1
+5274	res propriae	1
+5275	pertinens ad,	1
+5276	propinquus, familiaris	1
+5277	propinqui	1
+5278	familiaritas	1
+5279	apte, convenienter	1
+5280	familiariter	1
+5281	usurpatio	1
+5282	cella	1
+5283	gens, familia	1
+5284	frequentare incolis, condere	1
+5285	actio condendi, deductio	1
+5286	conditor	1
+5287	qui urbem vel regionem incolis frequentat,	1
+5288	qui coloniam deducit,	1
+5289	aedificare	1
+5290	aedificium	1
+5291	aedificatio, structura	1
+5292	domo	1
+5293	domi	1
+5294	substructio	1
+5295	ubi rudera vetustarum aedium innui videntur	1
+5296	domesticis calamitatibus.	1
+5297	a domo	1
+5298	ne domo abessent	1
+5299	miserari	1
+5300	commiseratio	1
+5301	eiulatio	1
+5302	vinum	1
+5303	compotatio	1
+5304	trulla	1
+5305	a qualibus viris	1
+5306	qualis maxime	1
+5307	qui potest	1
+5308	fieri potest	1
+5309	tolerabilis	1
+5310	vimineus	1
+5311	abire, proficisci	1
+5312	profectum esse,	1
+5313	profectus	1
+5314	pigere, vereri	1
+5315	segnior	1
+5316	segnitia	1
+5317	octingenti	1
+5318	octo	1
+5319	exitium	1
+5320	raro	1
+5321	paucitas hominum	1
+5322	paucorum imperio uti	1
+5323	paucorum imperium	1
+5324	ad paucorum imperium pertinens	1
+5325	exiguus	1
+5326	paulo,	1
+5327	modico spatio	1
+5328	modico temporis intervallo	1
+5329	in exiguo spatio	1
+5330	in exiguo tempore	1
+5331	in exiguum spatium	1
+5332	ex modico spatio	1
+5333	celeriter, subito	1
+5334	ex parvo, levi momento,	1
+5335	quantum ex brevitate temporis	1
+5336	paulatim, sensim	1
+5337	partim, per partes	1
+5338	pauci,	1
+5339	ut penes paucos sint magistratus	1
+5340	nihil laborare	1
+5341	contemptui habere	1
+5342	onenaria	1
+5343	machina trahendis navibus	1
+5344	ululatus	1
+5345	totus	1
+5346	lamentatio	1
+5347	comploratio	1
+5348	societas belli	1
+5349	commilito	1
+5350	planities	1
+5351	planissimus	1
+5352	aequabiliter	1
+5353	pignus	1
+5354	obses	1
+5355	adsuescere	1
+5356	ararum consors	1
+5357	eiusdem sententiae	1
+5358	quales erant antea.	1
+5359	talis, idem,	1
+5360	par,	1
+5361	ex aequo, pariter	1
+5362	perinde, pariter,	1
+5363	eodem modo	1
+5364	in eundem modum,	1
+5365	similis moribus	1
+5366	eadem ratione	1
+5367	adsimilare	1
+5368	aeque, pariter	1
+5369	ut antea	1
+5370	aeque ac,	1
+5371	aequis viribus	1
+5372	congruere	1
+5373	promitti	1
+5374	pactio	1
+5375	per compositionem	1
+5376	ex omnium consensu	1
+5377	in concordia vivere	1
+5378	concordia	1
+5379	finitima regio	1
+5380	obviam ire, congredi.	1
+5381	manum operi admoverunt.	1
+5382	eodem cultu utens	1
+5383	eiusdem generis	1
+5384	eadem lingua utens	1
+5385	idem nomen habens	1
+5386	tamen	1
+5387	eorumdem sacrorum participes	1
+5388	exprobrare	1
+5389	probrum	1
+5390	trahere sucula	1
+5391	rei,	1
+5392	nominatim	1
+5393	nobilissimus	1
+5394	acriter	1
+5395	acutus	1
+5396	acer	1
+5397	qua, quanam via	1
+5398	qua ratione	1
+5399	quanam hora	1
+5400	pone	1
+5401	arma	1
+5402	acceperunt.	1
+5403	abstulit.	1
+5404	spoliis captis.	1
+5405	auferre.	1
+5406	arma sumere	1
+5407	armorum inspectio	1
+5408	arma ordine posita	1
+5409	armatorum ordines	1
+5410	armare	1
+5411	gravis armaturae militibus vehendis idoneus	1
+5412	gravis armaturae militem esse	1
+5413	gravis armaturae miles	1
+5414	gravis armaturae milites	1
+5415	quo	1
+5416	quis	1
+5417	quantulumcunque	1
+5418	quot	1
+5419	quantumvis pauci	1
+5420	utercunque	1
+5421	utro modo	1
+5422	in utram partem	1
+5423	quocunque modo	1
+5424	videre	1
+5425	malle	1
+5426	flagrare studio	1
+5427	iracunde	1
+5428	per iram	1
+5429	iratum esse	1
+5430	adpetere, cupere	1
+5431	montanus	1
+5432	erectus, acclivis	1
+5433	stans, integer	1
+5434	rectus, sansus	1
+5435	erigere, exstruere	1
+5436	secundis rebus uti	1
+5437	secundae res	1
+5438	diluculum	1
+5439	recte	1
+5440	fines regionis	1
+5441	terminare	1
+5442	definire,	1
+5443	terminari	1
+5444	iurisiurandi arbiter	1
+5445	iureiurando obstringere	1
+5446	impetum facere, concitare se	1
+5447	se accingere ad,	1
+5448	cum impetu ferri	1
+5449	IV	1
+5450	in motu esse	1
+5451	profectum esse	1
+5452	concitatum ac propensum esse	1
+5453	in statione manere	1
+5454	in statione collocare	1
+5455	in statione consistere, adpellere	1
+5456	fines	1
+5457	mons	1
+5458	foss	1
+5459	saltatio	1
+5460	quotiescunque	1
+5461	pius	1
+5462	fas	1
+5463	pie	1
+5464	odor	1
+5465	dum, donec	1
+5466	ex quo, unde	1
+5467	quatenus, quoad	1
+5468	quantum	1
+5469	quantum,	1
+5470	fere	1
+5471	non magis quam, modo	1
+5472	non modo	1
+5473	iamiam,	1
+5474	quanto	1
+5475	quo magis	1
+5476	quol	1
+5477	quantum, quatenus	1
+5478	os	1
+5479	nulla ex parte	1
+5480	nullam in partem	1
+5481	nullum, nihil, 	1
+5482	perinde	1
+5483	nihilomagis	1
+5484	nihilominus	1
+5485	nunquam adhuc	1
+5486	neuter	1
+5487	non igitur	1
+5488	igitur	1
+5489	iamiam	1
+5490	facultates, res	1
+5491	sic, ita,	1
+5492	adeo	1
+5493	debere	1
+5494	debitum	1
+5495	damnari	1
+5496	molestum esse	1
+5497	sero	1
+5498	naves habuerunt	1
+5499	vesperi	1
+5500	vespertinus	1
+5501	visus	1
+5502	species, adspectus	1
+5503	opsonium	1
+5504	pancratium	1
+5505	paean	1
+5506	institui	1
+5507	iocus	1
+5508	amasius	1
+5509	arduus	1
+5510	puer, filius, 	1
+5511	liberi,	1
+5512	paeana canere	1
+5513	cantus paeanis	1
+5514	iampridem,	1
+5515	veteri fortuna opulentus	1
+5516	vetus	1
+5517	ab antiquis temporibus	1
+5518	lucta	1
+5519	retro, retrorsum	1
+5520	reversi sunt.	1
+5521	vertentes.	1
+5522	renunciavit.	1
+5523	remittentibus.	1
+5524	versa vice	1
+5525	cum universa populi multitudine	1
+5526	raptim	1
+5527	conventus ludorum	1
+5528	cum universis incolis	1
+5529	plena (<gloss>luna	1
+5530	tumultuaria militia	1
+5531	cum universo exercitu	1
+5532	ab omni parte	1
+5533	omnino, absolute	1
+5534	omnigeni	1
+5535	omnino, prorsus	1
+5536	omnino, admodum	1
+5537	praecipuus	1
+5538	ad internecionem	1
+5539	avus	1
+5540	transgredi, violare	1
+5541	adpellere (<gloss>navem	1
+5542	obiicere (<gloss>periculo	1
+5543	auxilio esse	1
+5544	producere in medium	1
+5545	adesse auxilio	1
+5546	exemplum	1
+5547	transmittere (<gloss>ab alio accepta	1
+5548	tradi	1
+5549	transmitti	1
+5550	deditio	1
+5551	transmissio	1
+5552	tradere oportet	1
+5553	imperii participem esse	1
+5554	tradere cupere	1
+5555	ad oram marititimam situs	1
+5556	accola maris	1
+5557	ora maritima	1
+5558	detractio	1
+5559	segmentum	1
+5560	deprecatio	1
+5561	depositum	1
+5562	iuxta defigere	1
+5563	adhortator	1
+5564	periclitari	1
+5565	advocatio	1
+5566	praetervectio	1
+5567	praetervehi	1
+5568	accipere,	1
+5569	ab aliis tradita,	1
+5570	a maioribus,	1
+5571	imperium a decessore,	1
+5572	memoriae prodita,	1
+5573	accipere in potestatem, occupare, potiri	1
+5574	sumere secum	1
+5575	derelinquere, praetermittere	1
+5576	Atticae regio maritima	1
+5577	alternata serie	1
+5578	falsa ratio	1
+5579	regio Atticae	1
+5580	navis publica	1
+5581	nautac huius navis	1
+5582	demovere	1
+5583	vexare	1
+5584	de pestilentia	1
+5585	lenire dictis, bono animo esse iubere	1
+5586	consolari	1
+5587	ex adverso attollere	1
+5588	contra leges facere	1
+5589	delictum	1
+5590	insolentia, morum violatio	1
+5591	quod lex vetat	1
+5592	legum violandarum accusare,	1
+5593	contra ius et leges	1
+5594	adnavigare, praetervehi	1
+5595	similis, proximus, fere idem	1
+5596	praeternavigatio	1
+5597	imitando adulterare	1
+5598	ad flumen situs	1
+5599	sollicitare	1
+5600	efficere	1
+5601	rem adornare	1
+5602	praeparari	1
+5603	instructum esse,	1
+5604	parare se	1
+5605	parare,	1
+5606	in apparatu esse	1
+5607	cum iusto apparatu	1
+5608	contrarius foederi	1
+5609	acies instructa	1
+5610	aciem instruere	1
+5611	praetendi,	1
+5612	perdurare	1
+5613	munimentum alteri oppositum	1
+5614	apponi sibi iubere	1
+5615	deflectere	1
+5616	forte adesse	1
+5617	forte offerri	1
+5618	quum per occasionem liceret	1
+5619	opportunitas,	1
+5620	a quovis obvio	1
+5621	opportunitate oblata	1
+5622	in praesenti tempore	1
+5623	praeterferri	1
+5624	addi (<hi rend="italic">ad numerum explendum</hi>)	1
+5625	sepimentum, pluteus	1
+5626	ex tempore, in praesentia	1
+5627	aditum praebere	1
+5628	qua locus daretur.	1
+5629	adesse, interesse, advenire	1
+5630	praesens,	1
+5631	in praesenti	1
+5632	praesens rerum status	1
+5633	pars navis anterior, quae est extra remigium	1
+5634	transire (<hi rend="italic">e loco</hi>)	1
+5635	subsecivus	1
+5636	praebere, suppeditare	1
+5637	afferre, excitare	1
+5638	dare, causam esse	1
+5639	facessere	1
+5640	ultioni locum dare	1
+5641	permittere, copiam facere	1
+5642	occasio datur,	1
+5643	praebere (<hi rend="italic">pro parte sua</hi>)	1
+5644	praebere sibi, instruere se	1
+5645	dare sibi	1
+5646	offerre, proferre	1
+5647	aetatis florem excedere	1
+5648	transire, praeterire	1
+5649	transire ex loco in alterum (<hi rend="italic">in acie</hi>)	1
+5650	praeterire, confici	1
+5651	prodire (<hi rend="italic">in concionem</hi>)	1
+5652	praetermittere, omittere, negligere	1
+5653	adstare, consistere	1
+5654	animo obversari	1
+5655	occasio est,	1
+5656	ad deditionem compellere,	1
+5657	prodeundum (<hi rend="italic">in concionem</hi>)	1
+5658	obiter	1
+5659	iuxta aedificare	1
+5660	consimilis	1
+5661	incitare, irritare	1
+5662	iuxta fodere	1
+5663	praesentia	1
+5664	suppeditatio	1
+5665	omnis	1
+5666	omnium maxime, potissimum,	1
+5667	quivis, quilibet,	1
+5668	in re qualibet	1
+5669	summa rerum, res tota	1
+5670	funditus, omnino	1
+5671	pati, experiri	1
+5672	beneficiis affici	1
+5673	male multari	1
+5674	pater	1
+5675	patrius	1
+5676	mores maiorum	1
+5677	patria	1
+5678	patris nomine addito	1
+5679	finem imponere	1
+5680	sedare, coercere	1
+5681	impedire, deterrere	1
+5682	abrogare imperium	1
+5683	sedari, dirimi	1
+5684	aboleri	1
+5685	spoliari, pelli	1
+5686	finem facere, desinere	1
+5687	crassus	1
+5688	campus	1
+5689	pedestri 	1
+5690	terrestri itinere,	1
+5691	pedestri praelio pugnare	1
+5692	pedestre praelium	1
+5693	pedestre iter faciens	1
+5694	pedestres copiae	1
+5695	pedites	1
+5696	peditatus	1
+5697	res pedestris	1
+5698	suadere, persuadere	1
+5699	adducere, corrumpere	1
+5700	conducere	1
+5701	persuaderi	1
+5702	acquiescere,	1
+5703	parere	1
+5704	adduci, corrumpi	1
+5705	pellici	1
+5706	conduci	1
+5707	persuasio	1
+5708	experimentum, periculum, conatus	1
+5709	specimen dare	1
+5710	perspectum habere	1
+5711	periculum facere	1
+5712	tentare	1
+5713	ad stuprum sollicitare	1
+5714	sollicitatio	1
+5715	in alto navigans	1
+5716	pelagus	1
+5717	appropinquare	1
+5718	alter,	1
+5719	alii	1
+5720	securis	1
+5721	lividus	1
+5722	cetratus	1
+5723	mitti	1
+5724	missus	1
+5725	quintus	1
+5726	pauperem esse	1
+5727	paupertas	1
+5728	quinque annorum	1
+5729	quinque millia	1
+5730	concilium Athenis	1
+5731	quingenti	1
+5732	senatus Atheniensium	1
+5733	quingentis modiis censi	1
+5734	quinque	1
+5735	quindecim	1
+5736	quinquennalis solemnitas	1
+5737	quinquaginta	1
+5738	quinquaginta militum praefecti	1
+5739	quinquaginta remis acta (<gloss>navis	1
+5740	quinquagesimus	1
+5741	ordo militaris quinquaginta virorum (<gloss>apud Lacedaemonios	1
+5742	proficere, prodesse	1
+5743	ad finem perducere	1
+5744	effici, accidere	1
+5745	tonitrua, fulgura,	1
+5746	traiicere,	1
+5747	trans	1
+5748	Corcyraeorum	1
+5749	Peraice	1
+5750	circum undique nunciare	1
+5751	missis nunciis parari iubere	1
+5752	indicere	1
+5753	evertere, dirucre	1
+5754	qui eximi potest	1
+5755	aegerrime ferre	1
+5756	circumiicere	1
+5757	circumdare moenia urbi suae	1
+5758	ambitus murorum	1
+5759	superesse,	1
+5760	suppetere	1
+5761	circumscriptus	1
+5762	pavidus	1
+5763	pavide	1
+5764	superese	1
+5765	abundantia	1
+5766	ex abundanti	1
+5767	circumcludere,	1
+5768	circumequitare	1
+5769	id quod superat	1
+5770	circumire	1
+5771	collocare circum	1
+5772	MED circumdare	1
+5773	circumstare	1
+5774	contingere, redire	1
+5775	circumpositum esse	1
+5776	circumflui	1
+5777	circumcisio	1
+5778	circumcidi	1
+5779	circumfinitimi	1
+5780	circumstagnare	1
+5781	de quo pugnatur	1
+5782	vector nihil agens in navigando	1
+5783	nimia animi solertia	1
+5784	circa	1
+5785	circumvicina	1
+5786	circumsaepi	1
+5787	aequo animo ferre, sinere	1
+5788	circumspectare	1
+5789	eventum exspectare	1
+5790	refugere	1
+5791	sollicitum esse	1
+5792	ira percitus	1
+5793	tempus circa diluculum	1
+5794	navalem stationem circumagere	1
+5795	in stationem circumagere	1
+5796	in magna opum abundantia.	1
+5797	copia luxuriantes.	1
+5798	actio	1
+5799	superiores fore.	1
+5800	circummittere	1
+5801	per circuitum mittere	1
+5802	circum cremare	1
+5803	circumnavigare, circumvehi	1
+5804	oppletus	1
+5805	circumnavigatio	1
+5806	recreare, reficere	1
+5807	adquirere	1
+5808	dux circitorum	1
+5809	circitores	1
+5810	circumfluere	1
+5811	defluere, decidere	1
+5812	circumfluus	1
+5813	superare, redundare	1
+5814	ab omni parte, a circumstantibus	1
+5815	circumvallare	1
+5816	muro circumdare	1
+5817	munimentum alicui loco circumductum	1
+5818	artificium, calliditas	1
+5819	afferre, addere	1
+5820	sustinere, resistere	1
+5821	perterritus	1
+5822	circum custodiri	1
+5823	summa laetitia	1
+5824	saxosus	1
+5825	tostus	1
+5826	natura comparatum esse	1
+5827	maceratus	1
+5828	defigi	1
+5829	concrescere (<hi rend="italic">de glacie</hi>)	1
+5830	lutum	1
+5831	lutosus	1
+5832	noxa	1
+5833	cubitus (<hi rend="italic">de mensura</hi>)	1
+5834	premere	1
+5835	acceptissimus (<hi rend="italic">de oratore</hi>)	1
+5836	dolium	1
+5837	tegumenta e lana coacta, quibus pro loricis utebantur Lacedaemonii	1
+5838	bibere	1
+5839	vendi	1
+5840	cadere	1
+5841	concidere, corruere	1
+5842	pix	1
+5843	credere, confidere	1
+5844	fides	1
+5845	propter fidem pravis hominibus habitam.	1
+5846	fidei pignora	1
+5847	fidus, fidelis, cui fides habetur	1
+5848	fides,	1
+5849	pignus fidei	1
+5850	fide data obstringere	1
+5851	fideliter	1
+5852	fretus	1
+5853	obliquus, transversus	1
+5854	a latere	1
+5855	latera	1
+5856	quadratum agmen	1
+5857	vultum fingere	1
+5858	latus	1
+5859	mensura centum pedum	1
+5860	frequentiori successu uti	1
+5861	redundare	1
+5862	plus aequo habere, appetere aliena	1
+5863	alieui appetens	1
+5864	avaritia	1
+5865	navigandum	1
+5866	plenus	1
+5867	ictus	1
+5868	multitudo	1
+5869	frequens forum	1
+5870	praeterquam	1
+5871	impletus	1
+5872	instructus,	1
+5873	compensare	1
+5874	instruere,	1
+5875	in naves conscendebant.	1
+5876	compleri	1
+5877	remigium, remiges	1
+5878	qui prope erant	1
+5879	percuti	1
+5880	ex lateribus aedificare	1
+5881	lateres ducere	1
+5882	laterculus	1
+5883	later	1
+5884	navigium	1
+5885	navigatio, cursus, iter maritimum	1
+5886	secunda navigatio	1
+5887	donec liceret vela dare.	1
+5888	espeditio maritima	1
+5889	parabant.	1
+5890	dives	1
+5891	divitem fieri	1
+5892	divitiae	1
+5893	navigationi operam dare	1
+5894	ad navigandum idoncus	1
+5895	navigationis maior facultas	1
+5896	flatus, ventus	1
+5897	halitus	1
+5898	aestuosus	1
+5899	flatus	1
+5900	pedibus celer	1
+5901	optabilior	1
+5902	alicunde	1
+5903	desiderium	1
+5904	facere.	1
+5905	maximam gloriae suae partem.	1
+5906	efficere, reddere	1
+5907	efficere ut,	1
+5908	dare operam	1
+5909	benigne facere, malum inferre,	1
+5910	efficere, afferre, exhibere	1
+5911	conciliare (<hi rend="italic">foedus</hi>)	1
+5912	concitare (<hi rend="italic">bellum</hi>)	1
+5913	committere (<hi rend="italic">pugnam</hi>)	1
+5914	celebrare (<hi rend="italic">diem festum, ludos</hi>)	1
+5915	aedificare, exstruere	1
+5916	conficere	1
+5917	constituere, collocare	1
+5918	partiri	1
+5919	redigere	1
+5920	dare (<hi rend="italic">exemplum</hi>)	1
+5921	inclinare	1
+5922	facere, fingere	1
+5923	conqueri	1
+5924	liberare,	1
+5925	crimini dare	1
+5926	iudicia instituere	1
+5927	hospitum abactiones exercere	1
+5928	quae fecissent.	1
+5929	aedificari, exstrui,	1
+5930	facere, construere, aedificare,	1
+5931	aperire.	1
+5932	instituere sibi	1
+5933	sumere sibi	1
+5934	adsciscere	1
+5935	declarare	1
+5936	indignari,	1
+5937	non ferendum existimare	1
+5938	exime	1
+5939	exsecrari	1
+5940	commodis suis consulere	1
+5941	plurimi facere,	1
+5942	pluris	1
+5943	intra collocare	1
+5944	in tuto ponere	1
+5945	spernere, negligere	1
+5946	suum facere, sibi vindicare,	1
+5947	bellum gerere,	1
+5948	pacem facere	1
+5949	foedus pangere,	1
+5950	committere,	1
+5951	eruptionem navalem facere	1
+5952	impetum	1
+5953	profectionem parare	1
+5954	securitatem obtinere	1
+5955	cursum certatim tenere	1
+5956	differre	1
+5957	exscendere	1
+5958	initium facere	1
+5959	sententiam ferre	1
+5960	pecuniam mutuari	1
+5961	indicare	1
+5962	dignoscere	1
+5963	vitam agere	1
+5964	digressionem facere	1
+5965	refutare	1
+5966	insidias struere	1
+5967	in prodigium trahere	1
+5968	Instrare	1
+5969	crumpere	1
+5970	eruptionem navalem facere,	1
+5971	excursionem facere	1
+5972	curam agere	1
+5973	irrumpere	1
+5974	stationes infestas habere	1
+5975	inimicitiam concipere	1
+5976	sacrificium facere	1
+5977	incursiones facere,	1
+5978	deponere bellum	1
+5979	per caduceatorem edicere	1
+5980	verba facere, agere, colloqui	1
+5981	se exercere	1
+5982	commorari	1
+5983	hospitio excipere	1
+5984	comprehensionem parare	1
+5985	deditionem facere	1
+5986	discrimen adire	1
+5987	circumspectionem adhibere	1
+5988	fidem obstringere	1
+5989	oppugnare	1
+5990	causam praetendere	1
+5991	diligentiam adhibere	1
+5992	castra ponere, communire	1
+5993	sepulturam facere	1
+5994	procrcare liberos	1
+5995	impetrare	1
+5996	in memoriam revocare	1
+5997	custodias agere, custodire	1
+5998	decretum facere	1
+5999	fabricatio	1
+6000	poesis	1
+6001	facindus	1
+6002	poeta	1
+6003	polemarchi,	1
+6004	morarum praefecti,	1
+6005	magistratus,	1
+6006	bellum gerere	1
+6007	quae in bello facta sint.	1
+6008	bellandi studio flagrare	1
+6009	bellandum	1
+6010	bellicus	1
+6011	hostilis	1
+6012	hostilis ager	1
+6013	in Athenienses	1
+6014	hostiliter	1
+6015	bellum	1
+6016	hostilis redditur.	1
+6017	hostis factus crat.	1
+6018	urbs, civitas	1
+6019	pro patria.	1
+6020	civitatium copiae	1
+6021	arx Athenarum	1
+6022	respublica, civitas	1
+6023	forma et status reipublicae	1
+6024	administratio reipublicae, mos civilis	1
+6025	victus, consuetudo	1
+6026	ius civitatis	1
+6027	civilem vitam agere, rempublicam gerere	1
+6028	in civitate vivere	1
+6029	civilis, ad rempublicam pertinens	1
+6030	res publicae	1
+6031	oppidulum	1
+6032	sacpe	1
+6033	ne forte	1
+6034	multiplex	1
+6035	multis in partibus	1
+6036	multis modis,	1
+6037	variae sunt coniecturae.	1
+6038	ex multis locis	1
+6039	multis de causis	1
+6040	in multos locos	1
+6041	in multis locis	1
+6042	minutissimus	1
+6043	frequens incolis	1
+6044	multorum imperium	1
+6045	vino abundantissimus	1
+6046	multarum rerum usus	1
+6047	multarum rerum gerendarum studium	1
+6048	multus	1
+6049	nocte intempesta.	1
+6050	magna pars	1
+6051	maior pars,	1
+6052	magna pars,	1
+6053	multo,	1
+6054	magni pretii	1
+6055	magno intervallo	1
+6056	e longinquo	1
+6057	a longo tempore	1
+6058	diu	1
+6059	saepius	1
+6060	magna ex parte	1
+6061	ut plurimum, plerumque,	1
+6062	longe maxime, summopere	1
+6063	multi	1
+6064	crebri illi.	1
+6065	pleraque, maior pars	1
+6066	vulgo, plerumque	1
+6067	maior,	1
+6068	melius scire,	1
+6069	meliore esse conditione	1
+6070	maiorem partem habere	1
+6071	nimium tribuere	1
+6072	per longius tempus	1
+6073	e longiori	1
+6074	iampridem, dudum	1
+6075	plus, ulterius	1
+6076	diutius	1
+6077	longius	1
+6078	ut plurimum, plerumque	1
+6079	pluris,	1
+6080	maiores copiae	1
+6081	maior numerus civium	1
+6082	reliquum tempus	1
+6083	non tam quam	1
+6084	plures	1
+6085	magis,	1
+6086	maior numerus	1
+6087	pleraque	1
+6088	plerumque	1
+6089	plurimus,	1
+6090	maximi pretii	1
+6091	maximo intervallo	1
+6092	iamdin,	1
+6093	longissime, maxime, ad maximum gradum, per maximam partem	1
+6094	quam longissime, quam maxime	1
+6095	quam diutissime	1
+6096	ut plurimum	1
+6097	maxima pars	1
+6098	plurimi,	1
+6099	plurimum,	1
+6100	magnus sumptus	1
+6101	sumptuosus	1
+6102	versutia	1
+6103	multitudo manuum	1
+6104	multitudo suffragiorum	1
+6105	pompae particeps	1
+6106	pompa	1
+6107	quassari	1
+6108	laborare morbo, bello	1
+6109	improbitas	1
+6110	infirmus, malus	1
+6111	ad deteriora.	1
+6112	pontus	1
+6113	fretum	1
+6114	parare sibi	1
+6115	qui facilius sibi aliquid parat	1
+6116	apparator	1
+6117	potatio	1
+6118	aliquando, unquam	1
+6119	tandem	1
+6120	utrum	1
+6121	potabilis	1
+6122	potus	1
+6123	pes	1
+6124	e vestigio, vestigiis consequendo	1
+6125	terra quae ante pedes est, proxima quaeque	1
+6126	res, negotium	1
+6127	negotia, res	1
+6128	publicae,	1
+6129	qui reipublicae praeerant.	1
+6130	actum	1
+6131	mansuetudo	1
+6132	agere, facere	1
+6133	efficere, exsequi	1
+6134	agere aliquid, occupatum esse	1
+6135	transigere	1
+6136	agere de	1
+6137	fortuna uti	1
+6138	agi de	1
+6139	postulari, exigi	1
+6140	multare	1
+6141	decorus, conveniens, dignus	1
+6142	decenter	1
+6143	natu maximum esse	1
+6144	legatos mittere	1
+6145	legationem obire	1
+6146	natu maximus	1
+6147	antiquissimus, maximi momenti	1
+6148	seniores	1
+6149	emisse	1
+6150	serra secare	1
+6151	antequam,	1
+6152	priusquam	1
+6153	donec,	1
+6154	praenuntiari	1
+6155	praedictio	1
+6156	prouehere,	1
+6157	ante pugnare	1
+6158	promere	1
+6159	praesentire	1
+6160	priorem se defendere	1
+6161	prius ascendere	1
+6162	prius solvere	1
+6163	prius consumere	1
+6164	prior discessus	1
+6165	prius abire	1
+6166	mitti ante	1
+6167	prius abcedere	1
+6168	suburbium	1
+6169	prius advenire	1
+6170	pecus	1
+6171	providere, praecavere	1
+6172	ante consultare	1
+6173	praecedere, antea fieri	1
+6174	praeterita	1
+6175	praenoscere	1
+6176	maiores	1
+6177	antea scribere	1
+6178	praemonstrare	1
+6179	praesignificare	1
+6180	prius calumniari	1
+6181	prius iudicare	1
+6182	praedoceri	1
+6183	proditores	1
+6184	deserere, destituere,	1
+6185	dedere, tradere,	1
+6186	proiicere,	1
+6187	prodi	1
+6188	deseri	1
+6189	longius persequi	1
+6190	prius decerni	1
+6191	proditio	1
+6192	proditor	1
+6193	praecursor	1
+6194	praeses	1
+6195	praescire	1
+6196	ex acie procurrere	1
+6197	prius incussus pavor	1
+6198	prius impressionem facere	1
+6199	pristina habitatio	1
+6200	producere, aciem extendere	1
+6201	priores ire obviam hostibus	1
+6202	prius erumpere	1
+6203	prius laudare	1
+6204	prius iactari	1
+6205	prius insidiari	1
+6206	prius aggredi	1
+6207	prius confici, praeparari	1
+6208	res antea gestae	1
+6209	praestare,	1
+6210	superior, praepotens	1
+6211	prominere,	1
+6212	pars prominens	1
+6213	antecedere,	1
+6214	appellere navem,	1
+6215	animum applicare	1
+6216	proponere,	1
+6217	praecellere	1
+6218	prius mori	1
+6219	studere, expetere, contendere	1
+6220	animi alacritas, studium	1
+6221	alacer, promptus, paratus	1
+6222	alacritas, studium,	1
+6223	alacriter, prompto animo	1
+6224	vestibulum	1
+6225	in potestatem tradere	1
+6226	largiri	1
+6227	praeesse	1
+6228	praetendere, proferre	1
+6229	porrigere	1
+6230	ante collocari	1
+6231	provocare	1
+6232	invitare	1
+6233	legumentum	1
+6234	velamentum,	1
+6235	prius laborare	1
+6236	praeiudicare (<hi rend="italic">contemptim</hi>)	1
+6237	ante capere, occupare	1
+6238	antevertere, praecavere	1
+6239	prius evertere	1
+6240	prius confugere	1
+6241	praeoccupare	1
+6242	prius facta accusatio	1
+6243	propositum esse	1
+6244	conditio proposita	1
+6245	promovere	1
+6246	praecedere	1
+6247	praedicere	1
+6248	ex compacto	1
+6249	insidiis occupare	1
+6250	ante discere	1
+6251	antistita	1
+6252	cautus	1
+6253	prius vincere	1
+6254	sibi prospicere	1
+6255	providentia	1
+6256	consilio	1
+6257	ius hospitii publici	1
+6258	hospes publicus	1
+6259	prius convenire	1
+6260	hymnus (<gloss>Homeri	1
+6261	prius videre	1
+6262	ante se videre	1
+6263	prospicere,	1
+6264	ante constituere (<gloss>navem	1
+6265	prius deberi	1
+6266	prior conspectus	1
+6267	prius deponere	1
+6268	se parare	1
+6269	prius pati	1
+6270	prius experimentum	1
+6271	contumelia afficere	1
+6272	ante navigare	1
+6273	praemissa (<gloss>navis	1
+6274	prius facere	1
+6275	propylaea	1
+6276	ante audire	1
+6277	copias admovere,	1
+6278	ad se trahere	1
+6279	sibi conciliare, ad suam societatem adducere	1
+6280	ad suam sententiam trahere	1
+6281	admoveri	1
+6282	ad societatem adduci	1
+6283	in potestatem redigi	1
+6284	ad sententiam trahi	1
+6285	compelli	1
+6286	compellare	1
+6287	quod animos magis delectat	1
+6288	adsumere	1
+6289	adiungere (<gloss>in imperio	1
+6290	vi adigere	1
+6291	insuper suscipere	1
+6292	ascendendo propinquare	1
+6293	acclivis	1
+6294	insuper perire	1
+6295	insuper mittere	1
+6296	insuper advenire	1
+6297	ad defectionem praeter alia impellere	1
+6298	adoriri, aggredi, invehi	1
+6299	oppugnare (<gloss>moenia	1
+6300	appellere (<gloss>navem	1
+6301	impetus, incursio	1
+6302	oppugnatio	1
+6303	accedere, adiungi	1
+6304	accidere, adesse	1
+6305	egere	1
+6306	admittere, recipere	1
+6307	accipere, probare	1
+6308	exspecto	1
+6309	exspectatus	1
+6310	ante agitare (<hi rend="italic">ut facem</hi>)	1
+6311	adesse, inesse	1
+6312	insuper invenire	1
+6313	insuper mandare	1
+6314	consociatus	1
+6315	insuper, praeterea	1
+6316	attendere	1
+6317	implicitum esse	1
+6318	affinitate	1
+6319	proprius	1
+6320	ut pertinet	1
+6321	blandus	1
+6322	accurrere	1
+6323	ante	1
+6324	applicatio (<gloss>scalae	1
+6325	appropinquare, accedere	1
+6326	accedere, in societatem venire	1
+6327	provenire	1
+6328	obequitare	1
+6329	obsidere, perseverare in obsidione	1
+6330	insuper relinquere	1
+6331	insuper amittere	1
+6332	insuper criminari	1
+6333	acclinari	1
+6334	applicare se, incumbere ad	1
+6335	addicere se	1
+6336	prius perpendi	1
+6337	caduceatorem mittere	1
+6338	aduehere	1
+6339	ad se advehere	1
+6340	advehi, deferri	1
+6341	providere	1
+6342	praecipue spectare	1
+6343	insuper comparare, ditioni suae adiicere	1
+6344	adsumere, secum sumere	1
+6345	occupare, potiri	1
+6346	insuper arcessere	1
+6347	congressos	1
+6348	accedere, pervenire ad	1
+6349	coniungere se	1
+6350	insuper conducere	1
+6351	adnatare	1
+6352	insuper conferre	1
+6353	adiungere se coloniae condendae	1
+6354	appropinquatio	1
+6355	adstruere	1
+6356	apud alterum conqueri	1
+6357	versari, gerere se	1
+6358	adhuc debere	1
+6359	insuper praebere	1
+6360	mittere ad	1
+6361	circumdare, munitioni addere	1
+6362	accidere, incidere	1
+6363	invadere (<hi rend="italic">de ira, morbo</hi>)	1
+6364	adnavigare, aduehi	1
+6365	insuper instruere	1
+6366	sibi adiungere, conciliare	1
+6367	simulare	1
+6368	adiunctio (<gloss>sociorum	1
+6369	vindicatio	1
+6370	bello petere	1
+6371	vallis additis munire	1
+6372	patrocinium (<gloss>plebis	1
+6373	praeficere	1
+6374	mandare, committere	1
+6375	praefici	1
+6376	mandari, committi	1
+6377	iuberi	1
+6378	patronus (<gloss>plebis	1
+6379	vallis praemunire	1
+6380	muro exstructo adiungi	1
+6381	obtegere	1
+6382	attribuere, adscribere	1
+6383	addicere	1
+6384	addere	1
+6385	addi	1
+6386	imponere sibi invicem	1
+6387	se adiungere	1
+6388	adstipulari	1
+6389	suffragium ferre	1
+6390	occurrere	1
+6391	proponere, sollicitare	1
+6392	afferri	1
+6393	se gerere	1
+6394	commodus	1
+6395	limum aggerere	1
+6396	qua agger adstruebatur.	1
+6397	ad partes alterius concedere, se subiicere	1
+6398	si qui nobis se adiungant.	1
+6399	limus aggestus, alluvio	1
+6400	vultus	1
+6401	in fronte	1
+6402	a fronte collocare	1
+6403	causam orandam committere	1
+6404	munimentum exterius	1
+6405	ante impendere	1
+6406	area ante templum	1
+6407	pridie	1
+6408	priori tempore	1
+6409	prius,	1
+6410	prius quam,	1
+6411	citius quam	1
+6412	ante quam	1
+6413	deliberationem habere, sententias rogare, in suffragia mittere	1
+6414	gerere, exercere	1
+6415	praefinire	1
+6416	in armis consistere ante	1
+6417	praeferre	1
+6418	in maiore honore haberi	1
+6419	ut is sibi honos haberetur.	1
+6420	actio praeferendi	1
+6421	prius opem ferre	1
+6422	prius ulcisci	1
+6423	prius auderi	1
+6424	antehac	1
+6425	triduo ante	1
+6426	initium prius facere, auctorem esse	1
+6427	esse ante	1
+6428	quae sibi iam ante idonea esse videbantur.	1
+6429	promptus, apertus	1
+6430	manifestus,	1
+6431	propalam, aperte	1
+6432	confingi	1
+6433	ratio, causa, praetextus	1
+6434	in medium afferre	1
+6435	praestare, antecellere,	1
+6436	proficere, adiumento esse	1
+6437	proferri, memorari	1
+6438	primus custos	1
+6439	praecavere	1
+6440	quod in promptu est	1
+6441	procedere, progredi	1
+6442	procedere, provenire	1
+6443	processus facere	1
+6444	succedere, prospere evenire	1
+6445	commodum esse	1
+6446	puppis	1
+6447	prytaneum, curia	1
+6448	prytaniam exercere	1
+6449	prytanis	1
+6450	mane,	1
+6451	mature	1
+6452	nudius tertius	1
+6453	prora	1
+6454	ex prora	1
+6455	prorae	1
+6456	primus	1
+6457	statim ab initio	1
+6458	a proxima parte	1
+6459	primum	1
+6460	primo,	1
+6461	primo	1
+6462	miles primi ordinis	1
+6463	offendere, labi	1
+6464	sternutamentum	1
+6465	densus	1
+6466	frequens	1
+6467	densitas	1
+6468	portae	1
+6469	portula	1
+6470	percontari	1
+6471	audire, comperire	1
+6472	ignis	1
+6473	rogus	1
+6474	turris	1
+6475	frumentum	1
+6476	ignitus	1
+6477	percontatio	1
+6478	adhuc, 	1
+6479	unquam adhuc	1
+6480	quodammodo	1
+6481	lictor	1
+6482	facilis	1
+6483	facile	1
+6484	leviter, temere	1
+6485	leniter, clementer	1
+6486	facilius	1
+6487	res commodae	1
+6488	fluere	1
+6489	verbum	1
+6490	oratio	1
+6491	certus, constitutus	1
+6492	orator	1
+6493	praecipitare	1
+6494	strepitus remorum	1
+6495	momentum	1
+6496	impetus fluctuum	1
+6497	fluctuosus, turbidus	1
+6498	redimere	1
+6499	numerus, modus	1
+6500	robur	1
+6501	confidentia	1
+6502	tubicen	1
+6503	tuba	1
+6504	satrapia	1
+6505	manifestus, apertus	1
+6506	certior	1
+6507	certissimus	1
+6508	manifeste, aperte	1
+6509	apertius	1
+6510	certius	1
+6511	certissime	1
+6512	extinguere	1
+6513	ad extinguendum aptus	1
+6514	venerari	1
+6515	terrae motus	1
+6516	luna	1
+6517	venerandae deae, Eumenides	1
+6518	Cynossema, promontorium Chersonesi	1
+6519	significare, demonstrare	1
+6520	praenuntiare	1
+6521	signum dare	1
+6522	signum, indicium	1
+6523	signo dato, ex composito	1
+6524	silere	1
+6525	instrumenta ferrea	1
+6526	ferrum	1
+6527	ferreus	1
+6528	ferro muniri	1
+6529	ferrum gestare	1
+6530	ferrum secum gestare	1
+6531	linteum	1
+6532	frumento vehendo aptus	1
+6533	inopia cibi	1
+6534	cibum accipere	1
+6535	qui panem facit, pistor	1
+6536	frumentum, cibus	1
+6537	fruges, seges	1
+6538	Jovis	1
+6539	alveus	1
+6540	spargi, dispergi	1
+6541	considerandum	1
+6542	instruere, disponere	1
+6543	apparatus, habitus	1
+6544	instrumenta, militaria	1
+6545	armamenta navium	1
+6546	calones	1
+6547	in impedimentis.	1
+6548	speculatum esse	1
+6549	dispexisse	1
+6550	considerare, reputare	1
+6551	consuluisse, providisse	1
+6552	statuisse	1
+6553	consultum esse	1
+6554	in tabernaculo habitare	1
+6555	tabernaculum sibi facere	1
+6556	tabernaculum	1
+6557	parvum tabernaculum	1
+6558	sceptrum	1
+6559	praetexere	1
+6560	circumspicere, observare	1
+6561	exquirere, scrutari	1
+6562	considerare, perpendere, reputare	1
+6563	obscurus	1
+6564	spoliare	1
+6565	scytale	1
+6566	fallacia	1
+6567	sophista	1
+6568	callidior	1
+6569	rarus	1
+6570	rarius	1
+6571	lora	1
+6572	spasmus	1
+6573	pactum esse	1
+6574	semen	1
+6575	festinare	1
+6576	contendere, expetere, studere	1
+6577	libationes	1
+6578	foedus, induciae	1
+6579	tempore foederis.	1
+6580	dispersae	1
+6581	sparsim	1
+6582	studium,	1
+6583	statarius	1
+6584	seditione laborare	1
+6585	dissidere	1
+6586	seditio coorta	1
+6587	seditio	1
+6588	factio, partes	1
+6589	discordia	1
+6590	seditiosus	1
+6591	seditiosorum more.	1
+6592	stater	1
+6593	palus, vallus	1
+6594	vallis munire	1
+6595	tectus	1
+6596	tecte	1
+6597	per meatum tectum.	1
+6598	tegere, tueri	1
+6599	tegi, celari	1
+6600	vittae	1
+6601	angustus	1
+6602	angustia	1
+6603	angustiae locorum	1
+6604	diligi	1
+6605	amisisse	1
+6606	privari, amittere	1
+6607	solidus	1
+6608	corona	1
+6609	coronare se	1
+6610	pectus	1
+6611	columna	1
+6612	considere (<hi rend="italic">de morbo</hi>)	1
+6613	turba, manus	1
+6614	porticus	1
+6615	ordo, series	1
+6616	militaris apparatus, exercitus missus	1
+6617	ostium	1
+6618	gemitus	1
+6619	sternere, comprimere, retundere	1
+6620	praesse exercitui	1
+6621	praetorem esse	1
+6622	imperium, munus praetorium	1
+6623	praetoria (<hi rend="italic">navis</hi>)	1
+6624	praetor, imperator	1
+6625	miles	1
+6626	milites	1
+6627	militarius	1
+6628	militibus vehendis apta (<hi rend="italic">navis</hi>)	1
+6629	castra ponere	1
+6630	castra	1
+6631	rotundus	1
+6632	sterni	1
+6633	cuspis	1
+6634	multus, frequens	1
+6635	iugulum	1
+6636	hostia	1
+6637	iugulare	1
+6638	periculosissimus	1
+6639	in periculum 	1
+6640	lapsum trahere,	1
+6641	labi, offendere, cladem accipere	1
+6642	infeliciter succedere	1
+6643	frustari	1
+6644	funda uti	1
+6645	funda	1
+6646	funditor	1
+6647	valde	1
+6648	sigillum	1
+6649	ratis	1
+6650	conquestio	1
+6651	species, praetextus	1
+6652	otiosum esse	1
+6653	saluti suae consulere.	1
+6654	corpus	1
+6655	servator	1
+6656	moderatum esse	1
+6657	ad moderationem revocare	1
+6658	ad sanam frugem reduci	1
+6659	moderator, castigator	1
+6660	sapienter, prudenter	1
+6661	moderatius	1
+6662	modestius	1
+6663	sapientia, prudentia	1
+6664	modestia	1
+6665	sapiens, prudens	1
+6666	prudentis est	1
+6667	prudentia	1
+6668	prudentior	1
+6669	moderatio maxima,	1
+6670	infula ornare	1
+6671	certus, definitus	1
+6672	labores ferre, laborare, premi	1
+6673	aegre	1
+6674	talentum	1
+6675	aerumnosus	1
+6676	dispensator	1
+6677	aerarium	1
+6678	receptaculum	1
+6679	dispensare	1
+6680	taxiarchum esse	1
+6681	taxiarchus, centuriae praefectus	1
+6682	acies	1
+6683	prima acies	1
+6684	locus in acie	1
+6685	ratio ordinis militaris	1
+6686	exercitus in acie	1
+6687	certa militum manus	1
+6688	iusti militum ordines	1
+6689	humilis	1
+6690	humilitas	1
+6691	turbari	1
+6692	crates	1
+6693	remorum ordines	1
+6694	statuere (<gloss>tributum	1
+6695	aestimare	1
+6696	se instruere, instrui	1
+6697	collocari	1
+6698	constitui, mandatum habere	1
+6699	imponere sibi (<gloss>tributum	1
+6700	ea via	1
+6701	hac parte	1
+6702	cito, propere	1
+6703	celeritas	1
+6704	quam celerrime quis potest	1
+6705	cito, propere, primo quoque tempore	1
+6706	quam primum	1
+6707	celeriter navigare	1
+6708	pars classis expedita	1
+6709	citus	1
+6710	nimis festinans	1
+6711	naves veloces	1
+6712	citissimus	1
+6713	intra moenia compulsus	1
+6714	muros aedificare	1
+6715	communire	1
+6716	aedificare sibi	1
+6717	parvus murus	1
+6718	munimentum	1
+6719	moenia oppugnare	1
+6720	murus	1
+6721	castellum, oppidum muris munitum	1
+6722	pars Memphidis urbis	1
+6723	liberorum procreatio	1
+6724	puer	1
+6725	faber	1
+6726	conficere (<gloss>iter	1
+6727	perfici	1
+6728	lectae ostiae	1
+6729	peragere	1
+6730	ultimus	1
+6731	postremo	1
+6732	exire (<gloss>de tempore	1
+6733	exitum habere	1
+6734	durare, permanere,	1
+6735	desinere in, pertinere	1
+6736	denique	1
+6737	sumptus,	1
+6738	pars,	1
+6739	ala (<gloss>equitum	1
+6740	plena et libera potestas,	1
+6741	ii qui sunt in honore vel imperio	1
+6742	munera publica	1
+6743	ager sacer	1
+6744	lucus ad Syracusas	1
+6745	caedere, succidere	1
+6746	aperire (<gloss>viam	1
+6747	vastari	1
+6748	vadum	1
+6749	delectare	1
+6750	quadraginta	1
+6751	quadragesimus	1
+6752	nummus apud Chios	1
+6753	ternas et quadragenas drachmas	1
+6754	quatuor	1
+6755	quartus	1
+6756	quatuor millia	1
+6757	quadringenti	1
+6758	quadringenti viri	1
+6759	quatuor mensium	1
+6760	quatuor urbes habens	1
+6761	quadrupedes	1
+6762	quarta dies	1
+6763	cicada	1
+6764	machinari	1
+6765	ars	1
+6766	artificium, dolus	1
+6767	aliquandiu	1
+6768	usque tunc	1
+6769	hacce	1
+6770	ponere	1
+6771	legem statuere	1
+6772	poni, reponi	1
+6773	constitui, componi	1
+6774	tribui	1
+6775	statui,	1
+6776	constituere, componere, uti	1
+6777	seponere	1
+6778	legem constituere	1
+6779	bellum ferre	1
+6780	honorare	1
+6781	aestimari,	1
+6782	aestimare, praeferre	1
+6783	munus	1
+6784	honoratior	1
+6785	defendere, opem ferre	1
+6786	ulcisci, poenas exigere	1
+6787	opitulandum	1
+6788	adipisci.	1
+6789	propulsatio	1
+6790	poena	1
+6791	vnlnerare	1
+6792	huiuscemodi, talis	1
+6793	qualis hic est	1
+6794	qualis nuperrime dictus est	1
+6795	tali tempore atque loco	1
+6796	in talibus	1
+6797	talis (<gloss>qualis supra dictus est	1
+6798	in tali rerum statu	1
+6799	in tali momento	1
+6800	huiusmodi	1
+6801	paries	1
+6802	parentes	1
+6803	audacem esse	1
+6804	andere	1
+6805	facinus, audacter factum	1
+6806	audacter	1
+6807	sectio, extrema pars trabis	1
+6808	sagittariorum praefectus	1
+6809	sagittas mittere	1
+6810	sagittis peti	1
+6811	sagittarius	1
+6812	tantus (<gloss>quantus hic est	1
+6813	quantus mox dicetur	1
+6814	quantus supra dictus est	1
+6815	hocce lantum	1
+6816	tantus	1
+6817	tet	1
+6818	tot solum, non plures	1
+6819	totidem	1
+6820	haec	1
+6821	non nisi	1
+6822	tantum	1
+6823	hoc solum	1
+6824	tanto intervallo	1
+6825	eo usque	1
+6826	eo. . . ut	1
+6827	tamdiu donec	1
+6828	usque adeo	1
+6829	noto illo tempore	1
+6830	hoc tempore	1
+6831	mensa	1
+6832	vulnus	1
+6833	vulneratus	1
+6834	vulnerare	1
+6835	tres	1
+6836	vertere	1
+6837	in fugam	1
+6838	convertere,	1
+6839	convertere se,	1
+6840	viam capere, ingredi	1
+6841	coepisse	1
+6842	terga dare	1
+6843	educari	1
+6844	triginta	1
+6845	triginta remis acta navis	1
+6846	trecenti	1
+6847	apud Lacedaemonios	1
+6848	tricesimus	1
+6849	teri	1
+6850	atteri,	1
+6851	trierarchi munere fungi	1
+6852	trierarchus	1
+6853	triremis	1
+6854	remex in triremi	1
+6855	tripus	1
+6856	ter	1
+6857	tredecim	1
+6858	tria millia	1
+6859	intra tres dies aliquid agens	1
+6860	tertius	1
+6861	tertium	1
+6862	trifariam	1
+6863	triobolus	1
+6864	tropaeum	1
+6865	solstitium	1
+6866	modus	1
+6867	mores	1
+6868	ritus	1
+6869	lorum quo remus ad scalmum alligatur	1
+6870	alimentum, victus	1
+6871	stipendium quo parantur,	1
+6872	vindemia	1
+6873	delicatius	1
+6874	consequi	1
+6875	nactus.	1
+6876	forte aliquid agere,	1
+6877	quum fors tulerit.	1
+6878	perculere	1
+6879	tyrannidem obtinere	1
+6880	sub tyrannorum imperio esse	1
+6881	ad tyrannidem pertinens	1
+6882	tyrannis	1
+6883	tyrannus	1
+6884	caseus	1
+6885	caecus	1
+6886	fortuna	1
+6887	in fortunae periculo esse	1
+6888	forte	1
+6889	bene ominandi formula	1
+6890	iniuria et contumelia affici	1
+6891	sanus	1
+6892	aquosus	1
+6893	aquatio	1
+6894	aquam haurire	1
+6895	aqua	1
+6896	pluvia	1
+6897	filius	1
+6898	sylva	1
+6899	sylvosus	1
+6900	decantare	1
+6901	laudibus extollere	1
+6902	paulatim abducere	1
+6903	subduci	1
+6904	ad suas partes pertrahere	1
+6905	qui sub dio est	1
+6906	praebere aures, admittere proposita	1
+6907	sub ditione esse	1
+6908	paulatim impendere	1
+6909	sensim recedere	1
+6910	furtim abire	1
+6911	esse, paratum esse	1
+6912	id quod habemus	1
+6913	suppetit,	1
+6914	incipi	1
+6915	clam exportalum esse	1
+6916	clam exportare	1
+6917	clam emittere	1
+6918	paulum cedere	1
+6919	eximere	1
+6920	de medio tolli	1
+6921	clam solvere, proficisci	1
+6922	clam exire, se subducere	1
+6923	effugere,	1
+6924	transcendere	1
+6925	praetergredi	1
+6926	superabilis	1
+6927	exsuperare	1
+6928	exsuperantia	1
+6929	contemptor	1
+6930	despicere	1
+6931	protendi	1
+6932	subruber	1
+6933	supra apparere	1
+6934	superare, praestare	1
+6935	superbia	1
+6936	rationibus reddendis obnoxius	1
+6937	subditus	1
+6938	remiges	1
+6939	pulvinus remigum	1
+6940	somnus	1
+6941	subscribere	1
+6942	calceatus	1
+6943	inferior, deterior	1
+6944	deterius	1
+6945	excipere	1
+6946	iumenta	1
+6947	subiectum esse	1
+6948	surripere	1
+6949	excipere, arripere	1
+6950	reliqua pars	1
+6951	disiungere	1
+6952	sustinere, perferre	1
+6953	subsistere, resistere	1
+6954	remanere	1
+6955	sustinendus	1
+6956	advehi	1
+6957	leviter ningere	1
+6958	cuniculatim	1
+6959	cuniculus	1
+6960	submittere	1
+6961	suspiciosus	1
+6962	suspiciose	1
+6963	sub foedere icto	1
+6964	convertere iter	1
+6965	promissum	1
+6966	III	1
+6967	subtendere	1
+6968	promittere	1
+6969	murum substruere	1
+6970	pendere tributum	1
+6971	vectigalis	1
+6972	subiicere	1
+6973	suspicatum esse	1
+6974	fucosus	1
+6975	subter apparere	1
+6976	subterfugere	1
+6977	in potestatem redactus	1
+6978	se subducere, sensim abire	1
+6979	supinus	1
+6980	postridie	1
+6981	tardius insequnti sunt.	1
+6982	ad Mytilenae auxilium	1
+6983	posthabendus	1
+6984	insequenti tempore	1
+6985	post,	1
+6986	postquam	1
+6987	postea	1
+6988	serius	1
+6989	posterius	1
+6990	posteriores	1
+6991	posteriora	1
+6992	postremus,	1
+6993	textilis	1
+6994	succendere	1
+6995	subsistere	1
+6996	in statione clam consistere	1
+6997	subaquancus	1
+6998	excelsus	1
+6999	apparere, se ostendere, videri	1
+7000	fascis	1
+7001	conspicuus, manifestus, apertus	1
+7002	qui e conspectu abiit	1
+7003	in publicum	1
+7004	locus praeceps	1
+7005	venenum	1
+7006	guttur	1
+7007	negare	1
+7008	exilis	1
+7009	quod deterius est	1
+7010	humilior	1
+7011	qui plurimum spondet	1
+7012	afferre, parare	1
+7013	aegre ferre,	1
+7014	pendere	1
+7015	tendere	1
+7016	ferre sibi	1
+7017	ferri, ferre se	1
+7018	bene rem gerere	1
+7019	ferri	1
+7020	pendi	1
+7021	fugere	1
+7022	exulare	1
+7023	praevertere	1
+7024	edere vocem	1
+7025	vastare, perdere	1
+7026	ad finem vergere (<hi rend="italic">de mense</hi>)	1
+7027	autumnus vergens	1
+7028	invidere	1
+7029	phiala	1
+7030	solere	1
+7031	qui sodales amat	1
+7032	amicitia	1
+7033	ad socios pertinens, amicus, pacatus	1
+7034	pacatus ager	1
+7035	amice	1
+7036	litibus studere	1
+7037	elegantiae studere	1
+7038	patriae amans	1
+7039	patriae amor	1
+7040	sapientiae studere	1
+7041	ambitio	1
+7042	honoris cupiditas	1
+7043	inflammatio	1
+7044	flamma	1
+7045	papula	1
+7046	terrere	1
+7047	terreri, timere	1
+7048	terribilis, timorem incutiens	1
+7049	pavoris plenus	1
+7050	terribilior	1
+7051	timor incussus	1
+7052	timorem incutere	1
+7053	conterrere	1
+7054	conterreri	1
+7055	timere	1
+7056	se conferre	1
+7057	commeare	1
+7058	afferri (<hi rend="italic">de nuntiis</hi>)	1
+7059	redire (<hi rend="italic">de vectigalibus</hi>)	1
+7060	caedis avidissimus	1
+7061	caedes	1
+7062	gestare, portare	1
+7063	struis instar	1
+7064	tributum	1
+7065	oneraria navis	1
+7066	aperire, declarare	1
+7067	nunciare	1
+7068	obstruere	1
+7069	obsepire, communire se	1
+7070	puteus	1
+7071	sibi velle	1
+7072	superbire	1
+7073	alicuius partibus studere	1
+7074	animus, superbia	1
+7075	milites praesidiarii	1
+7076	sarmenta	1
+7077	sarmentorum collectio	1
+7078	signa ignea	1
+7079	signis igneis indicari	1
+7080	signorum igneorum usus	1
+7081	speculatores signorum igneorum	1
+7082	ad exulem pertinens	1
+7083	exul	1
+7084	exilium	1
+7085	excubiae	1
+7086	custos	1
+7087	sibi cavere	1
+7088	vitare	1
+7089	tribus	1
+7090	de stirpe gentium disceptare	1
+7091	follis	1
+7092	flare	1
+7093	ingenium, mores,	1
+7094	serere	1
+7095	deprehendi	1
+7096	lux	1
+7097	salvere	1
+7098	qui laxari potest	1
+7099	aegre ferre, irasci	1
+7100	difficilis	1
+7101	difficile est	1
+7102	infestus	1
+7103	difficilior	1
+7104	gravior	1
+7105	molestior	1
+7106	infestior	1
+7107	difficillimus	1
+7108	gravissimus	1
+7109	asperrimus	1
+7110	molestissimus	1
+7111	maxime metuendus	1
+7112	asperitas	1
+7113	severitas	1
+7114	difficulter, aegre	1
+7115	aegre ferre	1
+7116	graviter	1
+7117	aspere	1
+7118	difficilius	1
+7119	gravius	1
+7120	asperius	1
+7121	asperrime	1
+7122	caementum	1
+7123	cudere, fabricare	1
+7124	aes	1
+7125	aereus	1
+7126	ridica	1
+7127	officium	1
+7128	lepor	1
+7129	labrum, margo	1
+7130	tempestate vexari	1
+7131	hibernus	1
+7132	procellosus	1
+7133	hiems	1
+7134	tempestas	1
+7135	manus	1
+7136	manu tenere	1
+7137	cominus conserta pugna	1
+7138	pugnam conserere	1
+7139	in potestatem venire	1
+7140	impetum excipere	1
+7141	in manibus habere	1
+7142	vis,	1
+7143	copiae,	1
+7144	manus ferrea, harpago,	1
+7145	manu factus	1
+7146	operarius	1
+7147	suffragatio	1
+7148	manibus operari	1
+7149	deterior	1
+7150	peius	1
+7151	aqua lustralis	1
+7152	terrestris	1
+7153	paeninsula	1
+7154	Chersonesus Thraciae	1
+7155	Corinthiorum	1
+7156	motes	1
+7157	viduitas	1
+7158	heri	1
+7159	mille	1
+7160	tunica	1
+7161	viridis	1
+7162	pallidus	1
+7163	choenix	1
+7164	bilis	1
+7165	choregia	1
+7166	chorus	1
+7167	aggerere	1
+7168	pecunia	1
+7169	merces	1
+7170	quaestum facere	1
+7171	edere (<hi rend="italic">de oraculis</hi>)	1
+7172	consulere oraculum	1
+7173	uti	1
+7174	sequi	1
+7175	felici cursu uti	1
+7176	habere, tractare	1
+7177	libero arbitrio.	1
+7178	agere, se vertere	1
+7179	utilior	1
+7180	utiliter, cum utilitate	1
+7181	oraculorum interpretes	1
+7182	oraculi responsum	1
+7183	bonus, probus	1
+7184	diuturnus	1
+7185	tarde aliquid agens	1
+7186	tempus	1
+7187	intermisso tempore	1
+7188	successu temporis	1
+7189	auri fodinae	1
+7190	aureus	1
+7191	cutis, in extremo	1
+7192	ager,	1
+7193	urbi,	1
+7194	suo loco atque ordine	1
+7195	ire, pergere, progredi	1
+7196	capere, continere	1
+7197	spatium	1
+7198	locus in libro	1
+7199	praedium	1
+7200	seorsum	1
+7201	aggeratio	1
+7202	vituperari	1
+7203	mentiri	1
+7204	nimis augere	1
+7205	nimis angeri	1
+7206	mendax	1
+7207	falsus	1
+7208	falso	1
+7209	suffragium ferre, sententiis decernere	1
+7210	decerni	1
+7211	suffragium	1
+7212	leviter armatus	1
+7213	nudare auxiliis	1
+7214	vituperatio	1
+7215	strepitus	1
+7216	anima	1
+7217	sic (<gloss>ut nunc est	1
+7218	ut sequitur	1
+7219	ut modo dictum est	1
+7220	perrumpere	1
+7221	impulsus clypeorum	1
+7222	crudelis	1
+7223	qui crudis vescitur	1
+7224	crudeliter	1
+7225	emptus	1
+7226	anni tempus	1
+7227	fervor aestatis	1
+7228	hora	1
+7229	flos aetatis	1
+7230	sic	1
+7231	sicut	1
+7232	testarum suffragiis pulsus	1
+7233	auxilium,	1
+7234	adiuvare, prodesse	1
+7235	bene mereri	1
+7236	utilitatem capere, adiuvari	1

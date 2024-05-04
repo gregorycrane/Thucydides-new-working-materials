@@ -1,0 +1,788 @@
+vocab	Αἰνησίας	Aenesias	1	2.2.1
+vocab	Βοιωτία	Boeotia	1	2.2.1
+vocab	Βοιωταρχέω	to be a Boeotarch	1	2.2.1
+vocab	Βοιωτός	a Boeotian	4	2.2.4; 2.6.2; 2.9.2; 2.9.3
+vocab	Διέμπορος	Diemporus	1	2.2.1
+vocab	Δωριεύς	a Dorian	1	2.9.4
+vocab	Δῆλος	Delos	1	2.8.3
+vocab	Εὐρύμαχος	Eurymachus	2	2.2.3; 2.5.7
+vocab	Εὔβοια	Euboea	1	2.2.1
+vocab	Ζάκυνθος	Zacynthus	1	2.7.3
+vocab	Ζακύνθιος	Zacynthian	1	2.9.4
+vocab	Θήρα,Θήρας,Θήρη	nodef	1	2.9.4
+vocab	Θηβαῖος	Theban	15	2.2.1; 2.2.2; 2.2.3; 2.2.3; 2.3.1; 2.3.2; 2.4.7; 2.5.1; 2.5.4
+vocab	Θράκη	nodef	1	2.9.4
+vocab	Θῆβαι	Thebes (usu. plural)	1	2.5.2
+vocab	Κάρ	a Carian	1	2.9.4
+vocab	Κάριος	Carian	1	2.9.4
+vocab	Κέρκυρα	Corcyra	1	2.7.3
+vocab	Κερυκυραῖος	nodef	2	2.9.4; 2.9.5
+vocab	Κεφαλλήνιος,Κεφαλληνία	nodef	1	2.7.3
+vocab	Κορίνθιος	Corinthian	1	2.9.3
+vocab	Κρήτη	Crete	1	2.9.4
+vocab	Κυκλάδες	Cyclades	1	2.9.4
+vocab	Λέσβιος	Lesbian	2	2.9.4; 2.9.5
+vocab	Λακεδαιμόνιος	Spartan	8	2.7.1; 2.7.2; 2.8.4; 2.9.2; 2.9.3; 2.10.1; 2.10.3; 2.39.2
+vocab	Λεοντιάδης	Leontiades	1	2.2.3
+vocab	Λευκάδιος	of Leucas	2	2.9.2; 2.9.3
+vocab	Λοκροί	the Locrians	2	2.9.2; 2.9.3
+vocab	Μαραθών	Marathon	1	2.34.5
+vocab	Μεγαρεύς	a citizen of Megara	2	2.9.2; 2.9.3
+vocab	Μεσσήνιος	of Messene	1	2.9.4
+vocab	Μῆλος	Melus	1	2.9.4
+vocab	Ναυκλείδης	Nauclides	1	2.2.2
+vocab	Ναύπακτος	Naupactus	1	2.9.4
+vocab	Ξάνθιππος	Xanthippus	1	2.34.8
+vocab	Πελληνεύς	of Pellene	2	2.9.2; 2.9.3
+vocab	Πελοποννήσιος	Peloponnesian (of people)	3	2.1.1; 2.9.2; 2.11.1
+vocab	Πελοπόννησος	the Peloponnesus	7	2.7.3; 2.7.3; 2.8.1; 2.9.2; 2.9.4; 2.10.1; 2.11.1
+vocab	Περικλῆς	Pericles	1	2.34.8
+vocab	Πλάταια	Plataea	8	2.2.1; 2.2.3; 2.4.8; 2.5.2; 2.6.2; 2.6.4; 2.7.1; 2.10.1
+vocab	Πλαταιεύς	inhabitant of Plataeae	7	2.3.1; 2.4.6; 2.4.7; 2.5.5; 2.5.6; 2.5.7; 2.9.4
+vocab	Πλαταιός	nodef	5	2.2.2; 2.3.2; 2.4.3; 2.5.4; 2.6.2
+vocab	Ποτείδαια	Potidea	1	2.2.1
+vocab	Πυθάγγελος	pr.n.	1	2.2.1
+vocab	Πυθόδωρος	pr.n.	1	2.2.1
+vocab	Σικελία	Sicily	1	2.7.2
+vocab	Σικυώνιος	of Sicyon	1	2.9.3
+vocab	Σπάρτη	Sparta	1	2.2.1
+vocab	Φυλεΐδης	son of Phyleus	1	2.2.1
+vocab	Φωκεύς	a Phocian	1	2.9.3
+vocab	Φωκᾶς,Φωκεύς	nodef	1	2.9.2
+vocab	Χρυσίς	Chrysis	1	2.2.1
+vocab	Χῖος	Chian (inhabitant of Chios)	2	2.9.4; 2.9.5
+vocab	αἰσθάνομαι	to perceive	2	2.3.1; 2.5.4
+vocab	αἰσχύνη	shame done one	1	2.37.3
+vocab	αἱρέω	to take	3	2.7.2; 2.34.6; 2.34.8
+vocab	αἴσθησις	perception by the senses	1	2.4.4
+vocab	αὐτάρκης	sufficient in oneself	1	2.36.3
+vocab	αὐτοῦ	at the very place	3	2.7.2; 2.34.5; 2.38.2
+vocab	αὐτός	unemph. 3rd pers.pronoun; -self; [the] same 	53	2.2.1; 2.2.2; 2.3.4; 2.3.4; 2.4.1; 2.4.2; 2.4.4; 2.4.4; 2.4.5
+vocab	αὐχέω	to boast	1	2.39.3
+vocab	αὖ	again	1	2.37.1
+vocab	βάλανος	an acorn	1	2.4.3
+vocab	βάλλω	to throw	1	2.4.2
+vocab	βάρβαρος	barbarous	2	2.7.1; 2.36.4
+vocab	βέβαιος	firm	1	2.7.3
+vocab	βασιλεύς	a king	2	2.7.1; 2.10.3
+vocab	βεβαιόω	to make firm	1	2.35.2
+vocab	βουλεύω	to take counsel	2	2.4.6; 2.6.2
+vocab	βούλησις	a willing	1	2.35.3
+vocab	βούλομαι	to will	11	2.2.2; 2.2.3; 2.2.4; 2.3.2; 2.4.7; 2.5.4; 2.8.5; 2.34.2; 2.34.4
+vocab	βραδύς	slow	1	2.5.2
+vocab	βῆμα	a step	1	2.34.8
+vocab	γάρ	for	26	2.2.1; 2.2.3; 2.3.1; 2.3.2; 2.4.2; 2.4.4; 2.5.2; 2.5.4; 2.5.4
+vocab	γίγνομαι	become	20	2.1.1; 2.2.1; 2.3.4; 2.4.2; 2.5.1; 2.5.2; 2.5.4; 2.5.4; 2.5.6
+vocab	γε	at least	3	2.34.5; 2.37.1; 2.38.1
+vocab	γιγνώσκω	to learn to know	1	2.4.1
+vocab	γνώμη	a means of knowing	6	2.2.4; 2.9.1; 2.11.2; 2.11.5; 2.34.6; 2.38.1
+vocab	γράφω	to scratch	1	2.1.1
+vocab	γυνή	a woman	4	2.4.2; 2.4.4; 2.6.4; 2.34.4
+vocab	γῆ	earth	7	2.5.5; 2.5.7; 2.11.6; 2.34.6; 2.38.2; 2.39.2; 2.39.3
+vocab	δέ	but	90	2.1.1; 2.1.1; 2.2.1; 2.2.1; 2.2.2; 2.2.3; 2.2.4; 2.2.4; 2.3.1
+vocab	δέκα	ten	1	2.2.1
+vocab	δέκατος	tenth	1	2.2.1
+vocab	δέος	fear	1	2.37.3
+vocab	δέχομαι	to take	4	2.3.1; 2.7.2; 2.11.9; 2.36.2
+vocab	δέω2	to lack	1	2.2.1
+vocab	δή	[interactional particle: S&H on same page]	2	2.4.8; 2.6.3
+vocab	δίδωμι	to give	2	2.4.4; 2.36.1
+vocab	δίκαιος	just	2	2.11.2; 2.36.1
+vocab	δίοδος	a way through	2	2.4.2; 2.4.5
+vocab	δίς	twice	1	2.4.2
+vocab	δείδω	to fear	3	2.5.5; 2.11.4; 2.11.5
+vocab	δεύτερος	second	1	2.6.3
+vocab	δεῖ	it is necessary	1	2.5.1
+vocab	δηιόω	nodef	2	2.11.6; 2.11.8
+vocab	δηλόω	to make visible	3	2.35.1; 2.35.2; 2.36.4
+vocab	δημοκρατία	democracy	1	2.37.1
+vocab	δημόσιος	belonging to the people	4	2.34.1; 2.34.5; 2.35.1; 2.37.3
+vocab	διά	through c. gen.; because of c. acc.	17	2.2.3; 2.3.3; 2.4.2; 2.4.2; 2.11.2; 2.11.3; 2.11.4; 2.11.4; 2.11.6
+vocab	διάφορος	different	2	2.2.3; 2.37.1
+vocab	διαβαίνω	to cross (a river	1	2.5.3
+vocab	διαβατός	to be crossed	1	2.5.2
+vocab	διαβουλεύομαι	complete its term	1	2.5.5
+vocab	διαδοχή	a taking over from	1	2.36.1
+vocab	διαιτάω	act. to treat; to arbitrate; mid. to live (a certain way)	1	2.39.1
+vocab	διακόπτω	to cut in two	1	2.4.4
+vocab	διανοέομαι	to be minded	1	2.5.4
+vocab	διαπρεπής	eminent	1	2.34.5
+vocab	διαφέρω	to carry through; be different from	1	2.39.1
+vocab	διαφθείρω	to destroy	5	2.2.2; 2.4.2; 2.4.4; 2.5.3; 2.6.3
+vocab	διετήσιος	lasting through the year	1	2.38.1
+vocab	διορύσσω	to dig through	1	2.3.3
+vocab	διώκω	to pursue	2	2.4.2; 2.4.4
+vocab	δοκέω	seem	7	2.3.3; 2.6.1; 2.8.3; 2.8.4; 2.11.3; 2.34.6; 2.35.1
+vocab	δοκιμάζω	to assay	1	2.35.3
+vocab	δράω	to do	5	2.5.5; 2.11.8; 2.35.2; 2.37.1; 2.37.2
+vocab	δυνατός	strong	3	2.2.3; 2.3.4; 2.11.1
+vocab	δόκησις	an opinion	1	2.35.2
+vocab	δόξα	a notion	3	2.11.2; 2.11.9; 2.35.3
+vocab	δύναμαι	to be able	1	2.8.4
+vocab	δύναμις	power	3	2.2.2; 2.7.1; 2.39.3
+vocab	δύο	two	3	2.2.1; 2.2.1; 2.10.2
+vocab	εἰ	conj. if	14	2.2.4; 2.5.1; 2.5.4; 2.5.5; 2.7.1; 2.7.3; 2.8.3; 2.8.4; 2.11.3
+vocab	εἰκός	like truth	2	2.10.1; 2.11.8
+vocab	εἰμί	to be	57	2.2.1; 2.2.3; 2.2.3; 2.3.1; 2.3.2; 2.3.2; 2.3.3; 2.3.3; 2.3.3
+vocab	εἰρήνη	peace	3	2.2.3; 2.5.4; 2.36.3
+vocab	εἰς	into	36	2.2.1; 2.2.4; 2.2.4; 2.3.1; 2.3.3; 2.3.4; 2.4.3; 2.4.4; 2.4.5
+vocab	εἰσάγω	to lead in	1	2.6.4
+vocab	εἰσέρχομαι	to go in	5	2.2.1; 2.2.3; 2.3.1; 2.4.3; 2.5.1
+vocab	εἰσβάλλω	to throw into	1	2.10.1
+vocab	εἰσκομίζω	to carry into	1	2.5.7
+vocab	εἰσπίπτω	to fall into	1	2.4.5
+vocab	εἴτε	whether..or (regardless of whether A or B)	2	2.4.6; 2.4.6
+vocab	εἶδον	to see	1	2.39.1
+vocab	εἶμι	come	5	2.2.4; 2.3.3; 2.3.4; 2.11.6; 2.36.4
+vocab	εἶπον	to speak	3	2.6.2; 2.35.1; 2.35.2
+vocab	εἷς	one	6	2.5.7; 2.7.2; 2.11.9; 2.34.3; 2.34.3; 2.35.1
+vocab	εὐδοκιμέω	to be of good repute	1	2.37.1
+vocab	εὐθύς	straight	7	2.2.4; 2.3.4; 2.5.6; 2.5.7; 2.6.2; 2.10.1; 2.39.1
+vocab	εὐπρεπής	well-looking	1	2.38.1
+vocab	εὑρίσκω	to find	2	2.6.3; 2.34.3
+vocab	εὔνοια	good-will	2	2.8.4; 2.11.2
+vocab	εὔνους	nodef	1	2.35.2
+vocab	εὔψυχος	of good courage	2	2.11.5; 2.39.1
+vocab	εὖ	well	1	2.35.1
+vocab	ζάω	to live	2	2.5.3; 2.5.5
+vocab	ζηλόω	to rival	1	2.37.1
+vocab	ζωγρέω	to take alive	1	2.5.4
+vocab	θάλασσα	the sea	1	2.9.4
+vocab	θάπτω	to bury	3	2.34.5; 2.34.7; 2.35.1
+vocab	θέαμα	that which is seen	1	2.39.1
+vocab	θέρος	summer	1	2.1.1
+vocab	θαρσαλέος	bold	2	2.3.4; 2.11.5
+vocab	θαυμάζω	to wonder	1	2.39.4
+vocab	θνήσκω	to die; see also ἀποθνῄσκω	1	2.6.3
+vocab	θυμός	the soul	1	2.11.7
+vocab	θυσία	burnt offering	1	2.38.1
+vocab	θόρυβος	a noise	1	2.4.2
+vocab	θύρα	a door	2	2.4.5; 2.4.5
+vocab	κέραμος	potter's earth	1	2.4.2
+vocab	κήρυγμα	that which is cried by a herald	1	2.2.4
+vocab	κίνδυνος	a danger	2	2.11.3; 2.39.1
+vocab	καί	and	180	2.1.1; 2.1.1; 2.1.1; 2.2.1; 2.2.1; 2.2.1; 2.2.1; 2.2.1; 2.2.1
+vocab	καίτοι	and indeed	1	2.39.4
+vocab	καθίστημι	to set down	7	2.1.1; 2.2.3; 2.3.3; 2.6.1; 2.9.1; 2.11.7; 2.36.3
+vocab	καιρός	time; the right moment	1	2.34.8
+vocab	κακός	bad	1	2.5.4
+vocab	καλέω	to call	1	2.37.1
+vocab	καλός	beautiful	4	2.11.9; 2.34.5; 2.35.1; 2.35.3
+vocab	καρπόω	to bear fruit	1	2.38.2
+vocab	κατά	down	23	2.1.1; 2.2.4; 2.3.4; 2.3.4; 2.3.4; 2.4.4; 2.4.4; 2.4.7; 2.5.1
+vocab	καταδείδω	to fear greatly	1	2.3.1
+vocab	κατακαίω	to burn down	1	2.4.6
+vocab	καταλαμβάνω	to seize upon	2	2.3.1; 2.5.5
+vocab	κατανοέω	to observe well	1	2.3.2
+vocab	καταπολεμέω	to war down	1	2.7.3
+vocab	κατασκευή	preparation	2	2.5.4; 2.38.1
+vocab	καταφρονέω	to think down upon	1	2.11.4
+vocab	κελεύω	to urge	1	2.6.2
+vocab	κενός	empty	1	2.34.3
+vocab	κεῖμαι	to lie; to have been set/put (as perf. pass. of τίθημι)	1	2.37.3
+vocab	κινέω	to set in motion	1	2.8.3
+vocab	κινδυνεύω	to be daring	2	2.35.1; 2.39.4
+vocab	κλίνη	that on which one lies	1	2.34.3
+vocab	κλείω1	to shut	1	2.4.3
+vocab	κοινός	common	4	2.3.3; 2.37.1; 2.37.2; 2.39.1
+vocab	κρίνω	to pick out	1	2.34.5
+vocab	κρατέω	to be strong	3	2.3.2; 2.39.2; 2.39.3
+vocab	κραυγή	a crying	1	2.4.2
+vocab	κρύπτω	to hide	2	2.34.6; 2.39.1
+vocab	κτάομαι	to procure for oneself	1	2.36.2
+vocab	κτέομαι	nodef	1	2.36.4
+vocab	κυπαρίσσινος	of cypress-wood	1	2.34.3
+vocab	κωλύω	to let	2	2.8.4; 2.37.1
+vocab	κόσμος	order	2	2.11.9; 2.11.9
+vocab	κῆρυξ	a herald	4	2.2.4; 2.5.5; 2.6.2; 2.6.3
+vocab	λάρναξ	a coffer	1	2.34.3
+vocab	λέγω2	to pick; to say	10	2.5.5; 2.5.5; 2.5.6; 2.8.2; 2.8.3; 2.34.6; 2.34.8; 2.34.8; 2.35.2
+vocab	λίθος	a stone	1	2.4.2
+vocab	λαμβάνω	to take	3	2.5.4; 2.5.7; 2.34.8
+vocab	λαμπρός	bright	1	2.7.1
+vocab	λανθάνω	to escape notice	2	2.2.3; 2.4.4
+vocab	λογισμός	a counting	1	2.11.7
+vocab	λυπηρός	painful	2	2.37.2; 2.38.1
+vocab	λόγιον	an announcement	1	2.8.2
+vocab	λόγος	the word	4	2.3.1; 2.5.6; 2.8.4; 2.35.1
+vocab	λύω	to loose	1	2.7.1
+vocab	μάθημα	that which is learnt	1	2.39.1
+vocab	μάλιστα	most	5	2.4.5; 2.10.3; 2.36.3; 2.37.3; 2.37.3
+vocab	μάχη	battle	3	2.2.1; 2.11.3; 2.11.6
+vocab	μάχομαι	to fight	1	2.39.2
+vocab	μέγας	big	5	2.4.5; 2.5.2; 2.11.1; 2.11.9; 2.36.4
+vocab	μέγεθος	greatness	2	2.7.2; 2.38.2
+vocab	μέλλω	to think of doing	4	2.7.1; 2.8.2; 2.8.3; 2.39.4
+vocab	μέν	on the one hand	28	2.2.1; 2.2.4; 2.4.2; 2.4.2; 2.4.4; 2.4.8; 2.5.3; 2.5.4; 2.5.6
+vocab	μέρος	a part	2	2.10.2; 2.37.1
+vocab	μέτειμι1	be among; (+dat and gen) have a share in	1	2.37.1
+vocab	μέτριος	within measure	1	2.35.2
+vocab	μέχρι	until (prep. and conj. w. aor.)	2	2.35.2; 2.36.1
+vocab	μή	not	18	2.3.3; 2.3.4; 2.4.2; 2.5.1; 2.5.5; 2.5.5; 2.8.4; 2.8.5; 2.11.3
+vocab	μήπω	not yet	1	2.2.3
+vocab	μήτε	neither / nor	2	2.11.2; 2.11.2
+vocab	μακρηγορέω	to speak at great length	1	2.36.4
+vocab	μείς	a month	4	2.2.1; 2.2.1; 2.4.2; 2.38.1
+vocab	μελέτη	care	2	2.39.1; 2.39.4
+vocab	μετά	(w gen) with	9	2.2.1; 2.2.1; 2.2.2; 2.6.4; 2.10.1; 2.34.6; 2.36.4; 2.39.2; 2.39.4
+vocab	μετέρχομαι	to come	1	2.39.1
+vocab	μετέωρος	raised from the ground	1	2.8.1
+vocab	μηδέ	but not	1	2.4.3
+vocab	μηδείς	(and not one); not one	2	2.6.2; 2.38.2
+vocab	μιμέομαι	to mimic	1	2.37.1
+vocab	μιμνήσκω	to remind	1	2.8.3
+vocab	μνήμη	a remembrance	1	2.36.1
+vocab	μοχθέω	to be weary with toil	1	2.39.4
+vocab	μοχλός	a bar	2	2.4.3; 2.4.4
+vocab	μόλις	barely	2	2.5.3; 2.35.2
+vocab	μόνος	alone	2	2.4.3; 2.9.2
+vocab	μόριον	a piece	1	2.39.3
+vocab	μᾶλλον	more	7	2.2.4; 2.7.3; 2.8.4; 2.11.8; 2.36.2; 2.37.1; 2.39.4
+vocab	νέος	young	1	2.39.1
+vocab	ναυτικός	seafaring	3	2.9.3; 2.9.5; 2.39.3
+vocab	ναῦς	a ship	3	2.7.2; 2.7.2; 2.7.2
+vocab	νεκρός	a dead body	1	2.6.1
+vocab	νεωτερίζω	to attempt anything new	1	2.3.1
+vocab	νεότης	youth	1	2.8.1
+vocab	νεώτερος	younger	1	2.6.2
+vocab	νικάω	to conquer	2	2.6.3; 2.39.3
+vocab	νομίζω	to have as a custom; to believe	6	2.2.4; 2.3.1; 2.3.2; 2.35.2; 2.36.4; 2.38.1
+vocab	νόμος	usage	8	2.34.1; 2.34.7; 2.35.1; 2.35.3; 2.37.1; 2.37.1; 2.37.3; 2.39.4
+vocab	νύξ	the night	6	2.3.1; 2.3.4; 2.3.4; 2.4.2; 2.5.1; 2.5.2
+vocab	νῆσος	an island	1	2.9.4
+vocab	νῦν	now at this very time	5	2.11.1; 2.11.6; 2.35.1; 2.36.2; 2.36.3
+vocab	ξένος	a guest	2	2.34.4; 2.36.4
+vocab	ξενηλασία	expulsion of foreigners	1	2.39.1
+vocab	οἰκέτης	a house-slave	1	2.4.2
+vocab	οἰκέω	to inhabit	2	2.36.1; 2.37.1
+vocab	οἰκία	a building	3	2.2.4; 2.3.4; 2.4.2
+vocab	οἰκεῖος	in or of the house	2	2.38.2; 2.39.2
+vocab	οἴκημα	any inhabited place	3	2.4.5; 2.4.5; 2.4.6
+vocab	οἴομαι	to suppose	2	2.4.5; 2.35.2
+vocab	οἶδα	to know	3	2.6.3; 2.6.3; 2.36.4
+vocab	οἷος	(such a kind) as; for οἷός τε see οἷος III.2	6	2.5.4; 2.10.1; 2.35.1; 2.36.4; 2.36.4; 2.36.4
+vocab	οὐ	not	24	2.2.3; 2.2.4; 2.3.1; 2.3.2; 2.3.2; 2.4.4; 2.5.2; 2.5.6; 2.5.6
+vocab	οὐδέ	and/but not; not even	3	2.11.6; 2.37.1; 2.37.2
+vocab	οὐδείς	not one	7	2.3.1; 2.3.1; 2.5.7; 2.6.3; 2.8.1; 2.39.1; 2.39.3
+vocab	οὔκουν	not therefore	1	2.11.3
+vocab	οὔπω	not yet	3	2.8.3; 2.11.1; 2.11.6
+vocab	οὔτε	neither / nor	3	2.1.1; 2.5.5; 2.39.2
+vocab	οὕτως	so	6	2.4.8; 2.6.3; 2.8.5; 2.11.5; 2.11.6; 2.35.3
+vocab	οὖν	so	7	2.3.3; 2.5.7; 2.9.1; 2.11.2; 2.11.9; 2.34.5; 2.34.8
+vocab	οὗτος	this; that	25	2.2.3; 2.2.4; 2.3.2; 2.4.7; 2.5.4; 2.5.6; 2.6.1; 2.6.4; 2.7.2
+vocab	πάλαι	long ago	1	2.35.3
+vocab	πάλιν	back	1	2.5.5
+vocab	πάνυ	altogether	1	2.11.6
+vocab	πάρειμι1	be present	6	2.3.3; 2.6.1; 2.8.4; 2.11.6; 2.34.4; 2.36.4
+vocab	πάσχω	to experience	1	2.11.7
+vocab	πάτριος	of one’s father	2	2.2.4; 2.34.1
+vocab	πέλας	near	4	2.11.8; 2.37.1; 2.37.2; 2.39.2
+vocab	πέλεκυς	an axe	1	2.4.4
+vocab	πέμπτος	the fifth	1	2.2.1
+vocab	πέμπω	to send	3	2.6.1; 2.6.2; 2.7.1
+vocab	πέριξ	round about	1	2.7.3
+vocab	παιδεία	the rearing of a child	1	2.39.1
+vocab	πανστρατιά	a levy of the whole army	1	2.5.1
+vocab	παρά	from the side of	6	2.1.1; 2.2.4; 2.3.3; 2.5.5; 2.7.1; 2.8.4
+vocab	παράδειγμα	a pattern	1	2.37.1
+vocab	παρέχω	to furnish	4	2.9.3; 2.9.3; 2.9.5; 2.39.1
+vocab	παραγίγνομαι	to come near	2	2.5.1; 2.5.3
+vocab	παραγγέλλω	to transmit as a message; give orders	1	2.11.9
+vocab	παραδίδωμι	to hand over	2	2.4.7; 2.36.1
+vocab	παραινέω	to exhort	1	2.10.3
+vocab	παρανομέω	to transgress the law	1	2.37.3
+vocab	παρασκευάζω	to get ready	9	2.7.1; 2.7.1; 2.7.2; 2.10.1; 2.11.3; 2.11.5; 2.11.6; 2.35.1; 2.36.3
+vocab	παρασκευή	preparation	4	2.9.1; 2.9.6; 2.11.1; 2.39.1
+vocab	παραυτίκα	immediately	1	2.11.7
+vocab	παραχρῆμα	on the spot	1	2.6.2
+vocab	πατήρ	a father	4	2.11.1; 2.11.2; 2.36.2; 2.36.4
+vocab	παῖς	a child	1	2.6.4
+vocab	πείθω	to prevail upon	1	2.2.4
+vocab	πεζός	on foot	2	2.9.3; 2.9.5
+vocab	πειράω	to attempt	2	2.5.5; 2.35.3
+vocab	πενία	poverty	1	2.37.1
+vocab	πεντήκοντα	fifty	1	2.2.1
+vocab	πεντακόσιοι	five hundred	1	2.7.2
+vocab	περί	around	11	2.2.1; 2.5.1; 2.5.5; 2.6.2; 2.6.2; 2.6.2; 2.7.3; 2.11.9; 2.35.1
+vocab	περίειμι1	be superior	1	2.4.7
+vocab	περίορθρος	towards morning	1	2.3.4
+vocab	περιαγγέλλω	to announce by messages sent round	1	2.10.1
+vocab	περιγίγνομαι	to be superior to; to survive	1	2.39.4
+vocab	πηλός	clay	1	2.4.2
+vocab	πιστεύω	to trust	2	2.35.1; 2.39.1
+vocab	πλήν	except	3	2.9.2; 2.9.4; 2.34.5
+vocab	πλανάω	to make to wander	1	2.4.7
+vocab	πλείων	more	14	2.2.1; 2.3.1; 2.4.2; 2.4.4; 2.8.5; 2.9.4; 2.11.4; 2.11.8; 2.36.3
+vocab	πλεονάζω	to be more	1	2.35.2
+vocab	πλεῖστος	most	6	2.4.5; 2.11.1; 2.11.7; 2.34.8; 2.35.3; 2.38.1
+vocab	πλῆθος	a great number	3	2.3.2; 2.11.3; 2.11.4
+vocab	ποθεν	from some place	1	2.7.1
+vocab	ποιέω	to make	14	2.2.4; 2.5.2; 2.5.5; 2.6.1; 2.6.2; 2.7.1; 2.7.2; 2.8.4; 2.11.1
+vocab	πολέμιος	hostile; enemy	4	2.11.5; 2.36.4; 2.39.1; 2.39.3
+vocab	πολίτης	(fellow) citizen	1	2.2.2
+vocab	πολεμέω	to be at war	3	2.1.1; 2.7.1; 2.8.2
+vocab	πολεμικός	of or for war; skilled in war; hostile	1	2.39.1
+vocab	πολιτεία	citizenship	2	2.36.4; 2.37.1
+vocab	πολιτεύω	to live as a citizen	1	2.37.2
+vocab	πολλάκις	many times	1	2.11.4
+vocab	πολύς	much	18	2.3.1; 2.3.2; 2.4.2; 2.4.2; 2.4.2; 2.4.4; 2.8.1; 2.8.1; 2.8.2
+vocab	πορίζω	to carry: to bring about	1	2.38.1
+vocab	πορεύω	to make to go	1	2.5.3
+vocab	ποταμός	a river	2	2.5.2; 2.5.3
+vocab	πού	nodef	1	2.39.3
+vocab	πράσσω	do	5	2.2.3; 2.3.2; 2.4.8; 2.5.7; 2.11.2
+vocab	πρέπω	to be clearly seen	2	2.34.6; 2.36.1
+vocab	πρέσβυς	an old man; pl. ambassadors	1	2.11.1
+vocab	πρίν	before; (after negated main clause) until	1	2.6.2
+vocab	πρεσβεία	age	1	2.7.1
+vocab	πρεσβεύω	to be the elder; to be an ambassador	1	2.7.3
+vocab	προάστειον	the space immediately in front of or round a town	1	2.34.5
+vocab	προέρχομαι	to go forward	1	2.34.8
+vocab	προήκω	to have gone before	1	2.34.6
+vocab	προδίδωμι	to give beforehand	1	2.5.7
+vocab	προεῖδον	to see beforehand	1	2.2.3
+vocab	προεῖπον	to tell	1	2.8.4
+vocab	προθέω2	[derivation unclear]	1	2.34.2
+vocab	προκάμνω	to work	1	2.39.4
+vocab	προκαθίστημι	to set before;	1	2.2.3
+vocab	προκαταλαμβάνω	to seize beforehand	1	2.2.3
+vocab	προσέχω	to hold to	1	2.11.2
+vocab	προσήκω	to have come; to belong to	1	2.34.4
+vocab	προσβάλλω	to strike	2	2.3.4; 2.4.2
+vocab	προσβολή	a putting to	1	2.4.1
+vocab	προσδέχομαι	to receive favourably	1	2.11.3
+vocab	προσκαταλείπω	to leave besides as a legacy	1	2.36.2
+vocab	προσλαμβάνω	to take or receive in addition	1	2.7.1
+vocab	προσμείγνυμι	to mingle	1	2.39.3
+vocab	προσομιλέω	to hold intercourse with	1	2.37.3
+vocab	προσπίτνω	to fall upon	2	2.4.1; 2.11.7
+vocab	προσποιέω	to make over to; mid. procure	1	2.2.2
+vocab	προστίθημι	to add	2	2.35.1; 2.37.2
+vocab	προσφέρω	to bring to	1	2.3.4
+vocab	προσχωρέω	to go to	1	2.2.4
+vocab	προτιμάω	to honour	1	2.37.1
+vocab	προχωρέω	to go forward	1	2.5.1
+vocab	πρό	before	1	2.8.3
+vocab	πρόγονος	a forefather	2	2.11.9; 2.36.1
+vocab	πρόθυμος	ready	1	2.36.4
+vocab	πρός	(w. gen.) from; (w. dat.) at	14	2.3.1; 2.3.3; 2.5.7; 2.6.1; 2.7.1; 2.7.2; 2.9.4; 2.11.5; 2.11.5
+vocab	πρόσοικος	dwelling near to	1	2.9.4
+vocab	πρότερος	before	10	2.2.1; 2.5.6; 2.6.3; 2.8.1; 2.8.3; 2.9.2; 2.34.1; 2.34.8; 2.36.1
+vocab	πρότριτα	three days before	1	2.34.2
+vocab	πρᾶγμα	that which has been done	1	2.8.4
+vocab	πω	up to this time	1	2.39.3
+vocab	πως2	somehow	1	2.3.2
+vocab	πόλεμος	battle	15	2.1.1; 2.2.3; 2.2.3; 2.8.1; 2.8.1; 2.9.1; 2.9.6; 2.11.1; 2.11.4
+vocab	πόλις	a city	34	2.2.2; 2.2.4; 2.2.4; 2.3.1; 2.3.4; 2.4.2; 2.4.4; 2.4.4; 2.4.7
+vocab	πόνος	work	2	2.38.1; 2.39.4
+vocab	πύλη	one wing of a pair of double gates	4	2.2.2; 2.4.3; 2.4.4; 2.4.5
+vocab	πᾶς	all	20	2.2.4; 2.7.2; 2.8.1; 2.8.3; 2.8.4; 2.9.2; 2.9.4; 2.10.3; 2.10.3
+vocab	σείω	to shake	1	2.8.3
+vocab	σημαίνω	to shew by a sign	1	2.8.3
+vocab	σκηνή	a covered place	1	2.34.2
+vocab	σκότος	darkness	1	2.4.2
+vocab	σπονδή	drink-offering; (pl.) truce	3	2.2.1; 2.5.5; 2.7.1
+vocab	σποράς	scattered	1	2.4.4
+vocab	στάδιον	a stade	1	2.5.2
+vocab	στράτευμα	an expedition	1	2.10.3
+vocab	στρατεία	an expedition	1	2.11.1
+vocab	στρατεύω	to serve in war	5	2.6.4; 2.11.1; 2.11.5; 2.11.9; 2.39.2
+vocab	στρατηγός	the leader	1	2.10.3
+vocab	στρατιά	army	1	2.10.1
+vocab	στρατιώτης	a citizen bound to military service;	1	2.11.3
+vocab	στυράκιον	the spike at the lower end of a spear-shaft	1	2.4.3
+vocab	στόρεννυμι	nodef	1	2.34.3
+vocab	συγκαλέω	to call to council	1	2.10.3
+vocab	συλλέγω	to collect	2	2.3.3; 2.10.3
+vocab	συλλαμβάνω	to collect	2	2.6.2; 2.6.3
+vocab	συμβαίνω	meet	5	2.4.7; 2.5.6; 2.8.3; 2.34.7; 2.38.2
+vocab	συμμαχέω	to be an ally	1	2.2.4
+vocab	συμμαχία	an alliance offensive and defensive	3	2.7.3; 2.9.3; 2.9.6
+vocab	συμμαχίς	allied	3	2.2.1; 2.7.1; 2.10.1
+vocab	συμπολεμέω	to join in war	1	2.9.2
+vocab	συνεκφέρω	to carry out together	1	2.34.4
+vocab	συνεπιλαμβάνομαι	take part with	1	2.8.4
+vocab	συνεχής	holding together	1	2.1.1
+vocab	συστρέφω	to twist up into a ball	2	2.4.1; 2.4.5
+vocab	σφέτερος	their own	1	2.3.4
+vocab	σφεῖς	personal and (ind.) reflexive pronoun	10	2.2.2; 2.2.3; 2.2.4; 2.3.4; 2.4.1; 2.4.4; 2.4.7; 2.5.4; 2.5.5
+vocab	σύ	you (personal pronoun)	1	2.35.3
+vocab	σύμβασις	an agreement	2	2.2.4; 2.3.1
+vocab	σύμμαχος	fighting along with	5	2.1.1; 2.7.1; 2.9.1; 2.9.2; 2.11.1
+vocab	σύμφορος	accompanying; suitable	2	2.3.3; 2.36.4
+vocab	σύν	along with	2	2.2.1; 2.6.4
+vocab	σύνειμι2	come together	2	2.8.1; 2.10.2
+vocab	σύνοιδα	to share in knowledge	1	2.35.2
+vocab	σώζω	to save	1	2.4.2
+vocab	σῆμα	a sign	2	2.34.5; 2.34.8
+vocab	σῖτος	corn	1	2.6.4
+vocab	τάφος1	a burial	3	2.34.4; 2.34.5; 2.35.1
+vocab	τάχα	(Homer	1	2.35.2
+vocab	τάχος	swiftness	2	2.3.4; 2.5.7
+vocab	τέλος	the fulfilment	2	2.4.7; 2.10.3
+vocab	τέρψις	enjoyment	1	2.38.1
+vocab	τέσσαρες	four	1	2.2.1
+vocab	τίθημι	to set	3	2.2.4; 2.2.4; 2.34.5
+vocab	ταφή	burial	1	2.34.1
+vocab	ταχύς	quick	1	2.4.4
+vocab	ταύτῃ	in this way.	1	2.4.3
+vocab	τε	and	61	2.1.1; 2.2.1; 2.2.2; 2.2.2; 2.2.3; 2.2.4; 2.3.1; 2.3.1; 2.3.3
+vocab	τεκμήριον	a sure signs.	1	2.39.2
+vocab	τελευτάω	to complete	1	2.4.2
+vocab	τεῖχος	a wall	3	2.3.3; 2.4.4; 2.4.5
+vocab	τιμή	that which is paid in token of worth	2	2.35.1; 2.36.1
+vocab	τις	any one	33	2.2.4; 2.4.3; 2.4.4; 2.4.6; 2.5.1; 2.5.4; 2.5.4; 2.5.5; 2.5.6
+vocab	τοιουτότροπος	of such kind	1	2.8.3
+vocab	τοιοῦτος	such as this	2	2.5.5; 2.9.1
+vocab	τοιόσδε	such a	4	2.10.3; 2.34.1; 2.34.8; 2.36.1
+vocab	τοσοῦτος	so large	1	2.11.9
+vocab	τοσόσδε	so strong	1	2.9.4
+vocab	τοῖχος	the wall of a house	1	2.3.3
+vocab	τρέπω	to turn	1	2.4.2
+vocab	τρίς	thrice	1	2.4.2
+vocab	τριακονταετής	nodef	1	2.2.1
+vocab	τριακόσιοι	three hundred	1	2.2.1
+vocab	τρόπος	a turn	4	2.2.4; 2.34.1; 2.36.4; 2.39.4
+vocab	τυγχάνω	(with gen.) to hit the mark	3	2.4.5; 2.5.4; 2.35.3
+vocab	τότε	at that time	2	2.2.1; 2.8.1
+vocab	φάος	light	1	2.3.4
+vocab	φέρω	to bear	3	2.11.9; 2.34.3; 2.37.3
+vocab	φίλιος	friendly	1	2.7.3
+vocab	φαίνω	to bring to light	4	2.3.3; 2.11.2; 2.11.9; 2.39.4
+vocab	φανερός	open to sight	2	2.2.3; 2.3.3
+vocab	φεύγω	to flee	1	2.4.2
+vocab	φημί	to say	3	2.5.5; 2.5.6; 2.5.6
+vocab	φθείρω	to ruin	1	2.11.6
+vocab	φθονέω	to bear ill-will	1	2.35.2
+vocab	φθόνος	ill-will	1	2.35.2
+vocab	φιλία	friendly love	2	2.2.4; 2.9.2
+vocab	φοβέω	to put to flight	2	2.4.2; 2.8.5
+vocab	φοβερός	fearful	1	2.3.4
+vocab	φρουρός	a watcher	1	2.6.4
+vocab	φυλάσσω	to keep watch and ward	1	2.3.4
+vocab	φυλή	a race	2	2.34.3; 2.34.3
+vocab	φυλακή	a watching	2	2.2.3; 2.11.9
+vocab	φύσις	the nature	1	2.35.2
+vocab	χαλεπός	hard to bear	2	2.35.2; 2.39.2
+vocab	χείρ	the hand	1	2.3.4
+vocab	χείρων	worse	2	2.11.2; 2.35.1
+vocab	χειμών	winter; storm	2	2.1.1; 2.34.1
+vocab	χράω2	proclaim an oracle	10	2.2.4; 2.4.2; 2.4.3; 2.4.6; 2.4.7; 2.11.7; 2.11.9; 2.34.1; 2.34.7
+vocab	χρή	it is fated	5	2.4.2; 2.11.3; 2.11.5; 2.11.6; 2.35.3
+vocab	χρησμολόγος	uttering oracles	1	2.8.2
+vocab	χρόνος	time	1	2.10.2
+vocab	χρῆμα	thing	1	2.9.5
+vocab	χωρέω	give way	4	2.3.1; 2.3.4; 2.11.3; 2.39.1
+vocab	χωρίον	a particular place	1	2.7.3
+vocab	χώρα	land	2	2.5.7; 2.36.1
+vocab	ἀήθης	unwonted	1	2.11.7
+vocab	ἀγαθός	good	3	2.35.1; 2.37.1; 2.38.2
+vocab	ἀγγέλλω	to bear a message	2	2.6.2; 2.6.3
+vocab	ἀγγελία	a message	1	2.5.1
+vocab	ἀγορά	an assembly of the people	1	2.2.4
+vocab	ἀγορεύω	to speak in the assembly	1	2.35.1
+vocab	ἀγρός	fields	1	2.5.4
+vocab	ἀγών	a gathering; a contest	1	2.38.1
+vocab	ἀδικέω	to do wrong	3	2.5.5; 2.5.7; 2.37.3
+vocab	ἀδύνατος	unable	1	2.11.6
+vocab	ἀεί	always	7	2.2.3; 2.11.3; 2.11.5; 2.34.5; 2.36.1; 2.37.3; 2.39.4
+vocab	ἀείδω	to sing	1	2.8.2
+vocab	ἀεκούσιος	against one's will	1	2.8.1
+vocab	ἀζήμιος	free from further payment: without loss	1	2.37.2
+vocab	ἀθρόος	in crowds	1	2.39.3
+vocab	ἀκηρυκτεί	without needing a flag of truce	1	2.1.1
+vocab	ἀκούω	to hear	3	2.34.8; 2.35.2; 2.35.2
+vocab	ἀκροατής	a hearer	1	2.35.2
+vocab	ἀκρόασις	a hearing	1	2.37.3
+vocab	ἀκόντιον	javelin	1	2.4.3
+vocab	ἀλήθεια	truth	1	2.35.2
+vocab	ἀλγεινός	giving pain	1	2.39.4
+vocab	ἀλλά	otherwise	8	2.3.4; 2.5.6; 2.8.1; 2.11.1; 2.11.3; 2.11.6; 2.11.6; 2.37.1
+vocab	ἀλλήλων	of one another	3	2.1.1; 2.3.3; 2.37.2
+vocab	ἀλλότριος	of/belonging to another	1	2.39.2
+vocab	ἀμείνων	better	1	2.11.4
+vocab	ἀμελής	careless	1	2.11.3
+vocab	ἀμφότερος	each of two	3	2.8.1; 2.9.2; 2.11.9
+vocab	ἀμύνω	to keep off	4	2.11.4; 2.11.6; 2.36.4; 2.39.2
+vocab	ἀνάπαυλα	repose	1	2.38.1
+vocab	ἀνάἴσχω	nodef	1	2.9.4
+vocab	ἀνήρ	a man	15	2.2.1; 2.2.2; 2.2.2; 2.2.3; 2.5.3; 2.5.5; 2.5.5; 2.5.6; 2.5.7
+vocab	ἀναίρεσις	a taking up	1	2.34.3
+vocab	ἀναβαίνω	to go up	1	2.4.4
+vocab	ἀναζητέω	to examine into	1	2.8.3
+vocab	ἀναχωρέω	to go back	2	2.5.5; 2.5.7
+vocab	ἀνδρεία,ἀνδρεῖος	nodef	1	2.39.4
+vocab	ἀνδρεῖος	of or for a man; courageous	1	2.39.1
+vocab	ἀνειμένως	at ease	1	2.39.1
+vocab	ἀνειπεῖν	to say aloud	1	2.2.4
+vocab	ἀνεκτός	bearable	1	2.35.2
+vocab	ἀνεπαχθής	not burdensome	1	2.37.3
+vocab	ἀνοίγνυμι	to open	3	2.2.2; 2.4.3; 2.4.5
+vocab	ἀντί	over against	3	2.3.3; 2.4.3; 2.5.4
+vocab	ἀντιλαμβάνω	to receive instead of	1	2.8.1
+vocab	ἀξίωμα	that of which one is thought worthy	1	2.37.1
+vocab	ἀξίωσις	a thinking worthy	2	2.34.6; 2.37.1
+vocab	ἀξιόλογος	worthy of mention	1	2.10.3
+vocab	ἀξιόω	to think worthy of; to expect	1	2.11.8
+vocab	ἀπάτη	a trick	1	2.39.1
+vocab	ἀπέρχομαι	to go away	1	2.34.6
+vocab	ἀπέχω	to keep off	1	2.5.2
+vocab	ἀπαράσκευος	without preparation	1	2.11.4
+vocab	ἀπείργω	to keep away from	1	2.39.1
+vocab	ἀπεικότως	unreasonably	1	2.8.1
+vocab	ἀπειρία	want of skill	1	2.8.1
+vocab	ἀπιστέω	to disbelieve	1	2.35.2
+vocab	ἀποβαίνω	to step off from	1	2.11.9
+vocab	ἀπογίγνομαι	to be away from	1	2.34.2
+vocab	ἀποδίδωμι	to give back	3	2.5.5; 2.5.6; 2.6.1
+vocab	ἀποθνήσκω	nodef	1	2.34.1
+vocab	ἀποκρούω	to beat off from	1	2.4.2
+vocab	ἀποκτείνω	to kill	2	2.5.5; 2.5.7
+vocab	ἀπολαμβάνω	to take away	1	2.4.6
+vocab	ἀπολύω	to loose from	1	2.8.5
+vocab	ἀπρεπής	unseemly	1	2.36.4
+vocab	ἀπροσδόκητος	unexpected	1	2.5.4
+vocab	ἀπωθέω	to thrust away	2	2.4.1; 2.39.3
+vocab	ἀπό	from	9	2.4.2; 2.8.3; 2.10.2; 2.34.8; 2.36.1; 2.36.4; 2.37.1; 2.37.1; 2.39.1
+vocab	ἀπόλαυσις	enjoyment	1	2.38.2
+vocab	ἀπόλλυμι	to destroy	1	2.4.4
+vocab	ἀργύριον	a piece of silver	1	2.7.2
+vocab	ἀρετή	goodness	4	2.34.5; 2.35.1; 2.36.1; 2.37.1
+vocab	ἀριθμός	number	1	2.7.2
+vocab	ἀρκέω	to ward off; to be sufficient	1	2.35.1
+vocab	ἀρχή	a beginning	3	2.8.5; 2.36.2; 2.37.3
+vocab	ἀστός	a townsman	2	2.34.4; 2.36.4
+vocab	ἀσφάλεια	security against stumbling	1	2.11.3
+vocab	ἀσφαλής	not liable to fall	2	2.11.5; 2.11.9
+vocab	ἀσύνετος	void of understanding	1	2.34.6
+vocab	ἀφάνεια	obscurity	1	2.37.1
+vocab	ἀφίστημι	to put away	1	2.3.2
+vocab	ἀφανής	unseen	1	2.34.3
+vocab	ἀφικνέομαι	to come to	1	2.6.3
+vocab	ἀχθηδών	a weight	1	2.37.2
+vocab	ἀχρεῖος	useless	1	2.6.4
+vocab	ἄγγελος	a messenger	2	2.6.1; 2.6.3
+vocab	ἄγραφος	unwritten	1	2.37.3
+vocab	ἄγω	to lead	2	2.2.4; 2.34.3
+vocab	ἄδηλος	not seen	1	2.11.4
+vocab	ἄλλος	other	16	2.3.3; 2.4.4; 2.4.6; 2.4.7; 2.5.1; 2.7.2; 2.8.1; 2.8.2; 2.8.3
+vocab	ἄλλοτε	at another time	1	2.7.1
+vocab	ἄλλως	in another way	2	2.3.1; 2.8.4
+vocab	ἄλλῃ	in another place	1	2.4.4
+vocab	ἄμαξα	a wagon	2	2.3.3; 2.34.3
+vocab	ἄν1	modal particle	13	2.4.7; 2.6.2; 2.7.2; 2.11.3; 2.11.5; 2.11.9; 2.34.3; 2.34.6; 2.35.1
+vocab	ἄνευ	without	1	2.3.3
+vocab	ἄνθρωπος	man	4	2.5.4; 2.6.4; 2.8.4; 2.38.2
+vocab	ἄντικρυς	straight on	1	2.4.5
+vocab	ἄξιος	worthy	2	2.36.2; 2.39.4
+vocab	ἄπειρος1	without trial	3	2.4.2; 2.11.1; 2.35.2
+vocab	ἄπονος	without toil	1	2.36.2
+vocab	ἄρα	particle: 'so'	2	2.5.1; 2.5.4
+vocab	ἄριστος	best	2	2.11.1; 2.11.6
+vocab	ἄρτι	just now	1	2.6.3
+vocab	ἄρχω	(to be first) to rule	6	2.1.1; 2.2.1; 2.8.1; 2.8.5; 2.11.8; 2.36.1
+vocab	ἄρχων	a ruler	1	2.2.1
+vocab	ἄσκησις	exercise	1	2.39.1
+vocab	ἄτολμος	daring nothing	1	2.39.4
+vocab	ἅλωσις	a taking	1	2.2.1
+vocab	ἅμα	at once	7	2.2.1; 2.4.2; 2.4.2; 2.5.1; 2.6.3; 2.36.1; 2.39.3
+vocab	ἅπας	quite all	4	2.8.1; 2.9.2; 2.39.2; 2.39.3
+vocab	ἅπτω	to fasten	1	2.8.1
+vocab	Ἀθηναῖος	Athenian	15	2.1.1; 2.2.1; 2.2.1; 2.3.2; 2.6.2; 2.6.3; 2.6.4; 2.7.1; 2.7.2
+vocab	Ἀθῆναι	the city of Athens	2	2.6.1; 2.8.1
+vocab	Ἀκαρνάν	Acarnan	2	2.7.3; 2.9.4
+vocab	Ἀμπρακιώτης	Ambracian	2	2.9.2; 2.9.3
+vocab	Ἀνακτόριος	Anactorian	1	2.9.2
+vocab	Ἀργεῖος	of/from Argos	1	2.9.2
+vocab	Ἀρχίδαμος	Archidamus	1	2.10.3
+vocab	Ἀσωπός	Asopus	1	2.5.2
+vocab	Ἀττική	Attica	2	2.6.2; 2.10.1
+vocab	Ἀχαιός	Achaian	2	2.9.2; 2.9.2
+vocab	Ἄργος	Argos	1	2.2.1
+vocab	ἐάν	if	4	2.5.4; 2.5.6; 2.34.2; 2.39.3
+vocab	ἐάω	to let	1	2.36.4
+vocab	ἐγκαταλείπω	to leave behind	1	2.6.4
+vocab	ἐγώ	I (first person pronoun)	24	2.11.1; 2.11.1; 2.11.2; 2.11.2; 2.11.2; 2.11.3; 2.11.6; 2.11.6; 2.11.9
+vocab	ἐθέλω	to will	1	2.39.4
+vocab	ἐκ	from out of	13	2.3.4; 2.3.4; 2.3.4; 2.5.5; 2.5.7; 2.5.7; 2.7.2; 2.11.4; 2.11.9
+vocab	ἐκεῖνος	that over there	4	2.7.2; 2.11.6; 2.34.5; 2.36.2
+vocab	ἐκκομίζω	to carry out	1	2.6.4
+vocab	ἐκπέμπω	to send out	1	2.5.5
+vocab	ἐκπλήσσω	(to knock out); to astound	1	2.38.1
+vocab	ἐκτός	outside	1	2.7.1
+vocab	ἐκφεύγω	to flee out	1	2.4.2
+vocab	ἐκφορά	a carrying out	1	2.34.3
+vocab	ἐλάσσων	smaller	1	2.11.4
+vocab	ἐλάχιστος	the smallest	1	2.11.7
+vocab	ἐλευθερόω	to free	1	2.8.4
+vocab	ἐλεύθερος	free	2	2.36.1; 2.37.2
+vocab	ἐλπίζω	to hope for	2	2.7.1; 2.11.6
+vocab	ἐμμένω	to abide in	1	2.2.1
+vocab	ἐμπίμπρημι	to kindle	1	2.4.6
+vocab	ἐμπειρία	experience	1	2.3.4
+vocab	ἐν	in	48	2.1.1; 2.2.1; 2.2.1; 2.2.1; 2.2.3; 2.3.1; 2.3.4; 2.4.1; 2.4.2
+vocab	ἐναντίος	opposite	3	2.11.3; 2.11.5; 2.39.1
+vocab	ἐνδεής	in need of; deficient	2	2.11.2; 2.35.2
+vocab	ἐνθάδε	here	1	2.35.1
+vocab	ἐνθένδε	hence	1	2.1.1
+vocab	ἐντυγχάνω	to light upon	1	2.39.3
+vocab	ἐντός	within	2	2.9.2; 2.9.4
+vocab	ἐξέρχομαι	to go out	2	2.4.4; 2.11.1
+vocab	ἐξαπίναιος	sudden	1	2.3.1
+vocab	ἐξαπατάω	to deceive	1	2.4.1
+vocab	ἐξαρτύω	to get ready	1	2.3.3
+vocab	ἐξετάζω	to examine well	1	2.7.3
+vocab	ἐπάγω	to bring on	2	2.2.2; 2.2.4
+vocab	ἐπέρχομαι	come near; come upon; attack	1	2.39.2
+vocab	ἐπί	on	26	2.2.1; 2.2.4; 2.3.4; 2.4.4; 2.8.3; 2.9.4; 2.9.4; 2.10.1; 2.11.1
+vocab	ἐπίπεμψις	a sending to	1	2.39.3
+vocab	ἐπίπονος	painful	1	2.39.1
+vocab	ἐπίσταμαι	to know	1	2.35.2
+vocab	ἐπαίρω	to lift up and set on	1	2.11.2
+vocab	ἐπαινέω	to approve	1	2.35.1
+vocab	ἐπακούω	to listen	1	2.36.4
+vocab	ἐπαυξάνω	to increase	1	2.36.3
+vocab	ἐπεί	after	7	2.3.1; 2.3.4; 2.5.7; 2.10.2; 2.10.3; 2.34.8; 2.35.3
+vocab	ἐπειδάν	whenever.	2	2.34.3; 2.34.6
+vocab	ἐπεισέρχομαι	to come in besides	1	2.38.2
+vocab	ἐπιβοηθέω	to come to aid	1	2.5.1
+vocab	ἐπιβουλεύω	to plot against	1	2.5.4
+vocab	ἐπιγίγνομαι	to be born after	3	2.4.2; 2.4.4; 2.36.1
+vocab	ἐπιμέλεια	care	1	2.39.3
+vocab	ἐπιμίσγω	have intercourse	1	2.1.1
+vocab	ἐπινοέω	to think on	2	2.8.1; 2.11.2
+vocab	ἐπιστέλλω	to send to	1	2.6.3
+vocab	ἐπιτάσσω	to put upon one as a duty	1	2.7.2
+vocab	ἐπιτήδειος	suitable; useful	2	2.2.4; 2.10.1
+vocab	ἐπιτήδευμα	a pursuit	1	2.37.2
+vocab	ἐπιτήδευσις	devotion	1	2.36.4
+vocab	ἐπιτίθημι	to lay	1	2.3.2
+vocab	ἐπιφέρω	to bring	1	2.34.2
+vocab	ἐπιχείρησις	an attempt	1	2.11.4
+vocab	ἐπιχειρέω	to attempt	1	2.11.5
+vocab	ἐπιχειρητέον	one must attempt	1	2.3.3
+vocab	ἐπόμνυμι	to swear after	2	2.5.6; 2.5.6
+vocab	ἐρῆμος	desolate	1	2.4.4
+vocab	ἐρῶ	[I will say]	3	2.5.1; 2.10.2; 2.35.1
+vocab	ἐχθρός	hated	1	2.2.4
+vocab	ἑαυτοῦ	himself	7	2.2.4; 2.7.1; 2.11.3; 2.11.8; 2.34.2; 2.35.2; 2.39.2
+vocab	ἑβδομήκοντα	seventy	1	2.5.2
+vocab	ἑκάτερος	each of two	4	2.1.1; 2.7.1; 2.9.1; 2.9.6
+vocab	ἑκατόν	a hundred	1	2.5.7
+vocab	ἑξῆς	one after another	1	2.1.1
+vocab	ἑτοιμάζω	to make ready	1	2.7.2
+vocab	ἑτοῖμος	at hand	2	2.3.4; 2.10.2
+vocab	ἔαρ	spring	1	2.2.1
+vocab	ἔθνος	a number of people accustomed to live together	1	2.9.4
+vocab	ἔκδημος	from home	1	2.10.1
+vocab	ἔμπειρος	experienced	1	2.4.2
+vocab	ἔνδον	in	2	2.3.1; 2.5.4
+vocab	ἔνειμι	to be in; to be possible	1	2.34.3
+vocab	ἔξειμι1	go out	1	2.6.3
+vocab	ἔξοδος1	a going out; an exit	3	2.4.3; 2.10.1; 2.10.3
+vocab	ἔξω	out	8	2.4.4; 2.4.5; 2.5.4; 2.5.5; 2.5.5; 2.9.2; 2.10.1; 2.11.1
+vocab	ἔπαινος	approval	4	2.34.6; 2.35.2; 2.36.2; 2.36.4
+vocab	ἔπειμι2	(go) come upon	4	2.11.3; 2.11.5; 2.11.8; 2.36.4
+vocab	ἔπειτα	then	2	2.4.2; 2.9.2
+vocab	ἔργον	work	9	2.2.4; 2.7.1; 2.8.4; 2.11.5; 2.11.7; 2.35.1; 2.35.1; 2.36.4; 2.39.1
+vocab	ἔρχομαι	to come	6	2.5.2; 2.11.1; 2.11.3; 2.11.6; 2.36.4; 2.39.4
+vocab	ἔσοδος	a way in	1	2.6.3
+vocab	ἔτι	yet	11	2.1.1; 2.2.1; 2.2.3; 2.3.4; 2.4.3; 2.5.1; 2.5.5; 2.8.3; 2.36.2
+vocab	ἔτος	a year	3	2.2.1; 2.2.1; 2.2.1
+vocab	ἔφορος	an overseer	1	2.2.1
+vocab	ἔχθος	hate	1	2.11.2
+vocab	ἔχω	to have	15	2.2.4; 2.4.2; 2.4.6; 2.5.3; 2.5.5; 2.6.2; 2.8.5; 2.9.1; 2.10.1
+vocab	ἕκαστος	every	13	2.1.1; 2.3.3; 2.8.4; 2.10.2; 2.10.2; 2.11.3; 2.34.2; 2.34.3; 2.34.3
+vocab	ἕκτος	sixth	1	2.2.1
+vocab	ἕνεκα	on account of	2	2.2.2; 2.11.3
+vocab	ἕπομαι	follow	2	2.11.9; 2.35.3
+vocab	ἕτερος	the one; the other (of two)	2	2.35.2; 2.37.1
+vocab	ἕως	(w. aor or as prep.) until; (w. pres) as long as	1	2.7.2
+vocab	Ἑλλάς	Hellas	3	2.8.1; 2.8.4; 2.11.2
+vocab	Ἑλλήσποντος	the Hellespont	1	2.9.4
+vocab	Ἕλλην	Hellen; Greek	2	2.8.3; 2.36.4
+vocab	ἡγέομαι	to lead; to consider	3	2.2.1; 2.10.3; 2.11.9
+vocab	ἡγεμών	leader	1	2.11.3
+vocab	ἡδονή	delight	1	2.37.2
+vocab	ἡλικία	time of life	1	2.36.3
+vocab	ἡμέρα	day	2	2.37.2; 2.38.1
+vocab	ἡσσάομαι	to be less than another	1	2.39.3
+vocab	ἡσυχάζω	to be still	2	2.3.1; 2.7.2
+vocab	ἤ1	either..or; than	13	2.4.2; 2.11.8; 2.36.4; 2.36.4; 2.36.4; 2.37.1; 2.37.1; 2.38.2; 2.39.1
+vocab	ἤδη	already	4	2.1.1; 2.5.3; 2.35.1; 2.35.2
+vocab	ἥκω	to have come	1	2.11.3
+vocab	ἥλιος	the sun	1	2.9.4
+vocab	ἥσσων	less	2	2.3.4; 2.39.1
+vocab	Ἠλεῖος	from Elis	1	2.9.3
+vocab	ἰδιώτης	a private person	1	2.8.4
+vocab	ἰσοπαλής	equal in the struggle	1	2.39.1
+vocab	ἱεράομαι	to be a priest	1	2.2.1
+vocab	ἱκανός	becoming	1	2.35.2
+vocab	ἱππεύς	a horseman	1	2.9.3
+vocab	ἴδιος	one's own	4	2.2.2; 2.37.1; 2.37.3; 2.38.1
+vocab	ἴσος	equal to	2	2.3.4; 2.37.1
+vocab	ἵνα	in order that (conj.); where (rel. adv.)	1	2.3.3
+vocab	Ἰσθμός	Isthmus	2	2.9.2; 2.10.2
+vocab	Ἰταλία	Italy	1	2.7.2
+vocab	Ἰώνιος,Ἰωνία	nodef	1	2.9.4
+vocab	ὀγδοήκοντα	eighty	1	2.5.7
+vocab	ὀλίγος	few	5	2.2.1; 2.8.1; 2.8.3; 2.11.4; 2.37.1
+vocab	ὀλολυγή	any loud cry	1	2.4.2
+vocab	ὀλοφύρομαι	to lament	1	2.34.4
+vocab	ὀξέως	nodef	1	2.11.9
+vocab	ὀξύς2	sharp	1	2.8.1
+vocab	ὀργή	natural impulse	4	2.8.5; 2.11.4; 2.11.7; 2.37.2
+vocab	ὀστέον	bone	2	2.34.2; 2.34.3
+vocab	ὁ	the	379	2.1.1; 2.1.1; 2.2.1; 2.2.1; 2.2.1; 2.2.1; 2.2.1; 2.2.1; 2.2.2
+vocab	ὁ,ὅς	nodef	1	2.8.1
+vocab	ὁδός	a way	3	2.3.3; 2.3.3; 2.5.1
+vocab	ὁμολογέω	agree	2	2.5.6; 2.37.3
+vocab	ὁπότε	when	1	2.34.7
+vocab	ὁράω	to see	7	2.3.1; 2.4.6; 2.7.3; 2.11.6; 2.11.7; 2.11.8; 2.35.1
+vocab	ὁρμάω,ὁρμέω	nodef	2	2.9.1; 2.11.6
+vocab	ὁρμή	a violent movement onwards	1	2.11.2
+vocab	ὄμμα	the eye	1	2.11.7
+vocab	ὄνομα	name	1	2.37.1
+vocab	ὄψις	look	1	2.37.2
+vocab	ὅδε	this	13	2.9.1; 2.9.2; 2.11.1; 2.11.9; 2.34.1; 2.34.8; 2.35.1; 2.35.1; 2.35.2
+vocab	ὅδε,τῇδε	nodef	1	2.11.2
+vocab	ὅμιλος	any assembled crowd	2	2.34.8; 2.36.4
+vocab	ὅμως	all the same	1	2.11.1
+vocab	ὅπη	by which way	1	2.11.9
+vocab	ὅπλον	a tool	4	2.2.1; 2.2.4; 2.2.4; 2.4.7
+vocab	ὅπως	how	3	2.3.3; 2.3.4; 2.34.8
+vocab	ὅς	who	33	2.1.1; 2.2.1; 2.2.3; 2.3.3; 2.4.1; 2.4.2; 2.4.3; 2.4.3; 2.4.5
+vocab	ὅσιος	hallowed	1	2.5.5
+vocab	ὅσος	as much/many as	9	2.4.5; 2.4.7; 2.6.2; 2.7.1; 2.9.4; 2.35.2; 2.36.2; 2.37.3; 2.37.3
+vocab	ὅταν	when	1	2.11.6
+vocab	ὅτε	when	1	2.39.1
+vocab	ὅτι	adv. + superl.	5	2.2.3; 2.4.7; 2.5.5; 2.6.3; 2.8.4
+vocab	Ὀνητορίδης	nodef	1	2.2.1
+vocab	ὑετός	rain	2	2.4.2; 2.5.3
+vocab	ὑπάρχω	to begin; to exist	3	2.5.4; 2.7.2; 2.7.3
+vocab	ὑπέρ	over	1	2.35.2
+vocab	ὑπεναντίος	set over against	1	2.2.2
+vocab	ὑπερβάλλω	to throw over	1	2.35.2
+vocab	ὑπισχνέομαι	to promise	1	2.5.6
+vocab	ὑποζύγιον	a beast for the yoke	1	2.3.3
+vocab	ὑποτελής	subject to pay taxes	1	2.9.4
+vocab	ὑποτοπέω	to suspect	1	2.5.5
+vocab	ὑποψία	suspicion	1	2.37.2
+vocab	ὑπό	from under	3	2.8.1; 2.34.6; 2.39.3
+vocab	ὑπόσπονδος	under a treaty	1	2.6.1
+vocab	ὑψηλός	high	1	2.34.8
+vocab	ὕδωρ	water	1	2.5.2
+vocab	ὕπνος	sleep	1	2.2.1
+vocab	ὕστερος	latter	3	2.5.3; 2.6.3; 2.9.2
+vocab	ὠφέλεια	help	2	2.7.1; 2.37.3
+vocab	ὠφελέω	to help	1	2.39.1
+vocab	ὡς	as	13	2.1.1; 2.3.1; 2.3.4; 2.4.1; 2.5.4; 2.7.1; 2.7.2; 2.10.1; 2.11.9
+vocab	ὥσπερ	just as if	1	2.4.6
+vocab	ὥστε	so that	4	2.2.4; 2.4.2; 2.4.3; 2.11.6
+vocab	ὧδε	in this wise	1	2.34.7
+vocab	ῥέω	to flow	1	2.5.2
+vocab	ῥίπτω	to throw	1	2.4.4
+vocab	ῥητός	stated	1	2.7.2
+vocab	ῥώννυμι	to strengthen	2	2.8.1; 2.8.4
+vocab	ῥᾳθυμία	nodef	1	2.39.4
+vocab	ῥᾴδιος	easy	4	2.2.3; 2.2.4; 2.3.2; 2.5.2

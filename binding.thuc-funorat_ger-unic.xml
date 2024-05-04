@@ -4,9 +4,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>History of the Peloponnesian War</title>
+        <title xml:lang="ger">Die Rede des Perikles für die Gefallenen</title>
         <author>Thucydides</author>
-        <editor n="transl" role="editor">Thomas Hobbes</editor>
+        <editor role="translator">Rudolf G. Binding</editor>
         <sponsor>Perseus Project, Tufts University</sponsor>
         <principal>Gregory Crane</principal>
 
@@ -32,6 +32,7 @@
               <date>1937</date>
             </imprint>
           </monogr>
+          <ref target="https://www.digitale-sammlungen.de/en/view/bsb10930267?page=8,9">Münich Digital Library</ref>
         </biblStruct>
       </sourceDesc>
     </fileDesc>
@@ -51,18 +52,18 @@
             <p>This text is quickly corrected OCR output. The following text is encoded in accordance with EpiDoc standards and with the
                 CTS/CITE Architecture.</p>
 </encodingDesc>
+<editorialDecl><p>The source text has no paragraphs and no page numbers. All book, chapter, citation data was added manually as well. There are, however, dashes ('—') to mark chapter breaks in the Greek.</p></editorialDecl>
     <profileDesc>
       <langUsage>
-        <language ident="de">German</language>
-        <language ident="eng">English</language>
-        <language ident="grc">Greek</language>
-        <language ident="lat">Latin</language>
+        <language ident="ger">German</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ger">
     <body>
-      <pb/>
+      
+
+<pb/>
       <div type="textpart" subtype="book" n="2">
         <div type="textpart" subtype="chapter" n="34">
           <div type="textpart" subtype="section" n="1">
@@ -92,6 +93,8 @@
           </div>
           <div type="textpart" subtype="section" n="2">
             <p>Denn schwer ist es das Maß der Rede zu treffen wo überhaupt kaum die Wahrheit zu veranschaulichen möglich ist.
+
+
 <pb/>
 Denn wer mit dabei war und den Dingen Gerechtigkeit widerfahren lassen will, der könnte leicht den Eindruck haben daß alles hinter seinem Willen und Wissen zurückbleibe. Der Unerfahrene aber wird es für übertrieben halten: aus Neid nämlich wenn er von Dingen hört die über seine Kräfte gehen. Denn daß anderen Lob gezollt werde ertragen die Menschen nur insoweit als auch jeder für seine eigene Person sich fähig hält, etwas von dem was er gehört hat zu vollbringen. Was aber darüber hinaus geht das neiden sie schon und schenken ihm keinen Glauben.</p>
           </div>
@@ -119,7 +122,9 @@ Denn wer mit dabei war und den Dingen Gerechtigkeit widerfahren lassen will, der
         </div>
         <div type="textpart" subtype="chapter" n="37">
           <div type="textpart" subtype="section" n="1">
-            <p>Wir genießen einer Verfassung welche die Gesetzgebung anderer <pb/>  Staaten nicht nachahmt; im Gegenteil sind wir eher ändern ein Beispiel, als daß wir sie nachahmten. Und mit Recht wird sie, da die Gewalt nicht bei wenigen sondern bei der Gesamtheit ruht, Volksherrschaft genannt Jedem gebührt nach den Gesetzen gleiches Recht mit den ändern in allen seinen Angelegenheiten; in den öffentlichen Würden aber wird jeder dort wo er sich auszeichnet, nicht weil er aus einem bestimmten Teile der Bürgerschaft hervorgegangen sondern wegen seiner Tüchtigkeit, vorangestellt; auch wird keiner infolge von Armut, wenn er nur irgend etwas für den Staat zu leisten hat, um der Unscheinbarkeit seines Ranges willen ausgeschlossen.</p>
+            <p>Wir genießen einer Verfassung welche die Gesetzgebung anderer 
+
+<pb/>  Staaten nicht nachahmt; im Gegenteil sind wir eher ändern ein Beispiel, als daß wir sie nachahmten. Und mit Recht wird sie, da die Gewalt nicht bei wenigen sondern bei der Gesamtheit ruht, Volksherrschaft genannt Jedem gebührt nach den Gesetzen gleiches Recht mit den ändern in allen seinen Angelegenheiten; in den öffentlichen Würden aber wird jeder dort wo er sich auszeichnet, nicht weil er aus einem bestimmten Teile der Bürgerschaft hervorgegangen sondern wegen seiner Tüchtigkeit, vorangestellt; auch wird keiner infolge von Armut, wenn er nur irgend etwas für den Staat zu leisten hat, um der Unscheinbarkeit seines Ranges willen ausgeschlossen.</p>
           </div>
           <div type="textpart" subtype="section" n="2">
             <p>Frei bewegen wir uns in den Verhältnissen des öffentlichen Lebens und untereinander bei der Reibung und dem Verdruß des Tages; wir tragen’s dem Nachbarn nicht im Zorn nach, wenn er etwas aus Lust und Übermut tut, wir verhärten uns aber auch nicht gegen ihn in Hinterhältigkeit und Zwang, die sein Auge schmerzlich und kränkend berühren würden.</p>
@@ -142,7 +147,9 @@ Denn wer mit dabei war und den Dingen Gerechtigkeit widerfahren lassen will, der
         </div>
         <div type="textpart" subtype="chapter" n="39">
           <div type="textpart" subtype="section" n="1">
-            <p>Wir unterscheiden uns auch in Anschauung und Betreiben des Krieges von unseren Gegnern. Darin nämlich daß wir unsere Stadt als allen gemeinsam betrachten. Und nie geschieht es daß wir durch Ausweisung eines Fremden irgend jemanden von etwas Wissens- oder Sehenswertem abhalten, weil etwa dadurch daß man es nicht geheim hält irgend einer unserer <pb/> Feinde daraus Nutzen ziehen könne. Wir vertrauen nicht so sehr auf Vorkehrungen und Täuschungen als auf den in uns lebenden Mut und Glauben für alle unsere Werke. Und während jene schon von Kindesbeinen an, kaum entwickelt, in wahrhaft asketischen Übungen mannhaftes Wesen zu erwerben trachten, so gehen wir, wiewohl wir ungebundener leben, darum mit nicht geringerem Mut den gleichen Gefahren entgegen.</p>
+            <p>Wir unterscheiden uns auch in Anschauung und Betreiben des Krieges von unseren Gegnern. Darin nämlich daß wir unsere Stadt als allen gemeinsam betrachten. Und nie geschieht es daß wir durch Ausweisung eines Fremden irgend jemanden von etwas Wissens- oder Sehenswertem abhalten, weil etwa dadurch daß man es nicht geheim hält irgend einer unserer 
+
+<pb/> Feinde daraus Nutzen ziehen könne. Wir vertrauen nicht so sehr auf Vorkehrungen und Täuschungen als auf den in uns lebenden Mut und Glauben für alle unsere Werke. Und während jene schon von Kindesbeinen an, kaum entwickelt, in wahrhaft asketischen Übungen mannhaftes Wesen zu erwerben trachten, so gehen wir, wiewohl wir ungebundener leben, darum mit nicht geringerem Mut den gleichen Gefahren entgegen.</p>
           </div>
           <div type="textpart" subtype="section" n="2">
             <p>Beweis ist daß die Lakedaimonier nicht auf sich selbst vertrauend sondern mit allerlei Völkern gemeinsam unser Land bekriegen. Wenn aber wir den Krieg in fremdes Land tragen, so wird uns im Kampf selbst mit denen die Haus und Hof zu verteidigen haben meist unschwer der Sieg.</p>
@@ -151,22 +158,24 @@ Denn wer mit dabei war und den Dingen Gerechtigkeit widerfahren lassen will, der
             <p>Auf unsere vereinte Macht stieß kein Feind jemals, weil wir mit dem Heer zugleich unsere Flotte halten und unsere Landmacht an vielen Punkten zugleich Verwendung findet. Wenn sie aber mit irgend einem Teile irgendwo zusammen treffen und geringfügige Kräfte von uns übermannen, prahlen sie, sie hätten unsere Gesamtmacht geschlagen, und wenn sie unterliegen, sie seien unserer gesamten Macht unterlegen.</p>
           </div>
           <div type="textpart" subtype="section" n="4">
-            <p>Sei’s also drum, daß wir mehr aus Leichtblütigkeit als durch mühevolle Übungen und weniger infolge strenger Gesetze als infolge männlicher Grundsätze den Gefahren des Krieges gewachsen sind: es kommt uns zugute, zukünftiger Leiden wegen nicht im voraus uns zu sorgen und wenn sie da sind uns nicht mutloser als ewig sich Abmarternde zu erzeigen. — 
+            <p>Sei’s also drum, daß wir mehr aus Leichtblütigkeit als durch mühevolle Übungen und weniger infolge strenger Gesetze als infolge männlicher Grundsätze den Gefahren des Krieges gewachsen sind: es kommt uns zugute, zukünftiger Leiden wegen nicht im voraus uns zu sorgen und wenn sie da sind uns nicht mutloser als ewig sich Abmarternde zu erzeigen. —
 
-Hierin ist die Stadt der Bewunderung würdig; aber nicht minder in anderem, 
 
 </p>
           </div>
         </div>
         <div type="textpart" subtype="chapter" n="40">
           <div type="textpart" subtype="section" n="1">
-            <p>denn wir sind Freunde des Schönen im Maße des Rechten und Freunde der Weisheit ohne der Weichheit zu verfallen. Vom Reichtum machen wir mehr zu gutem Werke Gebrauch als um in Worten damit zu prunken. Armut einzugestehen ist nicht schimpflich; doch ihr durch Arbeit nicht zu entfliehen ist mehr als schimpflich.</p>
+            <p>Hierin ist die Stadt der Bewunderung würdig; aber nicht minder in anderem, 
+ denn wir sind Freunde des Schönen im Maße des Rechten und Freunde der Weisheit ohne der Weichheit zu verfallen. Vom Reichtum machen wir mehr zu gutem Werke Gebrauch als um in Worten damit zu prunken. Armut einzugestehen ist nicht schimpflich; doch ihr durch Arbeit nicht zu entfliehen ist mehr als schimpflich.</p>
           </div>
           <div type="textpart" subtype="section" n="2">
             <p>Dieselben Männer machen es sich zur Pflicht ihre eigenen Angelegenheiten zugleich mit denen des Staates zu verwalten; die ändern aber, die dem Werk ihrer Hände obliegen müssen, sind darum nicht ohne Verstand in politischen Dingen.</p>
           </div>
           <div type="textpart" subtype="section" n="3">
-            <p>Denn wir allein sind es, die den der sich solchen ganz fernhält nicht für einen Ruheliebenden sondern für einen Unnützen <pb/> erachten. Auf eigenem Urteil und auf eigener Überzeugung beruht unser Tun; und wir halten nicht die Rede für eine Gefahr für die Tat, sondern eher, nicht durch die Rede sich belehren zu lassen bevor man zur Tat schreitet« Denn auch dies ist unsere Art: da am freiesten zu wagen wo wir am besten durchdacht haben; bei ändern aber erzeugt nur die Unkenntnis den Wagemut, die Überlegung jedoch Zagen. Die seelische Kraft derer wird wohl mit Recht als die stärkste gerühmt,die das Schreckliche wie das Süße mit voller Klarheit erkennen und doch sich keiner Gefahr entziehen.</p>
+            <p>Denn wir allein sind es, die den der sich solchen ganz fernhält nicht für einen Ruheliebenden sondern für einen Unnützen 
+
+<pb/> erachten. Auf eigenem Urteil und auf eigener Überzeugung beruht unser Tun; und wir halten nicht die Rede für eine Gefahr für die Tat, sondern eher, nicht durch die Rede sich belehren zu lassen bevor man zur Tat schreitet« Denn auch dies ist unsere Art: da am freiesten zu wagen wo wir am besten durchdacht haben; bei ändern aber erzeugt nur die Unkenntnis den Wagemut, die Überlegung jedoch Zagen. Die seelische Kraft derer wird wohl mit Recht als die stärkste gerühmt,die das Schreckliche wie das Süße mit voller Klarheit erkennen und doch sich keiner Gefahr entziehen.</p>
           </div>
           <div type="textpart" subtype="section" n="4">
             <p>Auch von der Tugend der Wohltätigkeit denken wir anders als die Meisten. Denn nicht Wohltat erleidend sondern Wohltat erweisend gewinnen wir Freunde. Beständiger ist der welcher die Gunst erwiesen hat; denn er ist gesonnen sich die Dankbarkeit dessen dauernd zu erhalten dem er gab. Der Empfänger indes ist weniger freudig insofern er nicht aus freier Gunst sondern nur in Entgegnung einer solchen gibt und Wohltat übt.</p>
@@ -188,7 +197,9 @@ Hierin ist die Stadt der Bewunderung würdig; aber nicht minder in anderem,
             <p>Sie allein geht, hocherhaben über alles von Menschen je Erhört, dem Gipfel ihrer Kraft entgegen und sie allein gibt weder dem andringenden Feinde Anlaß zur Entrüstung daß er von solchen Männern Schläge erleidet, noch Raum zu Klage bei den Unterworfenen daß sie von Unwürdigen beherrscht würden.</p>
           </div>
           <div type="textpart" subtype="section" n="4">
-            <p>Unter gewaltigen Zeichen und wahrlich nicht unbezeugt haben wir unsere Macht ausgebreitet und die Bewunderung der lebenden Geschlechter wie der Nachwelt wird uns zuteil. Keines Homeros bedürfen wir als Verkünder unseres Ruhms noch sonst eines ändern der in Heldengesängen Herrliches darstellen mag während die Wahrheit die Uberhebung der Tat Lügen straft, <pb/>
+            <p>Unter gewaltigen Zeichen und wahrlich nicht unbezeugt haben wir unsere Macht ausgebreitet und die Bewunderung der lebenden Geschlechter wie der Nachwelt wird uns zuteil. Keines Homeros bedürfen wir als Verkünder unseres Ruhms noch sonst eines ändern der in Heldengesängen Herrliches darstellen mag während die Wahrheit die Uberhebung der Tat Lügen straft, 
+
+<pb/>
 
 sondern wir haben zu allen Meeren und Ländern kühn uns den Eingang eröffnet und allüberall die Denkmäler unserer Taten im Bösen wie im Guten aufgerichtet.</p>
           </div>
@@ -216,7 +227,9 @@ sondern wir haben zu allen Meeren und Ländern kühn uns den Eingang eröffnet u
         </div>
         <div type="textpart" subtype="chapter" n="43">
           <div type="textpart" subtype="section" n="1">
-            <p>Also handelnd <pb/> taten dem Staat sie Gebühr —: und sie wurden zu Helden. Die überlebenden aber sollen, wenn sie auch beten mögen um ein gnädigeres Schicksal, keine minder herrliche Gesinnung vor dem Feinde erweisen zu dürfen vermeinen. Denn allein den Nutzen einer solchen sollen sie nicht berechnend ins Auge fassen, den einer wohl dartun kann indem er euch weitschweifig vorredet was ihr schon wißt: wie gut und köstlich es sei den Feinden zu wehren; vielmehr sollt ihr, die Macht eurer Stadt Tag für Tag in solchem Wirken vor Augen sehend, sie liebgewinnen; und wenn sie euch groß dünkt an Ansehen, so bedenkt daß kühne Männer, die wußten was not tut und handelten wie es die Ehre ihnen gebot, dies alles errungen haben — die, wenn auch einmal ein Unternehmen fehlschlug, nun nicht gleich dem Staat ihre Kraft zu entziehen für gut befanden sondern sich ihm als schönstes Opfer darbrachten.</p>
+            <p>Also handelnd 
+
+<pb/> taten dem Staat sie Gebühr —: und sie wurden zu Helden. Die überlebenden aber sollen, wenn sie auch beten mögen um ein gnädigeres Schicksal, keine minder herrliche Gesinnung vor dem Feinde erweisen zu dürfen vermeinen. Denn allein den Nutzen einer solchen sollen sie nicht berechnend ins Auge fassen, den einer wohl dartun kann indem er euch weitschweifig vorredet was ihr schon wißt: wie gut und köstlich es sei den Feinden zu wehren; vielmehr sollt ihr, die Macht eurer Stadt Tag für Tag in solchem Wirken vor Augen sehend, sie liebgewinnen; und wenn sie euch groß dünkt an Ansehen, so bedenkt daß kühne Männer, die wußten was not tut und handelten wie es die Ehre ihnen gebot, dies alles errungen haben — die, wenn auch einmal ein Unternehmen fehlschlug, nun nicht gleich dem Staat ihre Kraft zu entziehen für gut befanden sondern sich ihm als schönstes Opfer darbrachten.</p>
           </div>
           <div type="textpart" subtype="section" n="2">
             <p>Zum Wohle aller gaben sie ihr Leben, sich selbst aber errangen sie unsterblichen Ruhm und das erhabenste Grab; nicht nur das in dem sie nun ruhen sondern auch jenes andere in welchem unvergessen ewig bei allen Geschlechtern bei jedem Anlaß der Rede oder der Tat ihr Gedächtnis bewahrt ist Leuchtender Männer Grab ist die ganze Erde und nicht nur die Inschrift der Säule in der Heimat bezeichnet sie.</p>
@@ -238,7 +251,9 @@ sondern wir haben zu allen Meeren und Ländern kühn uns den Eingang eröffnet u
         </div>
         <div type="textpart" subtype="chapter" n="44">
           <div type="textpart" subtype="section" n="1">
-            <p>Deshalb will ich nun auch die Eltern der Gefallenen, euch zumal die ihr zugegen seid, nicht mehr beklagen sondern trösten. Wißt ihr doch selbst daß ihr in mannigfacher Unbeständigkeit <pb/> und vielerlei Wechsel des Geschickes herangewachsen seid. Das wahre Glück aber liegt in einem wohlanstehenden Schicksal wie es diesen in einem herrlichen Ende, euch in der edelsten Trauer bereitet ist, außer euch aber nur jenen gewährt wird denen ein gütiger Geist Leben und Sterben zu gleicher Wohltat hinausführt.</p>
+            <p>Deshalb will ich nun auch die Eltern der Gefallenen, euch zumal die ihr zugegen seid, nicht mehr beklagen sondern trösten. Wißt ihr doch selbst daß ihr in mannigfacher Unbeständigkeit 
+
+<pb/> und vielerlei Wechsel des Geschickes herangewachsen seid. Das wahre Glück aber liegt in einem wohlanstehenden Schicksal wie es diesen in einem herrlichen Ende, euch in der edelsten Trauer bereitet ist, außer euch aber nur jenen gewährt wird denen ein gütiger Geist Leben und Sterben zu gleicher Wohltat hinausführt.</p>
           </div>
           <div type="textpart" subtype="section" n="2">
             <p>Wohl ist es schwer euch zu überzeugen die ihr so oft an jene gemahnt werdet wenn ihr andere in einem Glück erblickt auf das ihr selbst dereinst stolz wart. Man betrübt sich ja nicht um den Verlust von Gütern die man nie erfahren hat sondern um die deren man beraubt wird nachdem man sie genossen.</p>
@@ -257,7 +272,9 @@ sondern wir haben zu allen Meeren und Ländern kühn uns den Eingang eröffnet u
             <p>Euch Söhnen aber und Brüdern der Gefallenen, soviel eurer sind, sehe ich großen Wettstreit erwachsen. Denn wer nicht mehr unter den Lebenden ist, dessen Lob redet jeder; euch aber mag es selbst bei einem Übermaß von Tapferkeit nicht gelingen, jenen auch nur gleichgeachtet zu werden; immer vielmehr werdet ihr ihnen nachstehen müssen. Denn unter den Lebenden herrscht der Neid gegen den Nebenbuhler; dem Gegner aber, der nicht mehr im Wege steht, nicht mehr durch Gegnerschaft hemmt, dem tut man die Ehre des Wohlwollens an, das durch keine Gegnerschaft mehr beschränkt wird.</p>
           </div>
           <div type="textpart" subtype="section" n="2">
-            <p>Ziemt es mir aber nun noch der fraulichen Tugend derer zu gedenken die nun im Witwentum leben werden, so will ich in kurzer Mahnung alles berühren. Euer Ruhm <pb/> wird es sein, der euch beherrschenden Natur nicht unterlegen euch zu erweisen; und nicht besprochen zu werden unter den Männern in Lob oder Tadel wird eure höchste Ehrung sein. —
+            <p>Ziemt es mir aber nun noch der fraulichen Tugend derer zu gedenken die nun im Witwentum leben werden, so will ich in kurzer Mahnung alles berühren. Euer Ruhm 
+
+<pb/> wird es sein, der euch beherrschenden Natur nicht unterlegen euch zu erweisen; und nicht besprochen zu werden unter den Männern in Lob oder Tadel wird eure höchste Ehrung sein. —
 
 </p>
           </div>
